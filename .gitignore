@@ -11,10 +11,10 @@ data/features/*.csv
 data/features/*.pkl
 
 # Models
-models/xgboost_model.json
-models/sbert_cache/
-models/baselines/*.pkl
-models/baselines/*.json
+# models/xgboost_model.json
+# models/sbert_cache/
+# models/baselines/*.pkl
+# models/baselines/*.json
 
 # IDE
 .vscode/
