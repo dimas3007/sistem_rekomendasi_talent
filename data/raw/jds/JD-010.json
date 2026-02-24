@@ -1,0 +1,33 @@
+{
+  "jd_id": "JD-010",
+  "title": "Web Developer Intern",
+  "company": "Coptera Career Indonesia",
+  "department": "IT",
+  "level": "entry-level",
+  "description": "Kami mencari Web Developer Intern untuk bergabung dengan tim Coptera Career Indonesia. Tanggung jawab utama meliputi: Develop and maintain web applications; Write clean, maintainable code; Debug and troubleshoot issues; Collaborate with design team. Posisi ini adalah program magang yang memberikan kesempatan belajar dan pengembangan karir.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika",
+      "Sistem Informasi"
+    ],
+    "min_experience_years": 0,
+    "hard_skills": [
+      "HTML, CSS, JavaScript",
+      "React/Vue.js or similar framework",
+      "PHP/Python or backend language",
+      "MySQL or database management"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Analytical thinking",
+      "Team collaboration"
+    ],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Remote"
+  }
+}

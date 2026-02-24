@@ -1,0 +1,32 @@
+{
+  "jd_id": "JD-026",
+  "title": "Scrum Master",
+  "company": "Blibli.com",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari Scrum Master untuk bergabung dengan tim Blibli.com. Tanggung jawab utama meliputi: Facilitate Scrum ceremonies; Remove team impediments; Coach team on Agile practices; Track and communicate sprint progress.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika",
+      "Teknik"
+    ],
+    "min_experience_years": 3,
+    "hard_skills": [
+      "Agile/Scrum methodologies",
+      "Jira and Confluence",
+      "Facilitation skills",
+      "Team coaching"
+    ],
+    "soft_skills": [],
+    "certifications": [
+      "CSM",
+      "PSM"
+    ],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

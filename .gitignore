@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/raw/cvs/*.pdf
+data/processed/
+data/features/*.csv
+data/features/*.pkl
+
+# Models
+models/xgboost_model.json
+models/sbert_cache/
+models/baselines/*.pkl
+models/baselines/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

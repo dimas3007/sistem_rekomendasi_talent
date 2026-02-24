@@ -1,0 +1,30 @@
+{
+  "jd_id": "JD-008",
+  "title": "HR Intern",
+  "company": "Coptera Career Indonesia",
+  "department": "HR",
+  "level": "entry-level",
+  "description": "Kami mencari HR Intern untuk bergabung dengan tim Coptera Career Indonesia. Tanggung jawab utama meliputi: Assist in recruitment process; Screen candidate applications; Schedule interviews; Maintain HR documentation. Posisi ini adalah program magang yang memberikan kesempatan belajar dan pengembangan karir.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [],
+    "min_experience_years": 0,
+    "hard_skills": [
+      "Recruitment",
+      "Employee relations",
+      "HR administration",
+      "MS Office proficiency"
+    ],
+    "soft_skills": [
+      "Communication skills",
+      "Confidentiality",
+      "Organizational skills"
+    ],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Remote"
+  }
+}

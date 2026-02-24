@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-015",
+  "title": "Mobile App Developer",
+  "company": "Tokopedia",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari Mobile App Developer untuk bergabung dengan tim Tokopedia. Tanggung jawab utama meliputi: Develop and maintain mobile applications; Implement new features and improvements; Optimize app performance; Collaborate with cross-functional teams.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika"
+    ],
+    "min_experience_years": 2,
+    "hard_skills": [
+      "React Native or Flutter",
+      "iOS (Swift) or Android (Kotlin)",
+      "Mobile UI/UX best practices",
+      "RESTful API integration"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

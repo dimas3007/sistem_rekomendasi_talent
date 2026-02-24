@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-014",
+  "title": "Backend Developer",
+  "company": "GoTo Group",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari Backend Developer untuk bergabung dengan tim GoTo Group. Tanggung jawab utama meliputi: Design and implement scalable backend services; Build and maintain RESTful APIs; Collaborate with front-end engineers; Ensure system security and data protection.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika"
+    ],
+    "min_experience_years": 2,
+    "hard_skills": [
+      "Java, Go, or Python",
+      "Microservices architecture",
+      "Database design (SQL and NoSQL)",
+      "Cloud platforms (AWS, GCP)"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

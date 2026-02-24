@@ -1,0 +1,29 @@
+{
+  "jd_id": "JD-020",
+  "title": "Business Analyst",
+  "company": "Traveloka",
+  "department": "Business",
+  "level": "mid-level",
+  "description": "Kami mencari Business Analyst untuk bergabung dengan tim Traveloka. Tanggung jawab utama meliputi: Analyze business requirements; Create functional specifications; Bridge business and technical teams; Support system implementation.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Ekonomi",
+      "Bisnis"
+    ],
+    "min_experience_years": 2,
+    "hard_skills": [
+      "Business process analysis",
+      "Requirements gathering",
+      "SQL and data analysis",
+      "Documentation skills"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

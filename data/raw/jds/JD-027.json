@@ -1,0 +1,33 @@
+{
+  "jd_id": "JD-027",
+  "title": "Cybersecurity Analyst",
+  "company": "Bank Mandiri",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari Cybersecurity Analyst untuk bergabung dengan tim Bank Mandiri. Tanggung jawab utama meliputi: Monitor security threats; Investigate security incidents; Implement security measures; Conduct security assessments.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika",
+      "Keamanan Informasi"
+    ],
+    "min_experience_years": 2,
+    "hard_skills": [
+      "Security tools (SIEM, IDS/IPS)",
+      "Network security",
+      "Incident response",
+      "Security frameworks (ISO 27001, NIST)"
+    ],
+    "soft_skills": [],
+    "certifications": [
+      "CISSP",
+      "CEH",
+      "Security+"
+    ],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

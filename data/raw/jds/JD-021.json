@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-021",
+  "title": "DevOps Engineer",
+  "company": "Gojek",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari DevOps Engineer untuk bergabung dengan tim Gojek. Tanggung jawab utama meliputi: Manage cloud infrastructure; Implement CI/CD pipelines; Monitor system performance; Ensure system reliability and scalability.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika"
+    ],
+    "min_experience_years": 3,
+    "hard_skills": [
+      "Docker and Kubernetes",
+      "CI/CD tools (Jenkins, GitLab CI)",
+      "AWS/GCP/Azure",
+      "Infrastructure as Code (Terraform)"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

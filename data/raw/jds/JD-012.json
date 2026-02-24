@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-012",
+  "title": "Front-End Developer",
+  "company": "Vodjo Teknologi Indonesia",
+  "department": "IT",
+  "level": "entry-level",
+  "description": "Kami mencari Front-End Developer untuk bergabung dengan tim Vodjo Teknologi Indonesia. Tanggung jawab utama meliputi: Develop efficient and reusable front-end components; Collaborate with back-end developers for API integration; Ensure cross-browser compatibility; Optimize application for maximum speed and scalability.",
+  "requirements": {
+    "education_level": "D3",
+    "education_major": [
+      "Teknik Informatika"
+    ],
+    "min_experience_years": 1,
+    "hard_skills": [
+      "HTML5, CSS3, JavaScript",
+      "Vue.js or React framework",
+      "Responsive design principles",
+      "Git version control"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Bandung"
+  }
+}

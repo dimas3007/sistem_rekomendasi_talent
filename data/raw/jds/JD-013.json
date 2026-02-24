@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-013",
+  "title": "Full Stack Developer",
+  "company": "GudangAda",
+  "department": "IT",
+  "level": "entry-level",
+  "description": "Kami mencari Full Stack Developer untuk bergabung dengan tim GudangAda. Tanggung jawab utama meliputi: Build and maintain web and mobile platform versions; Develop backend services and APIs; Collaborate with designers and product managers; Participate in agile development processes. Posisi ini adalah program magang yang memberikan kesempatan belajar dan pengembangan karir.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika"
+    ],
+    "min_experience_years": 0,
+    "hard_skills": [
+      "Front-end: React, Vue.js, HTML, CSS, JavaScript",
+      "Back-end: Node.js, Python, or PHP",
+      "Database: MySQL, PostgreSQL, MongoDB",
+      "RESTful API development"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

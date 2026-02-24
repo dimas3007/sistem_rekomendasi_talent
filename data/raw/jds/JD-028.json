@@ -1,0 +1,28 @@
+{
+  "jd_id": "JD-028",
+  "title": "AI/ML Engineer",
+  "company": "Kata.ai",
+  "department": "IT",
+  "level": "mid-level",
+  "description": "Kami mencari AI/ML Engineer untuk bergabung dengan tim Kata.ai. Tanggung jawab utama meliputi: Develop and deploy ML models; Build NLP solutions; Optimize model performance; Collaborate with product and engineering teams.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika"
+    ],
+    "min_experience_years": 2,
+    "hard_skills": [
+      "Python and ML libraries (TensorFlow, PyTorch)",
+      "NLP techniques",
+      "Model deployment",
+      "Cloud platforms (AWS, GCP)"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "jd_id": "JD-018",
+  "title": "Data Analyst Intern",
+  "company": "Shopee Indonesia",
+  "department": "IT",
+  "level": "entry-level",
+  "description": "Kami mencari Data Analyst Intern untuk bergabung dengan tim Shopee Indonesia. Tanggung jawab utama meliputi: Collect and analyze business data; Create reports and dashboards; Identify trends and insights; Support data-driven decision making. Posisi ini adalah program magang yang memberikan kesempatan belajar dan pengembangan karir.",
+  "requirements": {
+    "education_level": "S1",
+    "education_major": [
+      "Informatika",
+      "Statistika",
+      "Matematika"
+    ],
+    "min_experience_years": 0,
+    "hard_skills": [
+      "SQL proficiency",
+      "Python or R for data analysis",
+      "Excel/Google Sheets",
+      "Data visualization (Tableau, Power BI)"
+    ],
+    "soft_skills": [],
+    "certifications": [],
+    "languages": [
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "location": "Jakarta"
+  }
+}
