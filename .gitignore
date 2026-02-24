@@ -7,8 +7,8 @@ __pycache__/
 # Data
 # data/raw/cvs/*.pdf
 # data/processed/
-data/features/*.csv
-data/features/*.pkl
+# data/features/*.csv
+# data/features/*.pkl
 
 # Models
 # models/xgboost_model.json
