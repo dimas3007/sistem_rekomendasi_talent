@@ -1,0 +1,48 @@
+{
+  "name": "Abhinav Sharma",
+  "email": "013abhisharma@gmail.com",
+  "phone": "+91 9041141230",
+  "education_level": "S2",
+  "education_major": "Physics",
+  "university": "Panjab University",
+  "hard_skills": [
+    "Agile Project Management",
+    "UI/UX Designing",
+    "Data Visualization",
+    "Business Analysis",
+    "Google Analytics",
+    "Wireframing",
+    "Microsoft Office",
+    "Jira",
+    "Figma",
+    "Notion",
+    "GIS"
+  ],
+  "soft_skills": [
+    "Stakeholder Management",
+    "Project Roadmap",
+    "Requirement Gathering",
+    "Feature Priortization",
+    "Customer Empathy",
+    "Defect Management",
+    "Scope Documentation",
+    "Cross Team Collaboration",
+    "Organisation Skills",
+    "Attention to Detail",
+    "Problem-solving skills",
+    "Time management"
+  ],
+  "years_experience": null,
+  "certifications": [
+    "Mobile Phone Platform - conducted by ISRO",
+    "GIS for Supply Chain Management Platform - conducted by ISRO",
+    "Swami Vivekanand Scholarship Scheme",
+    "INSPIRE CAMP"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Product Manager"
+  ],
+  "industries": [],
+  "location": "Hamirpur"
+}

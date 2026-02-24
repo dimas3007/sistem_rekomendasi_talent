@@ -1,0 +1,38 @@
+{
+  "name": "NADIYAH QASAMAH",
+  "email": "nadiyahqasamah3@email.com",
+  "phone": "089682693372",
+  "education_level": null,
+  "education_major": "Informatics Engineering",
+  "university": "Pancasila University",
+  "hard_skills": [
+    "Python",
+    "HTML",
+    "CSS",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Dbeaver",
+    "Orange",
+    "Github",
+    "Cisco"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Time Management",
+    "Creativity",
+    "Leadership"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Data Science Basic (Studi Independen)"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Key Opinion Leader Specialist"
+  ],
+  "industries": [],
+  "location": "Bogor"
+}

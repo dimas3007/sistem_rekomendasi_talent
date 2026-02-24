@@ -1,0 +1,60 @@
+{
+  "name": "Nuruddin Abdurrahman Maulana",
+  "email": "nuruddinam46@gmail.com",
+  "phone": "+62 813 8034 2116",
+  "education_level": "S1",
+  "education_major": "Information Technology",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Test case creation",
+    "execution",
+    "Black Box Testing",
+    "Smoke Testing",
+    "Regression Testing",
+    "Performance Testing (JMeter)",
+    "Automation Testing (Katalon Studio, Cypress, Playwright, Robotframework)",
+    "Keyword research",
+    "optimization",
+    "Website performance optimization",
+    "Backlink generation",
+    "Analytics",
+    "reporting",
+    "Content marketing strategies",
+    "Online advertising",
+    "campaigns",
+    "Social media marketing",
+    "Google Ads management",
+    "Python",
+    "Java",
+    "Groovy"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Critical Thinking",
+    "Team Collaboration",
+    "Communication",
+    "Attention to Detail",
+    "Time Management",
+    "Analytical Skills",
+    "Reporting Skills",
+    "Project Management"
+  ],
+  "years_experience": 4.66,
+  "certifications": [],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "job_titles": [
+    "Quality Assurance Engineer",
+    "Search Engine Optimization Specialist",
+    "IT Teacher",
+    "Marketing Online Division"
+  ],
+  "industries": [
+    "Technology",
+    "Education",
+    "Online Marketing"
+  ],
+  "location": null
+}

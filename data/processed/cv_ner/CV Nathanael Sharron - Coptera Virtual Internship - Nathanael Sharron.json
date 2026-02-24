@@ -1,0 +1,43 @@
+{
+  "name": "Nathanael Sharron",
+  "email": "nathanaeldharron@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "UNIVERSITAS KRISTEN TEKNOLOGI SURAKARTA",
+  "hard_skills": [
+    "Figma",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Multimedia competence",
+    "Phography",
+    "Videography",
+    "Adobe family",
+    "Data Management",
+    "Web Based",
+    "Frontend",
+    "Designing the UI/UX"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Responsibility",
+    "Openness to criticism",
+    "Problem solving"
+  ],
+  "years_experience": 2.25,
+  "certifications": [
+    "Certificate of competence | Multimedia Services",
+    "Google UI/UX Coursera | Passed the course 1, 2 & 3, course 4-7 on progress"
+  ],
+  "languages": [
+    "English"
+  ],
+  "job_titles": [
+    "INTERNSHIP",
+    "Designing social media content"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "location": "Surakarta"
+}

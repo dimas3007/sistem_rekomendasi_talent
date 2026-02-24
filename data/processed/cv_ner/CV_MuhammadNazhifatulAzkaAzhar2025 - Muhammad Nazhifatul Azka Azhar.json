@@ -1,0 +1,47 @@
+{
+  "name": "Muhammad Nazhifatul Azka Azhar",
+  "email": "muhammadnazhifatul@gmail.com",
+  "phone": "+62 85155321368",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Krisnadwipayana",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Adobe Illustrator",
+    "User Interface Design",
+    "Wireframe",
+    "Prototyping",
+    "UX Researcher",
+    "Design",
+    "Excel",
+    "Word"
+  ],
+  "soft_skills": [
+    "Kemampuan komunikasi yang baik",
+    "Mampu bekerja sesuai dengan arahan dan prosedur kerja",
+    "Mampu bekerja dalam tim",
+    "Kemampuan berpikir kritis",
+    "Problem solving"
+  ],
+  "years_experience": 1.58,
+  "certifications": [
+    "UI & UX Design",
+    "Memulai Pemrograman dengan Kotlin",
+    "UI Design Mobile App",
+    "Graphic Design and Visual Communication"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Freelance UI/UX Design E-Commerce",
+    "Internship UI/UX Design",
+    "IT Support Lab",
+    "Internship IT Support"
+  ],
+  "industries": [
+    "E-Commerce"
+  ],
+  "location": "Bekasi"
+}

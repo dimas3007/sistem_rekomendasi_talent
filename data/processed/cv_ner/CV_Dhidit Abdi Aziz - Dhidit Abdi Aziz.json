@@ -1,0 +1,33 @@
+{
+  "name": "Dhidit Abdi Aziz",
+  "email": "dhiditabdi@gmail.com",
+  "phone": "085156565854",
+  "education_level": null,
+  "education_major": "Teknik Informatika",
+  "university": "Institut Teknologi Bandung",
+  "hard_skills": [
+    "Figma",
+    "Adobe Photosop",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Design Thinking",
+    "Public Speaking",
+    "Adaptasi"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Uji Kemahiran Berbahasa Indonesia: Sangat Unggul"
+  ],
+  "languages": [
+    "Indonesia",
+    "Inggris"
+  ],
+  "job_titles": [
+    "UI/UX Designer"
+  ],
+  "industries": [
+    "Beauty"
+  ],
+  "location": "Bandung"
+}

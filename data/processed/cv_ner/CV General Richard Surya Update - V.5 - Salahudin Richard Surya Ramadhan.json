@@ -1,0 +1,51 @@
+{
+  "name": "Salahudin Richard Surya Ramadhan",
+  "email": "richard.surya20@gmail.com",
+  "phone": "+62 821-3470-1083",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Universitas Dian Nuswantoro",
+  "hard_skills": [
+    "HTML",
+    "PHP",
+    "CSS",
+    "SQL",
+    "MySQL",
+    "Mongo",
+    "Express",
+    "React",
+    "Node",
+    "MERN Stack",
+    "Figma",
+    "Trello"
+  ],
+  "soft_skills": [
+    "interpersonal skills",
+    "communication skill",
+    "flexible",
+    "motivated learner",
+    "curious",
+    "teamwork",
+    "problem-solving"
+  ],
+  "years_experience": 3.66,
+  "certifications": [
+    "Basic Human Resources",
+    "BNSP Certified Web Developer Scheme",
+    "Audit Internal ISO 9001 Di Perusahaan"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Human Capital Intern",
+    "Public Relation Staff",
+    "Liasion Officer"
+  ],
+  "industries": [
+    "Human Capital",
+    "Outdoor Activities",
+    "Airsoft Community"
+  ],
+  "location": "Kab Bogor"
+}

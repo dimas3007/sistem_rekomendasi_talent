@@ -1,0 +1,79 @@
+WISNU ADI PRATAMA
++6285784672431 | wisnuworksmail@gmail.com | https://www.linkedin.com/in/wisnu-adi | www.behance.net/wisnuadipratama
+Surabaya, Indonesia
+Saya adalah mahasiswa semester enam di program Studi Bisnis Digital Universitas Negeri Surabaya dengan minat besar pada UI/UX
+design, graphic design, web, dan mobile development. Melalui pengalaman akademik dan proyek, saya telah mengembangkan berbagai
+keterampilan di bidang ini. Saya mahir menggunakan alat desain seperti Figma dan Adobe Illustrator, serta alat pengembangan web
+seperti HTML, CSS, JavaScript, dan WordPress. Selain itu, saya memiliki kemampuan yang baik dalam hal kreativitas, adaptasi,
+pemecahan masalah, manajemen waktu, dan kerjasama tim. Saya berkomitmen untuk terus belajar dan berkembang di bidang digital
+dan kreatif.
+Pendidikan
+Universitas Negeri Surabaya - Surabaya, Indonesia Agu 2022 - Sekarang
+Bachelor of Digital Business, 3.79/4.00
+Mata kuliah relevan: Design Thinking and Innovation, System Design Analysis, Programming Algorithms, Mobile Application
+Programming, Website Programming.
+Aktif dalam berbagai panitia acara di bidang desain, dokumentasi, dan produksi media, menciptakan lebih dari 20 desain visual yang
+berkontribusi pada peningkatan keterlibatan peserta dan visibilitas acara.
+PT Mitra Talenta Grup (Celerates) - Jakarta, Indonesia Sep 2024 - Des 2024
+Independent Study Celerates Acceleration Program - Web Development and UI UX Design, 91.40/100.00
+Materi relevan: UI/UX Design (Design Thinking), Front-end Development (HTML, CSS, JavaScript), Back-end Development (Node.js,
+MySQL), Project Management.
+SMK Negeri 1 Bendo Magetan - Magetan, Indonesia Jul 2019 - Apr 2022
+High School Diploma in Multimedia
+Mata pelajaran relevan: Graphic Design, Interactive Media Design
+Pengalaman Kerja
+Multimedia Production - Magetan, Indonesia Jan 2021 - Jul 2021
+Graphic Designer, Video and Photo Editor
+Mendesain logo, pamflet, dan banner menggunakan Illustrator dan Photoshop, menyelesaikan 15 desain yang meningkatkan
+branding perusahaan dan meningkatkan produktivitas sebesar 30%.
+Berkolaborasi dengan tim videografi untuk memproduksi dan mengedit video acara sesuai permintaan klien, mengoptimalkan alur
+kerja untuk memastikan pengiriman tepat waktu.
+Proyek
+Festix - Website Penjualan Tiket Konser dan Festival Sep 2024 - Des 2024
+UI/UX Designer, Web Developer
+Mengembangkan rencana penelitian menggunakan kerangka Design Thinking, mendefinisikan Big Idea, tujuan penelitian, dan
+problem statement untuk menciptakan platform tiket acara yang ramah pengguna.
+Melakukan penelitian pengguna (persona, analisis pesaing, survei), dan menghasilkan fitur komunitas yang menghubungkan
+penggemar musik.
+Mengembangkan design system yang mencakup tipografi, warna, dan komponen untuk konsistensi visual. Mendesain wireframe
+dan prototipe tingkat tinggi di Figma, menciptakan 20 dari 30 halaman (66%) untuk memastikan kegunaan dan responsivitas.
+Mengembangkan front-end menggunakan ReactJS dengan akurasi prototipe 95%, mencakup beranda, daftar acara, pemesanan
+tiket, profil pengguna, transaksi, blog, dan komunitas.
+Membangun fitur back-end, termasuk otentikasi, transaksi, dan manajemen konten, dan melakukan deployment di Ubuntu
+menggunakan Nginx untuk stabilitas dan keamanan.
+LAPOR - Aplikasi Pemeliharaan Laboratorium Feb 2024 - Jun 2024
+UI/UX Designer, Mobile Developer
+Melakukan penelitian dan sesi brainstorming dengan tim untuk mengatasi masalah di laboratorium komputer kampus.
+Mendesain dan mengembangkan mockup antarmuka pengguna (UI) untuk aplikasi pemeliharaan laboratorium menggunakan Figma.
+Membangun front-end aplikasi menggunakan Android Studio, mengubah desain menjadi antarmuka fungsional dan responsif untuk
+perangkat Android.
+Mengintegrasikan API Google Maps untuk menampilkan lokasi laboratorium dan mempermudah navigasi pengguna.
+DistrikKain.com - Website untuk Perusahaan Konveksi di Surabaya Okt 2023 - Des 2023
+WordPress Developer, Graphic Designer
+Mendesain ulang dan mengembangkan situs web untuk DistrikKain.com, perusahaan pakaian di Surabaya, meningkatkan visibilitas
+online-nya.
+Mendesain logo baru dan memperbarui identitas visual perusahaan.
+Mengelola konten situs web, memastikan pembaruan dan optimasi untuk keterlibatan pengguna.
+Menerapkan strategi SEO untuk meningkatkan trafik situs dan peringkat mesin pencari.
+Mencapai peningkatan trafik situs sebesar 30% dan pertumbuhan penjualan klien sebesar 15% melalui peningkatan kinerja dan
+desain situs web.
+NesaServe - Aplikasi Transportasi untuk Mahasiswa UNESA Agu 2023 Des 2023
+UI/UX Designer
+Melakukan penelitian pengguna melalui survei, pengumpulan umpan balik, dan brainstorming tim untuk mengidentifikasi kebutuhan
+mahasiswa terkait transportasi kampus.
+Membuat wireframe dan prototipe interaktif menggunakan Figma, memperbaiki desain aplikasi berdasarkan masukan pengguna.
+Menguji prototipe aplikasi dengan pengguna potensial dan menerima 90% umpan balik positif, yang mendorong perbaikan untuk
+meningkatkan kegunaan dan fungsionalitas.
+Fie Souvenir - Prototipe Aplikasi Manajemen Gudang Mar 2023 - Mei 2023
+UI/UX Designer
+Melakukan penelitian pengguna untuk memahami kebutuhan dan tantangan dalam manajemen gudang, mengumpulkan data
+melalui wawancara.
+Membuat mockup dan prototipe di Figma, menghasilkan 22 tampilan layar yang mencakup semua fitur utama sistem manajemen.
+Menguji prototipe dengan pengguna dan mendapatkan umpan balik positif yang mendorong perbaikan desain.
+Skills, Achievements & Tools
+Hard Skills: UI/UX Design, Graphic Design, Web Development, Mobile Development.
+Soft Skills: Kreativitas, Adaptabilitas, Kerja Tim, Pemecahan Masalah, Keterampilan Analitis, Manajemen Waktu
+Tools: Figma, Adobe Illustrator, Adobe Photoshop, HTML, CSS, JavaScript, WordPress, Android Studio
+Achievements : Mencapai posisi 10 besar dalam Kompetisi Poster Infografis 2022 di UNESA dan menerima Hak Kekayaan
+Intelektual (HaKI) untuk karya tersebut.
+Languages: Indonesian (Native), English (Intermediate)

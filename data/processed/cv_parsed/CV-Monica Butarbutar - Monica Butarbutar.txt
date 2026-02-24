@@ -1,0 +1,104 @@
+MONICA BUTARBUTAR
+081260761766 | monicabutarbutar04@gmail.com | LinkedIn | Medium | Behance
+Jakarta, Indonesia
+Monica is a fresh graduate with experience in business development and app development. She has achieved recognition by winning
+international WWDC competitions through creative app creation. As a fast learner and adaptable individual, Monica is passionate about
+analyzing, designing, and developing solutions. She possesses critical and analytical thinking skills, design thinking, and hands-on design
+research expertise to deliver effective and useful solutions. She excels in both individual and team environments with strong communication and
+collaboration skills.
+Work Experiences
+DiTenun - Toba, Indonesia Aug 2022 - Jan 2023
+Business and Design
+DiTenun is a start-up that focuses on creating digital weaving motifs through AI-based applications.
+Created a successful partnership with local MSMEs Batikta and Kaldera Toba.
+Designed ulos patterns using DiTenun software that were transformed into Toba souvenir products at Batikta.
+Executed a training workshop on DiTenun Design Software for Toba artisans and weavers.
+Fishcus - Batam, Indonesia Oct 2023 - Dec 2023
+UI/UX Designer
+Fishcus is an app that assists college student in maintaining focus by offering the Flowtime method to sustain concentration levels and by
+providing focus-stimulating games.
+Conducted 9 user interviews to gather insights.
+Created empathy maps, user personas, and user journey mappings based on research findings.
+Built and improved the design system to implement a user-friendly interface.
+Executed 3 design iterations with feedback from target users.
+Conducted usability testing to collect user feedback and resolve interface issues.
+Insight+ - Batam, Indonesia May 2023 - Jun 2023
+iOS Developer and Researcher
+Insight+ is an iPadOS app that allows Junior UX Researchers to actively engage with respondents throughout the interview process without
+the hassle to record, taking notes, and timekeeping in different apps. Seamlessly record and capture key insights with just a tap!
+Develop the application from the designed concept.
+Utilized SwiftUI, CoreData, and AVFoundation frameworks to improve app functionality.
+ToneBuddy - Batam, Indonesia Apr 2023
+iOS Developer and Designer
+ToneBuddy is an app that helps increase self-confidence and self-love for teenagers by checking undertone colors and providing
+recommendations for each undertone.
+Created an app to help teenagers build self-confidence through undertone color checks and recommendations.
+Developed and executed the app within 2 weeks, achieving success in ideation, design, and coding.
+Achieved victory in Apple s international Swift Student Challenge WWDC 2023.
+Designed all hand-drawn app assets using Sketchbook.
+HyBit - Batam, Indonesia Mar 2023 - Apr 2023
+UI/UX Researcher & Designer
+HyBit is a native iOS app that help tracking the water intake for office worker by calculating their water needs based on the weight and
+remind them to drink so that they can built a better drinking habit.
+Conducted competitive analysis with 3 similar apps.
+Designed and improved an intuitive user interface and prototype using Figma.
+Executed wireframing and created high-fidelity interfaces and prototypes from scratch.
+Connect Up - Batam, Indonesia Jun 2023 - Jul 2023
+UI/UX Designer
+Connect Up is an app that help maintain professional network for job seeker by emphasizing the organization of their contacts and setting up
+reminders to consistently follow up with connections.
+Conducted research with targeted user criteria.
+Designed wireframes and prototypes for enhanced user experience.
+Created application profile documentation to support the development process.
+Institut Teknologi Del - Toba, Indonesia Sept 2022 - Nov 2022
+Physics Laboratory Assistant
+Assisted 60+ first-year students in Basic Physics courses.
+Handled and executed 6 practicum sessions.
+Provided tutorials to clarify and resolve student queries.
+Education Level
+Apple Developer Academy - Batam, Indonesia Feb 2023 - Dec 2023
+Certificate of Completion
+Achieved recognition as Apple s WWDC23 Swift Student Challenge Winner.
+Created and launched the Fishcus app on the App Store.
+Institut Teknologi Del - Toba, Indonesia Sept 2020 - Aug 2024
+Bachelor Degree in Engineering Management, 3.82/4.00
+Recognized as an outstanding student candidate for 2022.
+Part-time as physics laboratory assistant for 3 months
+Successfully published 2 papers in the same year 2023
+Successfully achieved Mechanical Design Solidworks certification
+University of Amsterdam - Amsterdam, Belanda Nov 2021 - Nov 2024)
+Pre-Master Student in Business Administration
+Completed preliminary courses in Leadership, Marketing Research, Business Strategy, and Marketing Strategy.
+Organizational Experience
+Badan Pengurus Harian Nov 2020 - Aug 2024
+Secretary
+Organization that represents the students of cohort 2020 at Institut Teknologi Del.
+Created and distributed official announcements.
+Managed correspondence and data archiving.
+Improved activity and meeting agendas for organizational efficiency.
+6th Del Mathematics and Science Competition Apr 2022
+Master of Ceremonies
+Annual competition held by UPT Science & Mathematics and SEB Institut Teknologi Del. It was attended by high school and vocational
+students throughout Toba and its surroundings.
+Executed event activities according to the rundown.
+Provided instructions to participants to ensure smooth event operations.
+Student Council Representative Jun 2021 - Jun 2023
+Head of Administration and Secretarial Divisio
+The highest student organization that supervises the implementation of student organization activity programs and as a forum for student
+representatives in charge of accommodating and channeling student aspirations in the university environment.
+Coordinated activities and programs of the Student Executive Board.
+Improved collaboration between student organizations by formulating actionable decisions.
+Skills, Achievements & Other Experience
+Projects (2023): 5 iOS App: Fishcus, Connect Up, Insight+, HyBit, ToneBuddy
+Projects (2022): Stereos Desk Organizer, Solar Oven
+Achievements :
+2024 : Delegate - Huawei Seeds For The Future Asia Pasific
+2023 : Winner - Apple Swift Student Challenge WWDC
+2023 : 2nd Winner - Academy Badminton Club Tournament
+2023 : Semifinalist - 'UI Innovation War X Titipku' Business Case Competition
+2022 : 1st Winner - Institute-Level MIPA Olympiad
+2022 : 1st Winner - Safe Cosmetics Ambassador of BPOM RI
+2019 : Finalist - Bioprocess Essay Competition
+Hard Skills: Design UX Research User Testing (Concept Testing, Usability Testing, A/B Testing) User-centered Design
+Design System Figma Sketch App
+Soft Skills: Agile Development Product Management Problem-Solving Collaboration Communication

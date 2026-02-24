@@ -1,0 +1,57 @@
+{
+  "name": "Risma Yuliana Saputri",
+  "email": "rismaysaputri@gmail.com",
+  "phone": "088980090192",
+  "education_level": "S1",
+  "education_major": "Development Economics",
+  "university": "Sebelas Maret University",
+  "hard_skills": [
+    "Data Analysis",
+    "Marketing",
+    "Microsoft Office",
+    "MYOB",
+    "Stata",
+    "Eviews",
+    "Basic Accounting",
+    "Social Media Management",
+    "Canva",
+    "Graphic Design"
+  ],
+  "soft_skills": [
+    "Critical Thinking",
+    "Public Speaking",
+    "Interpersonal Skills",
+    "Problem Solving",
+    "Teamwork",
+    "Communication",
+    "Time Management"
+  ],
+  "years_experience": 3.42,
+  "certifications": [
+    "Certificate of expertise from the school (MYOB)"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Internship",
+    "Cashier",
+    "Owner",
+    "Staf Public Relation",
+    "Vice Minister of Kementerian Kajian dan Riset Strategis",
+    "Secretary of Kastrat Forum",
+    "Delegate",
+    "Staff of Kementerian Media dan Informasi",
+    "Intern Staff of Human Relations"
+  ],
+  "industries": [
+    "Finance",
+    "Public Relations",
+    "Cafe",
+    "Trade",
+    "Economics",
+    "Education"
+  ],
+  "location": "Surakarta"
+}

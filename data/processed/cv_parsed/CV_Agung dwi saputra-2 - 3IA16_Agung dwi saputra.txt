@@ -1,0 +1,55 @@
+AGUNG DWI SAPUTRA
+Jakarta Selatan, Indonesia | HP: 085766727120 | Email: agungdwisaputra2019@gmail.com
+RINGKASAN
+Mahasiswa aktif Program Studi Teknik Informatika Universitas Gunadarma Angkatan 2022
+yang sedang mencari pengalaman dalam dunia kerja, khususnya di bidang pengembangan
+perangkat lunak dan analisis data. Memiliki pengetahuan dasar dalam pengembangan aplikasi
+berbasis web dan desktop, serta pemodelan dan desain UI/UX. Saya terbuka untuk
+kesempatan magang atau proyek akademis untuk memperluas pengalaman, serta siap untuk
+belajar dan berkontribusi dalam lingkungan kerja yang dinamis dan kolaboratif
+PENGALAMAN PROYEK
+Link portofolio: https://agungdwis12.github.io/Agungdwis.github.id/
+Pengembangan Web Kasir Sederhana
+Menggunakan React dan Vite dengan JSON sebagai database untuk mengelola
+transaksi dan produk secara real-time.
+Aplikasi ini memungkinkan pengelolaan data yang cepat dan efisien dengan antarmuka
+yang responsif dan modern.
+Pengembangan Web CRUD Sederhana
+Menggunakan PHP untuk mengelola data dengan fitur menambah, mengedit, dan
+menghapus data melalui antarmuka yang user-friendly.
+Membangun Web Toko Kaos Sederhana
+Dibangun menggunakan Java, dengan fitur pemindahan detail pembelian langsung ke
+WhatsApp untuk mempermudah pemesanan pelanggan.
+Memprediksi Indeks Pembangunan Manusia (IPM) dengan Regresi Linier
+Menggunakan algoritma regresi linier untuk membangun model prediksi berdasarkan
+dataset dari Kaggle yang mencakup berbagai variabel ekonomi.
+Membuat Desain UI/UX Manga Plus
+Menggunakan Figma untuk mendesain tampilan aplikasi Manga Plus dengan halaman
+seperti Creators, History, My Shelf, Browse, Updates, dan Hot.
+Alur perpindahan antar halaman dirancang untuk memastikan pengalaman pengguna
+yang lancar dan intuitif.
+Membuat Model 3D Kapal
+Menggunakan Blender untuk membuat model 3D kapal dengan fokus pada teknik
+pemodelan dan tekstur guna menciptakan desain yang realistis.
+PENGALAMAN KERJA
+PKL di Radar Lampung TV
+Mengedit video berita menggunakan Adobe Premiere dan Photoshop.
+Menjadi resepsionis dan crew master control saat penyiaran.
+Usaha Basreng
+Menawarkan dan menjual produk kepada pelanggan serta mengelola media sosial
+untuk promosi.
+Pembuatan Medali Kelulusan
+Merancang dan memproduksi medali kelulusan menggunakan Corel Draw.
+Project UKM COMMA-DESIGN
+Membuat brosur iklan dan brosur makanan menggunakan Photoshop.
+PENDIDIKAN
+UNIVERSITAS GUNADARMA (2022 - Sekarang)
+S1 Informatika
+SMK NEGERI 01 MERBAU MATARAM (2019 - 2022)
+Multimedia
+SKILLS
+Aplikasi Office (Microsoft Word, Microsoft Excel, Microsoft Power point)
+Software Editor (Photoshop, Corel Draw, Adobe Premiere)
+Aplikasi editor (Capcut, Alight Motion, Picart)
+Berkomunikasi dengan baik
+Bekerja tim atau individu

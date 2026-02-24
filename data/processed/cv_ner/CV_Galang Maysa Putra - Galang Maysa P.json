@@ -1,0 +1,43 @@
+{
+  "name": "Galang Maysa Putra",
+  "email": "putragalang646@gmail.com",
+  "phone": null,
+  "education_level": null,
+  "education_major": "Technology Education",
+  "university": "BRAWIJAYA UNIVERSITY",
+  "hard_skills": [
+    "UI/UX Designer",
+    "HTML",
+    "CSS",
+    "Graphic Designer",
+    "Videographer"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Public Speaking",
+    "Adaptability",
+    "Critical Thinking",
+    "Responsibility",
+    "Collaboration"
+  ],
+  "years_experience": 1.08,
+  "certifications": [
+    "BAKTI BCA SCHOLARSHIP"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Graphic Design",
+    "Deputy Head of Marketing Communications",
+    "Internal Resource Development",
+    "Intern Staff of Innovation Development Department",
+    "Documentation",
+    "Application Product Judge",
+    "UI/UX Designer and Graphic Design",
+    "UI/UX Designer"
+  ],
+  "industries": [],
+  "location": "Malang"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Agil Irman Fadri",
+  "email": "agilirmanfadri@gmail.com",
+  "phone": "082345081228",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+  "hard_skills": [
+    "Ms. Office (Word, Excel, PowerPoint)",
+    "Python Progamming",
+    "SQL",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Public Speaking",
+    "Manajemen Waktu",
+    "Problem-Solving",
+    "Decision-making",
+    "Analytic Thinking",
+    "Design",
+    "Kerja sama tim",
+    "Kepemimpinan",
+    "Berbicara di depan umum",
+    "Komunikasi"
+  ],
+  "years_experience": 0.67,
+  "certifications": [
+    "Belajar Dasar Data Science (2024), Dicoding",
+    "Belajar Dasar Structured Query Language (SQL) (2024), Dicoding",
+    "Social Media Management (2023), Tempat Belajar",
+    "SQL For Data Analyst (2023), MySkill",
+    "Intro Data Science (2023), dibimbing.id"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Anak Gudang",
+    "Magang/Internship Asisten Tim Teknisi & IT",
+    "Wakil Kepala Divisi Public Relation & Information",
+    "Anggota dari Divisi KP (Kakak Pembina) Acara FORTASI (Forum Ta aruf Sistem Informasi)",
+    "Anggota dari Seksi Perlengkapan Acara MUSYRAN (Musyawarah Ranting SMA Muhammdiyah 1 Pekanbaru)",
+    "Anggota dari Divisi Advokasi Kepengurusan Organisasi IPM",
+    "Ketua organisasi"
+  ],
+  "industries": [],
+  "location": "Pekanbaru"
+}

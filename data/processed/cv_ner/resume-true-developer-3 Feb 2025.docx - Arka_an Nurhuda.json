@@ -1,0 +1,42 @@
+{
+  "name": "Arka An Nurhuda",
+  "email": "zerobizzz@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Islamic University of Indonesia",
+  "hard_skills": [
+    "Figma",
+    "Laragon",
+    "Git",
+    "JIRA",
+    "Canva",
+    "Trello",
+    "Wordpress",
+    "Laravel",
+    "CodeIgniter",
+    "React.js",
+    "Javascript",
+    "PHP",
+    "HTML",
+    "CSS",
+    "Java",
+    "SQL",
+    "Go (Golang)"
+  ],
+  "soft_skills": [],
+  "years_experience": 0.75,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Programmer",
+    "Site Reliability Engineer"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "location": "Yogyakarta"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Nafisat Oyetunde",
+  "email": "nafisatoyetunde405@gmail.com",
+  "phone": "+234 9036829509",
+  "education_level": "S1",
+  "education_major": "English",
+  "university": "Obafemi Awolowo University",
+  "hard_skills": [
+    "Computer Operator"
+  ],
+  "soft_skills": [
+    "Effective communication",
+    "Presentation",
+    "Time management",
+    "Organizational skills"
+  ],
+  "years_experience": 2.16,
+  "certifications": [
+    "ALX Virtual Assistant",
+    "BeTechified Product management"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Executive Assistant",
+    "Home Tutor",
+    "Computer Operator",
+    "Project Coordinator",
+    "Campus ambassador"
+  ],
+  "industries": [],
+  "location": "Oyo"
+}

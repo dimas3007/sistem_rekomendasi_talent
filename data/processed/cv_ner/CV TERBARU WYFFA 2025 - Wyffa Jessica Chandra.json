@@ -1,0 +1,47 @@
+{
+  "name": "Wyffa Jessica Chandra",
+  "email": "wyffajessica19@gmail.com",
+  "phone": "+6285781399155",
+  "education_level": "S1",
+  "education_major": "Pendidikan Bahasa Inggris",
+  "university": "UIN Sunan Gunung Djati Bandung",
+  "hard_skills": [
+    "Microsoft Office (Word, Excel, PPT)",
+    "Desain Grafis Canva",
+    "Copywriting",
+    "Writing"
+  ],
+  "soft_skills": [
+    "Kemampuan berkomunikasi",
+    "Public speaking",
+    "Problem solving",
+    "Manajemen waktu",
+    "Adaptasi",
+    "Kerja tim",
+    "Teliti",
+    "Kritis",
+    "Inovatif",
+    "Jujur",
+    "Pekerja keras"
+  ],
+  "years_experience": 2.5,
+  "certifications": [
+    "TOAFL (Test of Arabic as Foreign Language)",
+    "TOEFA (Test of English for Academics)",
+    "ICT (Professional Office) of MCE (Microcoft Certified Educator)"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Guru Ekstrakurikuler Bahasa Inggris",
+    "Penulis",
+    "Novelis"
+  ],
+  "industries": [
+    "Pendidikan",
+    "Penerbitan"
+  ],
+  "location": "Bandung"
+}

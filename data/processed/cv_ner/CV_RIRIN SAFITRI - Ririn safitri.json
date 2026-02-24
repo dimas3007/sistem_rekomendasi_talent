@@ -1,0 +1,55 @@
+{
+  "name": "RIRIN SAFITRI",
+  "email": "ririnsaf14@gmail.com",
+  "phone": "+6287853339921",
+  "education_level": "S1",
+  "education_major": "Geography Education",
+  "university": "Univeristas Negeri Makassar",
+  "hard_skills": [
+    "Codeigniter",
+    "Laravel",
+    "Next.js",
+    "MySQL",
+    "MongoDB",
+    "Firebase",
+    "Leaflet",
+    "ArcGIS",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP Native",
+    "Livewire",
+    "Sqlite",
+    "ReactJS",
+    "TailwindCSS",
+    "ReactHooks",
+    "Web3Form",
+    "Axios",
+    "ReactToastify"
+  ],
+  "soft_skills": [
+    "teamwork",
+    "communication",
+    "adaptability",
+    "entrepreneurial skills"
+  ],
+  "years_experience": 2.83,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "ITWebDeveloperIntern",
+    "FreelancerWebDeveloper",
+    "RetailAssistantandWebDeveloper",
+    "CoordinatoroftheEntrepreneurshipDivisionandWebDeveloper",
+    "GISTeachingAssistant",
+    "GeographyLabAssistant"
+  ],
+  "industries": [
+    "IT",
+    "Retail",
+    "Education"
+  ],
+  "location": "Makassar"
+}

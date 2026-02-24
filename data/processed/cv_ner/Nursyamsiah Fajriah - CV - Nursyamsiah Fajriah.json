@@ -1,0 +1,54 @@
+{
+  "name": "NURSYAMSIAH FAJRIAH",
+  "email": "nursyamsiahfajriah1@gmail.com",
+  "phone": "+6287842063666",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Universitas Pamulang",
+  "hard_skills": [
+    "UI/UX Design",
+    "Web Development",
+    "User Flow Planning",
+    "Wireframing and Prototyping",
+    "Information Architecture",
+    "Figma",
+    "Framer",
+    "Microsoft Office",
+    "HTML",
+    "CSS",
+    "Python",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Creative Thinking",
+    "Website Research and Identification",
+    "Problem Solving",
+    "Communication",
+    "Time Management",
+    "Adaptability"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "Desigining User Interfaces and Experiences (UI/UX), Coursera",
+    "Belajar Dasar Pemrograman Web, Dicoding",
+    "Memulai Dasar Pemograman untuk Menjadi Pengembang Software, Dicoding",
+    "Belajar Membuat Front-End Web untuk Pemula, Dicoding",
+    "Belajar Dasar Pemograman JavaScript, Dicoding",
+    "UI/UX Fundamental, MySkil",
+    "Data Analysis, MySkill",
+    "AI & IoT Product Development Intensive Bootcamp, Samsung Innovation Campus Batch 5"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Brand Partner",
+    "Admin Online Shop"
+  ],
+  "industries": [
+    "Cosmetics",
+    "Online Shop"
+  ],
+  "location": "Tangerang Selatan"
+}

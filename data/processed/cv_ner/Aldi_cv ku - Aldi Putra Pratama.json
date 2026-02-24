@@ -1,0 +1,34 @@
+{
+  "name": "Aldi Putra Pratama",
+  "email": "aldiputrapratama283@gmail.com",
+  "phone": "+62 8227474129",
+  "education_level": null,
+  "education_major": "Sistem Informasi",
+  "university": "UNMUH Jember",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP"
+  ],
+  "soft_skills": [
+    "teamwork",
+    "communication",
+    "leadership",
+    "organization"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Beswan Bank Indonesia (2024)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Freelance joki tugas",
+    "Freelance web development",
+    "Freelance web ui ux"
+  ],
+  "industries": [],
+  "location": "Jember"
+}

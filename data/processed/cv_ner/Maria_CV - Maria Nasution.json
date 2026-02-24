@@ -1,0 +1,42 @@
+{
+  "name": "Maria Laura Nasution",
+  "email": "marianasution08@gmail.com",
+  "phone": "+6285836108241",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Del Institute of Technology",
+  "hard_skills": [
+    "C",
+    "Java",
+    "HTML",
+    "CSS",
+    "SQLyog",
+    "NetBeans",
+    "Figma"
+  ],
+  "soft_skills": [
+    "communication skills",
+    "critical thinking",
+    "leadership",
+    "teamwork",
+    "problem-solving",
+    "analysis"
+  ],
+  "years_experience": 0.0,
+  "certifications": [],
+  "languages": [],
+  "job_titles": [
+    "Student Leadership",
+    "Teaching Assistant Calculus I",
+    "Master of Ceremony",
+    "Speaker",
+    "Member of Event Division",
+    "Secretary",
+    "Member",
+    "Fullstack Developer",
+    "Website Developer",
+    "Analyst"
+  ],
+  "industries": [],
+  "location": null
+}

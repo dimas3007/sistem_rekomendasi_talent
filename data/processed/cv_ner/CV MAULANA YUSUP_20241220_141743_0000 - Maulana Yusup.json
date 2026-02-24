@@ -1,0 +1,39 @@
+{
+  "name": "Maulana Yusup",
+  "email": "maulnalfath212@gmail.com",
+  "phone": "+62857-7149-8767",
+  "education_level": "S1",
+  "education_major": "Biology",
+  "university": "UIN SYARIF HIDAYATULLAH JAKARTA",
+  "hard_skills": [
+    "NLP",
+    "Large Language Models",
+    "Data Analysis",
+    "Laboratory Analysis"
+  ],
+  "soft_skills": [
+    "Design Thinking",
+    "Agile Development",
+    "Teamwork",
+    "Communication",
+    "Leadership",
+    "Organization",
+    "Problem-solving"
+  ],
+  "years_experience": 2.58,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "AI Chatbot Development",
+    "Student Research",
+    "Laboratory Asistence"
+  ],
+  "industries": [
+    "Technology",
+    "Research",
+    "Education"
+  ],
+  "location": "Jakarta"
+}

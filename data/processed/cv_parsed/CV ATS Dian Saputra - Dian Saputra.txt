@@ -1,0 +1,101 @@
+Dian Saputra
+Ciamis, Jawa Barat dayensptr@gmail.com +6289607567909 linkedin.com/in/dayensptr
+github.com/dayeeen dayeeen.github.io
+Saya adalah mahasiswa tingkat akhir Jurusan Teknik Informatika di UIN Sunan Gunung Djati Bandung. Pengalaman saya melibatkan berbagai
+proyek yang berfokus pada pengembangan aplikasi web dan pengasahan keterampilan dalam desain UI/UX.
+EDUCATION
+Sarjana Teknik Sep 2021 - Present
+Universitas Islam Negeri Sunan Gunung Djati Bandung GPA: 3.7
+Saya adalah mahasiswa tingkat akhir di Jurusan Teknik Informatika. Di samping kegiatan akademik, saya aktif mengikuti berbagai lomba
+tingkat nasional untuk mengasah kemampuan dan menantang diri saya dalam menghadapi persaingan yang kompetitif. Saat ini, saya juga
+mengajar klub keterampilan di bidang UI/UX design di CssMora UIN Bandung, di mana saya berbagi pengetahuan dan membantu
+mengembangkan keterampilan kreatif sesama mahasiswa.
+LANGUAGES
+Bahasa Indonesia, Native proficiency Bahasa Sunda, Native proficiency Bahasa Inggris, Limited working proficiency
+SKILLS
+UI/UX Design: Figma, Canva, Maze, Useberry
+Web Development: PHP, Laravel, MySQL, HTML/CSS, Bootstrap, JavaScript
+Mobile Development: Android Studio, Kotlin
+WORK EXPERIENCE
+Mentor Sep 2024 - Present
+CssMora UIN Bandung Bandung, Indonesia
+Merancang dan menyampaikan kurikulum UI/UX komprehensif selama 7 pertemuan untuk skill club UI/UX.
+Mencakup topik penting seperti dasar-dasar UI/UX, riset pengguna, prinsip desain, teori warna, tipografi, dan komponen UI.
+Melatih peserta dalam penggunaan perangkat lunak desain (Figma) untuk wireframing dan prototyping interaktif.
+Mengawasi pengembangan proyek akhir, termasuk presentasi dan evaluasi akhir.
+UI Designer Feb 2024 - Nov 2024
+PTIPD UIN Sunan Gunung Djati Bandung Bandung
+Merancang dan mengembangkan antarmuka utama untuk Edutrain, sebuah platform yang menawarkan webinar, sesi pelatihan, dan
+workshop untuk memfasilitasi sertifikasi dosen di bawah otorisasi Certiport.
+Membuat dan mengoptimalkan UI untuk tiga bagian utama: admin, pengunjung, dan pengguna, termasuk proses registrasi, login, dan
+transaksi.
+Mengembangkan dashboard yang intuitif dan ramah pengguna untuk administrator, mengintegrasikan komponen penting untuk
+manajemen yang efisien.
+Mobile Developer Feb 2024 - Jun 2024
+Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Remote
+Mengembangkan Herbalyze, aplikasi mobile yang fokus pada kesehatan dengan memanfaatkan klasifikasi gambar untuk mengidentifikasi
+nama tanaman.
+Merancang antarmuka intuitif dan membangun fungsionalitas inti aplikasi.
+Bekerja sama dengan tim cloud computing dan machine learning untuk mengintegrasikan data dan model machine learning untuk
+mendeteksi tanaman dan menghasilkan deskripsi serta resep obat dari tanaman tersebut.
+ORGANIZATIONAL & VOLUNTEER EXPERIENCE
+Staff RnD - UI/UX Designer Oct 2023 - Jul 2024
+GDSC UIN Sunan Gunung Djati Bandung Bandung
+Mengembangkan kurikulum pembelajaran UI/UX yang komprehensif, mencakup prinsip dasar desain, metodologi, dan keterampilan
+praktis.
+Mengorganisasi dan memimpin sesi study jam untuk menciptakan lingkungan belajar yang optimal.
+Mempromosikan acara GDSC UIN Bandung melalui berbagai saluran komunikasi.
+Mentor Oct 2023 - Nov 2023
+Monitor - Himatif UIN Bandung Bandung
+Membimbing mahasiswa baru dalam proses adaptasi dengan lingkungan kampus.
+Mengenalkan budaya, nilai-nilai, dan aturan yang berlaku di kampus.
+Memberikan tips dan trik agar sukses menjalani masa perkuliahan, termasuk strategi belajar dan manajemen waktu.
+AWARDS
+Juara 2 Lomba UI/UX Interium Festival by HIMAIF, HMRPL, HIMADS, dan HMIT Universitas Telkom Nov 2024
+Interium Evolution Competition 2024 adalah kompetisi yang diselenggarakan oleh HIMAIF, HMRPL, HIMADS, dan HMIT Universitas Telkom.
+Tim kami, Makhir 7, berhasil lolos dari babak penyisihan dan melaju ke final, di mana kami meraih juara 2 dengan mempresentasikan
+Sadarah, aplikasi inovatif untuk donor darah.
+Juara 1 Lomba UI/UX Komfesif by HMIF Universitas Muhammadiyah Bandung Dec 2023
+Komfesif adalah kompetisi yang diadakan oleh HMIF Universitas Muhammadiyah Bandung dan Topindoku. Tim kami, "Kaktus", berhasil lolos
+dari tahap seleksi dan meraih juara 1 setelah melewati dua minggu kompetisi dan mini boot camp.
+PROJECTS
+Edutrain Feb 2024 - Nov 2024
+Mengembangkan platform berbasis web untuk layanan sertifikasi dan program pelatihan bagi dosen guna meningkatkan keterampilan
+profesional.
+Merancang antarmuka pengguna (UI) yang intuitif untuk alur utama seperti pendaftaran, transaksi, dan akses materi pembelajaran.
+Membangun dashboard admin lengkap untuk memudahkan manajemen konten, peserta, dan pelacakan progress.
+Mendukung penyelenggaraan kegiatan pengembangan soft skills seperti webinar, workshop, dan pelatihan.
+Herbalyze May 2024 - Jun 2024
+Dikembangkan sebagai produk akhir dari Bangkit 2024 H1 Capstone Project bersama tim lintas fungsi di bidang Machine Learning, Cloud
+Computing, dan Mobile Development.
+Merancang dan mengimplementasikan antarmuka mobile yang ramah pengguna untuk identifikasi tanaman herbal secara instan
+menggunakan teknologi pemindaian gambar.
+Menyediakan informasi detail tanaman, meliputi deskripsi, manfaat kesehatan, metode penyiapan, dan resep untuk mendukung solusi
+kesehatan alami.
+Mengintegrasikan model machine learning dan layanan berbasis cloud untuk memastikan deteksi tanaman yang akurat dan efisien.
+My Story App Apr 2024 - May 2024
+Merancang dan mengembangkan platform untuk berbagi momen penting dengan mengunggah gambar beserta caption dan tag lokasi
+(opsional).
+Mengimplementasikan fitur autentikasi pengguna, termasuk pendaftaran akun dan login menggunakan Firebase.
+Membuat halaman peta interaktif yang menampilkan cerita pengguna beserta lokasi terkait.
+Tasktify Oct 2023 - Dec 2023
+Mengembangkan platform manajemen tugas untuk meningkatkan produktivitas pengguna.
+Mengimplementasikan fitur utama seperti pembuatan tugas, kategorisasi, pengaturan deadline, dan pelacakan progres tugas (dalam
+proses, selesai, tertunda).
+Mengintegrasikan fitur pengaturan deadline dan pengingat agar pengguna dapat menyelesaikan tugas dan proyek tepat waktu.
+Merancang fitur minor seperti kutipan motivasi harian untuk menginspirasi pengguna.
+Menyediakan pengalaman pengguna yang intuitif, memungkinkan pengguna mengelola tanggung jawab akademik secara efisien.
+Presici Feb 2023 - Jun 2023
+Mengembangkan sistem presensi siswa berbasis web menggunakan PHP dan MySQL.
+Meningkatkan antarmuka pengguna dengan framework Bootstrap untuk desain yang responsif dan menarik.
+Mengimplementasikan fitur pelacakan kehadiran, pencatatan alasan izin, serta perhitungan rasio kehadiran siswa.
+Menyediakan alat bagi administrator untuk memantau dan mengelola kehadiran siswa secara efisien, mendukung pengambilan keputusan
+dan pengorganisasian institusi yang lebih baik.
+Menyederhanakan pelaporan dan analisis kehadiran, meningkatkan efisiensi administrasi di lembaga pendidikan.
+CERTIFICATIONS
+Google Play Store Listing Certificate by Google Play Academy Nov 2024
+Belajar Pengembangan Aplikasi Android Intermediate by Dicoding Indonesia Jun 2024
+Belajar Fundamental Aplikasi Android by Dicoding Indonesia Mar 2024
+Belajar Dasar Visualisasi Data by Dicoding Indonesia Dec 2023
+Belajar Dasar Pemrograman JavaScript by Dicoding Indonesia Nov 2023
+Belajar Dasar UX Design by Dicoding Indonesia Sep 2023

@@ -1,0 +1,65 @@
+FITRIA NOVYANTI TAUFIK
+Jln Rawagabus, Gg Melati 1 | +62 896-5583-6298 | fitrianovyaufik@gmail.com
+www.linkedin.com/in/fitria-novyanti-taufik
+PROFIL
+I am an undergraduate student in Informatics at Singaperbangsa University, with a focus on
+efficiently managing and applying technology. With over a year of experience in Cloud Computing
+and Data Management Systems, along with relevant certifications, I have developed strong
+problem-solving skills and the ability to optimize systems. Quick to learn and adaptable, I thrive in
+dynamic environments and am eager to apply my knowledge to real-world challenges in system
+management and technology optimization.
+EDUCATION
+Universitas Singaperbangsa Karawang - Karawang, West Java 2022 - Present
+Majoring of Informatics | Concentration in Cloud Computing, Networking, and Systems
+Management
+Current GPA : 3,83/4.00
+Relevant courses: Computer Networks, Object Oriented Programming, Software Engineering,
+Operating Systems.
+EXPERIENCES
+Studi Independen Bangkit Academy 2024 By Google, GoTo, Sep 2024 - Dec 2024
+Traveloka - Cloud Computing Learning Path
+Study the architecture and workings of cloud computing on the Google Cloud Platform.
+Build a backend and frontend application project.
+Develop a cloud architecture-based application project.
+Create a final project in the form of the SAPA (Sign Language Personal Assistant) application
+in real-time.
+HIMPUNAN MAHASISWA INFORMATIKA - Karawang, West Java
+Treasurer of HIMTIKA Jan 2024 - Dec 2024
+Optimized budget allocations by 80%, enhancing financial management efficiency, while
+ensuring transparent financial reporting to foster accountability and trust within the
+Informatics Student Association.
+Vice Treasurer of HIMTIKA Jan 2023 - Dec 2023
+optimized budget allocations by 20% and streamlined cash management within the
+organization, while ensuring transparent financial reporting to enhance accountability and
+trust.
+Volunteer - Karawang, West Java
+Peer Mentor at the PKKMB event at Singaperbangsa University Karawang (2024) Juli 2024
+Served as a Peer Mentor at the PKKMB event, providing guidance and support to new
+students at Singaperbangsa University Karawang (2024).
+PROJECT EXPERIENCE
+SAPA (Sign Languange Personal Assistant) December 2024
+Designed application architecture and set up the environment on Google Cloud Platform
+(GCP), including infrastructure setup, scalability management, and service integration for
+efficient and secure operation.
+IoT-based Plant Watering System using Fuzzy Mamdani Juni 2024
+Designing the IoT-based Plant Watering System using Fuzzy Mamdani and preparing the
+corresponding report.
+ADDITIONAL INFORMATION
+Programming Language: Javascript, PHP
+Hard Skills: Administrative Software (Microsoft Office and Google Workspace), Fundamental
+Cloud Computing Concepts, Product Development, Technical Documentation and Reporting,
+Backend Development, Git, and GitHub.
+Soft Skills: Communication, Problem Solving, Team Work, Adaptability, Time Management.
+Languages: Indonesia (Native) & English (limited)
+TRAINING & COURSES
+ASEAN Data Science Explorers 2024 Enablement Session SAP Analytics Cloud and SAP
+Build Apps Online Training Session
+Alibaba Cloud Certified Developer
+Coogle Cloud Computing Foundations Certificate
+Menjadi Google Cloud Engineer by Dicoding
+Belajar Penerapan Machine Learning dengan Google Cloud by Dicoding
+Data Analytics certified online course offered by RevoU
+Financial Reports Analysis and Audit by MySkill
+Network Administrator Muda (Junior Network Administrator) - Okupasi by BPPTIK
+Pengembang Web Pratama (Junior Web Developer) - Okupasi by BPPTIK
+Training Women in Technology: Python for Business by Puslitbang SDP31

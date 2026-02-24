@@ -1,0 +1,66 @@
+{
+  "name": "Tri Akbar Harahap",
+  "email": "triakbar123@gmail.com",
+  "phone": "+6281263158851",
+  "education_level": "S1",
+  "education_major": "Industrial Engineering",
+  "university": "Andalas University Padang",
+  "hard_skills": [
+    "Microsoft Office (Word, Excel, PowerPoint)",
+    "G-Suite (Google Docs, Sheets, Slides)",
+    "CAD (SolidWorks, AutoCAD)",
+    "Data Analysis"
+  ],
+  "soft_skills": [
+    "Discipline",
+    "Creative Thinking",
+    "Multitasking",
+    "Critical and Strategic Thinking",
+    "Communicative",
+    "Good Problem Solving",
+    "Adaptability",
+    "Teamwork",
+    "Time Management"
+  ],
+  "years_experience": 1.25,
+  "certifications": [
+    "Business Analysis with Excel",
+    "Power BI",
+    "Human Resource Management",
+    "Occupational Safety and Health Management System (ISO 45001)",
+    "Database Design & Programming with SQL",
+    "Digital Marketing",
+    "Product Management",
+    "Business Consultant"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Area Sales Supervisor",
+    "Marketing & Sales",
+    "Marketing Officer",
+    "Production Department Staff - Intern",
+    "Business Consultant",
+    "Surveyor",
+    "Product and Business Development Ofifcer",
+    "Product Manager",
+    "Laboratory Assistant",
+    "Public Relation Marketing Communication",
+    "Member Representative Council",
+    "Head of Public Relations Department",
+    "Aspiration Commission",
+    "Member Business Fund"
+  ],
+  "industries": [
+    "Sales",
+    "Realty",
+    "Finance",
+    "Production",
+    "Consulting",
+    "Banking",
+    "Education"
+  ],
+  "location": "Jakarta"
+}

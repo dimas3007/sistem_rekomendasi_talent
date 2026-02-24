@@ -1,0 +1,41 @@
+{
+  "name": "Vera Rizki Yuniar",
+  "email": "verarizkiyuniar@gmail.com",
+  "phone": "+62 8983270569",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "UPN Veteran Jawa Timur",
+  "hard_skills": [
+    "Figma",
+    "Visual Studio",
+    "Visual Studio Code",
+    "Android Studio",
+    "GitHub",
+    "Xampp",
+    "StarUML",
+    "Web Development",
+    "System Analysis and Design",
+    "mySQL",
+    "PHP",
+    "bootstrap"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Critical Thinking",
+    "Communication",
+    "Team Work",
+    "Analysis",
+    "Problem Solving"
+  ],
+  "years_experience": 0.25,
+  "certifications": [],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Designer Intern"
+  ],
+  "industries": [],
+  "location": null
+}

@@ -1,0 +1,75 @@
+NELLY FANANDA MELANI
+fanandanelly@gmail.com | https://www.linkedin.com/in/nellyfananda | Malang, Indonesia
+I am a 4th-semester student in the Information Technology Department at Brawijaya University,
+focusing on Web Development. I am committed to becoming an individual with integrity, broad insight,
+and a positive influence in society by maximizing my potential and making meaningful contributions
+in the field of Information Technology. My career path is to become a Front-end Developer. My skills
+include web development and User Interface design. I am capable of working independently or
+collaboratively in a team to achieve established goals.
+EDUCATION
+SMA Negeri 1 Lamongan Lamongan, East Java 2020 - 2023
+High School in MIPA, 93.99/100
+Brawijaya University Malang, East Java 2023 - present
+Associate Degree in information Technology, 3.72/4.00
+Relevant Courework: Programming algorithms and data structures, Object-oriented programming,
+UI/UX, Web and Mobile programming,
+PROJECT EXPERIENCES
+Project Next Career Mobile Application Design, <UI/UX Designer>, Brawijaya University
+Conducted user persona creation, user flow, and competitor research to identify key features pain
+points, ensuring user-centric design solutions tailored to student needs.
+Designed and iterated low-fidelity wireframes and high-fidelity prototypes using Figma,
+establishing a seamless and visually appealing navigation flow.
+Developed an interactive prototype in Figma for usability testing, gathered feedback from 10
+students, and implemented design improvements based on their input to enhance user experience.
+Project Kantin UB Web Application, <Front End>, <in team>, Brawijaya University
+Developed the user interface for the cantin web application using HTML, CSS, and JavaScript. The
+result was an attractive and responsive design that enhanced user experience.
+Collaborated with the design team to transform prototypes into functional code using React and
+Vue.js. This improved development efficiency and design consistency.
+Conducted testing and debugging to ensure optimal application performance. The application runs
+well on various devices, making it easier for students to place orders.
+Project Rent Car Mobile Application, <Front End>, <in team>, Brawijaya University
+Developed the user interface for the rent car application using Dart and Flutter, creating a responsive
+and visually appealing design to enhance user experience.
+Designed an intuitive and functional navigation flow, ensuring users could easily search for, select,
+and rent cars through the application.
+ORGANIZATIONAL EXPERIENCES
+Leadership and Skills Division, Student Council, SMA Negeri 1 Lamongan 2021 2022
+Participated in basic leadership training for organizations, enhancing teamwork and management
+skills.
+Executed work programs in the field of leadership, creativity, and skills development.
+President Entrepreneurship Extracurricular, SMA Negeri 1 Lamongan 2021 2022
+Competed in national and international Business Plan and Business Model Canvas competitions,
+showcasing entrepreneurial skills.
+Developed and implemented an annual work program for the entrepreneurship extracurricular
+activity, successfully executing 5+ events.
+Led meetings related to extracurricular activities, facilitating discussions and evaluations.
+General Secretary, Annual Camping Event, SMA Negeri 1 Lamongan 2022
+Scheduled and coordinated 8+ monthly meetings for core committee members, sending Google
+Meet invitations to over 16 core members.
+Documented minutes of 8+ monthly meetings using Microsoft Word to ensure accurate records of
+organizational discussions.
+Managed an event budget of 60 million Rupiah by creating a financial plan for 9 divisions.
+Validated over 200 invoices to ensure accurate and professional fund usage in all organizational
+purchases.
+HONORS & AWARDS
+Semifinalist of Creative Business Competition BMC 2022, Fakultas Ekonomika & Bisnis, 2022
+Universitas Negeri Surabaya
+Silver Medal of International Youth Business Competition 2022, Indonesian Young 2022
+Scientist Association (IYSA)
+1st Place Winner of INTEGER 2021 Business Plan Competition, Universitas Dinamika 2021
+2nd Place Winner Young Creative Idea Business Plan Competition 2021
+2nd Place Winner BIZMART Business Plan Competition, Politeknik Perkapalan Negeri 2021
+Surabaya
+SemiFinalis Kalbis High School Business Plan Competition 2021
+Finalist Creative Business Idea Competition, Astra Startup Community 2020
+SKILLS
+Language: Bahasa Indonesia, English
+Software: Figma, Canva, Visual Studio Code, Xampp, GitHub, Microsoft Office, Google Workspace.
+Others:
+Communication
+Teamwork
+Time management
+Critical Thinking
+Collaborative Problem Solving
+Emotional Intelligence

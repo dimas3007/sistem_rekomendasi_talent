@@ -1,0 +1,121 @@
+MUHAMMAD DZAKIYYUDIN
+Jawa Barat, Indonesia 16432 | LinkedIn | Github | muhammad.dzakiyyudin@gmail.com | (62) 812 2176 8853
+Personal Website | Portofolio
+RIWAYAT PENDIDIKAN
+Politeknik Negeri Jakarta Indonesia
+Sarjana Terapan Teknik, Broadband Multimedia (Agustus 2020 September 2024)
+Indeks Prestasi Kumulatif: 3.4/4.0
+Mata kuliah terkait: Pemrograman Web dan Basis Data, Aplikasi Bergerak, Sistem Operasi, Multimedia dan Authoring Tools
+RIWAYAT PEKERJAAN
+Dzkdsgn dan Nyxraw Photography Depok, Indonesia
+Freelance Desain Grafis, Fotografer, dan Video Editor (Agustus 2018 Sekarang)
+Wirausaha mandiri dibidang desain grafis, fotografi, dan video editor.
+Menciptakan desain logo, poster, dan pakaian sesuai dengan permintaan klien menggunakan software Adobe Illustrator
+dan Adobe Photoshop.
+Melakukan perencanaan konsep foto, kebutuhan alat, dan menyiapkan lokasi pengambilan gambar.
+Melakukan pengambilan gambar yang berkualitas baik sesuai dengan konsep dan keinginan klien, melakukan editing foto
+dengan software Adobe Lightroom Classic dan Adobe Photoshop, serta mengirimkan hasil foto ke klien sesuai dengan
+tenggat waktu yang disepakati.
+Melakukan editing video dengan menggunakan software Adobe Premiere Pro.
+Valentine Roleplay (FiveM) Jakarta, Indonesia (remote)
+Game Modder (Oktober 2024 Sekarang)
+FiveM adalah modifikasi pihak ketiga untuk game Grand Theft Auto V (GTA V) yang memungkinkan pemain untuk memainkan
+game tersebut dalam mode multiplayer yang dimodifikasi. Valentine Roleplay merupakan salah satu server Indonesia dengan
+tema roleplay (permainan peran) yang terdapat pada FiveM.
+Berkolaborasi dengan game developer untuk menciptakan aset game sesuai kebutuhan.
+Menciptakan grafik 2D dan 3D dan melakukan kompresi pada aset game (bangunan, kendaraan, dan baju karakter)
+menggunakan software 3D Studio Max (Autodesk 3ds Max) dan Adobe Photoshop.
+Bertanggung jawab untuk membuat desain tampilan (UI) didalam game menggunakan software Adobe Illustrator dan
+Adobe Photoshop.
+Maritim Muda Nusantara Jakarta, Indonesia
+Website Developer and Administrator (with UI/UX Designer experience) MSIB Batch 5 & 6 (Agustus 2023 Juni 2024)
+Maritim Muda Nusantara merupakan organisasi kepemudaan nasional yang melakukan kegiatan edukasi dan pemberdayaan
+pemuda di bidang kemaritiman. Program unggulan: Maritim Muda Mengajar, Maritim Muda Hub, Arungi Samudra, dll.
+Berhasil melakukan rancang bangun dan meluncurkan website Arungi Samudra menggunakan bahasa pemrograman PHP
+dengan framework Codeigniter. Menambahkan fitur pendaftaran menggunakan Formfacade untuk menyisipkan google
+form pada halaman website.
+Berhasil mendesain ulang tampilan (UI) pada website Maritim Muda Hub menggunakan bahasa pemrograman PHP dengan
+framework Laravel. Berkolaborasi dengan tim untuk mengembangkan fitur visualisasi data anggota, pencarian data 10,000+
+anggota untuk admin, notifikasi status keanggotaan, pengaturan role untuk user, dan halaman katalog produk.
+Berhasil memperbarui informasi secara konsisten pada website Maritim Muda menggunakan bahasa pemrograman PHP
+dengan framework Codeigniter.
+Berhasil menginisiasi pengumpulan kode ke dalam satu organisasi Github untuk memudahkan akses kode.
+
+LKP Grafologi Indonesia Bandung, Indonesia (remote)
+Graphic Designer Intern (April 2022 Juni 2022)
+LKP Grafologi Indonesia merupakan lembaga pelatihan mengenai Grafologi (ilmu analisa tulisan tangan dengan kepribadian) dan
+Grafonomi (ilmu autentikasi tulisan dan tanda tangan).
+Berkolaborasi dengan Content Writer dan Social Media Admin untuk mendesain feeds Instagram utama LKP Grafologi
+Indonesia (@grafologi_indo).
+Elektronik Ilmu Indonesia Palembang, Indonesia (remote)
+Manager of Design (November 2021 November 2022)
+Elektronik Ilmu Indonesia (E-Ilmu) merupakan medium atau platform untuk anak SMA dalam melatih kemampuan akademiknya
+dalam menyiapkan UTBK SBMPTN dan SKD Kedinasan.
+Berkolaborasi dengan Content Writer dan Social Media Admin untuk mendesain feeds Instagram.
+Mengembangkan panduan branding dan marking untuk publikasi produk komunikasi.
+Mengatur pembagian peran dan tugas untuk tim yang beranggotakan 4 orang.
+Grand Indonesia Roleplay (FiveM) Jakarta, Indonesia (remote)
+Game Developer (Januari 2021 Agustus 2021)
+FiveM adalah modifikasi pihak ketiga untuk game Grand Theft Auto V (GTA V) yang memungkinkan pemain untuk memainkan
+game tersebut dalam mode multiplayer yang dimodifikasi. Grand Indonesia Roleplay merupakan salah satu server Indonesia
+dengan tema roleplay (permainan peran) yang terdapat pada FiveM.
+Berhasil berkolaborasi dengan tim developer dan tim manajemen untuk mendesain alur cerita dalam server dan
+menerjemahkannya kedalam basis kode.
+Berhasil mengembangkan dan memodifikasi script dalam game menggunakan bahasa pemrograman LUA, HTML, CSS, dan
+Javascript.
+Berhasil membuat launcher game dengan menggunakan IDE Visual Studio dengan bahasa pemrograman C++.
+Berhasil melakukan rancang bangun website Grand Indonesia Roleplay dengan menggunakan bahasa pemrograman HTML,
+CSS, dan Javascript.
+Berhasil memperbaiki bugs dalam script.
+RIWAYAT PROJEK
+Website dan Aplikasi Mobile bersihPlus (website)
+bersihPlus merupakan website dan aplikasi mobile bank sampah yang memberdayakan masyarakat dan lingkungan dari kegiatan
+pemilahan sampah.
+Berhasil membawa Kota Depok mendapatkan juara 3 dalam kegiatan Lomba Posyandu Tingkat Provinsi Jawa Barat tahun
+2024.
+Bekerja sama dengan tim dalam melakukan rancang bangun serta mempublikasikan website dan aplikasi bersihPlus .
+Membuat API (Application Programming Interface) menggunakan bahasa pemrograman PHP Native untuk
+menghubungkan dan sinkronisasi data antara aplikasi, database, dan website.
+Menerapkan API pada desain aplikasi dengan software FlutterFlow.
+Website Kuliah Umum Broadband Multimedia - BENEFIT 2023 (website)
+Broadband Network for Higher Speed (BENEFIT) adalah sebuah kegiatan seminar sehari yang membahas tentang pemaparan
+pengetahuan yang bertemakan The Future of Networking By Exploring Telecomunications Innovations.
+Berhasil melakukan rancang bangun dan meluncurkan website BENEFIT 2023 menggunakan bahasa pemrograman HTML,
+CSS, dan Javascript dengan database Firebase.
+Berhasil membuat bot discord untuk pemantauan pendaftaran, absensi, dan pertanyaan peserta menggunakan bahasa
+pemrograman Javascript.
+Berhasil membuat komponen website berupa logo kegiatan acara, palet warna (color palette), dan template background
+menggunakan software Adobe Illustrator dan Adobe Photoshop.
+Website Curriculum Vitae (website)
+Berhasil melakukan rancang bangun dan meluncurkan website personal Curriculum Vitae menggunakan bahasa
+pemrograman HTML, CSS, dan Javascript.
+
+Video Profil Sekolah SMAS Sejahtera 1 Depok (video)
+Melakukan perencanaan konsep, kebutuhan alat, kebutuhan personel, dan menyiapkan lokasi pengambilan gambar.
+Melakukan editing video menggunakan software Adobe Premiere Pro.
+Video of Kampus Mengajar #4 - SMP Karya Putra Bangsa (video)
+Melakukan perencanaan konsep, kebutuhan alat, kebutuhan personel, dan menyiapkan lokasi pengambilan gambar.
+Memastikan potongan gambar yang diambil memiliki kualitas grafik yang baik (fokus pada objek, tingkat exposure yang
+sesuai, dan kualitas video yang stabil serta memiliki perpindahan yang halus).
+Melakukan editing video menggunakan software Adobe Premiere Pro.
+Waktu - Geshaver (Official Soundtrack of Sejahtera 37)
+Melakukan perencanaan konsep dan bertanggung jawab dalam penulisan lirik lagu.
+KEAHLIAN & SERTIFIKASI
+Drone Pilot Competency Training
+Drone EduTech (Diterbitkan Agustus 2023)
+Sertifikasi Memulai Pemrograman Dengan Kotlin
+Dicoding Indonesia (Diterbitkan Januari 2023)
+Sertifikasi Belajar Membuat Aplikasi Android untuk Pemula
+Dicoding Indonesia (Diterbitkan Januari 2023)
+Sertifikasi Profesi Intermediate Multimedia Designer
+Badan Nasional Sertifikasi Profesi (Diterbitkan September 2022)
+Sertifikasi Intermediate Multimedia Designer
+Kementerian Komunikasi dan Digital Republik Indonesia (Diterbitkan Juli 2022)
+Sertifikasi Profesi Junior Graphic Designer
+Badan Nasional Sertifikasi Profesi (Diterbitkan November 2021)
+Sertifikasi HTML & CSS
+Progate Indonesia (Diterbitkan September 2021)
+Sertifikasi Junior Graphic Designer
+Kementerian Komunikasi dan Digital Republik Indonesia (Diterbitkan Juli 2021)
+KEMAMPUAN BERBAHASA
+Indonesian (Asli)

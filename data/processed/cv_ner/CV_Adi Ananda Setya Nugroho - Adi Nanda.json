@@ -1,0 +1,40 @@
+{
+  "name": "ADI ANANDA SETYA NUGROHO",
+  "email": "adinanda273@gmail.com",
+  "phone": "0813-3577-3945",
+  "education_level": null,
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Java Script",
+    "PHP",
+    "Laravel",
+    "MySQL",
+    "UI/UX Design",
+    "Figma",
+    "Visual Studio Code"
+  ],
+  "soft_skills": [
+    "Kerjasama Tim",
+    "Manajemen Waktu",
+    "Public Speaking",
+    "Problem Solving"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Fundamental Course Software Engineering by RevoU"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Website Development - Intern"
+  ],
+  "industries": [
+    "Perkebunan"
+  ],
+  "location": "Sidoarjo"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Nina Noptrina",
+  "email": "ninanoptrina19@gmail.com",
+  "phone": "083112212684",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Alma Ata Yogyakarta",
+  "hard_skills": [
+    "Analisis dan Desain Sistem",
+    "MySQL",
+    "Laragon",
+    "PHP",
+    "CodeIgniter",
+    "IoT",
+    "Microcontroller",
+    "Arduino",
+    "Blynk",
+    "Microsoft Office",
+    "Word",
+    "Excel",
+    "PowerPoint"
+  ],
+  "soft_skills": [
+    "Manajemen Data",
+    "Kemampuan Analisis",
+    "Penyelesaian Masalah",
+    "Manajemen & Komunikasi",
+    "Problem Solving",
+    "Teamwork",
+    "Project Management"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "BNSP Certification: Office Applications (2024)",
+    "Sertifikat Penyelesaian, Program IoT Kampus Merdeka (Indobot Academy), 2022",
+    "E-Certif SC Digital Marketing Fundamental MySkill 2024"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Backend Develover"
+  ],
+  "industries": [
+    "Engineering"
+  ],
+  "location": "Sumbawa"
+}

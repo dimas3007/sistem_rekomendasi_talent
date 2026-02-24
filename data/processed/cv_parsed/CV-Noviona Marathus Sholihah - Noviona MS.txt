@@ -1,0 +1,72 @@
+NOVIONA MARATHUS SHOLIHAH
+0813-5504-5905 | nmarathuss@gmail.com | www.linkedin.com/in/noviona-ms-19a46b197 | https://
+nmsporto.vercel.app/
+Bandung, JawaBarat
+I am a student majoring in Informatics Engineering at the National Institute of Technology (ITENAS). I am
+passionate about leveraging technology to solve complex problems and create innovative solutions. With a focus
+on developing efficient, well-structured applications, I enjoy working on projects that enhance user experiences
+and drive impactful results. My goal is to continuously improve my skills and contribute to meaningful
+advancements in the field of technology.
+Pendidikan
+Institut Teknologi Nasional (ITENAS) - Bandung - Bandung, Indonesia
+Bachelor of Informatics Engineering
+Work Experiences & Projects
+PT JARI Teknologi Informasi - Bandung, Indonesia Nov 2023 - Feb 2024
+Internship Fullstack Website Developer
+Collaborated with the UI/UX team to enhance the user interface and responsiveness of applications.
+Developed and maintained web applications using Laravel for internal and external company needs.
+Optimized application performance through caching and database management using MySQL, resulting in a 30% improvement in
+load times.
+Contributed to front-end feature development using Bootstrap and Vue.js, and integrated back-end with REST API.
+Personal Projects
+E-Commerce Fashion Shop
+An e-commerce platform designed for a fashion store, offering features like product catalog, shopping cart management, and online
+payment integration
+Built using Laravel for back-end, SCSS for dynamic styling, and REST API for seamless communication.
+Focused on delivering a responsive and user-friendly shopping experience.
+Technologies: Laravel, SCSS, REST API
+Community Service
+Pulus (Website Pengepul Sampah)
+A platform connecting waste collectors with communities for recycling or selling waste, promoting sustainability.
+Developed with React and Laravel, using Supabase as the backend.
+Designed an intuitive interface to encourage recycling initiatives.
+Technologies: React, Laravel, CSS
+Pengalaman Organisasi
+Innovative Workingspace Integrated Living Laboratory (I-WILL) ITENAS Jul 2024 - Present
+Advisor
+I-WILL is an lab that focusing on Game Technology, Robotics, and IoT to foster innovation and collaboration among researchers,
+students, and industry partners.
+Provided guidance and support for research and development projects in the lab.
+Worked with supervisors and the Research and Development(RND) division to select and evaluate prospective members and
+research ideas.
+Contributed to maintaining high standards of discipline and innovation within the laboratory environment.
+Badan Eksekutif Keluarga Mahasiswa (BE-KM) ITENAS Sep 2021 - Sep 2022
+General Secretary
+Managed all meeting agendas and important documentation for 20+ meetings, ensuring effective communication among
+organizational members.
+Assisted in drafting the annual work plan and budget for BE-KM activities, optimizing the use of available funds by 15%.
+Lead the coordination team for student events, ensuring high student engagement, achieving an average participation rate of 80% in
+events.
+Collaborated for internal and external interests to strengthen the organization's network, including campus and external communities.
+Badan Eksekutif Keluarga Mahasiswa (BE-KM) ITENAS - Bandung, Indonesia Aug 2020 - Aug 2021
+Staff Of Finance
+Responsible for managing and recording finances for 10+ programs and activities organized by BE-KM.
+Prepared monthly and annual financial reports that are transparent and accountable, leading to a 100% accuracy rate in financial
+documentation.
+Managed the procurement of goods for organizational activities, ensuring efficient and appropriate budget use, achieving cost savings of
+10%.
+Collaborated with other divisions to prepare funding proposals that successfully obtained sponsorships for student activities.
+Himpunan Mahasiswa Informatika (HMIF) - Jakarta Sep 2019 - Aug 2023
+Staff
+Actively contributed to the planning and implementation of planned programs.
+Assisted in the preparation of activity proposals and presentations.
+Coordinated with other event teams in the preparation and execution of various HMIF programs, ensuring activities ran on schedule
+and met participant targets.
+Kemampuan, Penghargaan, dan Kompetisi
+Projects: Developed an E-commerce Platform using Laravel, achieving a 95% user satisfaction rating; Created a Content Management
+System (CMS) that streamlined content publishing by 40%.
+Soft Skills: Team Work, Problem Solving, Leadership
+Hard Skills: Web Development. Proficient in Laravel, MySQL, Bootstrap, React.js.
+Certifications (2024): Microsoft Office Specialist: Excel Associate (Office 2019)
+Achievements (2024): IndonesiaNEXT Season 8 Best 1000 Talent
+Achievements (2023): IndonesiaNEXT Season 7 Best 2000 Talent

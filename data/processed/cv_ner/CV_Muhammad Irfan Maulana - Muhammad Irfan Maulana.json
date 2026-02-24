@@ -1,0 +1,49 @@
+{
+  "name": "Muhammad Irfan Maulana",
+  "email": null,
+  "phone": null,
+  "education_level": null,
+  "education_major": "Information System",
+  "university": "Mulawarman University",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Python",
+    "SQL",
+    "PHP",
+    "VSCode",
+    "MySQL",
+    "Github",
+    "Figma",
+    "Figjam",
+    "JavaScript",
+    "Framework",
+    "Java"
+  ],
+  "soft_skills": [
+    "Analytical Skills",
+    "Flexibility",
+    "Problem Solving",
+    "Time Management",
+    "Communication"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Basic Statistic and Data Visualization",
+    "Introduction to Frontend short class",
+    "Database Programming with SQL",
+    "Data Visualization"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Designer",
+    "Developer"
+  ],
+  "industries": [
+    "Renewable Energy"
+  ],
+  "location": "Samarinda"
+}

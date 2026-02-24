@@ -1,0 +1,77 @@
+EGA RASENDRIYA NASHRULLAH
+(+62) 899-4669-030 | egarasendriyan@gmail.com | linkedin.com/in/egarasendriya
+Surakarta, Central Java, Indonesia
+A Computer Engineering graduate from Brawijaya University with a strong passion for project management and technology.
+I have experience in leading teams, organizing events, and managing projects, as well as technical skills in Python, SQL,
+IoT, and computer networks. With a strong foundation in both technical and managerial aspects, I am eager to contribute
+to efficient project execution and strategic planning.
+EDUCATION LEVEL
+S1 Computer Engineering Aug 2021 Jan 2025
+Brawijaya University Malang, Jawa Timur
+Achieved a GPA of 3.58 / 4.00
+Represented the university in PIMNAS in the PKM VGK field in 2022
+Coordinator of the Mahasiswa Membangun Desa (MMD) with 100% of work programs realized
+Proficient in programming languages: C++ and Python
+Studied Machine Learning, MySQL, Networking, Linux, etc.
+Actively participated in competitions, committees, and campus organizations
+WORK EXPERIENCE
+Telkomsel Branch Malang Sep 2024 Jan 2025
+Creative for Product Intern
+Managed social media accounts, from concept planning to content execution.
+Developed engaging content strategies tailored to the target audience.
+Analyzed campaign performance and provided strategic recommendations.
+Faculty of Computer Science (FILKOM) University of Brawijaya Sep 2024 Des 2024
+Laboratory Teaching Assistant of Basic Programming
+Assisted students in learning C++ fundamentals, including control flow, functions, and data structures.
+Provided support for coding assignments and debugging during lab sessions.
+Collaborated with lecturers to prepare and manage programming lab activities.
+Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Feb 2024 Jul 2024
+Independent Study Program in Machine Learning
+Completed intensive training in Machine Learning
+Developed skills in data analysis, model building, and deployment
+Gained hands-on experience with Python, TensorFlow, and scikit-learn
+NilaiPlus+ Dec 2022 Feb 2023
+Bootcamp Initiator
+Become the lead moderator to carry out an introductory boot camp with IoT
+Coordinate boot camp participants in learning, sharing experiences, and completing IoT courses
+Communicate with stakeholders and external parties
+ORGANIZATIONAL & VOLUNTEERING
+FILKOM UB Student Research Group 2023
+Chair of the Mini Scientific Writing Training Camp
+GEMASTIK 15 & 16 2022-2023
+Companion To The UX Design Division
+Google Developer Student Clubs 2021 2023
+Member Tech Series With Machine Learning
+Himpunan MahasiswaTeknik Komputer 2021 2023
+Information and Communication Division Expert Staf
+IoT and National Scientific Writing Competition (LITE) 2021 2022
+Deputy Chairman of the Creative and Innovative
+CERTIFICATION
+Generative AI for Everyone - DeepLearning.AI 2024
+DeepLearning.AI TensorFlow Developer - DeepLearning.AI 2024
+TensorFlow: Data and Deployment - DeepLearning.AI 2024
+TensorFlow: Advanced Techniques - DeepLearning.AI 2024
+Machine Learning - Stanford University 2024
+Process Data from Dirty to Clean - Google 2024
+Mathematics for Machine Learning and Data Science - DeepLearning.AI 2024
+Introduction to Git and GitHub - Google 2024
+Crash Course on Python Google 2024
+Belajar Dasar Structured Query Language (SQL) - Dicoding 2023
+ACHIEVEMENTS
+1st Place Winner - UI/UX Design for Sustainable Solutions 2024
+Finalist in Creative Video Competition (4C National Competition) 2023
+Finalist for the 35th National Student Science Week (PIMNAS) 2022
+Passed PKM funding for the 35th PKM Video Creative Ideas Field 2022
+PROJECT
+Sort-Savvy: Waste Sorting Application with Trash Type Detection Using ML 2024
+Recommendations for Plant Types Based on Environmental Weather Conditions 2023
+Voice Recognition System in Smart Wheelchairs with MFCC, GFCC, and CNN 2023
+Automatic Curtain System Based on Arduino Uno 2023
+FPGA Implementation of PING PONG Game Spartan3 FPGA Image Processing Kit 2022
+SKILLS & LANGUAGE
+Hard-skill Programming with Python and C++, Using SQL, Arduino Uno, Network Troubleshooting, MS
+Office (Word, Excel, PowerPoint, & Figma
+Soft-skill Problem-solving, Teamwork, Adaptability, Communication, Continuous Learning, & Critical
+Thinking
+Indonesian Professional level
+English Intermediate level

@@ -1,0 +1,43 @@
+{
+  "name": "JELITA AYU AULIA",
+  "email": "jelitaauliaa13@gmail.com",
+  "phone": "+628980199731",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "JEMBER UNIVERSITY",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Microsoft Office Basic",
+    "Capcut",
+    "Visual Studio Code",
+    "HTML/CSS"
+  ],
+  "soft_skills": [
+    "Communication",
+    "teamwork",
+    "problem solving",
+    "time management",
+    "responsibility"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "UI/UX RESEARCH & DESIGN - With AI Literacy & Global Certification",
+    "Digital Marketing Mini Course"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Event Moderator",
+    "Material Presenter"
+  ],
+  "industries": [
+    "Education",
+    "Technology",
+    "E-commerce"
+  ],
+  "location": "Jember"
+}

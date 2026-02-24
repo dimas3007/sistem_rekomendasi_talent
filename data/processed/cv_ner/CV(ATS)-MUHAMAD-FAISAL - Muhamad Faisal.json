@@ -1,0 +1,41 @@
+{
+  "name": "Muhamad Faisal",
+  "email": "muhamadfaisal280201@gmail.com",
+  "phone": "+62851-5628-3541",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Universitas Pamulang",
+  "hard_skills": [
+    "WordPress",
+    "Elementor",
+    "Flutter Framework",
+    "MySQL",
+    "GIT",
+    "Figma",
+    "Canva",
+    "Linux",
+    "Python",
+    "scratch 3"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Communication"
+  ],
+  "years_experience": 2.92,
+  "certifications": [
+    "Digitalent - Junior Network Administrator",
+    "Agate Academy - Game Development",
+    "Prakerja - Mobile Applications With Flutter"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "IT Staff",
+    "Teacher",
+    "WordPress CMS Administration",
+    "IT Staff"
+  ],
+  "industries": [],
+  "location": "Bogor"
+}

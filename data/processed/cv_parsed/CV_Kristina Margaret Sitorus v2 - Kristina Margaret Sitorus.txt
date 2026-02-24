@@ -1,0 +1,77 @@
+KRISTINA MARGARET SITORUS
+I am a recent graduate from Del Institute of Technology with a Bachelor's degree in Information Systems. I have strong
+interests and skills in Quality Assurance, Systems Analysis, and Data Analytics. I have excellent interpersonal skills,
+allowing me to interact with a wide variety of clients. During my studies, I developed excellent technical skills and
+interpersonal abilities, allowing me to analyze systems, ensure product quality, understand user needs, and interact
+effectively with a wide range of clients. I am eager to take on new challenges to continue learning, improve my IT skills,
+and contribute positively to the professional world. With high adaptability, I can work well in a team as well as
+independently, supported by strong communication and problem-solving skills. I am confident that my knowledge and
+skills will add value and bring positive impact to any project or organization I contribute to.
+082363246370 | kristinasitorus190@gmail.com | https://www.linkedin.com/in/kristina-margaret-sitorus-98bb66219/
+Professional Experience
+Teaching Assistant for Basic Pyhsics, Institute Tecnology Del Sitoluama, Sumatera Utara (Aug 2022 - Des 2022)
+Assisted lecturers in conducting Basic Physics classes across different groups by providing additional tutorial sessions.
+Responsibilities included preparing tutorial materials and problem sets, guiding students in understanding concepts, and
+assisting in solving physics problems. Actively facilitated discussions and ensured a productive learning environment for
+students.
+Quality Assurance Intership, PT. RectMedia Komputindo Semarang, (Jun 2023 - Aug 2023)
+PT. RectMedia Komputindo is a digital agency based in Semarang, Central Java, Indonesia, serving individuals, companies,
+and governments at regional, national, and international levels. RECTmedia has four main divisions: Creative (digital business
+consulting and internet marketing), Cloud (development of company profile websites and e-commerce), Light (custom web
+application development), and Touch (mobile application development for iOS and Android).
+My roles included:
+Perform software testing using software or applications that have been developed to identify bugs, errors, or other
+problems.
+Create and maintain documentation, namely by compiling and maintaining QA documents, such as test plans, test
+scenarios, and test results reports.
+Analyze test results to identify trends or patterns, as well as provide feedback to the development team on how to fix
+discovered problems.
+Team Collaboration by working closely with the software development team to understand functional and non-functional
+requirements.
+Education
+Institute Technology Del - Laguboti, Sumatera Utara (4 Sep 2020 15 Aug 2024 )
+Bachelor Degree in System Information, 3.04 / 4.00
+Test Scores IES FOUNDATION (ITP Transbahasa Gorontalo) (27 Nov 2023)
+TOEFL ITP : 527
+Certification
+Achievements (2022) : Participant of Hackathon Code for the Nation 2022
+Competition (2022): Gemastik "Pengembangan Sistem Rekomendasi Playlist Music untuk mengurangi tekanan psikologis"
+Organization (2022): Chairman of the Consultative Assembly - Information Systems Study Program Student Association
+Organization (2022): Member of the Information Systems Student Association Consultative Council
+Experience (Leadership) (2022): Foster Sister Del Institute of Technology
+ASEAN Data Science Explorers (2023): Enablement Session ASEAN Data Science Explorers 2023
+Coursera (2024): Google Advanced Data Analysis
+Skills
+Basic Technical : Microsoft Word, Powerpoint, Excel and others
+Programming Language : Python, HTML, C, PHP
+Database Management : Ms. SQL Server , SQLyog
+Project Management Tool : Trello, Slack
+Modeling and Design : Figma, Bizagi Process Modeler, Visual Paradigm, Canva, draw.io.
+Documentation : MoM, SRS, User Manual, UAT and others
+Data Visualization : Tableau
+Soft Skills : Communications, Critical Thinking, Problem Solving, Leadership, Team Work, Colaboration, Analytical.
+IDE : Visual Studio Code
+Framework : Laravel, Postman
+Project
+System Analysis and Design - Laguboti, Sumatera Utara (Jan 2022 - May 2022) ; Create a SyRS document "LMS Information
+System at SMA Negeri 1 Siantar Narumonda"
+Software Engineering - Laguboti, Sumatera Utara (Aug 2021 - Dec 2021) ; Create FSD and SRS Documentation
+Information System Project Management - Laguboti, Sumatera Utara (Aug 2022 - Dec 2022) ; Create IT Del Canteen
+Information System Design Documents
+Web application programming and testing course project - Laguboti, Sumatera Utara (Sep 2022 - Dec 2022)
+Creating an Community Complaint System (SIPEMA) Information System ; SIPEMA (Community Complaint System) is an
+application that facilitates complaints from students, staff, and the community at Del Institute of Technology. This application
+provides an efficient channel for reporting issues such as campus facilities, administrative services, or other concerns, with the goal
+of speeding up resolution and enhancing the transparency of the complaint process.
+Project System Information - Laguboti, Indonesia (Feb 2023 - Jun 2023)
+Developing an Information System for ERP Recommendation Information System; Developing an Information System for ERP
+Recommendation Information System at Del Institute of Technology refers to the creation of an application or system designed to
+assist the faculty, staff, and students of IT Del in selecting the most suitable Enterprise Resource Planning (ERP) software based on
+specific needs.
+Intership - Semarang, Indonesia (Jun 2023 - Aug 2023) ~ Quality Assurance Intership
+Testing of the WOW Consultant Application on Android-Based Platforms and Website;
+As part of the QA team, I was responsible for testing the WOW Consultant application on both Android and web platforms. This
+included functional testing to ensure all features work as expected, compatibility testing across different Android devices and web
+browsers, and usability testing to evaluate the user interface (UI) and user experience (UX). Performance testing was conducted to
+assess speed and responsiveness, while security testing ensured user data protection on both platforms. The goal was to identify and
+resolve any issues or bugs before the app's release. Other Project Testing: BRI Trustee, Qonnectiq, DSI ERP, BRG

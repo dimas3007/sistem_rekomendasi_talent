@@ -1,0 +1,36 @@
+{
+  "name": "Audita Naviraearly",
+  "email": "naviraearlyaudita@gmail.com",
+  "phone": "082262413488",
+  "education_level": "D3",
+  "education_major": "Rekayasa Perangkat Lunak Aplikasi",
+  "university": "Telkom University",
+  "hard_skills": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Laravel",
+    "MySQL",
+    "Firebase",
+    "JUnit"
+  ],
+  "soft_skills": [
+    "analitis",
+    "perhatian terhadap detail",
+    "kemampuan memecahkan masalah"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Data Communication & Network Technology | Huawei 2023 2024",
+    "Memulai Pemrograman dengan Java | Dicoding 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [],
+  "industries": [],
+  "location": null
+}

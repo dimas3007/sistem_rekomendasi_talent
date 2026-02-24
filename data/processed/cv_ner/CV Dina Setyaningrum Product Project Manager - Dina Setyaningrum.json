@@ -1,0 +1,56 @@
+{
+  "name": "DINA SETYANINGRUM",
+  "email": "dinasetyaningrum.dsw@gmail.com",
+  "phone": "+6285645478481",
+  "education_level": "S1",
+  "education_major": "Kimia",
+  "university": "Universitas Negeri Malang",
+  "hard_skills": [
+    "Manajemen produk",
+    "laboran",
+    "Figma",
+    "Google Workspace",
+    "Microsoft Office",
+    "Miro",
+    "Notion",
+    "Trello",
+    "Zoom"
+  ],
+  "soft_skills": [
+    "Aktif",
+    "analitis",
+    "kreatif",
+    "kritis",
+    "kerjasama tim",
+    "manajemen waktu",
+    "problem solving",
+    "public speaking",
+    "target oriented"
+  ],
+  "years_experience": 2.42,
+  "certifications": [
+    "Marketing Management",
+    "Creative Copywriting",
+    "Quality Assurance (QA)",
+    "Quality Control (QC)",
+    "HACCP",
+    "Good Manufacturing Practice (GMP)",
+    "ISO 22000:2018",
+    "Product Management"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Facilitator Book Writing Camp (BWC)",
+    "Asisten Praktikum",
+    "Research and Development (RnD)",
+    "Quality Control (QC)"
+  ],
+  "industries": [
+    "Education",
+    "Science",
+    "Cosmetics"
+  ],
+  "location": "Jombang"
+}

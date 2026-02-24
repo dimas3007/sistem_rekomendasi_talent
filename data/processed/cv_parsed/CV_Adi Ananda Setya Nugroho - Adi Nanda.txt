@@ -1,0 +1,61 @@
+ADI ANANDA SETYA NUGROHO
+Sidoarjo, Jawa Timur | 0813-3577-3945 | adinanda273@gmail.com | LinkedIn/adianandasn
+PROFILE
+Saya adalah mahasiswa Universitas Pembangunan Nasional Veteran Jawa Timur dari
+program studi Sistem Informasi dengan minat utama di bidang Web Development dan UI/UX
+Design. Selain itu, saya memiliki keahlian menengah dalam desain grafis. Saya juga memiliki
+kemampuan yang baik dalam kerja sama tim dan manajemen waktu yang efektif. Saat ini,
+saya memiliki semangat dan keinginan untuk mengembangkan keterampilan saya di bidang
+Web Development dan UI/UX Design agar menjadi lebih profesional dan terampil.
+EDUCATION
+Universitas Pembangunan Nasional Veteran Jawa Timur 2022 - Sekarang
+Sistem Informasi | IPK : 3,78 / 4,00
+WORK EXPERIENCE
+PT Perkebunan Nusantara 1 Regional 5 (eks PTPN XII) Surabaya, Indonesia
+Website Development - Intern September 2024 - Januari 2025
+Mengembangkan fitur login dengan autentikasi dan middleware untuk keamanan
+pengguna menggunakan framework Laravel.
+Merancang dan mengimplementasikan fitur pencarian untuk menampilkan data yang
+relevan sesuai kebutuhan pengguna.
+Membuat modul CRUD (Create, Read, Update, Delete) untuk mendukung
+pengelolaan data.
+Menampilkan data melalui visualisasi interaktif menggunakan library grafik dan tabel.
+Mengelola dan mengintegrasikan database, termasuk query, relasi, model, dan tabel
+untuk mendukung kelancaran operasional aplikasi.
+PROJECT EXPERIENCE
+Ketua Tim Lomba UI/UX Agustus - September 2024
+Finalis Lomba UI/UX Information Technology Olympiad XII & Festival
+di Politeknik Caltex Riau.
+Mengidentifikasi tujuan dan kebutuhan pengguna melalui wawancara dengan calon
+pengguna. Menganalisis permasalahan dan menentukan solusi yang dijadikan sebagai
+fitur aplikasi.
+Merancang user flow untuk memetakan jalur penggunaan website, serta mendesain
+wireframe dan prototype menggunakan Figma.
+Hasil akhir melakukan user testing menggunakan Maze.
+Ketua Tim Final Proyek UI/UX Mei - Juni 2024
+Aplikasi E-Commerce Layanan Penyewaan SewaiN .
+Mengidentifikasi tujuan dan kebutuhan pengguna melalui wawancara dengan calon
+pengguna. Menganalisis permasalahan dan menentukan solusi yang dijadikan sebagai
+fitur aplikasi.
+Mendesain wireframe dan prototype menggunakan Figma.
+Ketua Tim Final Proyek UI/UX November - Desember 2023
+Sistem Informasi Website Desa Wisata DEWI di Desa Pujon, Kota Malang.
+Mengidentifikasi tujuan dan kebutuhan pengguna melalui observasi dan wawancara
+dengan warga desa. Menganalisis permasalahan dan menentukan solusi yang akan
+dijadikan sebagai fitur website.
+Merancang user flow untuk memetakan jalur penggunaan website. Mendesain
+wireframe dan prototype menggunakan Figma.
+Hasil akhir melakukan user testing menggunakan Maze untuk mengukur usability dan
+efektivitas desain.
+Anggota Tim Lomba UI/UX Oktober - November 2023
+Peserta Lomba UI/UX Identitas Manajemen Informatika Politeknik Astra 2023.
+Merancang task flow untuk memetakan langkah-langkah penggunaan aplikasi, serta
+mendesain wireframe dan prototype menggunakan Figma.
+COURSE & CERTIFICATION
+Fundamental Course Software Engineering by RevoU Mei 2024
+SKILL & TOOLS
+Bahasa: Bahasa Indonesia, Bahasa Inggris (Menengah)
+Perangkat Lunak: Visual Studio Code, Figma
+Individu: Kerjasama Tim, Manajemen Waktu, Public Speaking, Problem Solving
+Lainnya: Pemrograman (HTML, CSS, Java Script, PHP, Laravel, MySQL), UI/UX Design,
+Desain Grafis

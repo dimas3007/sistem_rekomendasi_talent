@@ -1,0 +1,71 @@
+{
+  "name": "Maya Dwi Latifah",
+  "email": "mdwilatifah@gmail.com",
+  "phone": "085814717514",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Universitas Bina Sarana Informatika",
+  "hard_skills": [
+    "Data Analytics",
+    "Spreadsheet",
+    "Looker Studio",
+    "Google Colaboratory",
+    "Tableau",
+    "Microsoft Office",
+    "Google Form",
+    "Jira",
+    "UI/UX Designer",
+    "Figma",
+    "Adobe Photoshop",
+    "Illustration",
+    "Canva",
+    "UX Writing",
+    "User Testing",
+    "Prototyping",
+    "Workflow Management",
+    "Responsive Design",
+    "Wireframing",
+    "SQL",
+    "Vscode",
+    "Github"
+  ],
+  "soft_skills": [
+    "Communication Skills",
+    "Teamwork and collaboration",
+    "Problem-solving and decision-making",
+    "Creativity and innovation",
+    "Attention to detail",
+    "Adaptability and critical thinking",
+    "Data visualization skills",
+    "Technical proficiency",
+    "Understanding of data privacy standards",
+    "Analytical thinking",
+    "Time management",
+    "Conflict resolution",
+    "Detail-Oriented",
+    "Curiosity",
+    "Initiative",
+    "Technical Writing Skills"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "IT Bootcamp Software Development",
+    "Preinexus Uji Profisiensi Basis Data",
+    "Sertificate Kompetensi Rangkaian Instalasi Telecom Distribution Technologi",
+    "UI/UX Design - Udemy",
+    "Dasar data scientist - Dicoding",
+    "Belajar Dasar Structured Query Language (SQL) - Dicoding",
+    "Mini Course - Data Analyst Revou",
+    "Fundamental Data Analysis - MySkill",
+    "Fundamental SQL Using SELECT Statement - DQLab"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Project - Based Intern: Data Scientist",
+    "Hardware Engineer"
+  ],
+  "industries": [
+    "Telecommunications"
+  ],
+  "location": "Jakarta"
+}

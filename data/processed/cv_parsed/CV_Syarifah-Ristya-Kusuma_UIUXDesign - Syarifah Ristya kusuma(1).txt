@@ -1,0 +1,57 @@
+SYARIFAH RISTYA KUSUMA
++6287711361758 | syarifahristyakusuma@gmail.com | Pontianak, Indonesia
+linkedin.com/in/syarifahristyakusuma | Portfolio: Link here
+Passionate UI/UX Designer with strong skills in creating seamless and intuitive application flows, ensuring every element is functional, user-friendly, and
+implementation-ready. Skilled in user research, wireframing, UI design, prototyping, mockup and testing, I am committed to developing solutions that align
+with user needs and are practical for development. My comprehensive experience in the entire development cycle gives me a well-rounded understanding of
+how design and functionality work together. This integrated approach allows me to deliver designs that are visually compelling, highly usable, and provide an
+exceptional user experience..
+EDUCATION
+Universitas Tanjungpura Pontianak Aug 2022 Present
+Bachelor of Informatics | GPA: 3.85 / 4.00
+INTERNSHIP EXPERIENCES
+Dinas Perhubungan Kota Pontianak Pontianak Sept 2024 Dec 2024
+Full-Stack Web Developer Intern
+Collaborated with the mentor and supervisor to ensure the application development process aligned with the project timeline, business objectives, and technical
+specifications.
+Completed the project within the assigned deadline.
+Conducted problem and requirement analysis through interviews with relevant stakeholders.
+Created conceptual models such as ERDs and use case diagrams.
+Conducted a survey, organized, and verified data on 542 traffic sign units in South Pontianak district to ensure the validity of the information.
+Developed the front-end using templates and Bootstrap, and the back-end with Laravel to build a web-based application. Implemented GIS for mapping the distribution
+of traffic sign units and visualized data using ApexCharts.
+Conducted thorough testing of each feature using various test cases.
+Created user guide documentation.
+SIPERJA Web-Based Application Portfolio Link
+ORGANIZATIONAL EXPERIENCES
+Informatic for Future Excellence and Resourceful Solutions '19 Tanjungpura University, Pontianak Sept 2023 Dec 2023
+Committee member consumption division | view certificate
+Created a survey form to identify food and beverage allergies, successfully collecting responses from 68 participants.
+Ensured the smooth execution of the event by managing the provision and timely distribution of main meals, snacks, and beverages (tea and coffee) to support the
+committee's comfort..
+Collected necessary items for the event, utilizing personal belongings to ensure the availability of needed materials for the event's success.
+PROJECTS
+Personal Project (Dummy Project): Recipee App
+Applied the Design Thinking method to create user-focused designs.
+Conducted desk research, SWOT analysis, created empathy maps, and identified user personas.
+Designed site maps, design system, wireframes, and low-fidelity to high-fidelity prototypes using Figma.
+Conducted user testing with 5 respondents and optimized the design based on feedback.
+Recipee App Portfolio Link
+Personal Project (Dummy Project): HomeGenie App
+Applied the Design Thinking method to create user-focused designs.
+Conducted desk research, created empathy maps, and identified user personas.
+Designed site maps, wireframes, and low-fidelity to high-fidelity prototypes using Figma.
+Successfully conducted usability testing using Maze with 8 participants.
+HomeGenie App Portfolio Link
+COURSE AND CERTIFICATIONS
+Digital Skills: User Experience Accenture (2024) view certificate.
+UI / UX for Beginners Great Learning (2024) view certificate.
+User Experience Design Fundamentals IBM (2024) view certificate.
+UI-UX Research and Design MySKill (2024) view certificate.
+SKILLS
+Hard Skills: Product design, UX research, UI design, mobile and web design, wireframing, prototyping, mockup, testing, and product development.
+Soft Skills: Critical thinking, design thinking, analytical thinking, team working, time management, problem solving, adaptive, and creative.
+Software Skills: Figma, Maze, Draw.io, Notion, Canva, Visual Studio Code, Git, GitHub, and phpMyAdmin.
+LANGUAGES
+Indonesian (Native).
+English (Intermediate).

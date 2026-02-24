@@ -1,0 +1,79 @@
+RANGGA LESMANA
+087826357781 | ranggalesmana017@gmail.com | https://www.linkedin.com/in/ranggalesmanaa/
+I am a fresh graduate with interests in UI/UX Design and Front-end Development, and have 2 years of
+experience as a freelance Web Designer. I actively participate in organizational activities, which develop my soft
+skills of critical thinking, public speaking, teamwork, leadership, time management and problem solving. In
+addition, I have expertise in Design Thinking, Motion Graphics using After Effects, as well as HTML, CSS, and
+JavaScript programming.
+Work Experiences
+Sportgather - Bandung City, West Java Jun 2022 - Nov 2024
+UI/UX Designer
+Sports community management and activity platform
+Manage UI/UX design for applications and digital platforms using Design Thinking and Design Sprint methods, ensuring optimal user
+experience and innovative design solutions.
+Create and implement consistent visual designs for the company's social media, increasing engagement and brand visibility.
+Develop and prepare visual design assets needed for various company purposes, ranging from campaigns to corporate
+presentations.
+Lead the development and execution of the company's branding strategy, strengthening the brand image in the market and increasing
+audience engagement.
+Design and produce animated motion graphics to support visual communication and enrich user experience on the company's digital
+platforms.
+PT Madani Creative - Surakarta City, Central Java Aug 2023 - Oct 2023
+Web Designer - Internship
+PT Madani Creative is a provider of event management and traveling services.
+Design and develop landing page designs from sitemaps and website flows to meet the needs of clients and site visitors.
+Create intuitive and user-friendly website flow to improve user experience (UX) and navigation.
+Develop and implement a consistent design system in web projects to ensure uniformity of design elements across pages.
+Slicing designs and converting them into functional web pages using HTML, CSS, JavaScript, and Bootstrap, ensuring responsive
+design across multiple devices.
+Collaborate with other development teams and designers to refine designs and ensure timely and compliant implementation.
+Freelance Web Designer - Home/Remote Work Jan 2021 - Mar 2023
+Web Designer
+Designing and developing landing pages that are aesthetically pleasing, responsive and fit the client's business needs, thereby
+improving user experience (UX) and visitor engagement.
+Implementing the design into code using HTML, CSS, JavaScript, and Bootstrap, with a focus on performance optimization and cross-
+device compatibility.
+Developing a structured and consistent design system to support project scale and ensure efficiency in landing page development.
+Developed more than 5 landing pages for clients from various industries, including social community, government, and personal
+portfolio.
+Technology Proficiency HTML5, CSS3, JavaScript (ES6+), Bootstrap.
+Kelashijrahsfk - Bandung City, West Java Jun 2019 - Aug 2019
+Social Media Design - Internship
+Kelashijrahsfk is an Islamic platform that provides learning, seminars, and inspirational content to support Muslims in migrating towards a
+better life.
+Develop concepts and creative ideas for daily content relevant to Islamic themes and audience needs.
+Creating graphic designs for social media and promotional materials, with a professional and attractive look.
+Serve as a talent in content creation, both for photos and videos, to present authentic and relatable messages.
+Retouching and editing images to improve visual quality, in accordance with company branding standards.
+Shoot, edit, and enhance educational and promotional videos with strong storytelling, visual effects, and quality audio.
+Pendidikan
+Universitas Telkom - Bandung, West Java Aug 2020 - Dec 2024
+Bachelor of Informatics, 3.29/4.00
+Participate in the StartUp business incubation program at Bandung Techno Park.
+Active in organizations and Head of the communication and information commission in the student representative body organization
+or abbreviated as (BPM).
+Pengalaman Organisasi
+BPM (Badan Perwakilan Mahasiswa) HIMA IF May 2023 - Feb 2024
+Chairman of the Communications and Information Commission
+Manage and oversee the organization's social media operations, including content creation, information updates, and interaction with
+audiences.
+Design and execute publications for major holidays or important moments relevant to students and the organization.
+Manage and develop the IF Podcast, including topic planning, coordination with sources, and episode dissemination.
+Lead the communication and information team to ensure effective and timely flow of information to all members and audiences.
+BPM (Badan Perwakilan Mahasiswa) HIMA IF Apr 2022 - Feb 2023
+Communications and Information Commission Staff
+Social media management.
+Big day publication.
+Managing IF Podcast.
+FORTRAN 2022 May 2022 - Nov 2022
+Staff of publication and documentation division
+Design and deploy publicity materials (posters, brochures, banners) for event promotion.
+Manage event social media, create content, and interact with participants.
+Record and document event activities in the form of photos and videos.
+Compile event documentation reports and archive the results.
+Collaborate with other divisions to ensure the smooth running of the event and publicity.
+Kemampuan, Penghargaan, dan Kompetisi
+Soft Skills: Critical Thinking, Teamwork, Leadership, Decision Making, Problem Solving, Creative, Public Speaking, and Time
+Management.
+Hard Skills: UI/UX, Branding, Visual Design, Motion, Basic Frontend (HTML, CSS, JavaScript, Tailwind, Bootstrap 5)
+Tools: Figma, Adobe Family, Jira, ClickUp, VSCode, Whimsical, Miro, Maze, Framer

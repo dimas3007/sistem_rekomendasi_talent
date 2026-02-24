@@ -1,0 +1,39 @@
+{
+  "name": "Arthuro Michael Owen Sirumapea",
+  "email": "arthuromows@gmail.com",
+  "phone": "+62 82125731832",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Singaperbangsa Karawang University",
+  "hard_skills": [
+    "Figma",
+    "Prototyping",
+    "Testing",
+    "HTML",
+    "CSS",
+    "Maze"
+  ],
+  "soft_skills": [
+    "User Research",
+    "Design Thinking",
+    "Team Lead",
+    "Collaboration"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "From Beginner to Professional UI/UX Designer",
+    "Intermediate UI/UX Design Principle"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UX Researcher Intern",
+    "UI/UX Designer Intern"
+  ],
+  "industries": [
+    "Technology",
+    "Consulting"
+  ],
+  "location": "Depok"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Maulana Rizky Rahmadhani",
+  "email": "maulanarizkyr01@gmail.com",
+  "phone": "081235512559",
+  "education_level": null,
+  "education_major": "Informatics Engineering",
+  "university": "Universitas Amikom Yogyakarta",
+  "hard_skills": [
+    "Figma",
+    "FigJam",
+    "Miro",
+    "Adobe XD",
+    "Adobe Illustrator",
+    "Maze",
+    "Canva",
+    "Framer",
+    "Balsamiq"
+  ],
+  "soft_skills": [
+    "Creative Thinking",
+    "Effective Communication",
+    "Ability to work individually or in a team",
+    "Meticulous",
+    "Detail-oriented",
+    "Innovative"
+  ],
+  "years_experience": 0.5,
+  "certifications": [
+    "Bangkit Academy 2023 led by Google, GoTo, and Traveloka"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer Intern",
+    "UI Designer and Framer Developer",
+    "UI/UX Designer Intern"
+  ],
+  "industries": [
+    "IT Consultancy",
+    "Financial"
+  ],
+  "location": "Yogyakarta"
+}

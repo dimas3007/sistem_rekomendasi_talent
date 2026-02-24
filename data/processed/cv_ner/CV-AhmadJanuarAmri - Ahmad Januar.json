@@ -1,0 +1,49 @@
+{
+  "name": "Ahmad Januar Amriyansah",
+  "email": "ahmadjanuaramri2015@gmail.com",
+  "phone": "089630507889",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Unversitas Teknokrat Indonesia",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "TailwindCss",
+    "ReactJs",
+    "Bootstrap",
+    "Ms Office",
+    "Web desain",
+    "Pemrograman web",
+    "Desain tata letak website"
+  ],
+  "soft_skills": [
+    "Kemampuan memecahkan masalah",
+    "Kemampuan multitasking",
+    "Kemampuan dalam berpikir kritis",
+    "Mampu bekerja sama dalam tim",
+    "Kemampuan manajemen waktu",
+    "Berpikir logis",
+    "Komunikasi bahasa Indonesia",
+    "Komunikasi bahasa Ingrris"
+  ],
+  "years_experience": 0.17,
+  "certifications": [
+    "Competency for Office Administration",
+    "Competency for Graphic Design",
+    "MikroTik Training",
+    "Computer Network and Troubleshooting"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Sekretariat Praktik Kerja Lapangan(PKL)"
+  ],
+  "industries": [
+    "Transportation"
+  ],
+  "location": "Lampung"
+}

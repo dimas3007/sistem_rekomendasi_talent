@@ -1,0 +1,93 @@
+Puan Maharani
++6285269877675 / puanmaharani164@gmail.com / Medan, Indonesia
+TENTANG SAYA
+Mahasiswa Teknik semester 7 di Universitas Asahan yang memiliki rasa ingin tahu besar di bidang
+Teknologi dan Data. Aktif terlibat dalam berbagai project dengan peran yang beragam, membuktikan
+kemampuan beradaptasi dan menerapkan teori ke praktik nyata.
+PENDIDIKAN
+Universitas Asahan 2021 Sekarang
+Teknik Informatika IPK 3.45
+PENGALAMAN MAGANG
+SOKO Financial November 2024 - Februari 2025
+Team Leader IT Fullstack
+Memimpin pengembangan dan optimalisasi website dengan fokus pada dashboard user,
+integrasi chatbot, redesign tampilan, serta fitur WhatsApp direct link, yang berhasil
+mencapai 100% dari target OKR/KPI
+Mengelola tim IT lintas batch (Batch 8, dan 9), termasuk transfer knowledge, onboarding tim baru,
+serta alokasi tugas dan monitoring progres untuk memastikan keberlanjutan proyek pengembangan
+Berhasil memimpin tim menyelesaikan integrasi sistem pembayaran Midtrans dengan sukses,
+termasuk troubleshooting dan deployment ke production
+Memimpin koordinasi lintas divisi dengan tim UI/UX, HR, dan Product terkait workflow
+pengembangan website serta rekrutmen tim IT batch baru
+Membantu rekrutmen dan seleksi tim IT batch 9, termasuk wawancara kandidat,
+evaluasi kinerja intern, serta koordinasi dengan HR terkait job requirements
+Meningkatkan efisiensi dan dokumentasi kerja tim, dengan memastikan penggunaan repository
+GitHub yang terstruktur, dokumentasi kerja yang rapi, dan standarisasi workflow pengembangan
+Pojok MejaKursi Oktober 2024 Januari 2025
+Product Manager
+Merancang alur customer journey produk review CV dan merumuskan unique selling point
+yang relevan dengan audiens utama
+Mengembangkan copy brief strategis untuk mini website dan mengidentifikasi FAQ calon
+klien guna meningkatkan kemudahan akses informasi
+Meninjau dan merancang desain mini website secara komprehensif (halaman 1-3), dengan
+tujuan meningkatkan user experience dan kualitas visual yang diinginkan
+Rantangin Juli September 2024
+Assistant Operations Manager
+Mengembangkan sistem penjadwalan harian yang meningkatkan produktivitas tim hingga 80%,
+memastikan penyelesaian tepat waktu dari semua target project tiap divisi
+Menyusun dan mengelola dokumen divisi secara sistematis, yang mempercepat akses informasi
+dan meningkatkan efisiensi kerja tim
+Memastikan kelancaran operasional divisi dengan menangani kebutuhan teknis seperti, kebutuhan
+dokumen, distribusi notulen, scheduling meeting, dan daily reminder
+Menyampaikan laporan progres operasional secara rutin kepada Head of Operations
+Mengelola data kepegawaian untuk anggota tim internal dan intern, serta mendukung proses
+rekrutmen dengan menyaring kandidat, menjadwalkan wawancara, dan berkoordinasi
+dengan pihak terkait
+Web Developer Agustus 2024
+Berhasil mengimplementasikan migrasi website Rantangin menggunakan
+framework Next.js, yang berfokus pada efisiensi kinerja dan optimalisasi kecepatan loading
+Berhasil mengembangkan tampilan website pages Rantangin Karir sesuai dengan kebutuhan
+desain dan fungsionalitas menggunakan Tailwind CSS, untuk menghasilkan tampilan yang
+konsisten dan responsif
+Secara aktif bekerja sama dengan tim UI/UX Designer untuk memastikan setiap desain
+antarmuka website diimplementasikan sesuai dengan standar desain yang telah
+ditetapkan
+Candidate College Januari April 2024
+Co-head Web Development
+Berkoordinasi dengan Head Division dan stakeholder lintas divisi melalui regular meeting
+untuk merancang produk yang sejalan dengan kebutuhan bisnis Candidate College
+Mengelola tim dalam penyelesaian project menggunakan metode Agile/Scrum untuk
+memastikan pencapaian target tepat waktu sesuai dengan standar kualitas yang ditetapkan
+Mengawasi dan mengevaluasi kinerja staf menggunakan matriks penilaian berbasis KPI, serta
+memberikan umpan balik untuk pengembangan kinerja individu dan tim
+Menerima predikat excellent dengan skor 99.69 pada penilaian akhir masa magang sebagai
+penghargaan atas kontribusi signifikan dalam pengelolaan tim dan keberhasilan project
+Terpilih sebagai best co-head division selama masa magang berdasarkan penilaian atas keaktifan,
+kolaborasi, dan kemampuan menyelesaikan project tepat waktu
+UI/UX Designer
+Menganalisis kebutuhan user melalui riset user experience, termasuk wawancara, survei, dan
+analisis dari produk yang sudah ada
+Berhasil mengembangkan desain UI untuk project dashboard internal Candidate College dengan
+tingkat penyelesaian 99% sesuai timeline dan feedback positif dari user
+Berhasil melakukan redesign 11 halaman pada website Candidate College guna meningkatkan
+pengalaman pengguna dan efisiensi navigasi
+Berkoordinasi aktif dengan tim pengembang menggunakan trello dan channel internal untuk
+memastikan produk desain memenuhi kebutuhan project
+PENGALAMAN ORGANISASI
+Generation Girl Mei 2023 Mei 2024
+Leaders Medan
+Ditunjuk sebagai representasi Generation Girl di Medan, bertanggung jawab dalam memperluas
+jaringan komunitas dan mempromosikan inisiatif STEM di tingkat lokal
+Mendirikan komunitas STEM lokal dan membangun relasi dengan pihak pihak
+eksternal yang ada di daerah
+Mengelola tim untuk merancang, mempersiapkan, dan melaksanakan program STEM bulanan,
+termasuk workshop, seminar, dan pelatihan, dengan tujuan meningkatkan kesadaran dan
+partisipasi perempuan dalam STEM
+Berhasil menjangkau lebih dari 300 audiens dan participants melalui pendekatan secara
+digital, kerja sama komunitas, dan pelaksanaan acara
+KEAHLIAN
+KEAHLIAN PERANGKAT LUNAK Git, Github
+Microsoft Office KEAHLIAN BAHASA
+Google Workspace Indonesian (Mahir)
+Figma, Canva English (Menengah)
+Notion,Trello, Slack, Discord

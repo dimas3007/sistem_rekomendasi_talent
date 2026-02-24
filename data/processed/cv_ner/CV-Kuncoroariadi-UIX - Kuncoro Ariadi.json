@@ -1,0 +1,49 @@
+{
+  "name": "KUNCORO ARIADI",
+  "email": "kuncoroariadi@gmail.com",
+  "phone": "085336043745",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PWA",
+    "Accessibility",
+    "SEO",
+    "Figma",
+    "Adobe Photoshop",
+    "UI/UX Design",
+    "Wireframing",
+    "Design Thinking"
+  ],
+  "soft_skills": [
+    "Good teamwork",
+    "critical thinking",
+    "good decision making skills",
+    "leadership spirit",
+    "good time management"
+  ],
+  "years_experience": 2.58,
+  "certifications": [
+    "Best Capstone Project Dicoding Cycle 4 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "IT Support",
+    "Freelance UI/UX Club Community Facilitator",
+    "UI/UX Designer",
+    "Front-End Web Developer",
+    "Back-End",
+    "Chief of Advocacy Department",
+    "Member of Media And Communication Department"
+  ],
+  "industries": [
+    "IT",
+    "UI/UX Design"
+  ],
+  "location": "Surabaya"
+}

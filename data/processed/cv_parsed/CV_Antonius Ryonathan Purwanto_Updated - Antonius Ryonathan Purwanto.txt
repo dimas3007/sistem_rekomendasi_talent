@@ -1,0 +1,49 @@
+Antonius Ryonathan Purwanto
+Kota Bandung, Jawa Barat, Indonesia
+
+antoniusryo24@gmail.com
+https://www.linkedin.com/in/antoniusryonathanpurwanto/
+I am a fresh graduate in Informatics Engineering from Universitas Komputer Indonesia with a strong interest
+in User Experience (UX) Research, Design, and User Interface (UI). I enjoy brainstorming ideas and nding
+solutions to problems. I am highly motivated, communicative, and able to work both independently and as
+part of a team.
+Work Experience
+UI/UX Design PT. AccSEC Priority
+September 2023 - Oktober 2023 | Bandung
+- Conducting Research
+- Make a Website Design
+- Create a Company System Design
+- Hand over the design that has been made to the developer
+Education Level
+Universitas Komputer Indonesia
+Informatics Engineering 2020 - 2024
+- Learn basic HTML, CSS, JavaScript
+- Focus on Human-Computer Interaction
+- Creating Management Information System
+- I am studying the Software Development Life Cycle (SDLC) process to understand how software is planned,
+developed, tested, and maintained.
+My nal project focused on designing an interaction design for dyslexic children aged 6-11 to support social
+and emotional learning, based on the Individual Educational Program at the Child Development Center in
+Bandung. The project resulted in a native prototype of a platformer game designed to engage and interest
+dyslexic children.
+Startup Campus
+UI/UX Design Track 2023
+- Conducting user research to de ne goals.
+- Creating user personas, customer journey maps, and user stories based on user research.
+- Developing solutions based on user research and prioritizing them using metrics.
+- Analyzing information architecture and user ow.
+- Creating a design system and high- delity prototypes.
+- Conducting user testing using ISO/IEC 9241-11 metrics to measure effectiveness, ef ciency, and satisfaction.
+My nal project focuses on designing a user-friendly, trustworthy, and engaging dating application by
+applying the Design Thinking methodology. The goal is to enhance the user experience by understanding
+user needs, iterating on solutions, and ensuring an intuitive and enjoyable interaction.
+Skill
+User Experience Research
+User Experience Design
+User Interface Design
+User Testing
+Communication
+System Analyst
+Language
+Indonesian Fluent
+English Intermediate

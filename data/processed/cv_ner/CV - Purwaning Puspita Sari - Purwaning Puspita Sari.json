@@ -1,0 +1,35 @@
+{
+  "name": "Purwaning Puspita Sari",
+  "email": "purwaningpuspita2206@gmail.com",
+  "phone": "+62 857 8008 3116",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Muhammadiyah Purwokerto",
+  "hard_skills": [
+    "Data Cleansing",
+    "Python",
+    "Data Analysis",
+    "SQL",
+    "Statistics",
+    "Data Modelling",
+    "Microsoft Office (Word, Excel dan Powerpoint)",
+    "K-Means",
+    "Sum of Squared Error (SSE)"
+  ],
+  "soft_skills": [
+    "Good Communication Skills",
+    "Detail Oriented"
+  ],
+  "years_experience": null,
+  "certifications": [
+    "Project-Based Virtual Intern : Data Scientist ID/X Partners x Rakamin Academy (Juli 2023)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Data Scientist"
+  ],
+  "industries": [],
+  "location": "Kota Pekalongan"
+}

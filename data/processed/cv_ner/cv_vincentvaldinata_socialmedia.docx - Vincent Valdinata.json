@@ -1,0 +1,51 @@
+{
+  "name": "Vincent Valdinata",
+  "email": "VVALDINATA03@GMAIL.COM",
+  "phone": "0822 8975 8898",
+  "education_level": "S1",
+  "education_major": "Information Engineering",
+  "university": "ISB ATMA LUHUR",
+  "hard_skills": [
+    "Canva",
+    "Adobe Photoshop",
+    "Social Media Analytics",
+    "CapCut",
+    "Gmail",
+    "Google Workspace",
+    "Google Docs",
+    "Sheets",
+    "Microsoft Office"
+  ],
+  "soft_skills": [
+    "Social Media Management",
+    "Content Creation",
+    "Copywriting",
+    "Customer Engagement",
+    "Community Management",
+    "Public Speaking",
+    "Presentation",
+    "Event Planning",
+    "Coordination",
+    "Leadership"
+  ],
+  "years_experience": 1.33,
+  "certifications": [
+    "Android Development with Kotlin (Dicoding, 2024-2027)",
+    "Fundamentals of Artificial Intelligence (Dicoding, 2024-2027)",
+    "Alibaba Cloud Certification (2024-2026)",
+    "Junior Mobile Programmer (Digital Talent Scholarship, 2023)"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Information Technology Intern",
+    "Host"
+  ],
+  "industries": [
+    "Information Technology",
+    "Media"
+  ],
+  "location": "Pangkalpinang"
+}

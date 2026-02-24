@@ -1,0 +1,51 @@
+{
+  "name": "IRBA SAKILAH",
+  "email": "irbasakilah@gmail.com",
+  "phone": "62 82116723411",
+  "education_level": "S1",
+  "education_major": "Information Technology of Education",
+  "university": "UNIVERSITAS BRAWIJAYA",
+  "hard_skills": [
+    "Moodle",
+    "Web Server",
+    "Database",
+    "AR",
+    "UI/UX Design"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Communication",
+    "Teamwork",
+    "Problem-solving",
+    "Public Relations",
+    "Event Management",
+    "Financial Management",
+    "Curriculum Development",
+    "Digital Marketing"
+  ],
+  "years_experience": 2.08,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Archivist",
+    "Practicum Assistant",
+    "Project Manager",
+    "UX Designer",
+    "Curriculum Developer",
+    "Staff of Creative and Development",
+    "Head of Public Relation",
+    "Treasurer",
+    "Staff of Research and Development",
+    "Volunteer Of Public Relation",
+    "Staff of Creative",
+    "Head of Event Division"
+  ],
+  "industries": [
+    "Education",
+    "Technology",
+    "Non Government Organization"
+  ],
+  "location": null
+}

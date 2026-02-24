@@ -1,0 +1,44 @@
+{
+  "name": "Michael Dafa Bala Putra",
+  "email": "michaeldafa41@gmail.com",
+  "phone": "087762727245",
+  "education_level": null,
+  "education_major": "Law",
+  "university": "Universitas Gadjah Mada",
+  "hard_skills": [
+    "Ms. Office",
+    "Ms. Word",
+    "Ms. Excel",
+    "Ms. PowerPoint",
+    "Google Docs",
+    "Google Spreadsheets",
+    "Google Slides"
+  ],
+  "soft_skills": [
+    "leadership",
+    "communication",
+    "teamwork",
+    "problem-solving"
+  ],
+  "years_experience": 1.9166666666666667,
+  "certifications": [
+    "Microsoft Excell Basic",
+    "Microsoft Excell Intermediate"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Staff Legal Internship",
+    "Surveyor",
+    "Interview Zoom Operator",
+    "Election Supervisory Committee",
+    "Admin Proyek"
+  ],
+  "industries": [
+    "Legal",
+    "Politics",
+    "Construction"
+  ],
+  "location": "Yogyakarta"
+}

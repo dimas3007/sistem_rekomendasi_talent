@@ -1,0 +1,43 @@
+PUTRI INTAN OCTAVIA BR SIPAYUNG
+Surabaya, Indonesia|Email : putriintanss12@gmail.com|+6281319522067| Portfolio :
+https://bit.ly/PortfolioPutriIntans |Site : https://www.linkedin.com/in/putriintanobrs/
+Sixth-semester student majoring in Information Systems at UPN Veteran East Java. Passionate about UI/UX design and
+skilled in using Figma for creating user-friendly and visually appealing interfaces. Highly interested in data and actively
+developing expertise in data analysis. Proficient in Python and MySQL, with the ability to analyze data using tools such
+as Google Colab, Excel, Tableau, and Looker Studio. Possess a strong analytical mindset and problem-solving skills,
+with a commitment to continuous learning and personal growth.
+EDUCATION
+Universitas Pembangunan Nasional Veteran East Java August 2022 2026 (Expected)
+Bachelor of Information Systems, 3.80/4.00
+Relevant Courses : Algorithms, Databases, and Database Administration.
+EXPERIENCE
+Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Machine Learning August 2024 - December 2024
+Developed a capstone project to detect and diagnose plant diseases using Machine Learning with >97%
+accuracy, integrating solutions with Cloud Computing and Mobile Development.
+Top 50 Capstone winners in the Product Track, selected from hundreds of teams for project innovation and
+excellence.
+Alterra Academy X UN Women Indonesia Training UI/UX & Artificial Intelligence August 2024 - September 2024
+Completed training in UI/UX Design and AI, with a project focused on gender equality and women's
+empowerment aligned with the SDGs.
+Designed an app to empower women through tech training, mentorship, networking, and connecting talent
+with diverse and inclusive companies.
+ORGANIZATIONAL EXPERIENCE
+Member of Google Developer Student Club (GDSC) UPNVJT November 2023 - February 2024
+Become an active GDSC member who chooses the machine learning learning path.
+Attended the entire series of classes and successfully worked on the final project submission, namely Image
+Classification using Google Colab with model.fit until getting an accuracy of 0.984.
+Actively participated in seminars held by GDSC as a preparation for the careers needed by the IT world in the
+future.
+Certification and Course
+Machine Learning Specialization, Coursera Start Programming with Python (2024), Dicoding
+Learn Data Visualization (2024), Dicoding Introduction to Data Science with R (2024),
+DQLab
+Machine Learning for Beginners (2024), Python Fundamental with Data Science (2024),
+Dicoding DQLab
+DeepLearning.AI TensorFlow Developer, Fundamental SQL using Select Statement
+Coursera (2024), DQLab
+SKILLS
+Technical Skills: Programming Language (Python), Data Analysis (SQL, Google Colab, Microsoft Excel, Tableau,
+and Looker Studio), and Design (Canva, Draw.io, Power Point, and Figma).
+Soft Skills: Problem-solving and Decision-making, Adaptability and Flexibility, Team Collaboration.
+Languages: English and Indonesian.

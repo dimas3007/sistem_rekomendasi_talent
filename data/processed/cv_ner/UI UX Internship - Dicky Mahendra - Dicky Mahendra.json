@@ -1,0 +1,43 @@
+{
+  "name": "Dicky Mahendra",
+  "email": "dickymahndraa@gmail.com",
+  "phone": "+6287865755026",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "UNIVERSITAS TANRI ABENG",
+  "hard_skills": [
+    "Menganalisis data",
+    "Keterampilan dalam presentasi",
+    "Keahlian dalam membuat website",
+    "Xampp",
+    "Tableau",
+    "Cisco Packet Tracer",
+    "Draw.io",
+    "Microsoft Office"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Bertanggung jawab",
+    "Jujur",
+    "Disiplin",
+    "Mudah beradaptasi",
+    "Teliti"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Seminar Nasional Rekayasa Sains Dan Teknologi Penguatan Teknologi Guna Menyongsong Pembangunan IKN Untuk Indonesia Emas 2045",
+    "Pelatihan dasar pemrograman C++ Dilesin Academy"
+  ],
+  "languages": [
+    "Bahasa Inggris",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "KOORDINATOR HUMAN RESOURCE",
+    "KETUA PELAKSANA",
+    "MENTERI DALAM KAMPUS",
+    "KOORDINATOR PANITIA"
+  ],
+  "industries": [],
+  "location": "Jakarta"
+}

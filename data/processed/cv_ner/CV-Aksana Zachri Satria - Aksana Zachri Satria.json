@@ -1,0 +1,38 @@
+{
+  "name": "Aksana Zachri Satria",
+  "email": "aksanasatria@gmail.com",
+  "phone": "085157753658",
+  "education_level": "S1",
+  "education_major": "Information Technology",
+  "university": "Universitas Amikom Purwokerto",
+  "hard_skills": [
+    "Microsoft Office",
+    "Canva",
+    "Corel Draw",
+    "Photography",
+    "Figma",
+    "Miro"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Creativity",
+    "Teamwork",
+    "Organization"
+  ],
+  "years_experience": 2.58,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Broadcast",
+    "Desain Grafis"
+  ],
+  "industries": [
+    "Animation",
+    "Multimedia",
+    "Online Learning"
+  ],
+  "location": "Purwokerto"
+}

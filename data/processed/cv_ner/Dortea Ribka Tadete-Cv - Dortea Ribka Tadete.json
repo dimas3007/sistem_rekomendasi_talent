@@ -1,0 +1,42 @@
+{
+  "name": "DORTEA RIBKA TADETE",
+  "email": "dortearibkatadete17@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Sam Ratulangi",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "HTML",
+    "CSS",
+    "React.js",
+    "Tailwind CSS"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Adaptasi",
+    "Kolaborasi",
+    "Empati",
+    "Manajemen Waktu"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "UI/UX Designer",
+    "Front-End Developer",
+    "Program Studi Independ - Web Development",
+    "Magang - Web Development"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Web Development & UIUX Design",
+    "UIUX Designer",
+    "Frontend Developer",
+    "Event Creative",
+    "Event Creative"
+  ],
+  "industries": [],
+  "location": "Manado"
+}

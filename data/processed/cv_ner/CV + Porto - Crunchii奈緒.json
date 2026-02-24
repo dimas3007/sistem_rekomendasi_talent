@@ -1,0 +1,51 @@
+{
+  "name": "Muhammad Naufal Furqan",
+  "email": "crunchii@gmail.com",
+  "phone": "+62 813-5001-6474",
+  "education_level": "S1",
+  "education_major": "Information Technology",
+  "university": "University of Lambung Mangkurat",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "WordPress",
+    "CMS",
+    "Git",
+    "Kotlin",
+    "Google Ads",
+    "GTM",
+    "GA4",
+    "Figma",
+    "Canva",
+    "Photoshop"
+  ],
+  "soft_skills": [
+    "User Research",
+    "Visual Communication Design",
+    "Branding",
+    "Content Strategy",
+    "Copywriting"
+  ],
+  "years_experience": 1.25,
+  "certifications": [
+    "Magang MSIB at Kampus Merdeka",
+    "GEMASTIK Competition"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Designer & SEO/SEM Specialist",
+    "Front-End Developer",
+    "Brand Manager",
+    "Lead Artist & UI/UX Designer"
+  ],
+  "industries": [
+    "Information Technology",
+    "E-commerce"
+  ],
+  "location": "Banjarmasin"
+}

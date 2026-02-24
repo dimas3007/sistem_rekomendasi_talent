@@ -1,0 +1,59 @@
+Nina Noptrina
+Sumbawa, Nusa Tenggara Barat
+| 083112212684| ninanoptrina19@gmail.com |
+https://www.linkedin.com/in/nina-noptrina-641360245/|
+https://github.com/ninanoptrina19|Instagram: @nina_noptrina19
+PROFIL
+Lulusan Informatika yang memiliki pengalaman dalam pengembangan aplikasi web dan IoT, dengan keahlian dalam
+analisis sistem, manajemen proyek, dan pengembangan produk berbasis teknologi. Berpengalaman sebagai Backend
+Developer, mengelola database, API, dan optimasi sistem. Memiliki pemahaman tentang user experience, strategi
+produk, dan pengambilan keputusan berbasis data.
+PENDIDIKAN
+Universitas Alma Ata Yogyakarta (Agustus 2020- Agustus 2024)
+S1-Informatika (GPA 3.82)
+Mengembangkan kemampuan tentang pengolahan data, pemecahan masalah dan kemampuan berfikir logis
+dan analitis yang dapat di terapkan dalam menyelesaikan tugas administratif dan oprasional
+Kemampuan public spiking berkontibusi dalam kegiatan seminar prodi menjadi mc
+Kemampuan menggunakan alat desain seperti canva, figma dan capcut untuk mendukung kegiatan promosi
+produk, even, recrutmen dalam organisasi himpunan
+Menyelesaikan tugas akhir berupa sistem penjadwalan praktikum menggunakan algoritma FIFO (First In
+First Out) berbasis website, dengan adanya sistem ini menunjukan kemampuan dalam mengatasi
+permasalahan jadwal laboratorium yang sering bentrok
+PENGALAMAN
+Internship (Magang) (September 2023 Januari 2024)
+Pt. Baracipta Esa Engineering | Yogyakarta
+Sebagai Backend Develover memiliki tugas :
+Merancang dan mengelola database relasional untuk mendukung sistem manajemen perusahaan.
+Mengembangkan fitur manajemen inventaris, peningkatan keamanan, dan laporan kinerja menggunakan
+framework CodeIgniter 3, dengan mengimplementasikan operasi CRUD, validasi data yang kuat, serta
+integrasi API untuk memastikan integritas data.
+Mengimplementasikan integrasi real-time dan validasi data untuk memastikan akurasi informasi.
+Studi Independen Bersertifikat IoT Engineer Camp kampus merdeka (online) (Agustus -Desember 2022)
+Pt. Ozami Inti Sinergi (indobot academy) | Yogyakarta
+Mampu menyelesaikan projek IoT yaitu membuat auto feeder cat (pakan otomatis kucing)
+Mengintegrasikan perangkat IoT dengan aplikasi mobile untuk pemberian makan otomatis.
+Merancang antarmuka pengguna yang intuitif dengan fitur monitoring real-time.
+Kemampuan menggunakan Trello untuk alat kolaborasi team untuk mengatur proyek
+ORGANISASI
+Himpunan Mahasiswa Informatika (Himatik)- Divisi Ekonomi (Maret 2020-Januari 2023)
+Bertanggung jawab dalam pengelolaan dana kas organisasi untuk mendukung keberlangsungan program
+kerja dan kegiatan internal. Merancang dan mengimplementasikan kegiatan kewirausahaan, seperti penjualan
+produk, untuk meningkatkan pendapatan organisasi secara signifikan. Melakukan pencatatan rinci atas
+pemasukan dan pengeluaran dana serta menyusun laporan keuangan menggunakan Microsoft Excel. Berhasil
+meningkatkan keuntungan kas organisasi melalui penerapan strategi kewirausahaan yang inovatif dan efektif.
+Bekerja secara kolaboratif dengan tim dalam merancang, melaksanakan, dan mengevaluasi program ekonomi
+untuk memastikan keberhasilan operasional.
+KETERAMPILAN
+Hard skill Soft skill
+Analisis dan Desain Sistem Manajemen Data: Kemampuan Analisis dan Penyelesaian Masalah
+MySQL, Laragon Manajemen & Komunikasi: Problem Solving,
+Pengembangan Backend: PHP, CodeIgniter Teamwork, Project Management.
+IoT dan Microcontroller: Arduino, Blynk
+Microsoft Office: Word, Excel, PowerPoint
+SERTIFIKAT
+BNSP Certification: Office Applications (2024)
+Sertifikasi kompetensi dalam pengelolaan aplikasi perkantoran, termasuk penggunaan Microsoft Office
+(Word, Excel, PowerPoint) dan optimasi alat digital untuk mendukung produktivitas kerja.
+Finalis, Kompetisi KNMIPA Nasional, 2022
+Sertifikat Penyelesaian, Program IoT Kampus Merdeka (Indobot Academy), 2022
+E-Certif SC Digital Marketing Fundamental MySkill 2024

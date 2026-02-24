@@ -1,0 +1,80 @@
+Romi Patria Sanjaya
+MAHASISWA
+PROFIL
+Mahasiswa Matematika dengan ketertarikan yang kuat dalam analisis data pemograman, dan pengajaran.
+Memiliki dasar yang solid dalam statistik dan alat analisis seperti Python, R, SPSS dan Excel dan Ilmu
+Matematika. Berpengalaman dalam melakukan penelitian regresi dan mengajar, dengan semangat untuk
+belajar dan berkembang di bidang data dan pendidikan, berkontribusi untuk perspektif yang optimal.
+Nomor: Email: LinkedIn:
++62 831-5156-5875 romipatria4401@gmail.com linkedin.com/in/romi-patria-
+sanjaya
+PENDIDIKAN
+Matematika Fakultas Sains dan Teknologi | 2026-2030
+UIN Sunan Gunung Djati, Bandung
+Mata Kuliah Relevan: Aljabar Linear, Kalkulus, Statistika, Pemrograman Python, Pemrograman R,
+Teori Peluang, Metode Numerik, Matematika Diskrit, Struktur Data, Logika Matematika, Analisis
+Regresi dan Korelasi, Statistika Non-Parametrik, Desain dan Analisis Algoritma.
+IPK : 3,60.
+PROYEK PENELITIAN
+Words Cluster Analysis using CLARANS Algorithm (english translation of the Qur'an)| 2024
+Matematika, Fakultas Sains dan Teknologi
+Melakukan Clustering dari basis data yakni translasi Al-Qur'an berbahasa Inggris terhadap kata,
+Menggunakan metode Word2vec dalam pengerjaannya,
+Menggunakan software Latex dan Python untuk interpretasi Hasil,
+Digunakan dalam International Invention Competition for Young Moeslim 2024.
+PENGALAMAN KERJA
+Supervisor dan Tutor Matematika
+Bimbel AbdiAjar
+Melakukan pembahasan modul ujian yang diberikan oleh pihak penyelenggara,
+Melakukan evaluasi penilaian metode pengajaran dari setiap tutor dan report,
+Melakukan tracking, evaluasi dan konsultasi dengan peserta bimbel untuk mata uji Matematika.
+Data Analyst Intern
+PT. Indorama Polycem Indonesia (IPCI)
+Melakukan penelitian terhadap data T'PUT, Jumlah Produksi dan data KwH yang digunakan,
+Menggunakan metode analisis regresi linear berganda pada software excel,
+Memperoleh interpretasi penelitian kecenderungan bersinggungan dengan variabel independen,
+Proyeksi lanjutan dengan menggunakan software SPSS untuk evaluasi hasil.
+Tutor Matematika
+Superprof
+Membuat bahan ajar dengan silabus pengajaran yang disesuaikan dengan sekolah peserta didik,
+Membuat progres belajar dan report pembelajaran siswa setiap selesai mengajar,
+Melakukan evaluasi dan konsultasi dengan orang tua siswa terkait hasil belajar siswa.
+PRESTASI
+Medali Emas Matematika Perguruan Tinggi Olimpiade Pelajar Indonesia (PILAR) 2024,
+Medali Perak International Invention Competition for Young Moeslim (IICYMS) 2024 Kategori
+Computer Science,
+Duta Keterbukaan Informasi Publik UIN Sunan Gunung Djati 2024
+KURSUS DAN PELATIHAN
+Information and Communication Technologies (ICT) Kelas Microsoft Excel UIN Sunan Gunung Djati,
+Short Class DQLAB Fundamentals Data Science,
+Mini Course Job Connector Data Analyst Batch 1,
+Sekolah Pasar Modal Bursa Efek Indonesia (BEI),
+Online Class and Task Webflow 101 Universitas Webflow
+KEAHLIAN
+Google Ads,
+Microsoft Excel,
+Problem Solving (Basic),
+Pemograman Python,
+Webflow 101,
+Pemograman R,
+Financial Analysis,
+Pemograman SQL,
+Pemograman Java.
+Pemograman SPSS,
+Microsoft Word,
+Canva,
+PENGALAMAN ORGANISASI
+Dewan Eksekutif Mahasiswa Fakultas Sains dan Teknologi 2022-2023
+Pengembangan Aparatur Organisasi (PAO)
+Melakukan peninjauan dan pengawasan terhadap internal dan setiap Himpunan Mahasiswa
+Jurusan,
+Bertugas sebagai fasilitator rapat dan musyawarah mahasiswa,
+Mengadakan Forum Pelatihan Kepemimpinan Saintek Leadership Development Camp (SLDC) 2023,
+Stabilitator Organisasi.
+Bandung Care Community Batch 6
+Ketua Umum
+Memimpin 46 Orang Anggota dalam organisasi yang bergerak pada ranah Sosial dan Pendidikan
+se-Bandung Raya,
+Bertanggungjawab dalam memberikan keputusan dan bertindak untuk mementingkan
+kemashlahatan orang banyak,
+Sebagai Inisiator Sekolah Cerdas Bandung 2024.

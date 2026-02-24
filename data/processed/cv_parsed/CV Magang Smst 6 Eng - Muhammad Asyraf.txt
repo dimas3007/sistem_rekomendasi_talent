@@ -1,0 +1,67 @@
+Muhammad Asyraf
+A 6th semester Informatics student at UPN Veteran Jawa Timur who has an interest in Website Development . Active in
+various external organizations to develop Collaboration , Problem Solving , Leadership and Communication skills . In
+addition, I also enrich my learning experience by participating in training and certification , strengthening my
+understanding in using programming languages and frameworks such as PHP, Javascript, Typescript, ReactJS,
+ExpressJS, and Laravel .
+Surabaya, East Java | mohasyraf28@gmail.com | +6281357251810 | linkedin.com/in/muhammad-asyraf28/
+EDUCATION
+Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka Sep 2024 Dec 2024
+Cloud Computing Learning Path. GPA 92.4 out of 100
+Relevant Classes: Learn Basic Web Programming by Dicoding, Learn Basic Javascript Programming by
+Dicoding, Learn to Create Back-End Applications for Beginners with Google Cloud by Dicoding.
+Completed the capstone project, PlantRo, a crop rotation recommendation application based on soil and climate
+conditions. Where I played a role in creating APIs with Express.JS and configuration on the Cloud Computing
+side on Google Cloud Platform.
+Universitas Pembangunan Nasional Veteran Jawa Timur Aug 2022 Present
+Bachelor of Informatics student. GPA 3.95 out of 4.00
+Relevant Classes: Web Programming, Software Engineering, Systems Analysis and Design, Interface Design.
+Actively participates in several communities including Global Language Club, Informatics Learning Club, and
+GIND.
+ORGANIZATIONAL EXPERIENCE
+Forum Mahasiswa dan Alumni Mahasiswa Magetan Sep 2024 Present
+Head 3 Integration
+Leading 3 divisions namely Documentation & Design, Public Relations & Publication, Information Technology.
+Responsible for developing and managing the organization's website to improve access to information and
+transparency of activities.
+Successfully organized Magetan Campus Expo 2025, a major event involving various universities and participants
+from all over Magetan
+Ikatan Mahasiswa Magetan di Surabaya Jan 2024 Jan 2025
+Chairman
+Building and leading an organization with 32 members from various universities in Surabaya.
+Forming a Magetan student community in Surabaya with 226 members as a forum for networking and self-
+development.
+Developing organizational websites using HTML and CSS, as well as feature development plans on the Backend
+side.
+Conduct monitoring and evaluation of the performance of each division to ensure consistency in carrying out
+tasks.
+TRAINING & CERTIFICATION
+International Web Developer Bootcamp Jun 2024 Sep 2024
+SmartPath
+Learning Topics: HTML, CSS, VCS/GIT, Javascript, Typescript, ReactJS, Redux, Database (MySQL &
+MongoDB), NodeJS for Rest API, ExpressJS.
+Developing a website called Recycraft, a marketplace and marketing website for waste crafts as well as an effort
+to implement SDGs 9. Where I play a backend role to develop APIs with Express.JS.
+Pelatihan Bidang Teknologi dan Informasi 2024 (Laravel For Beginner) Jul 2024 Jul 2024
+Informatics Student Association of UPN Veteran Jawa Timur
+Learning Topics: HTML, CSS, Bootstrap, PHP, Laravel, MySQL.
+Creating a restaurant cashier administration website called Cash Flow where there are user authentication features
+and CRUD to manage products. In development using Laravel technology with the help of Bootstrap for the
+frontend and MySQL database.
+Pelatihan Bidang Teknologi dan Informasi 2023 (Web App Interactive) Nov 2023 Dec 2023
+Informatics Student Association of UPN Veteran Jawa Timur
+Learning Topics: HTML, CSS, Bootstrap, Javascript, Rest API & Deployment.
+The Final Project assignment is a website application called Insak (Inspirasi Masak), where the main feature of the
+application is to provide cooking recommendations based on the main ingredient category. Development using
+Bootstrap technology and Rest API implemented with Javascript.
+Junior Web Developer (BNSP) Jul 2023 Aug 2023
+Vocational School Graduate Academy Digital Talent Scholarship 2023
+Learning Topics: HTML, CSS, Bootstrap, PHP, MySQL.
+Developing a news portal website as a requirement for passing BNSP certification. The website was developed
+using HTML, CSS, Bootstrap and PHP technology, and MySQL as a database.
+SKILL & LANGUAGE
+Hard Skills: HTML, CSS, Javascript, PHP, Bootstrap, Typescript, NodeJS, ReactJS, ExpressJS, Laravel, Git & Github,
+MySQL, MongoDB, Google Cloud Computing.
+Soft Skills: Communication, Teamwork, Problem Solving, Time Management, Leadership, Critical Thinking, etc.
+Language: Indonesian (Native), English (Intermediate).
+Portfolio Link: portfolio.rafsite.com

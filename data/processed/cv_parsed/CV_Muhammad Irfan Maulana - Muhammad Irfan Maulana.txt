@@ -1,0 +1,49 @@
+Muhammad Irfan Maulana
+Samarinda, Kalimantan Timur | Linkedin | Email | WA | Portofolio | Github
+PROFILE
+I am a tech enthusiast who have a strong commitment to continuous learning and innovation, and specializing
+in UI/UX design and digital business website programming, with a strong commitment to continuous learning
+and innovation. I am passionately at UI/UX Designer, Web Developer, and Database Management System.
+Currently, Currently I am pursuing a computer science degree.
+KEY SKILLS & COMPETENCIES
+Skillset Analytical Skills, Flexibility, Problem Solving, Time Management, Communication
+Toolset VSCode, MySQL, Github, Figma, Figjam, Microsoft Word
+Programming HTML, CSS, Python, SQL, PHP.
+LANGUAGE
+Indonesian Native Proficiency (oral and written)
+English Advance
+EDUCATION
+Mulawarman University August, 2022 Present
+East Kalimantan
+Faculty of Engineering / Information System
+Activities: Colleger
+State High School 1 Tanjung Selor 2019 2022
+Natural Science Department
+ORGANIZATIONAL EXPERIENCES
+Information Systems Student Association (INFORSA) Feb Dec 2023
+Mulawarman University
+Member of the Scientific Division of the Department of Talent & Scientific Interest
+Information System Event (INSEVENT) Dec 2023
+Mulawarman University
+Member of Equipment Division
+EXPERIENCE
+Renewable Energy Analysis website creation project Apr 2024
+Designer and Developer
+Used HTML, CSS, SQL, JavaScript, Framework, and PHP for front-end and
+back-end development.
+Designing a Mobile Bus Booking Apps in Figma Apr 2024
+Designing user-friendly UI bus booking mobile apps.
+Implement features such as ticket booking, e-wallet integrated payment.
+Design the application and user flow using figma.
+Clinical Patient Data Management Application Using Java Dec 2023
+Develop a simple patient data record management application using Java.
+Implement CRUD (Create, Read, Update, Delete) functions for clinical patient data management.
+LICENSE AND CERTIFICATION
+Basic Statistic and Data Visualization May 2023
+MySkill
+Introduction to Frontend short class Dec 2023
+MySkill
+Database Programming with SQL Dec 2023
+Oracle Academy
+Data Visualization Nov 2023
+Oracle Academy

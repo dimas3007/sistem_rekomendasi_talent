@@ -1,0 +1,42 @@
+{
+  "name": "Dinda Amilia",
+  "email": "amiliadinda14@gmail.com",
+  "phone": "+6281934245184",
+  "education_level": "S2",
+  "education_major": "Chemistry",
+  "university": "Universiti Sains Malaysia (USM)",
+  "hard_skills": [
+    "Microsoft Office (Word, Excel, Power Point, OneNote)",
+    "AutoCAD",
+    "Sketchup",
+    "Canvas",
+    "Data analysis",
+    "Electrochemical characterization (CV, CD, EIS)"
+  ],
+  "soft_skills": [
+    "Team Work",
+    "Public Speaking",
+    "Leadership",
+    "Communication",
+    "Analytical"
+  ],
+  "years_experience": 3.66,
+  "certifications": [
+    "Standardization and Training on Occupational Safety and Health (K3) for Laboratory Management (Physics, Chemistry, Biology) Basic UPT PP LIDA USU"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Task Force Engineer",
+    "English Secon Language Teacher",
+    "Laboratory Assistant"
+  ],
+  "industries": [
+    "Pharmaceutical",
+    "Education",
+    "Research"
+  ],
+  "location": "Medan"
+}

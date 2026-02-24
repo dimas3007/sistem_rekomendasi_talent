@@ -1,0 +1,44 @@
+{
+  "name": "Alhan Gahara Zunezar Siddik",
+  "email": "alhansiddik46@gmail.com",
+  "phone": "085288917675",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "University Gunadarma",
+  "hard_skills": [
+    "UI/UX Design",
+    "Logo Design",
+    "Figma",
+    "Basic HTML/CSS",
+    "Basic JavaScript",
+    "Adobe Illustrator",
+    "Microsoft Office",
+    "Visual Studio Code",
+    "PHP",
+    "HTML",
+    "CSS"
+  ],
+  "soft_skills": [
+    "Adaptability",
+    "Communication",
+    "Creativity",
+    "Teamwork",
+    "Fast Learner",
+    "Discipline",
+    "Good Time Management",
+    "Problem-solving"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Competence in Occupation of Junior Web Programmer"
+  ],
+  "languages": [
+    "English",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Design"
+  ],
+  "industries": [],
+  "location": "Jakarta Barat"
+}

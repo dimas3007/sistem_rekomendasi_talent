@@ -1,0 +1,36 @@
+{
+  "name": "Verena Ananda Christy",
+  "email": "vrnanda23@gmail.com",
+  "phone": "+6285786852410",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Universitas Kristen Duta Wacana",
+  "hard_skills": [
+    "Figma",
+    "PHP",
+    "Laravel",
+    "MySQL",
+    "Web Based Programming",
+    "Applied Integrated Programming",
+    "Web Content Management"
+  ],
+  "soft_skills": [
+    "user-centered design",
+    "problem-solving skills",
+    "communication"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "UI/UX in Product Design Independent Study Certificate"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Web Developer Internship",
+    "MSIB Participant UI/UX in Product Design"
+  ],
+  "industries": [
+    "Healthcare",
+    "Education"
+  ],
+  "location": "Yogyakarta"
+}

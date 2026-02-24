@@ -1,0 +1,44 @@
+{
+  "name": "Noviona Marathus Sholihah",
+  "email": "nmarathuss@gmail.com",
+  "phone": "0813-5504-5905",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Institut Teknologi Nasional (ITENAS)",
+  "hard_skills": [
+    "Laravel",
+    "MySQL",
+    "Bootstrap",
+    "React.js",
+    "Web Development",
+    "REST API",
+    "SCSS",
+    "CSS"
+  ],
+  "soft_skills": [
+    "Team Work",
+    "Problem Solving",
+    "Leadership"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Microsoft Office Specialist: Excel Associate (Office 2019)",
+    "IndonesiaNEXT Season 8 Best 1000 Talent",
+    "IndonesiaNEXT Season 7 Best 2000 Talent"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Internship Fullstack Website Developer",
+    "Advisor",
+    "General Secretary",
+    "Staff Of Finance",
+    "Staff"
+  ],
+  "industries": [
+    "Technology",
+    "Education"
+  ],
+  "location": "Bandung"
+}

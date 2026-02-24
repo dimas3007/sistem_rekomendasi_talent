@@ -1,0 +1,33 @@
+{
+  "name": "Suwito",
+  "email": "suwitogans@gmail.com",
+  "phone": "+62-857-0836-8357",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Pembangunan Nasional \"Veteran\" Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "C++"
+  ],
+  "soft_skills": [
+    "self-confidence"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Workshop Programming Front End With React",
+    "Pelatihan Bidang Teknologi Informasi"
+  ],
+  "languages": [
+    "Indonesian Language",
+    "English Language"
+  ],
+  "job_titles": [
+    "Contact Person"
+  ],
+  "industries": [
+    "Tourism"
+  ],
+  "location": "Surabaya"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Syifa Dwi Yulia Hasanah",
+  "email": "dwissyifa13@gmail.com",
+  "phone": "+62 877 7981 6474",
+  "education_level": "D3",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Telkom",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "HTML",
+    "MySQL",
+    "CSS",
+    "Bootstrap"
+  ],
+  "soft_skills": [
+    "Mampu bekerja sama dalam tim",
+    "bertanggung jawab",
+    "disiplin",
+    "time management"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Certificate of Completion Graphic Design Bootcamp"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Asisten Praktikum Desain Antarmuka Pengguna"
+  ],
+  "industries": [
+    "Education"
+  ],
+  "location": "Bandung"
+}

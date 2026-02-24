@@ -1,0 +1,49 @@
+{
+  "name": "Steven Kim Wijaya",
+  "email": "stevenkimwjayaa@gmail.com",
+  "phone": "081259244359",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi Bisnis",
+  "university": "Institut Sains Teknologi Terpadu Surabaya",
+  "hard_skills": [
+    "Microsoft office",
+    "Google Workspace",
+    "Jira",
+    "ClickUp",
+    "Miro",
+    "Figma",
+    "Adobe XD",
+    "PHP",
+    "Javascript"
+  ],
+  "soft_skills": [
+    "Kepemimpinan",
+    "Pemecahan Masalah",
+    "Kerja Tim",
+    "Komunikasi",
+    "Manajemen Waktu",
+    "Dapat Diandalkan",
+    "Berpikir Kritis",
+    "Solutif",
+    "Perencanaan"
+  ],
+  "years_experience": 0.67,
+  "certifications": [
+    "Awardee Magang dan Studi Independen Bersertifikat (MSIB) batch 7",
+    "Best internship MBKM batch II tahun 2024"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Magang Product Manager",
+    "Menteri Pengembangan Sumber Daya Mahasiswa",
+    "Wakil ketua",
+    "Koordinator Creative Media Digital"
+  ],
+  "industries": [
+    "Software House",
+    "Pendidikan"
+  ],
+  "location": "Sidoarjo"
+}

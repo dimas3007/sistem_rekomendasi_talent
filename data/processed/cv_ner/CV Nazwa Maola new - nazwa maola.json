@@ -1,0 +1,43 @@
+{
+  "name": "Nazwa Maola",
+  "email": "nazwamlaa@gmail.com",
+  "phone": "6285885472445",
+  "education_level": null,
+  "education_major": "Public Relations",
+  "university": "Universitas Pakuan",
+  "hard_skills": [
+    "Event Management",
+    "Writing skill"
+  ],
+  "soft_skills": [
+    "Public Speaking",
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Interpersonal skills"
+  ],
+  "years_experience": null,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "PR & Partnership divisi",
+    "Head of Division",
+    "Divisi Public Relations",
+    "Liasion Officer",
+    "Divisi Marketing",
+    "Kepala divisi Internal Public Relations",
+    "Kepala Divisi Acara",
+    "PR & Media Relations team lead",
+    "Public Relations Lead"
+  ],
+  "industries": [
+    "Public Relations",
+    "Marketing",
+    "Media Sosial",
+    "Event Organizer"
+  ],
+  "location": "Depok"
+}

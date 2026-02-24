@@ -1,0 +1,106 @@
+Huda Rasyad Wicaksono
+Bogor, Indonesia
++62895338089088 | hudarasyad123@gmail.com | LinkedIn | Github | Portofolio
+PROFIL
+Mahasiswa semester 6 Informatika UPN Veteran Jakarta dengan keahlian utama di bidang UI/UX dan
+front-end development. Telah menjalani 3 internship di bidang graphic design dan product design,
+masing-masing selama 4 bulan dan menjadi finalis pada ajang nasional PIMNAS 37. Dengan
+pengetahuan teknis yang kuat dan keterampilan interpersonal yang baik, saya mampu beradaptasi dengan
+berbagai klien. Saya berharap dapat memimpin tim penelitian dan pengembangan proyek dengan cakupan
+dan tanggung jawab yang lebih besar. Ke depannya, saya beraspirasi untuk terus berkembang sebagai
+profesional di bidang UI/UX.
+PENDIDIKAN
+Universitas Pembangunan Nasional Veteran Jakarta 2022 Sekarang
+Informatika IPK 3.81 Jakarta Selatan, Indonesia
+Mata kuliah yang relevan: Algoritma dan Pemrograman, Interaksi Manusia dan Komputer,
+Pemrograman Web, Pembangunan Perangkat Lunak Berorientasi Servis, Sistem Basis Data, Struktur
+Data.
+Menjabat sebagai Project Officer Competition Manager I di organisasi KSM Android yang berfokus
+kepada pengembangan SDM melalui perlombaan.
+PKM: menjadi ketua dari salah satu tim yang lolos pendanaan dari 3520 tim seluruh Indonesia.
+PIMNAS 37: mewakili UPNVJ dari 148 tim untuk mengikuti tahap akhir PKM dan bersaing dengan
+525 tim.
+PENGALAMAN
+KSM Android April November 2023
+Product Design Jakarta Selatan, Indonesia
+Mengumpulkan data melalui wawancara dengan 10 stakeholder untuk tujuan validasi.
+Mengolah hasil wawancara menjadi dokumen yang siap digunakan sebagai referensi dalam proses
+design thinking.
+Mengembangkan konsep desain perangkat lunak dalam tiga sprint selama enam bulan, diikuti oleh
+implementasi prototipe berdasarkan persyaratan yang telah disepakati.
+Mendesain dan mengembangkan antarmuka pengguna (UI/UX) yang memenuhi standar minimum
+variable product (MVP) dalam tujuh bulan.
+Startoops September Desember 2023
+Internship: Product Design Daring
+Membuat 2 Panduan Desain untuk produk e-book dan slide presentasi kelas, dengan menghasilkan
+peningkatan kepuasan pengguna hingga 15%.
+Menyusun spesifikasi desain produk untuk memberikan pedoman yang tepat kepada tim
+pengembangan produk.
+Memimpin inisiatif penciptaan 4 produk kartu dan permainan papan baru, guna mempercepat inovasi
+produk hingga 20%.
+KSM Android September Desember 2023
+Front-End Dev Jakarta Selatan, Indonesia
+Menyelesaikan dan menyempurnakan aplikasi Dignition pada platform website dalam waktu 7 bulan
+sesuai dengan target yang ditentukan.
+Mengintegrasikan konsumsi API dan bertanggung jawab terhadap fitur-fitur utama seperti arsip, study
+club (materi dan pembelajaran), serta CRUD (Create, Read, Update, Delete) pada fitur link.
+KEPEMIMPINAN & KEGIATAN
+KSM Android Februari Juni 2024
+Mentor UI UX Android Challengers Jakarta Selatan, Indonesia
+Menyusun dan mengajar silabus UI/UX dengan 6 pertemuan, mengelola jadwal, dan memastikan
+kesesuaian materi dengan tujuan Android Challengers.
+Membimbing 8 dari 10 tim dalam seleksi administrasi GEMASTIK, dari strategi hingga pengumpulan
+dokumen.
+KSM Android Maret Mei 2024
+Ketua Pelaksana Android Hackathon Jakarta Selatan, Indonesia
+Mencapai performa pelaksanaan Android Hackathon sebesar 142.13%.
+Memimpin 3 divisi untuk menyelenggarakan kegiatan hackathon berskala nasional yang sukses
+menarik 20 tim peserta (sekitar 83 orang), 3 tim terbaik dinobatkan sebagai juara.
+Mendapatkan sponsor Lion Parcel dan lebih dari 20 media partner.
+Menjalin kerja sama strategis dengan BEMF-IK sebagai mitra internal UPNVJ.
+PKM | PIMNAS 37 April Oktober 2024
+Ketua Tim Wicara Daring & Luring
+Memimpin pengembangan prototipe Wicara dengan memastikan pemanfaatan pendanaan
+Kemendikbudristek secara optimal sesuai rencana.
+Menyelesaikan penggunaan dana dan laporan 100% tepat waktu, sesuai ketentuan yang berlaku.
+Mengembangkan 25 konten untuk Instagram Wicara sekaligus mengelola seluruh aspek manajemen
+akun dan bertanggung jawab terhadap desain UI UX sebagai pedoman dalam pengembangan
+perangkat lunak.
+Mewakili UPNVJ dari 148 tim untuk mengikuti tahap akhir PKM dan bersaing dengan 525 tim.
+PROYEK
+Dignition 2024
+Product Design & Front-End
+Dignition merupakan projek yang diselenggarakan oleh KSM Android UPNVJ untuk membantu proses
+pembelajaran sehingga aplikasi ini masuk dalam Learning Management System (LSM). Aplikasi ini
+tersedia dalam bentuk mobile dan web.
+Wicara 2024
+UI UX
+Wicara hadir sebagai solusi dalam mengatasi Glossophobia yang dikembangkan untuk mengikuti ajang
+bergensi tingkat nasional PKM pada bidang karsa cipta dan berhasil meraih kesempatan sebagai finalis di
+PIMNAS 37 (tahap akhir PKM) yang dilaksanakan di Universitas Airlangga, Surabaya.
+TrashHero: Perancangan Aplikasi Edukasi tentang Sampah (Online) Berbasis Mobile 2023
+UI UX
+Proyek yang ditujukan untuk perlombaan FIK FAIR COMPETITION: UI UX dan dinobatkan sebagai
+juara 2. TrashHero memberikan solusi inovatif kepada masyarakat guna meningkatkan kesadaran
+terhadap permasalahan sampah melalui semangat gotong royong. Proyek ini dipicu oleh inspirasi dari
+pandangan Pandawara Group, yang menunjukkan bahwa para generasi muda memiliki peran vital sebagai
+agen perubahan.
+Dekstop Music Application (Inspired by Spotify) 2023
+UI UX & Front-End
+Music Application dikembangkan menggunakan bahasa Java yang berfokus pada GUI tampilan dekstop.
+aplikasi ini dikembangkan sebagai projek akhir UAS mata kuliah Pemrograman Berorientasi Objek.
+Dalam proses pengerjaannya kami menggunakan: Java language Miglayout, Flatlaf, PostgreSQL.
+PENGHARGAAN
+PKM-KC | PIMNAS 37 Agustus 2024
+Finalis, Program Kreativitas Mahasiswa Daring/Universitas Airlangga, Surabaya
+FKBM-IK: UI UX Agustus 2024
+Juara 3, Lomba Desain UI/UX Jakarta Selatan, Indonesia
+FIK FAIR COMPETITION 2023: UI UX November 2023
+Juara 3, Lomba Desain UI/UX Jakarta Selatan, Indonesia
+KETERAMPILAN DAN KETERTARIKAN
+Hard Skills: HTML, CSS, Javascript (Typescript), Java, Python, UI UX Desain, Figma, Adobe
+Photoshop, Visual Studio Code, Google Colab, Microsoft Office.
+Framework: ReactJS, Next.js, Express.js.
+Soft Skills: Kepemimpinan, kerja tim, komunikasi publik, pemecahan masalah, pendengar, manajemen
+konflik
+Bahasa: Indonesia, Inggris.

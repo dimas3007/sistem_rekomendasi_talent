@@ -1,0 +1,43 @@
+{
+  "name": "DINI SISKASARI",
+  "email": "dinisiskasari00@gmail.com",
+  "phone": "0895412238558",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Jenderal Achmad Yani Yogyakarta",
+  "hard_skills": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "MongoDB",
+    "MySQL",
+    "Figma",
+    "Microsoft Office"
+  ],
+  "soft_skills": [
+    "Kepemimpinan",
+    "Berpikir kritis",
+    "Kolaborasi tim",
+    "Komunikasi",
+    "Keterampilan analitis",
+    "Memecahkan masalah",
+    "Manajemen waktu",
+    "Berbicara di depan umum"
+  ],
+  "years_experience": 0.0,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Curriculum",
+    "Bendahara",
+    "Sekretaris 1",
+    "Sekretaris 2"
+  ],
+  "industries": [],
+  "location": "Yogyakarta"
+}

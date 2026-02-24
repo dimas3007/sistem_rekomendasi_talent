@@ -1,0 +1,54 @@
+{
+  "name": "Puan Maharani",
+  "email": "puanmaharani164@gmail.com",
+  "phone": "+6285269877675",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Asahan",
+  "hard_skills": [
+    "Git",
+    "Github",
+    "Microsoft Office",
+    "Google Workspace",
+    "Figma",
+    "Canva",
+    "Notion",
+    "Trello",
+    "Slack",
+    "Discord",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+  "soft_skills": [
+    "Team leadership",
+    "Communication",
+    "Coordination",
+    "Adaptability",
+    "Problem-solving",
+    "Agile/Scrum",
+    "Collaboration",
+    "Management",
+    "Recruitment",
+    "Workflow management"
+  ],
+  "years_experience": 0.66,
+  "certifications": [],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Team Leader IT Fullstack",
+    "Product Manager",
+    "Assistant Operations Manager",
+    "Web Developer",
+    "Co-head Web Development",
+    "UI/UX Designer"
+  ],
+  "industries": [
+    "Financial",
+    "Technology",
+    "Education"
+  ],
+  "location": "Medan"
+}

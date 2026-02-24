@@ -1,0 +1,47 @@
+{
+  "name": "Ardy Riyanto",
+  "email": "ardhy.riyanto@gmail.com",
+  "phone": "087887278990",
+  "education_level": "D4",
+  "education_major": "Teknik Industri Otomotif",
+  "university": "Politeknik STMI Jakarta",
+  "hard_skills": [
+    "AutoCAD",
+    "Inventor",
+    "ZW3D",
+    "SketchUp",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Powerpoint",
+    "Microsoft Visio",
+    "Canva",
+    "Adobe Photoshop",
+    "Adobe Illustrator"
+  ],
+  "soft_skills": [
+    "Disiplin",
+    "Bertanggung jawab",
+    "Komunikasi",
+    "Kerja sama",
+    "Motivasi"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Workshop ISO 9001:2015",
+    "Workshop ISO 14001:2015",
+    "Workshop ISO 45001:2018",
+    "Seminar Event Korea-Indonesia Construction & Industrial Machinery"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Kesekretariatan 1",
+    "Kepala Divisi Perlengkapan Sidang MTA",
+    "Engineering Departement"
+  ],
+  "industries": [
+    "Otomotif"
+  ],
+  "location": "Jakarta"
+}

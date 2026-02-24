@@ -1,0 +1,39 @@
+{
+  "name": "Aliya Rafida Zahra",
+  "email": "raraliya24@gmail.com",
+  "phone": null,
+  "education_level": null,
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Bina Sarana Informatika",
+  "hard_skills": [
+    "Ms.Office (Word, Excel, Power Point)",
+    "MySQL",
+    "Python",
+    "Draw.io",
+    "Odoo"
+  ],
+  "soft_skills": [
+    "Bertanggung jawab",
+    "Jujur",
+    "Disiplin",
+    "Rapi",
+    "Cekatan",
+    "Rajin",
+    "Bisa bekerjasama dengan tim",
+    "Kemampuan berkomunikasi",
+    "Berpikir logis",
+    "Kreatif",
+    "Public Speaking"
+  ],
+  "years_experience": 2.0,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Bendahara",
+    "Admin Media Sosial"
+  ],
+  "industries": [],
+  "location": "Kab. Bekasi"
+}

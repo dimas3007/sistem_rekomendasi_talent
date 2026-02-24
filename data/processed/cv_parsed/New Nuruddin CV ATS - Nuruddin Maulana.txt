@@ -1,0 +1,91 @@
+Nuruddin Abdurrahman Maulana, S.Kom
++62 813 8034 2116 | nuruddinam46@gmail.com
+linkedin.com/in/nuruddin-abdurrahman-maulana/
+Highly skilled Software Quality Assurance (SQA) Engineer with a proven track record of ensuring the delivery of
+exceptional software products. Expert in all phases of the Software Development Life Cycle (SDLC) with extensive
+knowledge of diverse testing methodologies, tools, and frameworks. Demonstrates exceptional problem-solving skills
+by identifying and resolving complex issues while collaborating seamlessly with cross-functional teams. Dedicated to
+optimizing processes, enhancing system reliability, and driving continuous improvement to deliver robust and user-
+centric software solutions that meet and exceed business goals.
+Working Experience
+Lembaga Nasional Single Window Feb 2024 Present
+Quality Assurance Engineer
+Developed Test Plans and Cases : Created and executed over 100 test case for new and existing product
+features,improving coverage and defect detection by 25%.
+Quality Automation Testing : Automated 80% of repetitive tests using Katalon Studio,reducing manual testing
+time by 40% and enhancing testing efficiency.
+Performance Testing : Conducted performance testing with JMeter, identifying and resolving critical
+bottlenecks that enhanced system resilience and boosted throughput by 30%.
+Black Box Testing Integration : Implemented Black Box Testing for 100% of core functionalities, ensuring
+compliance with user expectations and functional requirements.
+Documentation : Delivered detailed User Acceptance Test (UAT) documentation to streamline product
+releases and ensure alignment with user requirements.
+Oriental Aman Karpet Sep 2023 Okt 2023
+Search Engine Optimization Specialist
+Managed the company s website for improved user experienced and product visibility.
+Implemented SEO optimization strategies that increased search ranking and boosted product visibility by
+20%.
+Conducted online marketing campaigns through Google platforms and other media, enhancing customer
+engagement and reach.
+Tholabie Classic International Boarding School Jun 2019 Jun 2023
+IT Teacher
+Taught digital marketing concepts and tools to students, equipping them with practical, market-ready skills.
+Supervised and mentored 20+ vocational interns, providing real-world IT and digital marketing project
+experience
+Implemented modern IT tools, increasing student engagement and project completion rates by 15%
+Digital Marketing Instruction : Trained over 50 students in digital marketing strategies, equipping them with
+practical skills for the modern workforce.
+Enhancing Student Potential : fostered a collaborative and interactive classroom environment, helping
+students develop both technical and interpersonal skills that are essential for success in the IT industry and
+beyond.
+Education Level
+Brawijaya University Juni 2015 Des 2022
+Bachelor of Information Technology (GPA 2.96/4.00)
+Software Engineering : Gained expertise in software development principles, including design, testing, and
+maintenance. I am passionate about ensuring software reliability and functionality.
+Software Testing : Mastered testing techniques such as Black Box, White Box, and Automation Testing to
+improve software quality. I enjoy applying these methodologies to identify issues and optimize performance.
+Software Project Management : Acquired knowledge of the software project lifecycle, with a focus on quality
+management and timely delivery. I enjoy managing the planning and execution phases to ensure success.
+Software Quality Management : Focused on strategies and best practices for maintaining and improving the
+quality of software throughout its lifecycle. I enjoy ensuring that software meets the highest quality standards.
+Database Systems : Developed expertise in managing and testing data integrity in database-driven
+applications. I enjoy applying these skills to ensure robust, error-free data management.
+Organizational Experience
+Kampoeng Digipreneur, Malang Jan 2019 Aug 2022
+Marketing Online Division
+Volunteering as Volunteered as a Social Media Staff for a foundation, handling various responsibilities to
+promote the organization's mission and connect with its audience.
+Crafted engaging content to increase awareness and engagement, ensuring the foundation's presence was
+effectively communicated across social media platforms.
+Managed and optimized campaigns to enhance audience interaction, ensuring alignment with the foundation s
+goals.
+Skills and Language
+Technical Skills
+1. Software Testing & Quality Assurance
+o Test case creation and execution
+o Black Box, Smoke Testing, Regression Testing
+o Performance Testing (JMeter)
+o Automation Testing (Katalon Studio, Cypress, Playwright, Robotframework)
+2. Search Engine Optimization (SEO)
+o Keyword research and optimization
+o Website performance optimization
+o Backlink generation
+o Analytics and reporting
+3. Digital Marketing
+o Content marketing strategies
+o Online advertising and campaigns
+o Social media marketing
+o Google Ads management
+4. Programming & Scripting (Optional)
+o Basic scripting for automation (Python, Java, or Groovy, used in tools like Katalon)
+Soft Skills
+Problem Solving and Critical Thinking
+Team Collaboration and Communication
+Attention to Detail
+Time Management
+Analytical and Reporting Skills
+Project Management
+Language
+English : Basic (Toefl ITP : 497)
+Indonesian : Native

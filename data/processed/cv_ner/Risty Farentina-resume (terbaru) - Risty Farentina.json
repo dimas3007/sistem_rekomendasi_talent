@@ -1,0 +1,46 @@
+{
+  "name": "Risty Farentina",
+  "email": "ristyfarentina@gmail.com",
+  "phone": "089676432242",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "Graphic Design",
+    "Web Programming",
+    "Database Administration",
+    "UI Design",
+    "HTML",
+    "Javascript",
+    "PHP",
+    "CSS",
+    "Data Visualization",
+    "Data Analyst",
+    "Data Cleaning"
+  ],
+  "soft_skills": [
+    "Time Management",
+    "Teamwork",
+    "Leadership",
+    "Problem Solving"
+  ],
+  "years_experience": 2.33,
+  "certifications": [
+    "Certificate in RevoU x Kampus Merdeka Batch Aug'23 program by Ministry of Education"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Freelance UI Design",
+    "Graphic Designer",
+    "Graphic Design Intern"
+  ],
+  "industries": [
+    "Freelance",
+    "Retail",
+    "Creative Services",
+    "Education"
+  ],
+  "location": "Surabaya"
+}

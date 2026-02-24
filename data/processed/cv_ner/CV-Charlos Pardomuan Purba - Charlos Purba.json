@@ -1,0 +1,48 @@
+{
+  "name": "Charlos Pardomuan Purba",
+  "email": "charlospurba048@gmail.com",
+  "phone": "+6281218099848",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Del Institute of Technology",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "R",
+    "Java",
+    "PHP",
+    "JavaScript",
+    "SQL",
+    "Python"
+  ],
+  "soft_skills": [
+    "Machine Learning",
+    "Project Manager",
+    "communication",
+    "problem-solving",
+    "leadership"
+  ],
+  "years_experience": 1.08,
+  "certifications": [],
+  "languages": [],
+  "job_titles": [
+    "Website Developer Staff",
+    "Teaching Assistant Computer Networks",
+    "Teaching Assistant Probability and Statitics",
+    "iOS App Developer",
+    "Product Development",
+    "Student Leadership",
+    "Teaching Assistant Introduction to Engineering and Design",
+    "Teaching Assistant basic physics II",
+    "Teaching Assistant basic physics I",
+    "Speaker",
+    "Tour Escort",
+    "Assistant of Matriculation"
+  ],
+  "industries": [
+    "Technology",
+    "Education",
+    "Financial"
+  ],
+  "location": "Depok"
+}

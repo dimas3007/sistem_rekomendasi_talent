@@ -1,0 +1,88 @@
+Curriculum Vitae
+Azkhal Zavier (20)
+Depok, Jawa Barat | Phone: +62 81290475081 | Email: azkalzavier@gmail.com | Linkedin:
+https://www.linkedin.com/in/azkhal-zavier/ | Portfolio: https://azkhal.vercel.app/ - Canva
+SUMMARY
+Azkhal is an enthusiastic and dedicated Bachelor of Information Systems student at Gunadarma
+University. With a strong interest in Fullstack Web Developer and Software Engineering, he is actively
+honing his skills in MERN stack. Passionate about UX Research and UI Design and aims to leverage
+these skills to create dynamic and responsive web experiences. He demonstrates excellent problem
+solving skills and a collaborative mindset. Committed to continuing to follow the latest industry
+developments and provide a positive impact in the digital era. Apart from that, Azkhal has strong
+analytical and critical thinking skills, is able to work effectively in a team or independently, and has good
+time management. With extensive experience in practical projects and organizations, he is ready to face
+challenges and make significant contributions in the world of IT.
+EDUCATION
+Gunadarma University Depok, Indonesia Aug 2021 Present
+Undergraduate of Information System; Cumulative GPA: 3.60/4.00
+Passionate on the subject of Web Programming, Object Oriented Programming, and Structured
+Programming.
+Create a Frontend and Backend website-based fried chicken sales application with a group of
+classmates.
+Joined the Lepkom Course and Google Developer Student Club Community.
+EXPERIENCE
+Independent Study Full-Stack MERN Jan 2024 Present
+CODEPOLITAN Campus Coder by Devhandal Batch 2 Jarak Jauh
+1 year Fullstack Javascript Scholarship by being able to access specifically studying MERN
+technologies (MongoDB, Express, Reactjs and NodeJS).
+Improve capabilities in building complex and scalable modern web applications.
+Studying with industry experts with proven experience, makes it easier to learn accurately and quickly.
+Mentee - Web Developer & UI UX Design Feb 2024 Jun 2024
+Infinite Learning Independent Study by Kampus Merdeka Batch 6 Jarak Jauh
+Contribute to startup web application development from start to finish, including database design,
+backend development, and frontend design in the micro and massive startup project that we built,
+providing team efficiency of 20%.
+Conduct user research and usability testing to identify and resolve UX issues.
+Learn web developer knowledge that focuses on Fullstack MERN, equipped with knowledge of UX
+Research and UI Design, as well as learning the Scrum framework into real cases.
+Tax Center Assistant IT Team Apr 2024 Present
+Gunadarma University Paruh Waktu
+Develop and maintain mobile applications for calculating HPP (Harga Pokok Penjualan) using Flutter
+integrated with Firebase.
+Manage backend integration using Firebase for real-time data storage, authentication, and seamless
+application functionality.
+Collaborate with team members to align application features with organizational needs and Tax Center
+objectives.
+Given responsibility for maintaining the tax center website to update the appearance, data and content
+regularly.
+Mentee Fullstack Software Development Sept 2024 Des 2024
+Productzilla Independent Study by Kampus Merdeka Batch 7 Jarak Jauh
+The program includes in-depth discussions on Frontend Engineering, Backend Engineering, and
+UI/UX Design.
+Collaborated with team as Frontend PIC using Nextjs, Typescript and Tailwind CSS.
+Update the appearance of the website and villa data, as well as consume the API that has been created
+by the Backend.
+ORGANIZATIONS
+Member - Google Developer Student Club Gunadarma Oct 2021 Oct 2023
+Attend events covering topics such as Web Development, Android development, UI/UX Design,
+Machine Learning, and Cloud Technologies.
+Use the opportunity to network with students and professionals in the technology field, exchange
+information, and gain insight into industry trends.
+Become part of a dynamic and supportive community that encourages learning and innovation.
+CERTIFICATIONS & TRAINING
+Nov 2023 : Workshop Basic Web Development by Dunia Coding.
+Nov 2023 : Workshop Front End Developer by Dunia Coding.
+Dec 2023 : Belajar Dasar Pemrograman Web by Dicoding Academy.
+Dec 2023 : Belajar Dasar Pemrograman JavaScript by Dicoding Academy.
+Dec 2023 : Belajar Membuat Front-End Web untuk Pemula by Dicoding Academy
+Dec 2023 : HTML Dasar (Gold) by Skilvul.
+Dec 2023 : CSS Dasar (Gold) by Skilvul.
+Dec 2023 : Fundamental Course Software Engineering by RevoU.
+Jan 2024 : Certified Developer by Alibaba Cloud
+Mar 2024 : Sertifikat Kelas Belajar Dasar HTML by CODEPOLITAN
+Mar 2024 : Sertifikat Kelas Belajar Dasar CSS by CODEPOLITAN
+Mar 2024 : Sertifikat Kelas Belajar Bootstrap by CODEPOLITAN
+ADDITIONAL
+Programming Language: HTML5, CSS3, Bootstrap 5, Tailwind CSS, Javascript, PHP, Reactjs,
+Nextjs, Dart, Flutter, SQL.
+Tools: Microsoft Office (Word, Excel, PowerPoint), Figma, Canva, Github, Visual Studio Code,
+Notepad++, Wordpress.
+Soft skills: Collaborative, Communicative, Teamwork, User Empathy, Problem Solving, Time
+Management, Analytical Thinking, Critical Thinking, Continuous learning, Receptiveness to Feedback.
+Hard skills: Web Design, Front-End Engineer, Version Control/Git, Front-End Frameworks, UX
+Research, UI Design, Slicing UI, Project Management.
+RELEVANT SUBJECTS
+Web Programming (HTML, CSS) Grade: A (95+ of 100)
+JavaScript Grade: On Going
+Framework (Reactjs, Bootstrap, Tailwind) Grade: On Going
+Object Oriented Programming (PHP) Grade: On Going

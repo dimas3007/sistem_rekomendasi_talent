@@ -1,0 +1,62 @@
+[
+  {
+    "cv_id": "Curriculum Vitae Deandra - deandra enzo",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\Curriculum Vitae Deandra - deandra enzo.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV - Jauza Dhiya",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV - Jauza Dhiya.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV - Novia Fitdini",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV - Novia Fitdini.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV Agil Meylani - 2024 - Agil Meylani",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV Agil Meylani - 2024 - Agil Meylani.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV Amelia Sauda Kinanti - Amelia Sauda Kinanti",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV Amelia Sauda Kinanti - Amelia Sauda Kinanti.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV Riyando Rajagukguk - riyando rgg",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV Riyando Rajagukguk - riyando rgg.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV_APRIYANI PATRICIA MANURUNG - Apriyani Patricia",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV_APRIYANI PATRICIA MANURUNG - Apriyani Patricia.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV_Muhammad Alief Adhitya Pratama - Lip",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV_Muhammad Alief Adhitya Pratama - Lip.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV_MUTIARA - Mutiara",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV_MUTIARA - Mutiara.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "CV_Rufaidah Haunan - Rufaidah Haunan",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\CV_Rufaidah Haunan - Rufaidah Haunan.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "partofme - Teresia Aritonang",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\partofme - Teresia Aritonang.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  },
+  {
+    "cv_id": "RESUME - NINDYA ALITA ROSALIA - Nindya Alita Rosalia",
+    "stage": "parsing",
+    "error": "Error parsing G:\\Study\\USB\\_S1\\Skripsi\\_app\\sistem_rekomendasi_talent\\data\\raw\\cvs\\RESUME - NINDYA ALITA ROSALIA - Nindya Alita Rosalia.pdf: Unable to get page count. Is poppler installed and in PATH?"
+  }
+]

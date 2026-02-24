@@ -1,0 +1,47 @@
+{
+  "name": "Alya Maisa Hudanis",
+  "email": "alyamaisa8@gmail.com",
+  "phone": "+6285815889331",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Universitas Brawijaya",
+  "hard_skills": [
+    "Java",
+    "Web development (HTML, CSS, JavaScript, PHP)",
+    "Figma",
+    "DBMS",
+    "BPMN",
+    "Archimate",
+    "Android",
+    "Flutter"
+  ],
+  "soft_skills": [
+    "Communicate well",
+    "Work in a team",
+    "Problem-solving",
+    "Time management",
+    "Adaptability",
+    "Leadership"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Complete User Interface Design: Visual Design, Prototype, Usability Test by BuildWithAngga",
+    "Project Management Fundamentals by IBM",
+    "Database Design and Programming with SQL by Oracle Academy",
+    "Memulai Pemrograman dengan Dart by Dicoding",
+    "Belajar Dasar AI by Dicoding",
+    "Share Data Through the Art of Visualization by Cousera"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Laboratory Practicum Assistant - Database System",
+    "Vice Head of Marketing and Communication Division - UI/UX Designer",
+    "Head of Competition Division",
+    "Competition Division Staff",
+    "Intership Staff"
+  ],
+  "industries": [],
+  "location": "Malang"
+}

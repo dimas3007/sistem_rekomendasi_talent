@@ -1,0 +1,54 @@
+{
+  "name": "Astri Yuliana Siahaan",
+  "email": "astrisiahaan03@gmail.com",
+  "phone": "081265400675",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Del Institute of Technology",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "C",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "SQL Server",
+    "PostgreSQL",
+    "MongoDB",
+    "Oracle",
+    "Figma",
+    "Visual Studio Code",
+    "Github",
+    "Jupyter Notebook",
+    "Ubuntu",
+    "Laravel"
+  ],
+  "soft_skills": [
+    "Creative and Innovative",
+    "Teamwork",
+    "Problem-Solving",
+    "Meticulous",
+    "Organized",
+    "Time Management",
+    "Critical Thinking",
+    "Active Listening",
+    "Empathy",
+    "Responsibility"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Cloud Data Analysis Specialty Certification",
+    "Dicoding Certificate"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Fullstack Developer"
+  ],
+  "industries": [
+    "Digital Technology"
+  ],
+  "location": "Balige"
+}

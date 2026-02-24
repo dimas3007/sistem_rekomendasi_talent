@@ -1,0 +1,47 @@
+{
+  "name": "RIFAT SULTHON",
+  "email": "rifatsulthon00@gmail.com",
+  "phone": "081316030516",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Esa Unggul",
+  "hard_skills": [
+    "Desain UI/UX",
+    "Product Management",
+    "Figma",
+    "Trello",
+    "HTML",
+    "CSS",
+    "Microsoft Office",
+    "Git",
+    "Github",
+    "React"
+  ],
+  "soft_skills": [
+    "Penyelesaian Masalah",
+    "Berpikir Kritis",
+    "Komunikasi",
+    "Kreatif",
+    "Kerjasama Tim",
+    "Teliti",
+    "Disiplin",
+    "Rapi"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "UI/UX Designer",
+    "Front-End Web and React Developer",
+    "Product Management"
+  ],
+  "languages": [
+    "Inggris",
+    "Indonesia"
+  ],
+  "job_titles": [
+    "Koordinator Divisi Perlengkapan",
+    "Koordinator Divisi Pemilihan Umum Fakultas",
+    "Staf Divisi Pendidikan, Riset, dan Teknologi"
+  ],
+  "industries": [],
+  "location": "Jakarta"
+}

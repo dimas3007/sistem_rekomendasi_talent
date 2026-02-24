@@ -1,0 +1,42 @@
+FARID RIEZIQ
+Sleman, Daerah Istimewa Yogyakarta, 55292 | faridrieziq12@gmail.com | +62857-2113-1542
+A final-year Informatics student passionate about UI/UX design, skilled in using Figma to create
+intuitive and user-friendly interfaces. With a strong foundation in design principles and academic
+projects in web development, I am eager to apply my skills and gain hands-on experience in a dynamic
+and collaborative environment while continuing to grow as a UI/UX designer.
+EDUCATION
+Universitas Teknologi Yogyakarta Expected Graduation May 2025
+Bachelor of Informatics (Final course: Undergraduate Thesis)
+GPA: 3.78/4.0
+Relevant Coursework: Front-End Design, Web and Mobile Development, Web Engineering,
+Mobile and Web Services, Software Design Methodology, Responsive Mobile Technology
+SMAN 1 Indramayu Graduated: 2021
+Science Major (IPA)
+ACTIVITIES
+Universitas Teknologi Yogyakarta
+Community Service Research and Technology Division (Divisi Ristek) February 2024
+Contributed to a community service program in Dusun Jlapan, Padukuhan Pondokrejo, Sleman
+Regency, Yogyakarta, Indonesia.
+Responsible for creating presentation materials (PowerPoint) to effectively deliver information to
+the community.
+Designed the User Interface (UI) for the village profile website, ensuring it was visually
+appealing, easy to navigate, and catered to the needs of the local community.
+UNIVERSITY PROJECTS
+FOOD TRAIN ANDROID BASED FOOD ORDERING SYSTEM
+Collaborated in a team of four to develop a food ordering application using Django and Android
+Studio.
+Led the design and implementation of the User Interface (UI), including home screen, food and
+drink menu, item details, cart, and checkout pages, ensuring an intuitive and user-friendly
+experience.
+MYCLINIC CLINIC MANAGEMENT SYSTEM
+Collaborated in a team to design and develop a clinic management system aimed at streamlining
+administrative tasks and enhancing patient services.
+Contributed by designing the User Interface (UI), focusing on usability and accessibility for both
+patients and clinic staff.
+ADDITIONAL
+Techinal Skills: Proficient in Figma, Miro; Understanding of design principles, wireframing, and
+prototyping; Experienced in usability testing and optimizing interface designs; Basic in front-end
+desgin
+Languages: Fluent in Indonesian, English; Limited Working Proficiency
+Certifications & Training: Certified Complete Web & Mobile Designer: UI/UX, Figma, +more
+(Udemy, 2025), UI/UX Design Website Design with Figma (BuildWithAngga, 2025)

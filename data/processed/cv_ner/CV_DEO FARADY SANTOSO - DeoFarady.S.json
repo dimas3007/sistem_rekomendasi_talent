@@ -1,0 +1,33 @@
+{
+  "name": "Deo Farady Santoso",
+  "email": "deofarady60@gmail.com",
+  "phone": "085708222649",
+  "education_level": "S1",
+  "education_major": "Rekayasa Perangkat Lunak",
+  "university": "Telkom University Surabaya",
+  "hard_skills": [
+    "User Interface Design",
+    "Figma",
+    "Visual Hierarchy",
+    "Typography",
+    "Basic Design System"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Problem Solving",
+    "Kolaborasi"
+  ],
+  "years_experience": 0.5,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "UI/UX Designer"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "location": "Surabaya"
+}

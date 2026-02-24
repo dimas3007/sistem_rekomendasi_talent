@@ -1,0 +1,55 @@
+Novelya Putri Ramadhani
+Email: novelyaputrir@gmail.com | Website: portofolio-novel.vercel.app | GitHub: novelxv | Kaggle: novel11
+Summary
+I m a third-year Computer Science student at Institut Teknologi Bandung (ITB) with a strong passion for User Experience
+(UX) Design, Software Engineering, and Artificial Intelligence. I have hands-on experience in designing intuitive user
+interfaces, conducting user research, and implementing user-centered solutions that enhance usability and accessibility.
+My background in software development allows me to bridge the gap between UI/UX design and technical
+implementation, ensuring seamless user experiences in digital products. Through various projects, I ve developed critical
+thinking, problem-solving, and design-thinking skills, enabling me to create innovative and effective solutions.
+Education
+Bandung Institute of Technology Bandung, Indonesia
+School of Electrical Engineering and Informatics - Major in Informatics Engineering. 2022-Present
+Work Experience
+ComLabs USDI ITB Bandung, Indonesia
+Programming Assistant in Introduction to Computing Course 2023-2024
+Assisted in conducting practical computing sessions
+Evaluated student assignments
+Provided guidance to enhance their understanding of computing concepts
+ITIER Bandung, Indonesia
+Backend Engineer October 2024-February 2025
+Designed RESTful APIs for authentication and data management.
+Managed database schema and optimized queries using MySQL.
+Integrated Swagger for API documentation and testing.
+Leadership & Activities
+Google Developer Student Club ITB Bandung, Indonesia
+Member - Data Science & Machine Learning 2022-2023
+Contributed to data science and machine learning projects
+Collaborated with peers on project development
+Participated in workshops and hackathons
+ITB Robotics Unit Bandung, Indonesia
+Control Division of KRAI Team 2023-2024
+Contributed to ROS (Robot Operating System) research to improve robot performance
+Implemented effective programming strategies using ROS to enhance robot functionality and efficiency
+Developed user interfaces (UI) to control robots, enabling ROS command execution
+Anmategra KM ITB Bandung, Indonesia
+Backend Engineer October 2024-Present
+Developed the backend for a web-based platform to manage student activities and organizational operations at
+ITB
+Projects
+MindEase React Native, Firebase, Hugging Face, Figma
+Developed a mental wellness app with features like AI-powered journaling, mood tracking, and personalized
+activity recommendations. Integrated Hugging Face for NLP and Firebase for secure real-time data management.
+Utilized Figma for wireframing and prototyping, ensuring an accessible and seamless user experience.
+EcoHome Figma, UI/UX Design
+Designed mobile application interfaces to track household energy consumption using IoT sensors and manual
+inputs. Features included energy reports, device scheduling, and user-friendly visualizations.
+Habitobby Figma, UI/UX Design
+Designed a mobile application to help users build and maintain positive habits. Features include personalized
+habit plans, visual progress tracking, streak recovery options, and a focus timer with device locking. The design
+emphasizes user-friendly interfaces and engaging visualizations to enhance user experience.
+Skills and Interests
+Technical: UI/UX Design (Wireframing, Prototyping, User Research, Usability Testing), Figma, Canva, JavaScript
+(ReactJS, React Native), HTML, CSS, TailwindCSS, Python, Java, C++, SQL, Docker, Firebase, Git
+Language: English (TOEFL iBT: 95)
+Interests: UI/UX Design, Mobile Application Development, Artificial Intelligence, Full Stack Development

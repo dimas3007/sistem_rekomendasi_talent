@@ -1,0 +1,41 @@
+{
+  "name": "Desy Anisa Ramadhani Sucahyo",
+  "email": "desyanisaramadhanisucahyo@gmail.com",
+  "phone": "6281259661209",
+  "education_level": "D3",
+  "education_major": "Teknologi Pertambangan",
+  "university": "State Polytechnic of Malang",
+  "hard_skills": [
+    "Microsoft Office Suite",
+    "Drawing Engineering Design (AutoCad, Civil 3D)",
+    "Slope Modelling and Analysis (Rocscience Slide, Phase 2)",
+    "Modelling of Kinematic Analysis (Rocscience Dips)",
+    "Mapping for Mining (Arc-GIS, QGIS)",
+    "Mining Software (Surpac, Minescape, MineSight)",
+    "Statistic Software (SPSS)"
+  ],
+  "soft_skills": [
+    "Berpikir Analitis",
+    "Berpikir Kritis",
+    "Berpikir Logis",
+    "Kepemimpinan",
+    "Kerja Sama Tim",
+    "Integritas",
+    "Manajemen Proyek"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Supervisor K3 Konstruksi",
+    "TOEIC"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Geotechnical Engineer Internship"
+  ],
+  "industries": [
+    "Mining"
+  ],
+  "location": "Kota Batu"
+}

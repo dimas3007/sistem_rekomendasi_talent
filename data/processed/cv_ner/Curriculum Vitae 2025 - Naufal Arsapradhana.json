@@ -1,0 +1,62 @@
+{
+  "name": "Naufal Arsapradhana",
+  "email": "naufal.arsa.27@gmail.com",
+  "phone": "+6282331076344",
+  "education_level": "S1",
+  "education_major": "Information Technology",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Java",
+    "Python",
+    "Javascript",
+    "PHP",
+    "SQL",
+    "Microsoft Office",
+    "Google Workspace",
+    "Figma",
+    "Canva",
+    "Visual Studio Code",
+    "MySQL",
+    "PhpMyAdmin",
+    "DBDesigner",
+    "Jitter",
+    "Miro",
+    "Adobe Photoshop",
+    "Trello",
+    "Notion",
+    "HTML",
+    "CSS",
+    "C++"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Hardworking",
+    "Collaboration",
+    "Time Management",
+    "Adaptability",
+    "Creativity"
+  ],
+  "years_experience": 1.75,
+  "certifications": [
+    "What Is Generative AI?",
+    "Generative AI: The Evolution of Thoughtful Online Search",
+    "Streamlining Your Work with Copilot (formerly Bing Chat/Bing Chat Enterprise)",
+    "Database Design",
+    "Database Programming",
+    "Working in a Digital World: Professional Skills",
+    "Belajar Dasar Data Science",
+    "Intro to Data Analytics"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Laboratory Teaching Assistant",
+    "UI/UX Designer",
+    "UX Test Moderator",
+    "Staff of Marketing and Communication"
+  ],
+  "industries": [],
+  "location": "Malang"
+}

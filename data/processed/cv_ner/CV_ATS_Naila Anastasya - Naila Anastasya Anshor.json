@@ -1,0 +1,45 @@
+{
+  "name": "NAILA ANASTASYA ANSHOR",
+  "email": "anastasyaansh@gmail.com",
+  "phone": "085761467176",
+  "education_level": "S1",
+  "education_major": "Statistika",
+  "university": "Universitas Syiah Kuala",
+  "hard_skills": [
+    "Data Analysis",
+    "Statistical Modeling",
+    "Machine Learning",
+    "R",
+    "Python",
+    "Power BI",
+    "Tableau",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Public Speaking",
+    "Leadership",
+    "Decision Making",
+    "Event Management"
+  ],
+  "years_experience": 2.67,
+  "certifications": [
+    "Microsoft Certified: Power BI Data Analyst Associate Certification",
+    "Pelatihan Software Tableau"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Asisten Pengajar",
+    "Koordinator Divisi Konsultasi dan Pelayanan",
+    "Kepala Divisi Publikasi"
+  ],
+  "industries": [
+    "Education",
+    "Government",
+    "Statistics"
+  ],
+  "location": null
+}

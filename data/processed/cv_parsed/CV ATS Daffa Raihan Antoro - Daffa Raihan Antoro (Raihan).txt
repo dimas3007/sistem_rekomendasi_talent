@@ -1,0 +1,77 @@
+DAFFA RAIHAN ANTORO
++62 89513303774 | daffa.raihanbtk@gmail.com | www.linkedin.com/in/daffaraihanantoro
+Bali, Indonesia, 80234
+PROFIL
+Saya adalah mahasiswa semester enam di Universitas Negeri Surabaya, mengambil program studi Sistem Informasi.
+Saya memiliki minat yang luas di bidang TI dan telah menyelesaikan beberapa proyek selama karir kuliah saya. Saya
+didorong oleh ambisi yang kuat untuk sukses. Saya telah mengikuti Program Kampus Merdeka, MSIB di mitra Bitlabs
+Academy dengan program yang dipelajari Data Analytics for Business. Saya memiliki kemampuan beberapa bahasa
+pemrograman dan turut aktif mengikuti kegiatan organisasi kampus serta volunteer.
+PENDIDIKAN
+Universitas Negeri Surabaya 2022-(Perkiraan)2026
+S1 Sistem Informasi, Teknik Informatika
+IPK saat ini: 3.7 / 4.00 (101 kredit)
+Mata Kuliah Terkait: Pemrograman Dasar, Interaksi Manusia dan Komputer, Sistem Operasi, Basis Data, Proses
+Bisnis dan Manajemen, Rekayasa Perangkat Lunak, Perencanaan Strategis SI, Pemrograman Berorientasi
+Objek, Struktur Data, Manajemen Basis Data, Sistem Informasi Eksekutif, Pemrograman Web, Probabilitas dan
+Statistika, Data Analytics for Business.
+PROYEK
+Fraud Detection Analysis on PAPER.ID - Bitlabs Academy X Kampus Merdeka Batch 7 Sept-Des 2024
+Data Analytics For Business
+Menganalisis pola penipuan menggunakan dataset Paper.ID.
+Menggunakan Python untuk data cleansing, feature engineering, dan exploratory data analysis (EDA).
+Membuat visualisasi interaktif menggunakan Tableau, termasuk network graph buyer-seller.
+Mengembangkan BPMN untuk memetakan alur deteksi penipuan secara real-time di Paper.ID.
+Website Layanan Aspirasi Masyarakat dengan HTML, CSS, PHP, Javascript Feb-April 2024
+Proyek Mata Kuliah Pemrograman Web
+Bertanggung jawab sebagai front-end developer dalam pengembangan website.
+Menerapkan konsep pemrograman web dengan HTML, CSS, PHP, dan Javascript untuk membangun
+fungsionalitas website.
+Merancang dan mengembangkan user interface (UI) yang menarik, responsif, intuitif, dan mudah digunakan.
+Database Pemesanan Tiket KAI dengan Microsoft Access Feb-Mei 2023
+Proyek Mata Kuliah Basis Data
+Memimpin proyek dan memastikan kelancaran seluruh tahapan hingga menghasilkan prototipe database dan
+laporan akhir
+Bertanggung jawab atas pembuatan artikel dan buku panduan penggunaan database..
+Berkolaborasi dengan tim untuk menyelesaikan tugas dan mencapai tujuan proyek.
+Meraih nilai A- untuk tugas akhir.
+PENGALAMAN KERJA
+Liaison Officer - Volunteer Deliwafa Festival Vol.4 Surabaya Jul 2024
+Mengatur transportasi dan akomodasi antara hotel dan tempat acara.
+Memberikan pengarahan kepada bintang tamu mengenai jadwal, ruangan dan detail acara lainnya.
+Mendampingi bintang tamu selama acara berlangsung.
+Mengkoordinasikan kebutuhan teknis dan logistik selama pertunjukan.
+Ticketing - Volunteer BigBang Ramadhan Surabaya Mar 2024
+Menangani 200+ pelanggan untuk ticketing/loket dengan efisien.
+Mengelola proses penjualan tiket dan manajemen keuangan dengan hasil balance.
+Menangani transaksi tunai atau sistem pembayaran elektronik dengan cepat dan akurat hingga 1 juta.
+Ticketing - Volunteer Paradise Island Clothing Association Fest Bali Jul 2023
+Menangani hingga 5000+ pengunjung/harinya dan verifikasi dengan memeriksa tiket pengunjung untuk
+mengetahui kesesuaiannya dengan hari acara.
+Memindai kode QR pada tiket melakukan pemeriksaan sistematis oleh platform.
+Mengatur kontrol yang ketat terhadap tiket pengunjung.
+ORGANISASI
+Himpunan Mahasiswa Program Studi Sistem Informasi Mei 2024 Jan 2025
+Kepala Departemen Dalam Negeri
+Memimpin Penyusunan dan Revisi AD/ART
+Mengelola Administrasi Umum Asosiasi
+Mengelola Komunikasi Internal dan Eksternal Asosiasi
+Mewakili Asosiasi dalam Forum Eksternal
+Himpunan Mahasiswa Rumpun Teknik Informatika (HIMTI) Mar 2023 Jan 2024
+Staff Departemen Dalam Negeri
+Mengkoordinasikan proses penyusunan dan revisi Anggaran Dasar (AD) dan Anggaran Rumah Tangga (ART).
+Menyusun Anggaran Rumah Tangga sesuai dengan kebutuhan dan keinginan anggota Asosiasi.
+Mengelola administrasi umum asosiasi, termasuk dokumentasi keanggotaan dan kegiatan.
+Mengelola komunikasi internal dan eksternal asosiasi.
+Mewakili asosiasi dalam forum eksternal.
+SKILL
+Hard Skills: Soft Skills : Other Skill :
+SQL Kerja Sama Editing Video
+Python Adaptasi Fotografi.
+Dbeaver Manajemen Waktu Canva
+Tableau Organisasi CapCut
+Microsoft Office Word Disiplin Figma
+Microsoft Office Excel Kepemimpinan Wix Website Builder
+Microsoft Office Power Point Komunikatif UI/UX
+PostgreSQL Teliti.
+Navicat

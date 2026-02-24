@@ -1,0 +1,59 @@
+{
+  "name": "Muhammad Zacky Zamzammy",
+  "email": "muhammadzamzammy412@gmail.com",
+  "phone": "0857-0643-5855",
+  "education_level": "D3",
+  "education_major": "Management of Information Technology",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "Unity",
+    "C#",
+    "Game Design",
+    "Figma",
+    "Wireframing",
+    "Prototyping",
+    "SPSS",
+    "Excel",
+    "Spreadsheet",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Leadership",
+    "Event Organization",
+    "Public Speaking",
+    "Coordination",
+    "Project Planning",
+    "Execution",
+    "Team Collaboration",
+    "Social Media Management",
+    "Content Creation",
+    "Customer Engagement",
+    "Feedback",
+    "Survey Design and Analysis",
+    "Data Visualization",
+    "Quantitative and Qualitative Analysis",
+    "Volunteer Coordination"
+  ],
+  "years_experience": 1.58,
+  "certifications": [
+    "MSIB : RevoU Tech Academy Data Analytics And GenAI"
+  ],
+  "languages": [
+    "Indonesian",
+    "English",
+    "Javanese"
+  ],
+  "job_titles": [
+    "Property Broker"
+  ],
+  "industries": [
+    "Property"
+  ],
+  "location": "Mojokerto"
+}

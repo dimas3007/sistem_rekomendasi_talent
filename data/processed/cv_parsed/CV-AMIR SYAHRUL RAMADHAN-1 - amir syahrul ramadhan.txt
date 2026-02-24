@@ -1,0 +1,53 @@
+AMIR SYAHRUL RAMADHAN
+if22.amirramadhan@mhs.ubpkarawang.ac.id | +6281991465047 | https://www.linkedin.com/in/amir-
+syahrul-ramadhan-9a61b124a/
+PROFIL
+Saya adalah mahasiswa Teknik Informatika di Universitas Buana Perjuangan Karawang yang
+bersemangat dalam pengembangan front end. Dengan pengetahuan dan keterampilan yang saya
+miliki, saya berusaha untuk menciptakan pengalaman pengguna yang menarik dan intuitif melalui
+desain yang responsif dan inovatif. Saya selalu berusaha untuk belajar dan mengembangkan diri
+dalam bidang ini, serta siap untuk berkontribusi pada proyek-proyek yang membutuhkan
+kemampuan front end development saya.
+RIWAYAT PENDIDIKAN
+Universitas Buana Perjuangan Karawang 2022 - Sekarang
+S1 Teknik Informatika | IPK: 3.61 / 4.00
+PENGALAMAN
+Membuat Aplikasi Berbasis Web Okt 2023 - Jan 2024
+Universitas Buana Perjuangan Karawang
+Membuat aplikasi Help Center berbasis web sebagai proyek akhir untuk mata kuliah terkait
+pemrograman web, analisis dan desain berorientasi objek, basis data, dan pemrograman
+berorientasi objek.
+Teknologi: HTML, CSS, JavaScript, PHP, MySQL
+Fitur Utama: Permintaan layanan, status layanan, toko produk
+Junior Graphic Designer 05 Feb 20 Feb 2024
+Vocational School Graduate Academy
+Mengerjakan berbagai proyek desain grafis menggunakan Adobe Illustrator dan Photoshop.
+Berkolaborasi dengan tim untuk menghasilkan desain yang menarik dan sesuai dengan
+kebutuhan klien.
+Proyek Akhir: LibraNation - Aplikasi Perpustakaan Jun 2024 Jul 2024
+Universitas Buana Perjuangan Karawang
+Membuat aplikasi perpustakaan LibraNation berbasis web dan mobile untuk proyek akhir mata
+kuliah terkait framework web, pemrograman mobile, rekayasa perangkat lunak, dan keamanan
+jaringan.
+Teknologi: Laravel, JavaScript, TypeScript, Ionic, Angular, Laragon, MySQL, HTML/CSS,
+Bootstrap, Android Studio
+Fitur Utama: Akses layanan, efisiensi operasional, antarmuka admin responsif, grafik
+interaktif, animasi CSS
+Web Developer - Magang 01 Okt 31 Des 2024
+PT. Arjuna Indratama
+Membuat Website Company Profile untuk perusahaan guna meningkatkan citra profesional
+perusahaan dan mempermudah akses informasi bagi klien dan mitra bisnis.
+Teknologi: Laravel, React.js, API, Tailwind CSS, Bootstrap
+KEMAMPUAN
+UI/UX Design: Adobe Illustrator, Figma, Canva
+Bahasa : Indonesia
+Framework: Laravel, React.js
+Bahasa Pemograman: HTML, CSS, JavaScript, PHP
+SERTIFIKAT DAN PELATIHAN
+Intro to Software Engineering (RevoU)
+Junior Graphic Designer (BNSP)
+User Interface Design (MySkill)
+Troubleshooting & Debugging (MySkill)
+Frontend JavaScript (MySkill)
+Junior Graphic Designer (Vocational School Graduate Academy)
+Graphic Design (MySkill)

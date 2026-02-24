@@ -1,0 +1,92 @@
+NAUFAL ARSAPRADHANA
++6282331076344 | naufal.arsa.27@gmail.com | LinkedIn | GitHub
+Undergraduate student in Information Technology from Brawijaya University with a GPA of 3.91 out of 4.00.
+Has experience with improving soft skills and high skills as an UI/UX Designer, Laboratory Teaching
+Assistant, as well as being an organizational committee during college, proficient in an assortment of
+technologies, including Java, Python, Javascript, PHP, SQL, Microsoft Office, and Google Workspace.
+Experienced in managing a project and analyzing the optimality of a technology product. Able to effectively
+self-manage during independent projects, as well as collaborate in a team setting.
+EXPERIENCE
+FACULTY OF COMPUTER SCIENCE BRAWIJAYA UNIVERSITY Feb 2024 - Dec 2024
+Laboratory Teaching Assistant
+Responsible for delivering materials in 4 classes: Advanced Programming, Database Systems, Web
+Application Programming, and Mobile Application Programming.
+Accountable for teaching 100+ students including both 2nd and 3rd-year students.
+Delivered 30+ learning modules to support the implementation of practical sessions.
+Evaluated and analyzed practitioner performance, identifying key competency gaps and improving task
+efficiency by 35%.
+Managed all supporting needs in implementing practical activities using Excel and Google Spreadsheet.
+RAION COMMUNITY Apr 2023 - Dec 2024
+UI/UX Designer
+Designed intuitive and accessible UI/UX aligned with SDGs, enhancing user engagement by 30%.
+Conducted user research and usability testing to gain 85% design effectiveness.
+Collaborated with stakeholders and developers to ensure 100% alignment with project goals.
+BKPSDM KABUPATEN MALANG May 2024 - Oct 2024
+UX Test Moderator
+Streamlined the usability testing workflow, resulting in a 25% reduction in testing time while maintaining
+high-quality data collection and actionable insights for development teams.
+Trained participants on application features, ensuring 95% accuracy in feedback collection.
+Collaborated with developers and project managers to implement iterative enhancements, reducing
+usability issues by 40%.
+EDUCATION
+BRAWIJAYA UNIVERSITY Malang, Aug 2022 - Present
+Undergraduate Information Technology student; Cumulative GPA: 3.91/40.
+2nd Runner-Up of Mahasiswa Berprestasi FILKOM UB 2024.
+Related Coursework: Database Systems, Statistics, Basic of UX Design, Database Programming, Data
+Warehouse, Software Quality Assurance, Web Application Programming.
+ORGANIZATION
+RAION COMMUNITY Apr 2023 - Dec 2024
+Staff of Marketing and Communication
+Established and maintained effective stakeholder communication, increasing RAION Community s
+event reach by 40%.
+Led creative campaigns that boosted audience engagement by 35%, leveraging analytics for
+optimization.
+Strengthened RAION Community s brand presence by ensuring cohesive messaging and a 25%
+increase in social media interactions.
+PROJECTS
+Savior (UI/UX Mobile Application Design) - Portfolio
+Emergency Call Service Application as a First Response for Women and Children to Request Help.
+EquiCity (UI/UX Mobile Application Design) - Portfolio
+A platform for developing inclusive public spaces through collective movements. Equicity facilitates easier and
+safer community involvement in regional development.
+Whispery (UI/UX Mobile Application Design) - Portfolio
+Mental Health Disorder Management Application through the Use of Voice User Interface Technology as a Form
+of Inclusive Support for People with Disabilities.
+Machine Learning Model to Predicting Student Performance - GitHub
+Delivered a predictive solution that empowered educators to enhance student success rates by 20% and optimize
+accuracy by comparing SVR, Random Forest, and KNN with CV R2, R2, MAE, and MSE.
+Sehati (Mobile Application) - GitHub
+A mobile application designed to address the growing mental health challenges faced by students, offering
+accessible and reliable solutions to improve their well-being.
+DoctorPC (Web Application) - GitHub
+Successfully delivered a scalable and fully functional platform that increased user engagement by 30% and
+streamlined service and component transactions.
+ACHIEVEMENTS Certificate
+2nd Runner-Up of Mahasiswa Berprestasi FILKOM UB 2025
+2nd Winner of UX Challenges on 4C National Competition 2024
+Finalist of UX Design Division on GEMASTIK XVII 2024
+1st Winner of UI/UX Competition on MAGE X 2024
+Surat Pencatatan Ciptaan of Savior Prototype
+Silver Medalist of The 10th KIME on Ideas Competition 2024
+Best Video of UX Competition on FIND IT! 2024
+2nd Winner of Public Administration Competition (PANCO) UNY 2024
+Silver Medalist for Innovation Science category in Youth International Science Fair 2024
+Gold Medalist and The Winner of Best Promising Innovation Award at Global Youth Innovators
+Competition 2024
+2nd Winner of Entrepreneurship Division on Dekan Cup FILKOM UB 2022
+CERTIFICATIONS Certificate
+What Is Generative AI? | Issued by LinkedIn
+Generative AI: The Evolution of Thoughtful Online Search | Issued by LinkedIn
+Streamlining Your Work with Copilot (formerly Bing Chat/Bing Chat Enterprise) | Issued by
+LinkedIn
+Database Design | Issued by Oracle
+Database Programming | Issued by Oracle
+Working in a Digital World: Professional Skills | Issued by IBM
+Belajar Dasar Data Science | Issued by Dicoding.id
+Intro to Data Analytics | Issued by RevoU
+SKILLS
+Software Skill: Microsoft Office, Google Workspace, Figma, Canva, Visual Studio Code, MySQL,
+PhpMyAdmin, DBDesigner, Jitter, Miro, Adobe Photoshop, Trello, Notion
+Programming Languages: HTML, CSS, Java, PHP, SQL, JavaScript, Python, C++.
+Soft Skill: Communication, Hardworking, Collaboration, Time Management, Adaptability, Creativity.
+Languages: Indonesian (Fluent), English (Intermediate).

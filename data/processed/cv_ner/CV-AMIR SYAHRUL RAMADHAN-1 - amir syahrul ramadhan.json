@@ -1,0 +1,47 @@
+{
+  "name": "Amir Syahrul Ramadhan",
+  "email": "if22.amirramadhan@mhs.ubpkarawang.ac.id",
+  "phone": "+6281991465047",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Buana Perjuangan Karawang",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "Laravel",
+    "React.js",
+    "API",
+    "Tailwind CSS",
+    "Bootstrap",
+    "TypeScript",
+    "Ionic",
+    "Angular",
+    "Laragon",
+    "Android Studio",
+    "Figma",
+    "Canva"
+  ],
+  "soft_skills": [],
+  "years_experience": 0.25,
+  "certifications": [
+    "Intro to Software Engineering (RevoU)",
+    "Junior Graphic Designer (BNSP)",
+    "User Interface Design (MySkill)",
+    "Troubleshooting & Debugging (MySkill)",
+    "Frontend JavaScript (MySkill)",
+    "Junior Graphic Designer (Vocational School Graduate Academy)",
+    "Graphic Design (MySkill)"
+  ],
+  "languages": [
+    "Indonesia"
+  ],
+  "job_titles": [
+    "Junior Graphic Designer",
+    "Web Developer"
+  ],
+  "industries": [],
+  "location": null
+}

@@ -1,0 +1,57 @@
+{
+  "name": "EGA RASENDRIYA NASHRULLAH",
+  "email": "egarasendriyan@gmail.com",
+  "phone": "+62 899-4669-030",
+  "education_level": "S1",
+  "education_major": "Computer Engineering",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Python",
+    "SQL",
+    "IoT",
+    "C++",
+    "MySQL",
+    "Networking",
+    "Linux",
+    "TensorFlow",
+    "scikit-learn",
+    "Arduino Uno",
+    "Network Troubleshooting",
+    "MS Office",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Problem-solving",
+    "Teamwork",
+    "Adaptability",
+    "Communication",
+    "Continuous Learning",
+    "Critical Thinking"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "Generative AI for Everyone - DeepLearning.AI 2024",
+    "DeepLearning.AI TensorFlow Developer - DeepLearning.AI 2024",
+    "TensorFlow: Data and Deployment - DeepLearning.AI 2024",
+    "TensorFlow: Advanced Techniques - DeepLearning.AI 2024",
+    "Machine Learning - Stanford University 2024",
+    "Process Data from Dirty to Clean - Google 2024",
+    "Mathematics for Machine Learning and Data Science - DeepLearning.AI 2024",
+    "Introduction to Git and GitHub - Google 2024",
+    "Crash Course on Python Google 2024",
+    "Belajar Dasar Structured Query Language (SQL) - Dicoding 2023"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Creative for Product Intern",
+    "Laboratory Teaching Assistant"
+  ],
+  "industries": [
+    "Telecommunication",
+    "Education"
+  ],
+  "location": "Surakarta"
+}

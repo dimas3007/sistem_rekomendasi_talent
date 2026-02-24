@@ -1,0 +1,41 @@
+{
+  "name": "Alyssa Tiarra Boediargo",
+  "email": "tiarraalyssa@gmail.com",
+  "phone": "+6283105521185",
+  "education_level": "S1",
+  "education_major": "Business Information System",
+  "university": "Politeknik Negeri Malang",
+  "hard_skills": [
+    "Java",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "PHP",
+    "Figma",
+    "SQL Database",
+    "Excel",
+    "Power BI",
+    "MySQL",
+    "Looker Studio",
+    "Manual black box"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Communication",
+    "Adaptability",
+    "Discipline",
+    "Creativity",
+    "Time Management",
+    "Problem Solving"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "PKM KC (Karsa Cipta) - Best Visionaries"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [],
+  "industries": [],
+  "location": "Malang"
+}

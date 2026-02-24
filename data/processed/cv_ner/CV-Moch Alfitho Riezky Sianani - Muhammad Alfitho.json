@@ -1,0 +1,54 @@
+{
+  "name": "MOCH.ALFITHO RIEZKY SIANANI",
+  "email": "malfitho@gmail.com",
+  "phone": "0813-8425-8851",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Bhayangkara Jakarta Raya",
+  "hard_skills": [
+    "Microsoft Office",
+    "Figma",
+    "Web Development",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Flutter",
+    "Node.js",
+    "Express.js",
+    "WordPress",
+    "Elementor Pro"
+  ],
+  "soft_skills": [
+    "Kerjasama Tim",
+    "Mudah beradaptasi",
+    "Cepat belajar",
+    "Komunikatif",
+    "Kreatif",
+    "Efektif"
+  ],
+  "years_experience": 3.63,
+  "certifications": [
+    "Belajar Metode Agile Scrum bagi Manajer Pengembangan Produk, G2 Academy",
+    "Belajar Dasar CSS, Codepolitan",
+    "Belajar Bootstrap CSS Framework, Codepolitan",
+    "Belajar Dasar Pemrograman Javascript, Dicoding",
+    "Belajar Dasar HTML, Codepolitan",
+    "Belajar Membuat Aplikasi Flutter untuk Pemula, Dicoding"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Teknisi Jaringan",
+    "Store Crew Boy (SCB)",
+    "Teknisi EDC (Electronic Data Capture)",
+    "IT Staff"
+  ],
+  "industries": [
+    "Telecommunications",
+    "Retail",
+    "Digital Technology",
+    "Education"
+  ],
+  "location": "Bekasi"
+}

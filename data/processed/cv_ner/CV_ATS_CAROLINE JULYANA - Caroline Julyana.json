@@ -1,0 +1,33 @@
+{
+  "name": "Caroline Julyana Magdalena S",
+  "email": "caroline.juliana12@gmail.com",
+  "phone": "082124731435",
+  "education_level": null,
+  "education_major": "Informatic",
+  "university": "BhayangkaraJakartaRaya",
+  "hard_skills": [
+    "Python",
+    "C++",
+    "SQL",
+    "JAVA",
+    "Kotlin",
+    "AndroidStudio",
+    "VisualStudioCode"
+  ],
+  "soft_skills": [
+    "teamwork"
+  ],
+  "years_experience": 1.1,
+  "certifications": [
+    "BigDataTrainingHiColleaguesxAliCloud",
+    "EnglishforIT1,CiscoNetworkingAcademy",
+    "NetworkingBasics,CiscoNetworkingAcademy",
+    "CertificateofParticipationinthe 17thNationalFolkloreFestival,IndonesiaUniversity asaChoirParticipant"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Staff Divisi Hire Recruitment"
+  ],
+  "industries": [],
+  "location": "Bekasi"
+}

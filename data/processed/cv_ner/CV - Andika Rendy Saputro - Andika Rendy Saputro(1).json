@@ -1,0 +1,53 @@
+{
+  "name": "Andika Rendy Saputro",
+  "email": "andikarendysaputro@gmail.com",
+  "phone": "+62 856 0280 0290",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Tiga Serangkai University",
+  "hard_skills": [
+    "UI/UX",
+    "Design Grafis",
+    "Programming",
+    "Prototyping",
+    "Figma",
+    "Corel Draw",
+    "Adobe Photoshop",
+    "Canva",
+    "Dart",
+    "PHP",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "soft_skills": [
+    "Public Speaking",
+    "Analytical Thinking",
+    "Problem Solving",
+    "Communicative",
+    "Collaborative",
+    "Initiative",
+    "Leadearship",
+    "Adaptive",
+    "Time Management",
+    "Team Management"
+  ],
+  "years_experience": 0.67,
+  "certifications": [
+    "STEMSEL UI/UX Associate",
+    "Master Class UI/UX SIB Batch 7"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Data Entry",
+    "Waiters"
+  ],
+  "industries": [
+    "Post Office",
+    "Restaurant"
+  ],
+  "location": "Surakarta"
+}

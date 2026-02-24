@@ -1,0 +1,49 @@
+{
+  "name": "Ridho Aditya Rachman",
+  "email": "eric.ridho88@gmail.com",
+  "phone": "081212692948",
+  "education_level": "S1",
+  "education_major": "Electrical Engineering",
+  "university": "Telkom University",
+  "hard_skills": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "MySQL",
+    "Numpy",
+    "pandas",
+    "Scikit-Learn",
+    "Classification",
+    "Regression",
+    "Clustering",
+    "YOLO",
+    "Looker Studio",
+    "SAP Analytics Cloud",
+    "C"
+  ],
+  "soft_skills": [
+    "Data analysis",
+    "Visualization",
+    "Data-driven decision-making"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Data Science Bootcamp",
+    "Big Data",
+    "Certificate of Competency - Kimia Farma Big Data Analytics Project Based Internship Program",
+    "ASEAN Data Science Explorers 2023 Enablement Session - SAP Analytics Cloud training session"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Big Data Analyst",
+    "IoT Engineer Intern"
+  ],
+  "industries": [
+    "Pharmaceutical",
+    "Technology"
+  ],
+  "location": "West Java"
+}

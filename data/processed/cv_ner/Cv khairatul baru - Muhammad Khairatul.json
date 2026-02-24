@@ -1,0 +1,44 @@
+{
+  "name": "Muhammad Khairatul",
+  "email": "muhammad.khairatul@student.president.ac.id",
+  "phone": "+6282159263625",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "President University",
+  "hard_skills": [
+    "Canva",
+    "Photoshop",
+    "Python",
+    "Excel",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Java",
+    "Laravel",
+    "PHP",
+    "Data Analysis"
+  ],
+  "soft_skills": [
+    "leadership",
+    "teamwork",
+    "communication"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "OSN Informatics Participants - Puspresnas 2021",
+    "OSN Informatics Participants - Puspresnas 2022",
+    "ISSC Math Gold Medals - Puskanas 2024",
+    "ISSC History Gold Medals - Puskanas 2024"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "job_titles": [
+    "Author",
+    "Landing Page Builder Intern",
+    "Media Center Member"
+  ],
+  "industries": [],
+  "location": "Cikarang"
+}

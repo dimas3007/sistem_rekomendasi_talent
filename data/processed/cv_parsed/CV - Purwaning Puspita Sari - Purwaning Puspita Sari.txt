@@ -1,0 +1,26 @@
+Purwaning Puspita Sari
+Kota Pekalongan, Jawa Tengah | +62 857 8008 3116
+purwaningpuspita2206@gmail.com | https://bit.ly/linkedin-purwaning
+Tentang Saya
+Sarjana Teknik Informatika Universitas Muhammadiyah Purwokerto tahun 2022. Selama kuliah
+menguasai ilmu Informatika seperti Database Administrator. Memiliki kemampuan Microsoft
+Office (Word, Excel dan Powerpoint). Memiliki minat untuk berkarir di bidang Data Analyst dan
+Administrasi.
+Pendidikan
+Universitas Muhammadiyah Purwokerto (2016-2022)
+S1 Teknik Informatika - IPK 3,27
+SMA Negeri 1 Purwareja Klampok (2013-2016)
+Aktivitas & Project Terakhir
+Project-Based Virtual Intern : Data Scientist ID/X Partners x Rakamin Academy (Juli 2023)
+Menyelesaikan tugas yang berkaitan dengan aktivitas Data Scientist dari ID/X Partners, seperti
+Business Understanding, Data Pre-Processing, Data Visualization dan Machine Learning
+Modeling.
+Optimasi Clustering Minat Ekstrakurikuler SMP Negeri 4 Kemangkon (Juli 2022)
+Mengclustering minat siswa terhadap ekstrakurikuler SMP N 4 Kemangkon berupa data nilai
+siswa dan data minat ekstrakurikuler menggunakan metode K-Means dan Sum of Squared Error
+(SSE).
+Kemampuan & Kompetensi
+Data Cleansing Python
+Data Analysis SQL
+Statistics Good Communication Skills
+Data Modelling Detail Oriented

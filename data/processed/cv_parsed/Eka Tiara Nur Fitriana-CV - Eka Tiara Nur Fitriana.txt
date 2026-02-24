@@ -1,0 +1,49 @@
+EKA TIARA NUR FITRIANA
+Purwakarta, West Java - Indonesia
++6289677920951 | ekatiaranurf@gmail.com | linkedin.com/in/ekatiaranurf/ | behance.net/ekatiaranurf | Portfolio
+EDUCATION
+Universitas Pendidikan Indonesia - Bandung, Indonesia Aug 2020 - Jul 2024
+Bachelor's Degree of Computer Science Education, 3.94/4.00
+Course: Human-computer interaction, Graphics Design, Video-Audio Production, Mobile & Web Programming, Database, Software System Analyst.
+Technology used: Google Suite, Ms. Office, VSCode, Figma, Adobe Creative, C/C++, Python, HTML, PHP, CSS, Javascript, Java, SDLC, SQL, UML.
+Best Poster in ASEAN Symposium for Science, Engineering, Economic, and Education (ASSEEE), 2021 (International).
+2nd Place Honorable Mention in UI/UX Design DIMAS-TI, 2023 (National).
+INTERNSHIP EXPERIENCE
+SMK Negeri 1 Purwakarta - Purwakarta, Indonesia Mar 2024 - May 2024
+Teacher Intern (Website Developer)
+Developed a full-stack website leaps.my.id for Algorithm Programming Courses LMS, covering UI/UX design to IT implementation.
+Achieved an 89.80% student satisfaction rate and raised average test scores from 32.62 to 69.76 through the effective integration of the LMS.
+Successfully implemented and integrated the LMS into the curriculum, enhancing instructional delivery and accessibility for 35+ students.
+Technology used: LMS/CMS, cPanel, HTML, PHP, CSS, JavaScript, SQL, VSCode, Balsamiq, Draw.io, Figma, Adobe Illustrator, After Effects.
+Startup Campus - Jakarta, Indonesia Feb 2023 - Jun 2023
+UI/UX Design (MSIB Kampus Merdeka)
+Conducted user research with 10+ participants using surveys and interviews, resulting in detailed personas and map user journeys.
+Created information architecture and designed 200+ wireframes, prototypes, and high-fidelity mock-ups in Figma.
+Delivered innovative designs through usability testing, A/B testing with 30+ participants, refining solutions based on user feedback.
+Technology used: Figma, FigJam, Maze, Useberry, Surveys & Interviews tools.
+ORGANIZATIONAL EXPERIENCE
+Generasi Baru Bank Indonesia (GenBI) - Bandung, Indonesia Oct 2023 - Oct 2024
+Manager of Marketing Departement
+Led a team of 19 members in the Creative and ABC divisions, managing over 3+ marketing projects per month using Google Spreadsheets.
+Created 5+ Instagram posts weekly for @genbiupi using Figma and edited 2+ TikTok videos per week using CapCut, Filmora, and Canva.
+Launched and managed website genbiupi.com, increasing website traffic by 40% within first month and improving user navigation experience.
+Technology used: Figma, CapCut, Filmora, Google Spreadsheet, Instagram, TikTok, Website, Google Analytics.
+Club Ink - Bandung, Indonesia Jan 2021 - Jan 2022
+Member of Graphic & UI/UX Design Community
+Designed 5+ monthly Instagram posts for @kemakom_clubink and contributed to project-based UI/UX design activities using Figma.
+Technology used: Figma, FigJam, Adobe Illustrator.
+PROJECTS, TRAINING & CERTIFICATION
+Certifications : Social Media Marketing, Faculty of Economics and Business Universitas Indonesia 2024
+Certifications : Microsoft Office Specialist Certification for Word 2019 Associate, Microsoft 2023
+Certifications : Proficiency Test of English to Speakers of Other Languages (PTESOL), Universitas Pendidikan Indonesia 2024
+Training : Full Learning Path with Professional Skill in UI/UX Research and Design, My Skill 2024
+Training : Indonesian Women in Tech: Programming with Python Program Thematic Academy, Kominfo Republik Indonesia 2021
+Projects : LEAPS - UI/UX Design & Website Developer 2024
+Projects : KidPick Mobile App for User and Driver App - UI/UX Design 2023
+Projects : DiKosan Website & Mobile App - UI/UX Design & System Design 2022
+Projects : SiPeTik (Sistem Penjualan Batik) - UI/UX Design & Website Developer 2022
+SKILLS SUMMARY
+Skills : Wireframe, Prototyping, IA, User Flow, Journeys, UX Research & Testing, Graphic Design, Web Developer, Microsoft Office.
+Design & Editing : Figma, Figjam, Useberry, Maze, Balsamiq, Adobe Illustrator, Adobe After Effect, Canva, CapCut, Filmora.
+Programming : HTML, PHP, CSS, Javascript, C, C++, Phyton, SQL, UML, ERD, Visual Studio Code, Draw.Io, StartUML, Visio.
+Language : Bahasa Indonesia (Native), English (PTESOL Score: 447, Professional Working Proficiency).

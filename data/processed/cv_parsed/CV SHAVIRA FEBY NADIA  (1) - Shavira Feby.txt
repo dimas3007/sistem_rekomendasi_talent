@@ -1,0 +1,103 @@
+SHAVIRA FEBYNADIA
+Probolinggo, Indonesia | 08113068789 |shafirafeby558@gmail.com | bit.ly/shaviraportfolio | linkedin.com/in/shavirafeby/
+As an Information Systems student passionate about System Analysis, UI/UX Designer and Front End Web Development. I have
+developed a strong foundation in user interface development, system requirements analysis, and project management. Over the course of
+my academic career, I have honed my skills in creating responsive and user-friendly web interfaces, as well as analyzing and
+documenting system requirements to ensure successful project outcomes. I am experienced in identifying and resolving front-end issues,
+conducting usability testing, and ensuring that final products meet user needs and high-quality standards. Additionally, I have a keen
+ability to bridge the gap between technical teams and stakeholders, ensuring clear communication and effective project execution.
+Education
+Jember University - Jember, Indonesia Aug 2022 - Present
+S1 Information System, 3.85/4.00
+Relevant courses: Database Systems (A), Introduction to Software Engineering (AB), Object Oriented Programming (A),
+Algorithms & Programming (A), Object Oriented Design (A), System Design Analysis (A), Data Analytics and Visualization (AB),
+Software Development for Modern Agroindustry (A), Web Based Programming (A), Datamining (A), Software Design (A), UI/UX
+Design (A), Requirement Engineering (A).
+P2MW University-DIGITAL BUSINESS Internal Selection 2024: Proposal Accepted.
+Awardee Beasiswa Pendidikan Indonesia 2022
+SMKN 2 KRAKSAAN- Kraksaan, Indonesia Aug 2019 - June 2022
+Software Engineering
+1st Best Graduate of Software Engineering Major in 2022
+Indonesian Students Training Center: National Mathematics Olympiad Bronze Medalist.
+Genius Competition: National English Olympiad Silver Medalist.
+INTERNSHIP EXPERIENCE
+System Analyst Intern CV. Mascitra Teknologi Indonesia, Jember Aug - Dec 2024
+Create technical specification documents
+Collaborate with project managers to understand business processes and system architecture
+Analyze systems according to client requests to determine system requirements and functionality
+Identify user input and output requirements when the system is developed
+Create flowcharts, and specifications to be used by programmers
+Manage applications, coordinate tests, and observe system performance to ensure improvements
+Become an intermediary or liaison between the company and the client, and be responsible for analyzing development costs,
+design and development proposals, and determining the time span required
+Analyze the needs needed when designing a system
+Create User Interface designs
+Conduct digital data analysis based on trends that can have a major impact on the company in the training & certification
+division.
+ORGANIZATION EXPERIENCE
+BINARY PERS TEAM Computer Science, Universitas Jember
+Media and Technology Staff Oct 2023 - Present
+Responsible for creating and providing content in the form of design and documentation for various activities.
+Design and distribute promotional materials such as brochures, posters, and social media content to increase awareness and
+participation.
+Manage and update online platforms (instagram) for information dissemination.
+PROJECT
+Lumajang Tumbas Online (Lumajang Tulen): Website-Based Product Buying and Selling System for Micro, Small and Medium
+Enterprises in Lumajang Aug - Dec 2024
+Collaborated with local businesses, e-commerce platform users, and development teams to gather requirements, validate models,
+and ensure accurate representation of workflows and system interactions for Lumajang TULEN.
+Authored comprehensive software requirements (SR) documents, ensuring clarity and alignment with project objectives.
+Created use case, activity diagrams, scenario use cases, and sequences to enhance system understanding and operational
+efficiency.
+Developed detailed BPMN models to optimize complex business processes and improve overall efficiency of the platform.
+Designed and managed databases, ensuring data integrity, security, and seamless integration with the platform's functionalities.
+Designed user interfaces (UI) and user experiences (UX) for the Lumajang TULEN website, focusing on creating user-friendly,
+intuitive designs to improve navigation and interaction.
+Farmer s Cooperative: Website-Based Fertilizer and Seed Capital Lending System Aug - Dec 2023
+Collaborate with farmers, farm shop owners, and development teams to gather requirements, validate models, and ensure
+accurate representation of workflows and system interactions.
+Authored comprehensive software requirements (SR) documents, ensuring clarity and alignment with project objectives.
+Created use case, activity diagrams, scenario use case, sequences, and collaboration diagrams to improve system understanding
+and efficiency.
+Created detailed BPMN models to streamline complex business processes and enhance operational efficiency.
+Create and design databases, ensuring data integrity, security, and seamless integration with applications.
+Designed user interfaces (UI) and user experiences (UX) for websites, focusing on user-friendly designs and intuitive navigation.
+Agro Jember Konektif (AJEKTIF): Website-Based System for Agricultural Machinery Assistance Applications and Agricultural
+Training Mar - Jun 2024
+Collaborate with farmer groups, agricultural extension agents, agricultural agencies, and development teams to gather
+requirements, validate models, and ensure accurate representation of workflows and system interactions.
+Design of a web-based application system for agricultural machine tools and agricultural training using incremental SDLC
+Wrote comprehensive software requirements (SR) and Software Requirements Specification (SRS) documents, ensuring clarity
+and alignment with project goals.
+Created use case, activity diagrams, scenario use case, sequences, and collaboration diagrams to improve system understanding
+and efficiency.
+Create and design databases, ensuring data integrity, security, and seamless integration with applications.
+Designed user interfaces (UI) and user experiences (UX) for websites, focusing on user-friendly designs and intuitive navigation.
+.
+Laundry Management: Website Based Laundry Transaction Recording System May - Jun 2024
+Designed and implemented the front-end using HTML, CSS, and JavaScript.
+Developed the back-end of the application using OOP PHP native, ensuring robust and efficient server-side functionality.
+Implemented various features to manage laundry transactions, user accounts, and administrative controls.
+Designed and implemented the relational database to store and manage all transaction records, user data, and other necessary
+information.
+ADDITIONAL
+Languages: Indonesia and English
+Technical Skills: Knowledge of database management systems (DBMS), Proficiency in programming languages, Familiarity with software
+development methodologies, Data modeling and process modeling skills, Ability to perform requirements analysis and system design,
+proficiency in design tools like Figma and Adobe XD, familiarity with design systems and accessibility standards, expertise in user research
+and usability testing, ability to create wireframes, prototypes, and high-fidelity designs, and strong problem-solving skills to enhance user
+experience
+Soft Skills: Communication, Teamwork, Time Management, Problem Solving, Adaptability, Creativity.
+Language Programming: Python, SQL, PHP, C#, HTML, CSS.
+Tools: Enterprise Architect, Draw.io, Tableau, Power Designer Process Analyst, Google Colaboratory, Visual Studio Code, PostgreSQL, SQL
+Datamodeller, Spreadsheet, Google Docs, Figma, Photoshop, Trello, Bizagi.
+Certification and Training:
+Data Science Foundations - Level 1 May 2024
+Python for Data Science May 2024
+Belajar Dasar Pemrograman Web Mar 2024
+Belajar Dasar Data Science Feb 2024
+Belajar Dasar Structured Query Languange (SQL) Aug 2023
+Belajar Dasar Manajemen Proyek July 2023
+Pengenalan Data pada Pemrograman (Data 101) July 2023
+Data Series Fair 8.0 - Business Intelligence May 2024
+Mini Bootcamp Data Science and Web Development Oct 2021

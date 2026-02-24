@@ -1,0 +1,47 @@
+{
+  "name": "Aida Azzahra",
+  "email": "aidaaazzahra@gmail.com",
+  "phone": "+6287727200819",
+  "education_level": "S1",
+  "education_major": "Information System and Technology",
+  "university": "Universitas Negeri Jakarta",
+  "hard_skills": [
+    "Figma",
+    "wireframing",
+    "interactive prototyping",
+    "information architecture",
+    "usability testing",
+    "HTML",
+    "JavaScript",
+    "Kotlin",
+    "Notion",
+    "Microsoft Office",
+    "Google Workspace",
+    "Android Studio",
+    "VS Code"
+  ],
+  "soft_skills": [
+    "Effective Communication",
+    "Team Collaboration",
+    "Problem Solving",
+    "Time Management",
+    "Adaptability",
+    "Analytical Thinking"
+  ],
+  "years_experience": 0.83,
+  "certifications": [
+    "Certified Program in Data Analytics and Generative AI (MSIB Batch 7)"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Head of the Publication and Documentation Division",
+    "Staff of the Event Division",
+    "UI/UX Developer",
+    "UI/UX Developer"
+  ],
+  "industries": [],
+  "location": "West Jakarta"
+}

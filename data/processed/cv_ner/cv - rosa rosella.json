@@ -1,0 +1,44 @@
+{
+  "name": "Rosa Rosella Nababan",
+  "email": "rosarosella37@gmail.com",
+  "phone": "082122826357",
+  "education_level": "D3",
+  "education_major": "Sistem Informasi",
+  "university": "UNIVERSITAS BINA SARANA INFORMATIKA",
+  "hard_skills": [
+    "MySQL",
+    "Figma",
+    "HTML",
+    "CSS",
+    "Accurate",
+    "Microsoft Office",
+    "SAP Analytics Cloud"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Time Management",
+    "Attention to Detail",
+    "Team Work"
+  ],
+  "years_experience": 1.25,
+  "certifications": [
+    "Introduction to Cloud and AI Applications for Digital Business, Digital Talent Scholarship, 2024",
+    "Belajar Dasar Pemrograman Web, Dicoding Indonesia, 2024",
+    "ASEAN Data Science Explorers, ASEAN Foundation, 2024",
+    "Short Class Data Analysis: Data Visualization, My Skill, 2024",
+    "Data Analysis Course, RevoU, 2023",
+    "Database Systems (Expert), Ikatan Ahli Informatika Indonesia, 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Admin",
+    "Operator Produksi"
+  ],
+  "industries": [
+    "Medical"
+  ],
+  "location": "Kota Bekasi"
+}

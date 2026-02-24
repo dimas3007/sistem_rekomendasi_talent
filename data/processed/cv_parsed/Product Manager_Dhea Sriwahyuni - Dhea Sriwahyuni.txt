@@ -1,0 +1,61 @@
+DHEA SRIWAHYUNI
+Product Manager
+DKI Jakarta | +62 851 5665 3025 | dheasriwahyuni17@gmail.com | linkedin.com/in/dhea-sriwahyuni/
+Sarjana Komputer Universitas Siliwangi dengan IPK 3,75. Tersertifikasi oleh BNSP sebagai Analis
+Program dan Junior Web Developer. Bersemangat mempelajari hal baru, teliti, serta detail dan
+memiliki minat yang kuat dalam mengejar karir sebagai Product Manager. Memiliki pengalaman
+sebagai IT Business Analyst yang memiliki relevansi dengan Product Manager. Selain itu juga,
+pernah menjabat sebagai Koordinator Tim pada proyek digitalisasi dokumen di
+kementerian/lembaga pemerintah.
+JOB EXPERIENCE
+IT Business Analyst (Full Time) September 2024 - Present
+BPJS Kesehatan | Jakarta Pusat
+Mengelola kegiatan proyek IT BPJS Kesehatan.
+Melakukan requirement gathering dari Kedeputian terkait.
+Menyusun dokumentasi proyek (Project Charter, Change Request, Design System, MoM, dan lain-lain).
+Mendelegasikan task kepada pihak developer.
+IT Business Analyst (Internship) Maret 2024 Agustus 2024
+PT Pupuk Kujang Cikampek | Karawang
+Mengelola kegiatan proyek IT PT Pupuk Kujang.
+Membuat dokumen proyek seperti Feasibility Study, Business Requirement Document (BRD), Blueprint, User
+Acceptance Testing (UAT), Manual Book, dan End-User Training (EUT)
+Memfasilitasi komunikasi dengan stakeholder dan tim developer untuk memelihara dokumentasi.
+Memberikan pelatihan dan dukungan kepada pengguna internal dan eksternal tentang penggunaan
+dokumentasi teknis.
+System Analyst (Based on Project) Februari 2024
+KlinikGo | Tangerang Selatan
+Membuat desain website dan desain database pada sistem pendaftaran pasien di perusahaan Klinikgo.
+Melakukan pemahaman bisnis.
+Membuat kebutuhan fungsional sistem (flowchart diagram, data flow diagram, use case diagram, activity
+diagram dan sequence diagram).
+Mempresentasikan hasil pekerjaan kepada pihak terkait.
+Team Coordinator (Based on Project) Oktober 2023 Desember 2023
+PT Archa Mitra Solusi | DKI Jakarta
+Mengkoordinasikan proyek digitalisasi dokumen dengan Kementerian/Lembaga Pemerintah (LAN, Kemenkeu,
+Kemenhub, BNN, Kemensos, Setkab, BIN, Bakamla, dan KY) mulai dari inisiasi sampai dengan selesai.
+Mengelola komunikasi terkait proses kerja dengan Kementerian/Lembaga Pemerintah Republik Indonesia.
+Melakukan kontrol kualitas dan sertifikasi dokumen negara yang telah didigitalisasi.
+Mempresentasikan hasil digitalisasi dokumen negara kepada para pemangku kepentingan.
+Melakukan penghapusan dan pemasangan sistem pada PC.
+IT Business Analyst (Internship) September 2021 Januari 2022
+Yayasan Sakata Innovation Center | Tasikmalaya
+Membangun Kembali aplikasi sistem manajemen pembelajaran terkait rebranding perusahaan.
+Melakukan rebranding website menggunakan pengembangan software development life cycle (SDLC).
+Melakukan proses analisa kebutuhan sistem.
+Membuat dokumen proyek aplikasi berupa SRS dan SDD.
+Melakukan komunikasi dengan dan tim developer terkait proyek perusahaan.
+Mendelegasikan task ke programmer dan memonitoring pekerjaan.
+Melakukan validasi hasil pekerjaan dengan dokumen pengujian UAT.
+Melakukan presentasi hasil pekerjaan kepada pihak perusahaan.
+EDUCATION
+Informatika 2018-2023
+Universitas Siliwangi | Tasikmalaya
+IPK 3,75 dari 4,00
+CERTIFICATE
+Program Analyst oleh BNSP pada 2023
+Junior Web Developer oleh BNSP pada 2023
+SKILL
+Hard Skill Soft Skill Bahasa
+Web Developing : HTML, CSS, JavaScript Communication Indonesia
+Design Tool : draw.io, MS Visio, Figma Stategic Planning Inggris (TELP : 510)
+Management Tool : Trello Leadership

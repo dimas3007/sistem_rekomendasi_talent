@@ -1,0 +1,101 @@
+DESTA RIZKY ANDHIKA
++6281357037313 | destarizkyandika24@gmail.com | https://www.linkedin.com/in/destarizkyandhika/
+|https://github.com/destarizky
+Surabaya
+I am an Informatics Engineering student at Universitas Pembangunan Nasional Veteran East Java with a strong
+interest in software development, specifically as a Full Stack Developer. I have experience in organizational
+leadership and digital platform development. Passionate about learning and innovation, I continue to improve my
+skills in technology and team management.
+Education Level
+Universitas Pembangunan Nasional Veteran Jawa Timur - Surabaya, Indonesia Aug 2022 -
+Undergraduate of Informatika, 3.92/4.00
+Top 16 of East Java Pomprov in Chess UNEJ - Representative UPN Veteran Jawa Timur
+SMAN 1 Tanjung Bumi - Bangkalan, Indonesia Aug 2019 - May 2022
+Senior High School, Mipa, 94/100.00
+1st place in inter-class Futsal
+KSN Physics 2021 Participants
+2nd place in MIPA at SMAN Tanjung Bumi
+Rank 3 Eligible Students at Tanjung Bumi High School
+Organization Experience
+Himpunan Mahasiswa Informatika - Surabaya, Indonesia Feb 2025 - Present
+Legislative - Head of Education Commission
+Create a new law on HImatifa Products
+Supervising the passage of administrative files in HIMATIFA
+Supervise the course of a program in the Himatifa Departement from the planning stage, progress to the implementation of the
+program
+Himpunan Mahasiswa Informatika - Surabaya, Indonesia Feb 2024 - Feb 2025
+Legislative - Member of the education commission
+Create a new law on HImatifa Products
+Supervising the passage of administrative files in HIMATIFA
+Supervise the course of a program in the Himatifa Departement from the planning stage, progress to the implementation of the
+program
+Secretary 1 Scout Ambassador Council - Bangkalan, Indonesia Jan 2019 - Jan 2021
+Public Relations
+The Scout Secretary is in charge of organizing all administration, correspondence in the School,
+especially in Scouting.
+The 1st Secretary of the Scout Ambassador Council is responsible for the administration and documentation of activities. He duties
+compiling and archiving correspondence, taking minutes of meetings, and storing member data and important documents
+Projects
+PINTURA - Website with an educational theme Nov 2024 - Dec 2024
+UI/UX Design & Frontend Developper
+PINTURA is an interactive digital learning platform designed to enrich knowledge and skills in a flexible way and aims to increase
+user motivation through community and gamification elements, so that they can learn effectively as needed.
+In the PINTURA project, I contributed to creating an interface design and developing the project in the form of a website using
+ReactJS and helping to create APIs.
+Interfaces Design - PINTURA Oct 2024 - Dec 2024
+UI/UX Designer
+Create and develop ideas related to design and prototype in the PINTURA project. The
+project has several features in it that are directly related to the theme of education by using
+Figma as a tool.
+Visit Wisata Indonesia - Website Travel Jan 2025 -
+Frontend Developer
+The Travel Website is a website that aims to be a tourist information center in Indonesia by implementing travel as transportation in
+the process of traveling to the intended tour.
+Perbandingan Tingkat Akurasi Klasifikasi Penerimaan Dosen Tetap Menggunakan Naive Bayes Dec 2023 - Jan 2024
+Machine Learning
+The project is a result related to the comparison of the accuracy level of the classification of permanent lecturers using Naive
+Bayes. The stages start from the journal search stage, the division of testing data and training data using Excel, the calculation of
+probabilities to the calculation of the comparison of accuracy levels using Python.
+Training and Course
+Rakamin Academy Sept 2024 - Dec 2024
+IT Full Stack Developer: Mastering Web Development Blending With Data Science
+Relevant Course : Product Management Fundamentals, UI/UX Design, User Research 101, HTML & CSS Fundamental, Layouting
+UI & UI Responsive, Introduction to software engineering, Back End Development - PHP Fundamentals, Data Science & Machine
+Learning, Web Development with PHP, Mobile Development Apps with Java, IT Secuirty Fundamentals, Basics of Cloud
+Computing, Regulatory IT Governance, Introduction to Business Architecture
+Final Project : PINTURA - PINTURA is an interactive digital learning platform designed to enrich knowledge and skills in a flexible
+way and aims to increase user motivation through community and gamification elements, so that they can learn effectively as
+needed.
+Udemy Oct 2024 -
+Web Development
+Coursework : Level Up Your UI/UX: Interactive Design & Prototyping Figma, The Completed Full Stack Web Development
+Bootcamp, Git from Basics to Advanced: Practical Guide For Developers, The Web Developer Bootcamp 2025, Learn Just Enough
+Laravel to Get Started as a Web Developer, The Full Stack Development Bootcamp ( Frontend & Backend ), PHP Laravel: Build
+Food Ordering E-Commerce Store
+Dicoding Feb 2025 -
+Web Development
+Coursework : Belajar Dasar Pemrograman Web, Belajar Dasar Pemrograman JavaScript, Belajar Membuat Frontend Web untuk
+Pemula, Belajar Fundamental Frontend Web Development, Belajar Fundamental Aplikasi Web dengan React, Belajar Dasar
+Pemrograman JavaScript
+Skills, Achievements & Other Experience
+Hard Skills
+Progamming Languages ( Python, SQL, C, HTML, CSS, JavaScript )
+Data Visualization
+Algorithms and Data Structures
+Web and Application Design
+Design Application ( Figma )
+MS, Office ( Ms.Word, Ms.Excel, Ms.Powerpoint )
+Soft Skills
+Leadership
+Communication
+Teamwork
+Problem Solving
+Adaptability
+Time Management
+Critical Thinking
+Creativity
+Achievements
+2nd place in MIPA at SMAN Tanjung Bumi
+Language
+Indonesian ( Native )
+English ( Intermediate )

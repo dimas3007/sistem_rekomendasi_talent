@@ -1,0 +1,39 @@
+{
+  "name": "Luna Mayla",
+  "email": "lunamayla87@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Gunadarma",
+  "hard_skills": [
+    "Microsoft Office (Ms. Word, Ms.Power Point, Ms. Excel)",
+    "Canva",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Kerjasama tim",
+    "Kolaborasi",
+    "Adaptasi",
+    "Management waktu",
+    "Teliti",
+    "Kreatif",
+    "Cepat beradaptasi"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Winter Club Explorer 2023",
+    "Frontend Basic course from generation girl Skilvul",
+    "Intro To UI/UX",
+    "IBM Course",
+    "User Experience Design Fundamentals"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Asisten Lab"
+  ],
+  "industries": [],
+  "location": "Depok"
+}

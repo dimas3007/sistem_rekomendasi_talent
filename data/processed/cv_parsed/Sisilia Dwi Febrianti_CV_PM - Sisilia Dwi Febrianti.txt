@@ -1,0 +1,45 @@
+SISILIA DWI FEBRIANTI
+Jember, East Java 082338867962 sisiliadf24@gmail.com - linkedin.com/in/sisiliadwifebrianti -
+portfoliosisilia.my.canva.site/my-portfolio-pm
+SUMMARY PROFILE
+I am a third-year Information Systems student at the University of Jember with a strong passion for IT Project
+Management. I have successfully led and coordinated over five academic projects using Agile methodology, ensuring
+timely delivery and efficient resource allocation. Skilled in project planning, stakeholder communication, and
+documentation. I am utilize Notion and Trello for project management, along with draw.io for system diagramming.
+With a strong commitment to teamwork, I thrive in collaborative environments and am always eager to contribute
+innovative solutions to drive projects efficiently from initiation to completion.
+EDUCATION
+UNIVERSITAS JEMBER Jember, East Java
+Information systems | CGPA : 3.88/4.00 2022 - present
+Relevant courses: Software Analysis and Design, Object Oriented Design, Introduction to Software Engineering,
+Modern Agroindustry Software Development, Database Systems, Introduction to Artificial Intelligence, Data
+Analysis and Visualization, Data Mining
+Runner Up for the ICT Scientific Paper at ISIC 2024 (GEMASTIK Faculty Selection)
+2nd Runner Up for the Business Plan Competition, Grand Economics 2024
+EXPERIENCE
+BANGKIT ACADEMY led by Google, GoTo, Traveloka Off-site
+Machine Learning Cohort Sep - Dec 2024
+Learned and applied machine learning model development using TensorFlow while enhancing collaboration and
+communication skills through interactive sessions and projects.
+Awarded Best Presenter during the Peer Review Session, selected among 65+ participants in one session.
+Awarded Best 50 Product-based Capstone Projects out of 644 Projects showcasing innovative solutions.
+PROJECT EXPERIENCE
+NUTRIPAL : AI-POWERED NUTRITION TRACKING AND CONSUMPTION RECOMMENDATION APPS
+Off-site Nov - Dec 2024
+Coordinated and facilitated collaboration among team members from diverse universities, ensuring effective
+communication and smooth project execution using Trello.
+Created a user manual for the NutriPal application, providing clear and comprehensive guidance for users.
+Served as the lead presenter in peer review sessions, playing a key role in the project's recognition as one of the Top
+50 Product-Based Capstone Projects.
+SAPIDO : INFORMATION SYSTEM FOR MONITORING COW AND SHEEP FARMERS Mar - May 2024
+Jember, East Java
+Created a project plan, including timeline, budget, and Work Breakdown Structure (WBS).
+Communicated with stakeholders (farmers and government) to gather and analyze requirements, ensuring alignment
+with project objectives.
+Coordinated team activities, assigned tasks, and monitored progress using Trello and Agile methodology to enhance
+productivity and ensure project success.
+SKILLS
+Hard Skills : Google Workspace, Microsoft Office, Enterprise Architect, Python, PHP, Canva, SQL, Figma, Tableau,
+Unified Modeling Language (UML), Trello, Notion, GoogleColab, Data Modeler
+Soft Skills : Time Management, Communication, Teamwork, Interpersonal, Flexibility
+Language : Indonesia (Native), English (Intermediate)

@@ -1,0 +1,32 @@
+{
+  "name": "Setya Kristendy Cianjur",
+  "email": "setyakristendy@gmail.com",
+  "phone": "+6282323916094",
+  "education_level": null,
+  "education_major": "Informatics",
+  "university": "Duta Wacana Christian University",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "PHP",
+    "SQL",
+    "Python"
+  ],
+  "soft_skills": [
+    "Team Work",
+    "Problem Solving",
+    "Responsible",
+    "Communication",
+    "Time Management"
+  ],
+  "years_experience": 0.33,
+  "certifications": [],
+  "languages": [],
+  "job_titles": [
+    "Assistant Lecturer"
+  ],
+  "industries": [],
+  "location": null
+}

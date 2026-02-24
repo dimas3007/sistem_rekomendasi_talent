@@ -1,0 +1,43 @@
+{
+  "name": "Listya Hani Rahmasari",
+  "email": "tyahanir@gmail.com",
+  "phone": "+6281353026781",
+  "education_level": "D4",
+  "education_major": "Sistem Informasi",
+  "university": "Politeknik Indonusa Surakarta",
+  "hard_skills": [
+    "Visual Studio Code",
+    "Xampp",
+    "Notepad++",
+    "Microsoft Office",
+    "Nutapos"
+  ],
+  "soft_skills": [
+    "Kepimpinan",
+    "Kerjasama Tim",
+    "Komunikasi",
+    "Teliti",
+    "Ramah"
+  ],
+  "years_experience": null,
+  "certifications": [
+    "Introduction to React JS Build Your Future as Web Developer with React JS (Edspert.id)",
+    "Ngoding Bareng Mahasiswa Teknik Informatika CRUD CI4 dengan Studi Kasus Absen Karyawan (HMPTI Universitas Duta Bangsa Surakarta)",
+    "Google Trends dan E-Commerce (Digitalent)",
+    "Dasar Data Science (Dicoding)",
+    "Digital Copywriting (Digitalent x Gojek)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Karyawati Takoyaki Believe",
+    "Kasir",
+    "Barista",
+    "Waiters"
+  ],
+  "industries": [
+    "FnB"
+  ],
+  "location": null
+}

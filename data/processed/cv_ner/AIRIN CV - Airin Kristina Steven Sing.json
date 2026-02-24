@@ -1,0 +1,38 @@
+{
+  "name": "AIRINKRISTINA STEVENSING",
+  "email": "airinkris03@gmail.com",
+  "phone": null,
+  "education_level": "D3",
+  "education_major": "Information Systems",
+  "university": "UNIVERSITY OF BINA SARANA INFORMATIKA",
+  "hard_skills": [
+    "UI/UX Design",
+    "Figma",
+    "Android development",
+    "Kotlin programming language"
+  ],
+  "soft_skills": [
+    "Project Management",
+    "Design Thinking",
+    "Public Speaking",
+    "Branding",
+    "Collaboration",
+    "User Researcher"
+  ],
+  "years_experience": 0.58,
+  "certifications": [
+    "INFINTELEARNING Android Mobile Development & UI/UX Design",
+    "SKILHUB ONLINE CONFERENCE UI/UX Design",
+    "PERMATA YOUTHPRENEUR 2023 Stage 1 Basic UI/UX Course",
+    "PERMATA YOUTHPRENEUR 2023 Stage 2 Digital Product Development"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Content Creator-Landing Page Builder",
+    "Secretary"
+  ],
+  "industries": [],
+  "location": "Central Java"
+}

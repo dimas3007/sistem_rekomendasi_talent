@@ -1,0 +1,48 @@
+{
+  "name": "YUSRINA HIRZI NUR IZZA",
+  "email": "yusrinahirzinurizza@gmail.com",
+  "phone": "081217150930",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Jember",
+  "hard_skills": [
+    "Figma",
+    "Prototyping",
+    "Canva",
+    "Tailwind",
+    "PostgreSQL",
+    "ClickUp",
+    "Linear",
+    "draw.io"
+  ],
+  "soft_skills": [
+    "Kerja sama tim",
+    "Problem solving",
+    "Manajemen waktu",
+    "Komunikasi",
+    "Kolaborasi",
+    "Kemampuan Adaptasi"
+  ],
+  "years_experience": 0.58,
+  "certifications": [
+    "P2MW"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Project Manager",
+    "Asisten Praktikum",
+    "Design Graphic",
+    "Member/ Kelas UI/UX,PM",
+    "Staff Humas",
+    "UI/UX",
+    "UX researcher"
+  ],
+  "industries": [
+    "AI",
+    "Pendidikan",
+    "Media"
+  ],
+  "location": "Jember"
+}

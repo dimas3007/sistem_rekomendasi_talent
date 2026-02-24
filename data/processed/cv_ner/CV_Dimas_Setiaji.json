@@ -1,0 +1,52 @@
+{
+  "name": "Dimas Setiaji",
+  "email": "dimassetiaji30@gmail.com",
+  "phone": "+62 89646797580",
+  "education_level": "S1",
+  "education_major": "Computer Software Enginnering",
+  "university": "Sangga Buana University",
+  "hard_skills": [
+    "HTML",
+    "Javascript",
+    "CSS",
+    "SCSS",
+    "Java",
+    "React Js",
+    "Spring Boot",
+    "Vue Js",
+    "Tailwind css",
+    "Codeigniter",
+    "Bootstrap",
+    "Laravel",
+    "JQuery",
+    "Visual Studio Code",
+    "Figma",
+    "Eclipse",
+    "Axure RP",
+    "IntelliJ IDEA",
+    "MySQL",
+    "Mongoo DB"
+  ],
+  "soft_skills": [
+    "Technology Adaptation",
+    "Problem Solving",
+    "Team Work",
+    "Curiosity"
+  ],
+  "years_experience": 3.08,
+  "certifications": [
+    "Applied Degree of Computer Science Software Enginnering"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Internship Junior Web Programmer",
+    "Web Developer",
+    "Full-Time Web Developer",
+    "Full-Time Web Developer"
+  ],
+  "industries": [],
+  "location": "Bandung"
+}

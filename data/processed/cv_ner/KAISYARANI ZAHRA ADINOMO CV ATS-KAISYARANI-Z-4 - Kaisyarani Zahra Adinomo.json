@@ -1,0 +1,47 @@
+{
+  "name": "Kaisyarani Zahra Adinomo",
+  "email": "kaisyarani.za@gmail.com",
+  "phone": "+62 85215057747",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Mercu Buana",
+  "hard_skills": [
+    "Android Studio",
+    "Unity",
+    "VS Code",
+    "Adobe Illustrator",
+    "Figma",
+    "Canva",
+    "Mobile Programming",
+    "Pemrograman Pl/SQL",
+    "Web Enterprise",
+    "Pemrograman Berorientasi Objek"
+  ],
+  "soft_skills": [
+    "Time Management",
+    "Problem Solving",
+    "Teamwork",
+    "Adaptable",
+    "Creative"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Studi Independent Bersertifikat Bangkit Academy"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Arsip dan Dokumen",
+    "Bagian Jurnalistik",
+    "Bagian Desain dan Media",
+    "Bagian Perlengkapan",
+    "Bagian Konsumsi & Asisten Editor"
+  ],
+  "industries": [
+    "TVR Parlemen",
+    "Pendidikan"
+  ],
+  "location": "Bogor"
+}

@@ -1,0 +1,47 @@
+Muhamad Faisal
+Software Developer
+Bogor | +62851-5628-3541 | muhamadfaisal280201@gmail.com | Github
+SUMMARY
+As a Computer Science graduate with a strong passion for technological innovation, I am highly
+motivated to continuously learn and adapt to the advancements of the digital era. I have hands-
+on experience in developing software solutions using various modern tools and technologies,
+including WordPress with Elementor, Flutter Framework, Database Management Systems
+(MySQL), Version Control Systems (GIT), and design tools such as Figma and Canva. I am also
+proficient in Linux operating systems and other software development support tools.
+Currently, I specialize in front-end development for cross-platform mobile applications (Android
+and iOS) using Flutter, with a focus on creating responsive and user-friendly interfaces. I am eager
+to contribute to innovative projects and bring added value through my technical expertise and
+creative problem-solving skills.
+EXPERIENCE
+CENTURY21 PRIMA Bintaro, Indonesia
+IT Staff - Internship (Aug 2022 Jan 2023)
+Computer and network maintenance
+Designing graphics for marketing advertising and social media content needs
+Handle marketing admin to input listing data into the database and manage
+advertisements on portal websites and in office applications
+Slicing Listing Management Application User Interface Design with Flutter
+CODERO - PT. PIP (HASNUR GROUP) Jakarta, Indonesia
+Teacher (March 2023 Jun 2024)
+Designing a Python programming syllabus
+Teaching coding using scratch 3
+Teaching robotics with project base
+DIETPLASTIK INDONESIA Jakarta, Indonesia
+WordPress CMS Administration (Project base)
+Migration of old websites and databases to new domains
+Rebuilding the website with a new UI/UX
+Maintenance and manage content
+TRANS SNOW WORLD BINTARO-PT ALFA RETAILINDO Tangerang, Indonesia
+IT Staff (Jun 2024 Sep 2024)
+Troubleshooting and maintenance software & hardware
+Manage ticket product
+Recap daily sales
+EDUCATION
+Universitas Pamulang (2019 - 2025)
+Bachelor Degree (S1) of Informatics Engineering
+CERTIFICATIONS
+Digitalent - Junior Network Administrator
+Agate Academy - Game Development
+Prakerja - Mobile Applications With Flutter
+SKILLS
+Software Developer Microsoft Office Teamwork
+Graphic Design Knowledge Operating System Communication

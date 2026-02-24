@@ -1,0 +1,58 @@
+FRISDA DITA ISNAINI
++6281327271262 | frisdadita@gmail.com | Linkedin: linkedin.com/in/frisdaditaisnaini/ | Tap to see portofolio
+SUMMARY
+Informatics graduate and experienced UI/UX Researcher and Designer with expertise in research, wireframing, design, and testing. Detail-oriented
+and adaptable, capable of working effectively both independently and within a team to deliver high-quality user experiences.
+EXPERIENCE
+UI/UX Designer / Freelance - Uchi Parfume Project April 2024 - July 2024
+Banjarnegara, Jawa Tengah
+Conducted user research by interviewing the business owner and reviewing previous versions of the app to identify areas for improvement and
+gather insights into user needs.
+Developed high-fidelity prototypes to assist in the development of the Uchi Perfume Store Manager, ensuring that the design met user
+expectations.
+Maintained regular updates with the client to ensure that the project's goals remained aligned and that client expectations were met.
+UI/UX Researcher and Designer / Freelance - Rakit PC July 2023 - March 2024
+Surabaya, Jawa Timur
+Analyzed Google Play Store reviews and past testing data to uncover user pain points and identify needs, enhancing understanding of user
+behavior and preferences.
+Transform insights from user reviews into high-fidelity prototypes, supporting the iterative development of RakitPC and ensuring alignment with
+user expectations.
+Created a pitch deck and social media content to boost brand engagement and effectively communicate product value.
+UI/UX Researcher / Intern - PT. Telekomunikasi Indonesia Tbk February 2023 - June 2023
+Bandung, Jawa Barat
+Collaborated with a team to develop a user research plan and conducted in-depth interviews with stakeholders to gather insights into user
+needs, which were documented in research reports.
+Integrated these insights into application workflows, created metadata, and designed over 100 low-fidelity interfaces for three projects,
+following the established design system for consistency.
+Conducted usability testing with Quant UX, achieving a SUS score of 81 and a SEQ score of 9.1, demonstrating strong user alignment.
+Worked closely with product owners, engineers, system analysts, and QA throughout the Software Development Life Cycle (SDLC), using Scrum
+agile practices to drive development.
+SELECTED PROJECT
+Holt-Winters Model for Rice Price Forecasting in East Java 2024
+Data Mining Project
+A rice price forecasting system is being developed using data from the National Statistics Agency (BPS) that covers 20 regions in East Java.
+The method employed is the Holt-Winters model, along with K-fold cross-validation for data division. The results show an average Mean
+Absolute Percentage Error (MAPE) as low as 0.03% and a maximum of 1.1%, indicating a high level of accuracy based on the MAPE
+classification by Lewis (1982).
+Layanan Anti Hamburan Pangan - LAHAP 2023
+UI/UX Research and Design Project
+Collaborated on designing digital products aligned with SDG 17, focusing on Goal 2: Zero Hunger. Conducted research using academic journals
+and surveys to address food waste. Developed the LAHAP app concept for buying, selling, and sharing surplus food, creating application flows,
+design systems, and both low- and high-fidelity designs. Prepared proposals and pitch decks to showcase our product ideas.
+Revamp Eventeer - Multiplatform 2023
+UI/UX Research Project
+Conduct research to identify user issues in the application through in-depth interviews. Summarize findings into user research reports,
+application flows, and low-fidelity designs. Test designs to ensure they meet user needs using Quant UX, SUS, and SEQ. Create usability testing
+report templates and document activities for stakeholder presentations.
+EDUCATION
+Bachelor Degree in Informatics - 3.93/4.00 Sep 2020 - Oct 2024
+Universitas Pembangunan Nasional Veteran Jawa Timur
+Member of Public Relation Department Global Language Club (February 2022 - February 2023)
+Secretary of Mosaik Fasilkom (June 2022 - August 2022)
+Member of Publication Documentation Decoration Kabar Fasilkom 2022
+Leader of Campus Visit GLC 2022
+ACHIEVEMENT
+First Winner of National Start Up Competition 2023 5 November 2023
+First Winner of UI/UX Competition Dies Natalis Fasilkom 2023 1 - 16 August 2023
+SKILL
+Skill: UI/UX Research and Design, Usability Testing, HTML, CSS, C/C++ | Tools: Vscode, Figma, Maze, Quant UX, Canva

@@ -1,0 +1,66 @@
+CURRICULUM VITAE
+BIODATA DIRI
+Nama : Dicky Kurniawan Syahputra
+Tempat/Tanggal lahir : Stabat, 28 Januari 2001
+Jenis Kelamin : Laki-Laki
+Tinggi Badan : 170 cm
+Berat Badan : 60 kg
+Agama : Islam
+Status : Singel
+Email : rushydicky@gmail.com
+No HP : 0895 6184 97889
+Alamat : Jalan Pramuka, Kelurahan Pinang
+Mancung, Kecamatan Bajenis, Kota
+Tebing Tinggi
+SUMMARY
+Saya merupakan Fresh Graduate dari Jurusan Teknik Komputer Politeknik Negeri Medan
+dengan IPK 3.26. Saya mampu bekerja secara individu maupun kelompok. Saya merupakan
+tipe orang yang suka mempelajari hal baru. Saya memiliki kemampuan berkomunikasi yang
+baik dan dapat beradaptasi dengan lingkungan baru serta responsif terhadap sesuatu hal.
+EDUCATION
+Politeknik Negeri Medan
+D3 Teknik Komputer Sept 2021
+IPK 3.26
+Anggota Departemen BMC UKMI Polmed pada tahun 2018 - 2020.
+Anggota Divisi Agama Islam HMPS Jurusan Teknik Komputer 2018/2019.
+Lulus dengan Tugas Akhir : Rancang Bangun Alat Penyortir Kualitas Telur Ayam
+Menggunakan Mikrokontroller Atmega 328P dengan Tampilan LCD.
+SMAN 2 Tebing Tinggi
+IPA Mei 2018
+Nilai Akhir 89.
+Anggota Ekstrakulikuler Dokter Remaja pada tahun ajaran 2016/2017.
+Ketua Ekstrakulikuler Dokter Remaja pada tahun ajaran 2017/2018.
+SKILLS
+Ms.Office Frontend Web Inovatif
+MySql Conscientious PHP
+Networking
+WORK EXPERIENCE
+Pengadilan Negeri Medan Kelas 1 A Khusus Medan,Indonesia
+Pemberkasan Arsip Perkara Perdata Maret 2021 Mei 2021
+Pemeriksaan berkas perkara perdata dan klarifikasi jenis perkara perdata
+Penginputan berkas perkara perdata ke Ms. Excel
+Input database ke Sipp MA.RI
+Lembaga Kursus dan Pelatihan Kencana Komputer Stabat,Indonesia
+Asisten Instruktur Agustus 2020 Januari
+
+Membimbing dan mengawasi peserta kursus secara aktif dalam mendapatkan
+pengetahuan.
+Membantu membersihkan dan mempersiapkan ruang kursus sebelum dan sesudah kursus
+selesai.
+Melaksanakan tugas lain yang diberikan oleh atasan.
+LANGUAGES
+Bahasa Inggris Bahasa Indonesia Bahasa Prancis
+CERTIFICATION
+Certificate Bitdegree Introducing Coding for Beginners: an HTML and CSS Online
+Course
+Certificate Aguna Course Python Fundamental
+Certificate Aguna Course Virtual Machine Fundamental
+Certificate Toefl Prediction Test
+Certificate Dicoding Front-end web
+Certificate Dicoding Python
+Certificate Progate Java
+Certificate Progate Python
+Certificate Kominfo DTS programming
+Certificate Toeic
+Certificate PKS Digital School Full Stack Web Development
+Certificate Digital Talent Scholarship Junior Network Administrator

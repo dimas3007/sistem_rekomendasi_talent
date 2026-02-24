@@ -1,0 +1,42 @@
+{
+  "name": "ZULFANIA SHOFA",
+  "email": "zulfaniashofa29@gmail.com",
+  "phone": "081517129511",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "STT Terpadu Nurul Fikri",
+  "hard_skills": [
+    "Prototyping Tools",
+    "Interaction Design",
+    "Wireframing",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "User Research",
+    "Visual Design",
+    "Responsive Design"
+  ],
+  "soft_skills": [
+    "Critical Thinking",
+    "Attention to Detail",
+    "Problem-Solving",
+    "Communication",
+    "Collaboration"
+  ],
+  "years_experience": 2.58,
+  "certifications": [
+    "ETS TOEIC",
+    "Mikrotik MTCNA"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX DESIGNER",
+    "Sales Admin",
+    "Admin",
+    "IT Support"
+  ],
+  "industries": [],
+  "location": null
+}

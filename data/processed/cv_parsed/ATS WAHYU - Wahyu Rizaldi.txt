@@ -1,0 +1,73 @@
+WAHYU ANDHIKA RIZALDI
++62 82387455975 |
+wahyurizaldi80@gmail.com |
+linkedin.com/in/wahyu-rizaldi-b1491a222 |
+github.com/wahyuandhikarizaldi |
+Summary
+An information technology student with interest in project management, mobile application
+development, artificial intelligence, and internet of things. I can work at any condition,
+whether as a team or individual, and work well under pressure. My key point is
+communication; building strong relationships with people in order to deliver the best results.
+Education
+Sepuluh Nopember Institute of Technology 2021 - now
+Information Technology, GPA: 3.69/4.00
+- Relevant Coursework: Cyber Security, Internet of Things, Artificial Intelligence, Web
+Development, Cloud Services, Database System, IT Architecture
+SMA Negeri 8 Pekanbaru 2018 - 2021
+Science
+Work Experiences
+PT Mitra Karya Prima (MKP) Sep 2024 - Jan 2025
+Mobile Developer
+- Developed an Android job search application to help overhaul workers across the country
+to find jobs and projects from PT MKP and partners.
+- Integrated the application with the company's Google Spreadsheet database.
+Organizational Experiences
+Himpunan Mahasiswa Teknologi Informasi (HMIT) ITS Feb 2024 - Jan 2025
+President
+- Responsible for all activities of the ITS Information Technology Student Association, with
+agendas such as roadshow, gatherings, and others.
+ITS Riau Student Association (IRITSBTR) May 2022 - Aug 2023
+President
+- Responsible for all activities of the ITS Riau student association, with agendas such as
+roadshow, gatherings, and others.
+A Renewal Agent (ARA) 4.0 Oct 2022 - Apr 2023
+Head of Marketing Division
+- Responsible for publication and marketing, creative content, and social media of ARA 4.0.
+Volunteer Experiences
+Bangkit Academy 2024 - Mobile Development Cohort Jan 2024
+Dicoding Indonesia
+Participated in a program led by Google, GoTo, and Traveloka to build knowledge, experience,
+and develop new skills on Mobile Development and non-technical skills, to help prepare for a
+successful career in leading technology companies in Indonesia and the world.
+Abdimas & KKN Pelatihan IoT Blitar 2023 May 2023
+ITS Information Technology Department
+Conducted IoT training for junior and senior high school teachers in Blitar City.
+Cultural Exchange Programme SUSS Indonesia 2022 Jan 2022
+Singapore University of Social Sciences
+Participated in a program that facilitated interactions between SUSS and Indonesia university
+students to explore intangible cultural heritage and phenomena.
+Achievements
+Gemastik 2023 - Smart Device, Embedded System, and IoT Division
+Finalist (Top 20)
+Gemastik (Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi) is the
+biggest annual ICT event in Indonesia that has been held since 2007 and is a program of the
+National Achievement Center (Puspresnas) of the Ministry of Education and Culture and
+Technology (Kemendikbudristek).
+- Developed WaterWise, greywater waste management with implementation of AI, IoT
+and mobile application-based.
+- Using ESP32, pH, TDS, and Turbidity Sensor, and Kotlin for the mobile app.
+- Using parameters such as ph, total dissolved solid, and water turbidity to determine
+water potability.
+Skills
+- HTML, CSS, JavaScript, C, C++, Java, Python, Kotlin.
+- Android SDK and Android Studio
+- Firebase, MySQL, SQLite
+- APIs Integration
+- MVVM/MVP Architecture
+- Machine Learning, Data Analytics
+- Debugging and Troubleshooting
+- Project Management
+- Microsoft Office, Trello
+- Scrum, Agile Methodologies
+- Leadership, Communication, Management, Problem Solving
+- Indonesia, English

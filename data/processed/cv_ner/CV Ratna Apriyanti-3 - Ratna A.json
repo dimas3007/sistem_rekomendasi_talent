@@ -1,0 +1,38 @@
+{
+  "name": "Ratna Apriyanti",
+  "email": "ratnapriyan19@gmail.com",
+  "phone": "+62 858 6396 5136",
+  "education_level": "S1",
+  "education_major": "Teknologi Informasi",
+  "university": "Universitas Bina Sarana Informatika",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Microsoft Office",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Penyelesaian Masalah",
+    "Kerjasama Tim",
+    "Manajemen Waktu",
+    "Negosiasi",
+    "Fleksibilitas"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Pelatihan Programmer Disnaker Kota Depok (2024)",
+    "Pelatihan Life Skill Microsoft Office Pemerintah Kota Depok (2024)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Staff Magang",
+    "Koordinator Acara"
+  ],
+  "industries": [],
+  "location": "Depok"
+}

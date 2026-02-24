@@ -1,0 +1,41 @@
+{
+  "name": "Naura Auliya Ananta",
+  "email": "nauraauliyaananta@gmail.com",
+  "phone": "+62 85334784606",
+  "education_level": "S1",
+  "education_major": "System Information",
+  "university": "Telkom University Surabaya",
+  "hard_skills": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Power Point",
+    "Microsoft Power BI",
+    "Java",
+    "Python",
+    "PHP",
+    "Figma",
+    "Adobe Photoshop",
+    "Adobe Premiere",
+    "DBMS MySQL",
+    "Trello"
+  ],
+  "soft_skills": [
+    "Communicate",
+    "Team Work",
+    "Problem Solving",
+    "Critical Thinking"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "SAP Course AC010 Business Processes in Financial Accounting(2022)"
+  ],
+  "languages": [
+    "Bahasa",
+    "English"
+  ],
+  "job_titles": [
+    "Business Administrator"
+  ],
+  "industries": [],
+  "location": "Central Jakarta"
+}

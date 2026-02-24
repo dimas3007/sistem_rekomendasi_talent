@@ -1,0 +1,58 @@
+NAIRA OKTARINI PANE
+nairapane@student.ub.ac.id | 082260692486 | www.linkedin.com/in/naira-pane/
+PROFIL
+Mahasiswa semester 6 Jurusan Sistem Informasi di Universitas Brawijaya yang memiliki
+ketertarikan pada bidang IT. Memiliki kemampuan dalam hal desain, analisis data,
+komunikasi, dan mampu bekerja dalam tim. Selama berkuliah saya pernah mengerjakan
+project pembuatan website, membuat desain UI/UX aplikasi dan website, serta mengelola
+database.
+PENDIDIKAN
+Universitas Brawijaya 2022 - Sekarang
+S1 Sistem Informasi, Fakultas Ilmu Komputer (IPK: 3.86/4.00)
+PENGALAMAN KEPANITIAAN
+WOW SI Chapter 3 Oktober 2022
+Staff KEMANKES (Keamanan dan Kesehatan)
+Bertanggung jawab dalam keamanan peserta selama acara berlangsung.
+Bertanggung jawab terhadap kesehatan peserta.
+Bertanggung jawab dalam perizinan peserta.
+PROJECT
+Prototype Aplikasi Kosmopolitan April Juni 2024
+Project Mata Kuliah Perancangan User Experience
+Melakukan analisis kebutuhan calon pengguna aplikasi.
+Menyusun requirement, user story map, serta user flow diagram.
+Bekerja sama dengan 4 anggota tim lainnya membuat desain UI/UX menggunakan figma.
+Berhasil menyelesaikan project tepat waktu dan mendapat nilai A dengan indeks 4.00.
+Perancangan Data Warehouse Toko Musik Maret - Juni 2024
+Project Mata Kuliah Data Warehouse
+Merancang relational model, information package, dan star schema.
+Melakukan proses ETL dan query OLAP.
+Berhasil menyelesaikan project tepat waktu dan mendapat nilai A dengan indeks 4.00.
+Desain UI/UX Aplikasi REMO Maret Juni 2024
+Project Mata Kuliah Analisis dan Desain Sistem Informasi
+Bertindak sebagai ketua kelompok.
+Menyusun user story, user requirement, dan proses bisnis.
+Memodelkan data dan alur informasi untuk aplikasi yang akan dibuat.
+Membuat diagram UML (use case, class, activity, sequence).
+Membuat desain UI/UX aplikasi menggunakan figma.
+Berhasil menyelesaikan project tepat waktu dan mendapat nilai A dengan indeks 4.00.
+Homepage Website Penjualan Frozen Food September Desember 2023
+Project Mata Kuliah Dasar Desain Antarmuka Pengguna
+Bertindak sebagai ketua kelompok.
+Bekerja sama dengan 3 anggota tim lainnya mendesain tampilan homepage website.
+Mengubah desain menjadi kode HTML dan CSS dengan bootstrap sehingga tampilan
+bisa responsif.
+Berhasil menyelesaikan project tepat waktu dan mendapat nilai A dengan indeks 4.00.
+Perancangan Database Kantin Februari - Juni 2022
+Project Mata Kuliah Dasar Basis Data
+Merancang ERD, EERD, serta relational model.
+Membuat query SQL database bersama 2 anggota tim lainnya.
+Berhasil menyelesaikan project tepat waktu dan mendapat nilai A dengan indeks 4.00.
+PENGHARGAAN
+Juara 2 Dekan Cup Kategori PKM-PM Desember 2022
+Fakultas Ilmu Komputer Universitas Brawijaya
+Juara 2 dari 10 tim dengan menyusun proposal program kreativitas mahasiswa di bidang
+pengabdian masyarakat.
+KEAHLIAN
+Bahasa: Indonesian (Advance), English (Intermediate)
+Software: Ms. Office (Ms. Word, Ms. Excel, Ms. Powerpoint), Figma, Canva, draw.io,
+Flowchart

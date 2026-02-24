@@ -1,0 +1,45 @@
+{
+  "name": "Amanda Puspasari Utami",
+  "email": "amanda.puspasariutami@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "Microsoft Office",
+    "Word",
+    "Excel",
+    "Power Point",
+    "HTML",
+    "CSS",
+    "Navicat",
+    "Capcut",
+    "Canva",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Leadership",
+    "Adaptive",
+    "Interpersonal Skill",
+    "Communication Skill"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Mini Course Revo-U Data Analytics",
+    "AWS Cloud Essentials Knowledge Badge Assessment",
+    "Well-Architected Foundations",
+    "Amazon QuickSight Advanced Business Intelligence Authoring (Part 1 & 2)",
+    "Amazon RDS Service Primer",
+    "Fundamentals of Machine Learning and Artificial Intelligence"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Project Planner",
+    "Sekretaris OSIS"
+  ],
+  "industries": [],
+  "location": "Surabaya"
+}

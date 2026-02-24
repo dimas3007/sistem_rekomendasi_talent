@@ -1,0 +1,58 @@
+{
+  "name": "Novi Sabaniatur Rohmah",
+  "email": "novirohmah28@gmail.com",
+  "phone": "085856233292",
+  "education_level": "S1",
+  "education_major": "Economic",
+  "university": "Universitas Brawijaya",
+  "hard_skills": [
+    "Python",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Looker Studio",
+    "Microsoft Office",
+    "Google Workspace",
+    "Notion",
+    "Coda",
+    "Canva",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Matplotlib"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Communication",
+    "Coordination",
+    "Analytical Thinking",
+    "Problem-Solving",
+    "Stakeholder Management"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Microsoft Office Desktop Application Trust Training Partners",
+    "Data Science Program at Winter Club Explorer 2023 Generation Girl",
+    "Toefl ITP Certification",
+    "Wealth and Personal Banking",
+    "Commercial Banking",
+    "Digital Business Services",
+    "Internal Audit Analyst",
+    "Corporate Analyst Development Program (CADP)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Process Improvement",
+    "Data Surveyor",
+    "Data Analyst",
+    "Treasury Staff",
+    "Event Staff"
+  ],
+  "industries": [
+    "Statistics",
+    "Education"
+  ],
+  "location": "Malang"
+}

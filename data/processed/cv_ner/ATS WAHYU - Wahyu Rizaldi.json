@@ -1,0 +1,52 @@
+{
+  "name": "Wahyu Andhika Rizaldi",
+  "email": "wahyurizaldi80@gmail.com",
+  "phone": "+62 82387455975",
+  "education_level": "S1",
+  "education_major": "Information Technology",
+  "university": "Sepuluh Nopember Institute of Technology",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "C",
+    "C++",
+    "Java",
+    "Python",
+    "Kotlin",
+    "Android SDK",
+    "Android Studio",
+    "Firebase",
+    "MySQL",
+    "SQLite",
+    "APIs Integration",
+    "MVVM/MVP Architecture",
+    "Machine Learning",
+    "Data Analytics",
+    "Debugging",
+    "Troubleshooting",
+    "ESP32"
+  ],
+  "soft_skills": [
+    "Project Management",
+    "Leadership",
+    "Communication",
+    "Management",
+    "Problem Solving",
+    "Scrum",
+    "Agile Methodologies"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Bangkit Academy 2024 - Mobile Development Cohort"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Mobile Developer"
+  ],
+  "industries": [],
+  "location": null
+}

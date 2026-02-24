@@ -1,0 +1,44 @@
+{
+  "name": "Putra Rafly Pratama",
+  "email": "putraraflypratama@gmail.com",
+  "phone": "6289614712323",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "STT Terpadu Nurul Fikri",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Ms. Office",
+    "PPT",
+    "Excel",
+    "Word",
+    "Capcut"
+  ],
+  "soft_skills": [
+    "Komunikatif",
+    "Bertanggung Jawab",
+    "Bekerja Sama",
+    "Problem Sloving",
+    "Team Management"
+  ],
+  "years_experience": 2.33,
+  "certifications": [
+    "Figma For UI/UX Design",
+    "Graphics Design",
+    "Kickstart UI/UX Design Journey",
+    "Literasi Digital (Office Professional)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Host Live Streaming",
+    "Admin"
+  ],
+  "industries": [
+    "E-commerce",
+    "Fashion"
+  ],
+  "location": "Depok"
+}

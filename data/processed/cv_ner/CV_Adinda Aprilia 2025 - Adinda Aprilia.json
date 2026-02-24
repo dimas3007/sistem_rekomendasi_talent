@@ -1,0 +1,42 @@
+{
+  "name": "Adinda Aprilia",
+  "email": "adinda.aprilia02@gmail.com",
+  "phone": null,
+  "education_level": null,
+  "education_major": null,
+  "university": "Universitas Singaperbangsa Karawang",
+  "hard_skills": [
+    "content writing",
+    "copy writing",
+    "content making",
+    "social media managing",
+    "Canva",
+    "Capcut",
+    "Inshot",
+    "Zoom",
+    "Google Meeting"
+  ],
+  "soft_skills": [
+    "teamwork",
+    "problem solving",
+    "communications skill",
+    "creative thinking",
+    "content strategy"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Independent Study MSIB Batch 6 Digital Marketing Corporate Innovation Asia - CIAS"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Teaching Assistant",
+    "Staff of Digital Marketing",
+    "Copywriter",
+    "Desain, Publikasi, dan Branding"
+  ],
+  "industries": [
+    "Education",
+    "Marketing"
+  ],
+  "location": "Karawang"
+}

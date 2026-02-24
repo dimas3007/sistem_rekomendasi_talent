@@ -1,0 +1,48 @@
+{
+  "name": "Alya Nur Firjatullah Ambarsari",
+  "email": "anfasari29@gmail.com",
+  "phone": "+62 813 6938 5717",
+  "education_level": "S1",
+  "education_major": "Computer System",
+  "university": "University of Sriwijaya",
+  "hard_skills": [
+    "Ms. Office",
+    "Ms.Word",
+    "Ms.Excel",
+    "Ms. Powerpoint",
+    "Google Docs",
+    "Google Spreadsheet",
+    "Google Slides",
+    "python",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Time Management",
+    "Teamwork",
+    "Emotional Intelligence",
+    "Good Communication",
+    "Problem Solver",
+    "Financial Reporting"
+  ],
+  "years_experience": 1.5,
+  "certifications": [
+    "Pelatihan Data Scientist",
+    "Digital Talent Scholarship",
+    "Certified Researcher Participation",
+    "My Digital Academy",
+    "Data Analyst",
+    "Product Management"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Staff IT and Business Partner Intern",
+    "Researcher Participation as an ISysRG Intern"
+  ],
+  "industries": [
+    "IT",
+    "Research"
+  ],
+  "location": "Palembang"
+}

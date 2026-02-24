@@ -1,0 +1,88 @@
+DINI SISKASARI
+0895412238558 | dinisiskasari00@gmail.com | www.linkedin.com/in/dini-siskasari-42b696243
+Jalan Sri Rahayu No.63 Tegalyoso RT 03 RW 07 Banyuraden Kecamatan Gamping Kabupaten Sleman
+Yogyakarta, 55291
+Saya adalah seorang Mahasiswa semester 6 program studi Sistem Informasi dari Universitas Jenderal
+Achmad Yani Yogyakarta. Memiliki kemampuan komunikasi, hubungan masyarakat (humas) melalui
+pengalaman organisasi dan kepanitiaan. Tertarik belajar hal baru dan tantangan apapun. Saya tertarik dengan
+desain, administrasi dan analisis data.
+Pendidikan
+Universitas Jenderal Achmad Yani Yogyakarta Sep 2022 - Sekarang
+Sistem Informasi, Fakultas Teknik dan Teknologi Informasi
+SMA Negeri 1 Kuningan Juli 2019 Mei 2022
+Ilmu Pengetahuan Alam
+Pengalaman
+Tim Jaya Lib SI Universitas Jenderal Achmad Yani Yogyakarta, Indonesia Jan 2025
+UI/UX Designer
+Melakukan wawancara dan survei untuk memahami kebutuhan dan preferensi pengguna
+Membuat tampilan antarmuka yang user friendly untuk memudahkan mahasiswa yang akan
+Memperpanjang peminjaman buku, melihat stock koleksi buku dan layanan lainnya
+Menganalisis produk pesaing untuk memahami kelebihan dan kekurangan kompetitor
+Tim Saffco SI Universitas Jenderal Achmad Yani Yogyakarta, Indonesia Jan 2025
+UI/UX Designer
+Melakukan survei dan wawancara untuk memahami kebutuhan pengguna
+Membuat tampilan antarmuka yang user friendly untuk memudahkan pengguna dalam
+memahami masalah kulitnya
+Innovatech SI Universitas Jenderal Achmad Yani Yogyakarta, Indonesia
+UI/UX Designer Juni 2024
+Melakukan survei dan wawancara untuk memahami kebutuhan pengguna
+Membuat tampilan antarmuka yang user friendly untuk memudahkan para petani, distributor
+dalam melakukan penjualan
+Goggle Developer Student Clubs FTTI UNJAYA Yogyakarta, Indonesia
+Curriculum Des 2024 - Sekarang
+Menyusun Program Kerja perdivisi
+Mengatur seluruh kegiatan dan acara
+Memastikan implementasi kurikulum dan kegiatan berjalan Sesuai rencana
+Bendahara GDSC UNJAYA Des 2023 Des 2024
+Bertanggung jawab mengelola dan memanfaatkan anggaran organisasi, serta memastikan
+alokasi dana yang efektif untuk berbagai kegiatan
+Mengelola transaksi keuangan dan menjaga keakuratan pencatatan, pendapatan dan pengeluaran
+Menyusun Rancangan Anggaran Biaya dalam setiap kegiatan
+Membuat laporan pertanggung jawaban di akhir kegiatan
+Himpunan Mahasiswa Sistem Informasi FTTI UNJAYA Yogyakarta, Indonesia
+Sekretaris 1 HMSI UNJAYA Des 2023 - Des 2024
+Sekretaris 2 HMSI UNJAYA Jan 2023 - Des 2023
+Menjalankan tugas admnistrasi keorganisasian
+Melakukan pengarsiapan Dokumen yang telah dibuat dan dokumen yang masuk seperti
+surat undangan
+Bertanggung jawab terhadap surat surat yang dibutuhkan untuk kegiatan HMSI yang bersifat
+intern dan ekstern
+Bertanggungjawab membuat surat, proposal dan laporan pertanggungjawaban kegiatan
+Membuat laporan pertanggung jawaban tengah dan akhir tahun kepengurusan HMSI
+Membuat notulensi rapat
+Kepanitiaan
+Webinar Cloud Computing oleh Developer Student Club (DSC) sebagai Ketua Pelaksana Feb 2025
+ULFABETA (Kumpul Berfaedah Bersama Wanita) oleh Himpunan Mahasiswa Sistem Informasi Mei 2024
+(HMSI) Sebagai sekretaris
+Lomba UI/ UX Design oleh Himpunan Mahasiswa Sistem Informasi (HMSI) Mar 2024
+sebagai Hubungan Masyarakat (HUMAS)
+Webinar UI/ UX Design oleh Himpunan Mahasiswa Sistem Informasi (HMSI) Feb 2024
+Sebagai sekretaris
+Malam Keakraban (MAKRAB) oleh Himpunan Mahasiswa Sistem Informasi (HMSI Nov 2023
+Sebagai Ketua Pelaksana
+Masa Sambut Mahasiswa Baru (MASAMARU) oleh Fakulta Teknik dan Sep 2023
+Teknologi Informasi (FTTI) sebagai Hubungan Masyarakat (HUMAS)
+Obrolan Mahasiswa Jogja-Kuningan (OMJOK) oleh Feb 2023
+Ikatan Pelajar Mahasiswa Kuningan (IPMK) sebagai Hubungan Masyarakat (HUMAS)
+Proyek
+Agrow
+Agrow Merupakan Aplikasi yang dibuat untuk membantu petani terhubung kepada distributor
+dalam penyaluran penjualan hasil panen, juga dapat memberikan informasi kepada petani
+mengenai harga pasar berdasarkan dengan standar instansi terkait/pemerintah.
+HTML, CSS, JavaScript, flask, bootstrap dan mongoDB
+Saffco
+Saffco Merupakan aplikasi mobile yang dirancang untuk memberikan edukasi tentang perawatan
+wajiah dengan pendekatan yang lebih personal. Melalui aplikasi ini, pengguna dapat memperoleh
+informasi mengenai produk yang sesuai, tips perawatan, serta panduan yang disesuaikan dengan
+kondisi kulit mereka.
+Jaya Lib
+JayaLib (Unjaya Library) adalah aplikasi perpustakaan digital Universitas Jenderal Achmad Yani
+Yogyakarta (Unjaya) yang mempermudah akses dan pengelolaan layanan perpustakaan. Aplikasi ini
+menyediakan fitur peminjaman buku, koleksi buku, artikel ilmiah, dan layanan perpustakaan untuk
+mendukung kebutuhan akademik civitas Unjaya. Dengan JayaLib, pengguna dapat mencari, meminjam,
+serta mengakses informasi perpustakaan secara lebih efisien dan terorganisir
+Keterampilan & Minat
+Teknis : Python, HTML/CSS, JavaScript, Bootstrap, MongoDB, MySQL, Figma, Microsoft Office,
+Non Teknis : Kepemimpinan, Berpikir kritis, kolaborasi tim, komunikasi, keterampilan analitis, memecahkan masalah,
+Manajemen waktu, berbicara di depan umum
+Minat : analisis data, ui/ux design, penulis teknis, front end developer

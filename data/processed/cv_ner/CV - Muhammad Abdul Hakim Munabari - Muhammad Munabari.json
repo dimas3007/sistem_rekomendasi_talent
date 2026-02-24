@@ -1,0 +1,40 @@
+{
+  "name": "Muhammad Munabari",
+  "email": "muhammadmunabari2301@gmail.com",
+  "phone": "+62 816 1745 9411",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Esa Unggul University",
+  "hard_skills": [
+    "Figma",
+    "FigJam",
+    "Framer",
+    "Webflow",
+    "Adobe Photoshop",
+    "Notion",
+    "Google Workspace",
+    "Java",
+    "Android Studio"
+  ],
+  "soft_skills": [
+    "Design thinking",
+    "Project management",
+    "Communication",
+    "Teamwork",
+    "Problem-solving"
+  ],
+  "years_experience": 2.17,
+  "certifications": [
+    "Complete UI Designer: Visual Design, Prototype, Usability Testing by buildwithangga",
+    "Mastering Figma A To Z: E-Commerce UI Animation Design by buildwithangga"
+  ],
+  "languages": [
+    "English",
+    "Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer"
+  ],
+  "industries": [],
+  "location": null
+}

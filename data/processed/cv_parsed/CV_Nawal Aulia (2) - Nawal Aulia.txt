@@ -1,0 +1,91 @@
+Nawal Aulia
+aulianawal23@gmail.com 085889019230 Sidoarjo, East Java
+https://www.linkedin.com/in/nawal-aulia-745a6b290
+SUMMARY
+As a fifth semester student of Informatics Engineering Study Program at Universitas Pembangunan
+Nasional "Veteran" East Java, I have a strong interest in Web Development and Data Analysis. I am
+proficient in several programming languages, including HTML, CSS, JavaScript, PHP, and Python,
+and have a basic understanding of database design and management using MySQL. I can also
+operate several applications that support data analysis and visualization such as Dbeaver,
+PostgreSQL, Pentaho, and Tableau. In addition to my technical skills, I am also known for my
+excellent coordination and teamwork skills. My dedication to achieving common goals, adaptability
+in a dynamic team environment, and desire to continue to grow have motivated me to further
+enhance my IT skills through this program.
+EDUCATION
+Collage of Universitas Pembangunan Nasional "Veteran" Jawa Timur Aug 2022 - Now
+Informatic Engineering
+GPA : 3.9 /4.00
+July 2019 - June 2022
+MAN Sidoarjo
+Science
+92/100
+TRAINING AND CERTIFICATION
+Studi Independent Bersertifikat in Celeretaes School from
+September - December 2024
+Kampus Merdeka
+Data Analyst and Business Intelligence
+Store large datasets from various sources in a data warehouse through a structured process.
+Read business reports and assess the impact of data on decision-making.
+Measure and analyze Key Performance Indicators (KPIs) based on defined metrics.
+Use SQL to access, manipulate, and analyze data from databases.
+Create dashboards using Tableau, Power BI, and Excel.
+Detect patterns or trends to forecast future events.
+IDCamp 2024 by Dicoding and Indosat Ooredoo Oktober - December 2024
+Front-End Web Developer
+Learn the basics of web development, such as HTML, CSS, and JavaScript.
+Learn the basic concepts of programming using JavaScript.
+Learn the basics of artificial intelligence (AI).
+Create a Front-End web application for beginners.
+Learn the latest version of JavaScript (ES6+) such as the use of let/const, arrow functions,
+promises, async/await, and destructuring.
+May 2024
+DQLab Learning Package Membership
+Focusing on learning the basics of Python and SQL, as well as learning data analysis.
+In this course, I learned the basics of the R language.
+VOLUNTEER EXPERIENCE
+Ordiksar Saka Kencana Jenggala 2024 Comittee June - August 2024
+Secretary
+Record and document meeting results and reports.
+Prepare official letters needed during the activity.
+Building Character Day 2023 August - October 2023
+Consumer and health division
+Arrange the consumption list for participants and committee in the 2023 BCD activities, and
+prepare and distribute medicines neatly and efficiently.
+Vest Java 2023 May - July 2023
+Sponsorship division
+Thinking and planning alternative funding sources that can increase income, as well as
+preparing and submitting sponsorship proposals to potential parties.
+Obtaining 4 sponsors, namely Unipin, Maxwin, Makaroni udolado, and the ML community.
+Connection Day 2022 December 2022 - February 2023
+Venture fund division
+Holding a special event to raise additional funds and design an attractive proposal to be
+submitted to potential sponsors.
+In this event, the business fund division provided financial support of Rp. 2,345,000,- obtained
+from product sales, paid promotion, and questionnaire filling services.
+Fasilkom Fest 2022 October 2022 - February 2023
+Competition division
+Responsible for Fasikom Fest activities by organizing and managing the running of the activities.
+WORK EXPERIENCE
+Scout extracurricular mentor at MI Rodlotul Ulum, Sidoarjo (Part-Time) August 2024 - Now
+Data Entry (Freelance) October 2024
+PROJECT
+Analysis and Visualization of DVD Rental Database December 2024
+Final Project of Kampus Merdeka at celerates school program Data Analyst & Business Intelligence.
+Analysis and Visualization of Northwind Database November 2024
+Project of Kampus Merdeka at celerates school program Data Analyst & Business Intelligence.
+Sentiment Analysis of Twitter User Comments on Presidential Candidate Number 02 June 2024
+During the Vice Presidential Debate Using Naive Bayes (Program and Journal)
+Final Project from Artificial Intelligence Course
+Web-Based Regional Problem Complaint Project for Rungkut District June 2024
+Final Project from Web Programming Course
+Web-Based UI/UX Design Project for Pawnshops
+May 2024
+Final Project from Interface Design Course
+OTHER EXPERIENCE September 2024
+Awarded the 2024 Academic Scholarship from the Sidoarjo government.
+ADDITIONAL INFORMATION
+Technical Skills: HTML, CSS, PHP, Python, C, SQL, Git Lab, Canva, Ms. Office, Visual Studio
+Code, Google Colab, Figma, Tableau, Power BI, Pentaho, Dbeaver, PostgreSQL
+Languages: Indonesia, English.
+Soft Skills : Team Work, Good Communication, Creativity, Time Management, Problem Solving.
+Interest : Data Analist, Web Developer, UI/UX, Artificial Intelligence.

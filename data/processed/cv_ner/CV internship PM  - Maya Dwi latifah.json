@@ -1,0 +1,76 @@
+{
+  "name": "Maya Dwi Latifah",
+  "email": "mdwilatifah@gmail.com",
+  "phone": "085814717514",
+  "education_level": "SMA",
+  "education_major": "Teknik Jaringan Akses Telekomunikasi",
+  "university": "Universitas Bina Sarana Informatika",
+  "hard_skills": [
+    "Data Analytics",
+    "Spreadsheet",
+    "Looker Studio",
+    "Google Colaboratory",
+    "Tableau",
+    "Power BI",
+    "Microsoft Office",
+    "Google Form",
+    "Jira",
+    "UI/UX Designer",
+    "Figma",
+    "Adobe Photoshop",
+    "Illustration",
+    "Canva",
+    "UX Writing",
+    "Draw.io",
+    "Flowchart",
+    "User Testing",
+    "Prototyping",
+    "Workflow Management",
+    "Responsive Design",
+    "Wireframing",
+    "SQL",
+    "Vscode",
+    "Github"
+  ],
+  "soft_skills": [
+    "Communication Skills",
+    "Teamwork and collaboration",
+    "Problem-solving and decision-making",
+    "Creativity and innovation",
+    "Attention to detail",
+    "Adaptability and critical thinking",
+    "Data visualization skills",
+    "Technical proficiency",
+    "Understanding of data privacy standards",
+    "Analytical thinking",
+    "Time management",
+    "Conflict resolution",
+    "Detail-Oriented",
+    "Curiosity",
+    "Initiative",
+    "Technical Writing Skills",
+    "Project Management skill"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Dasar data scientist - Dicoding",
+    "Belajar Dasar Structured Query Language (SQL) - Dicoding",
+    "Mini Course - Data Analyst Revou",
+    "Fundamental Data Analysis - MySkill",
+    "IT Bootcamp Software Development",
+    "Fundamental SQL Using SELECT Statement - DQLab",
+    "Preinexus Uji Profisiensi Basis Data",
+    "Sertificate Kompetensi Rangkaian Instalasi Telecom Distribution Technologi"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Project - Based Intern: Data Scientist",
+    "Hardware Engineer"
+  ],
+  "industries": [
+    "Telecommunications"
+  ],
+  "location": "Jakarta"
+}

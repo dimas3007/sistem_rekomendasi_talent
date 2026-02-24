@@ -1,0 +1,54 @@
+{
+  "name": "Kristina Margaret Sitorus",
+  "email": "kristinasitorus190@gmail.com",
+  "phone": "082363246370",
+  "education_level": "S1",
+  "education_major": "System Information",
+  "university": "Institute Technology Del",
+  "hard_skills": [
+    "Python",
+    "HTML",
+    "C",
+    "PHP",
+    "Ms. SQL Server",
+    "SQLyog",
+    "Trello",
+    "Slack",
+    "Figma",
+    "Bizagi Process Modeler",
+    "Visual Paradigm",
+    "Canva",
+    "draw.io",
+    "Tableau",
+    "Visual Studio Code",
+    "Laravel",
+    "Postman"
+  ],
+  "soft_skills": [
+    "Communications",
+    "Critical Thinking",
+    "Problem Solving",
+    "Leadership",
+    "Team Work",
+    "Colaboration",
+    "Analytical"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "Google Advanced Data Analysis",
+    "Enablement Session ASEAN Data Science Explorers 2023",
+    "Participant of Hackathon Code for the Nation 2022"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Teaching Assistant",
+    "Quality Assurance Intership"
+  ],
+  "industries": [
+    "Education",
+    "Digital Agency"
+  ],
+  "location": null
+}

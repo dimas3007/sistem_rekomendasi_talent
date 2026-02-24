@@ -1,0 +1,36 @@
+{
+  "name": "Septianto Bagus Hidayatullah",
+  "email": "septianto238b@gmail.com",
+  "phone": "+6285736706053",
+  "education_level": null,
+  "education_major": "Informatika",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JS",
+    "PHP",
+    "C++"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Public Speaking",
+    "Manajemen Proyek",
+    "Manajemen Tim",
+    "Kreativitas",
+    "Problem Solving"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Program Microcredential Game Developer"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Content Planner",
+    "Game Designer"
+  ],
+  "industries": [],
+  "location": "Surabaya"
+}

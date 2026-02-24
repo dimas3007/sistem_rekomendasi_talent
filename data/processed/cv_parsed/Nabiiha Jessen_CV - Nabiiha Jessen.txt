@@ -1,0 +1,30 @@
+NABIIHA JESSEN
+081213266023 | nabjes6@gmail.com | www.linkedin.com/in/nabiiha-jessen
+Mahasiswa program studi Teknik Informatika semester 6 dengan minat pada UI/UX Design. Memiliki keterampilan dalam user research,
+wireframing, dan prototyping menggunakan Figma. Untuk menciptakan desain yang intuitif dan user-friendly. Memiliki pengalaman
+dalam proyek yang berhubungan dengan user research, wireframing, dan prototyping.
+Pendidikan
+Universitas Mercu Buana - Jakarta Aug 2022 - Sekarang
+Sarjana Teknik Informatika, 3.65/4.00
+Mata Kuliah Relevan : Algoritma dan Pemrograman & Interaksi Manusia dan Komputer
+Pengalaman
+Aplikasi Sehats Medical Oct 2024 - Dec 2024
+Sehats Medical adalah desain aplikasi layanan kesehatan digital yang memungkinkan pengguna untuk memesan konsultasi dokter,
+membeli produk kesehatan, dan mengelola data kesehatan dengan mudah dalam satu platform. Aplikasi ini dirancang dengan antarmuka
+yang modern dan intuitif untuk meningkatkan aksesibilitas layanan kesehatan secara digital.
+Merancang aplikasi kesehatan untuk memudahkan pemesanan jadwal konsultasi dokter, pembelian produk kesehatan, dan pengelolaan
+data pengguna, dengan fokus pada aksesibilitas layanan secara digital.
+Bertanggung jawab untuk melakukan user research, wireframing, prototyping, dan desain halaman menggunakan Figma.
+Prototipe aplikasi mencakup autentikasi, pemesanan dokter, e-commerce produk kesehatan, manajemen profil, dan sistem pencarian,
+dengan navigasi yang intuitif dan pengalaman pengguna yang optimal.
+Manajemen Buku Perpustakaan Sep 2024 - Dec 2024
+Proyek ini adalah desain antarmuka aplikasi untuk sistem manajemen perpustakaan. Tujuannya adalah mempermudah admin
+perpustakaan dalam mengelola data buku, data anggota, dan laporan transaksi, seperti bukti setoran dan statistik
+Merancang antarmuka aplikasi perpustakaan untuk pengelolaan data buku, anggota, dan laporan transaksi.
+Saya melakukan user research, wireframing, dan desain prototipe menggunakan Figma, memastikan antarmuka intuitif, responsif, dan
+mudah digunakan.
+Prototipe yang lengkap dengan fitur, termasuk dashboard statistik, pengelolaan data, dan pelaporan, telah siap untuk implementasi dalam
+pengembangan aplikasi.
+Keterampilan
+: Soft Skill : Pemecahan Masalah, Komunikasi, Manajemen Waktu
+: Hard Skill : Figma, Canva

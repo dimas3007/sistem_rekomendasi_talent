@@ -1,0 +1,42 @@
+{
+  "name": "Muhammad Fathan Nur Ramadhana",
+  "email": "fathan.nur.2003@gmail.com",
+  "phone": "+62859106741439",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Python",
+    "Kotlin",
+    "Java",
+    "SQL",
+    "PHP",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Visual Studio Code",
+    "Google Colab",
+    "Figma",
+    "Android Studio",
+    "XAMPP",
+    "Microsoft SQL Server"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Communication",
+    "Collaboration",
+    "Problem Solving"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Dicoding : Memulai Pemrograman dengan Kotlin",
+    "World Mathematics International (WMI) : Bronze Medal",
+    "WMI Preliminary Round : Silver Medal"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [],
+  "industries": [],
+  "location": "Malang"
+}

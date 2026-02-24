@@ -1,0 +1,42 @@
+Andita Nurrizki Rahmani
+anditarizki0613@gmail.com
++62896-0233-9137
+Mahasiswa program studi Teknik Informatika semester 5 yang memiliki dalam
+pemrograman dan pengembangan perangkat lunak seperti JavaScript, C++, Python, SQL,
+dan Microsoft Power BI. Penah memiliki pengalaman dalam pengembangan proyek web dan
+aplikasi mobile, serta memiliki kemampuan analisis data yang baik. Antusias pada solusi dan
+selalu siap untuk menghadapi tantangan baru di dunia teknologi.
+PENGALAMAN PROYEK
+Proyek Merancang UI/UX Pada Figma
+Merancang UI/UX pada sistem rumah sakit di figma 11 Juli 2024 - 4 Agustus 2024
+Sistem ini ditujukan untuk membantu baik pasien maupun staf rumah sakit.
+sistem untuk pendaftaran pasien, manajemen rekam medis, penjadwalan dokter, atau sistem
+informasi farmasi.
+Proyek Membuat Aplikasi Mobile Pada Flutter
+Mengembangkan mangareader menjadi aplikasi mobile menggunakan flutter
+Rencana pengembangan selanjutnya mencakup implementasi fitur 8 Oktober 2024 - 27 Januari 2025
+rekomendasi manga berdasarkan riwayat baca pengguna.
+pengguna dapat dengan mudah mengakses data dan melanjutkan
+bacaan terakhir pengguna dari perangkat manapun.
+PENGALAMAN ORGANISASI
+April 2024 - Februari 2025
+Himpunan Mahasiswa Jurusan Teknik Informatika (Himastika)
+Staff Design and Documentation
+Mengelola feed pada instagram himastika untuk mendesign microblog
+PENDIDIKAN
+2022 - sekarang
+Program Studi Teknik Informatika
+Universitas Esa Unggul
+GPA : 3,72
+KEMAMPUAN TEKNIS
+Python PHP
+JavaScript Flutter (Dart)
+C++
+SQL
+HTML
+CSS
+KEMAMPUAN NON-TEKNIS
+Self-Discipline (Disiplin Diri)
+Bekerja dalam tim
+Berkomunikasi efektif
+Belajar cepat

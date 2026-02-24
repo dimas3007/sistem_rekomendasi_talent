@@ -1,0 +1,48 @@
+{
+  "name": "Asyfa Maulidina",
+  "email": "asyfalidina05@gmail.com",
+  "phone": "+6285746022202",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "UNIVERSITY PEMBANGUNAN NASIONAL VETERAN JAWA TIMUR",
+  "hard_skills": [
+    "Python",
+    "C",
+    "MySQL",
+    "KNIME Analytic Platform",
+    "Data Mining",
+    "Machine Learning",
+    "Data Visualization",
+    "Django"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Public Speaking",
+    "Team Coordination",
+    "Strategic Planning",
+    "Data Entry",
+    "Data Analyst",
+    "leadership",
+    "teamwork",
+    "adaptability"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Thematic Training - Women In Tech: Python and Cybersecurity - Batch 2 (Digitalent Kominfo )",
+    "Certified Independent Study - Codeless Data Science (Nurul Fikri Academy)",
+    "Women In Tech Digitalent Training"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "MEMBER OF THE MOBILE LEGENDS COMPETITION DIVISION",
+    "MEMBER OF THE SECRETARIAT DIVISION",
+    "MEMBER OF THE SECURITY DIVISION",
+    "CARAKA OFFICER",
+    "FREELANCE YOUTUBE DATA COLLECTION"
+  ],
+  "industries": [],
+  "location": null
+}

@@ -1,0 +1,60 @@
+ASTRI YULIANA SIAHAAN
+081265400675 | astrisiahaan03@gmail.com | www.linkedin.com/in/AstriYuliana | https://github.com/astri016/
+Balige, North Sumatra, Indonesia
+I am currently a final semester student majoring in Information Systems at Del Institute of Technology. I have a strong
+interest in analyzing, designing, building, and testing information system solutions. With a passion for continuous
+learning, I am dedicated to contributing to the industry and expanding my practical experience.
+Education Level
+Del Institute of Technology - Sitoluama, Indonesia Sep
+Undergraduate in Information System, Semester GPA 3.35/4.00 )
+Work Experiences
+Internship at PT Wibi Digital Technology Jun 2024 - Aug 2024
+Worked as a Fullstack Developer to develop Chatbot, a virtual assistant for simulating human-like conversations through text and voice
+interactions.
+Trained the chatbot on the defined conversational flow and responses, ensuring it could handle user queries effectively and iteratively
+improved its performance based on feedback.
+Project Experiences
+Information System Project Jan 2024 - May 2024
+Developed a web-based homestay reservation system around Lake Toba as a System Analyst.
+Created essential documents (ToR, URS, SDD, PiP, TD, SyRS, SW) and modeled business processes.
+Analyzed existing systems, designed solutions, conducted system testing, and managed implementation changes
+Data Warehouse and Business Intelligence Project Jan 2024 - May 2024
+Developed a Data Mart-based dashboard for Indiegogo crowdfunding, enabling interactive and user-friendly data visualization for
+investors and entrepreneurs.
+Assisted users in making informed decisions by providing accurate project campaign data and in-depth analysis through the dashboard.
+Applied Data Warehouse and Business Intelligence concepts and techniques to enhance data analysis and decision-making efficiency,
+achieving project objectives successfully.
+Web Application Programming and Testing Sep 2023 - Dec 2023
+Developed IT Del Clinic Website to provide accessible health services within the campus community.
+Designed web-based information system for the project and got score 76 predicate AB.
+Conducted API testing to ensure functionality, security, performance, and reliability.
+Information System Project Management Course Project Sep 2023 - Dec 2023
+Designed Management Information System for MBKM at IT Del to improve efficiency of Campus Independent Internship Program
+management.
+Utilized tools like Trello for task management and mockup creation.
+Implemented features using HTML & CSS for the project.
+Artificial Intelligence Course Project Aug 2023 - Dec 2023
+Developed malware software classification model using K-Nearest Neighbors (KNN) algorithm.
+Automated classification of applications as malware or non-malware based on extracted features with accurancy 83.
+Implemented machine learning techniques for effective malware detection and got score 85 predicate A.
+Design and Systems Analysis Course Project Jan 2023 - Jun 2023
+Developed System Requirements Specification (SyRS) document for Design of Document Management Information System in SPMI
+Unit at IT Del and got score 90 predicate A.
+Created a comprehensive guide detailing system requirements, functionalities, and specifications.
+Ensured alignment with project objectives and stakeholder needs.
+Database Management Course Project Nov 2022 - Dec 2022
+Designed Academic Information System database by analyzing requirements and creating Conceptual Data Model (CDM).
+Developed Physical Data Model (PDM) based on the CDM.
+Implemented database model, normalized data, and created tables with constraints using SQL Server.
+Organisational Experience
+Himpunan Mahasiswa Sistem Informasi (HIMSI) - Del Institute of Technology Oct 2023 - Present
+Member of the Public Relations Division
+Assisting in various HIMSI events and activities, promoting teamwork and community involvement, as well as participating in
+assisting other division work programs.
+Skills, Achievements & Other Experience
+Certificates : Cloud Data Analysis Specialty Certification & Dicoding Certificate Sources
+Hard Skills: HTML, CSS , C, JavaScript, PHP, Python, SQL Server, PostgreSQL, MongoDB, Oracle, Figma, Visual Studio Code,
+Github, Jupyter Notebook, Ubuntu, Laravel
+Soft Skills: Creative and Innovative, Teamwork, Problem-Solving, Meticulous, Organized, Time Management, Critical Thinking, Active
+Listening, Empathy, Responsibility
+Language: Indonesia (Native Speaker), English (Intermediate)

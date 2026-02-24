@@ -1,0 +1,51 @@
+{
+  "name": "Shofy Pramesti Putri Guruh",
+  "email": "shofyputri2004@gmail.com",
+  "phone": "085806310294",
+  "education_level": "S1",
+  "education_major": "Computational Intelligence",
+  "university": "University of Brawijaya",
+  "hard_skills": [
+    "Corel Draw",
+    "Figma",
+    "Framer",
+    "Adobe XD",
+    "Canva",
+    "Google Suite",
+    "Java",
+    "SQL",
+    "Python",
+    "Bootstrap",
+    "SEO"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Communication"
+  ],
+  "years_experience": 2.0,
+  "certifications": [
+    "Business Analytics: Excel Macros & VBA by Microso",
+    "Getting Started with Amazon Personalize by AWS",
+    "Innovating with Google Cloud AI by Skillup x Google Cloud",
+    "Neural Network 101 : Image Recognition using Machine Learning by Simplilearn",
+    "Transformer Models and BERT Model by Skillup",
+    "Basics of Web Scraping by Skillup",
+    "Create Image Captioning Models by Simplilearn x Google Cloud"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Secretary Coordinator",
+    "Secretary Sta",
+    "SEO Copywriter",
+    "Freelance Graphic Designer"
+  ],
+  "industries": [
+    "Technology",
+    "Agriculture",
+    "Education"
+  ],
+  "location": "Malang"
+}

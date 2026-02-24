@@ -1,0 +1,43 @@
+KAKA ANDERESTA
+085156358231 | kakaanderesta4@gmail.com | Karawang Jawa Barat
+I am a student majoring in Informatics at Horizon University of Indonesia. I have a deep interest in technology and
+software development. During my studies, I have developed skills in various programming languages and the latest
+technologies. I am eager to continue learning and contributing to innovative projects that have a positive impact. I also
+have some work experience as a production operator. With more than 5 years of experience working in a leading
+manufacturing company, I have developed in-depth knowledge of various production processes and skills in operating
+machinery. My expertise includes process optimization, technical troubleshooting, and implementation of best safety
+practices to ensure a safe and productive work environment.
+Education
+Universitas Horizon Indonesia Year : 2021- present
+Bachelor of Science in Computer Science
+Project :
+Hydiexpert Expert System Project
+Description: A web application to help experts diagnose diseases in Hydroponic plants. Technology: PHP,
+MYSQL, codeigniter framework
+Project Backend Invenas (Inventory assets system )
+Description: Web application for data collection of goods at the GSD department of Horizon University
+Indonesia. Technology: PHP, MYSQL, codeigniter framework
+Project UI/UX Design ( Gbox.ID)
+Tools : figma, Canva
+Work Experience
+1. Kalbe Nutritionals ( Mobile Developer ) Sept 2024 Des 2024
+Created a KITS Mobile application to make it easier for users to see real-time sales data via notifications.
+Using programming languages, Dart, C#, SQL Server, OneSignal
+2. PT. Astra Honda Motor (Production Operator) May 20219 July 2023
+Ensure components are free from visual defects and in accordance with quality standards (no NG), and take
+corrective action (repair) if problems are found.
+Implement the 4K principles (Cleanliness, Neatness, Safety, and Order) in the work area to maintain production
+efficiency and safety.
+3. PT. Santos Jaya Abadi (Helper Quality) Aug 2017 Aug 2018
+Ensure that the weight of the products produced is in accordance with the minimum and maximum limits
+according to company standards, check packaging such as checking pieces, N2 wind and expire date.
+Record all activities as a daily report to ensure products are in accordance with company standards.
+Certificate
+Microsoft Excel Future Skills February 2024
+Basic Management Project Diaspora Mengajar Juni 2024
+Peningkatan Kewirausahaan Sosial Future Skils Juni 2024
+Magang Merdeka ( MSIB ) Desember 2024
+Skills
+Microsoft office UI/UX Design
+Web Development Problem Solving
+Communication Desain Thinking

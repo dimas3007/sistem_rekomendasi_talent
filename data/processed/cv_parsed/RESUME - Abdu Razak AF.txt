@@ -1,0 +1,47 @@
+ABDU RAZAK AL FATAH
+ozagood123@gmail.com | (+62) 89527165245 | LinkedIn
+SUMMARY OF QUALIFICATION
+Strong understanding of Machine Learning, including algorithm implementation and data analysis.
+Skilled in Web Development, with experience in front-end and back-end technologies, including HTML, CSS,
+JavaScript, and database management.
+Experienced in developing Internet of Things (IoT) systems, including device integration, data communication.
+Proficient in Embedded Systems, including hardware design and microcontroller programming for various industrial
+applications.
+EDUCATION
+Teknokrat Indonesia University, Faculty of Engineering Bandar Lampung
+Bachelor s Degree in Computer Engineering Semester 6
+Internet Of Things, Embedded System Major GPA: 3.58/4.00
+TECHNICAL SKILLS
+Programming Languages: C, C++, Python, Java, Java Script, PHP, SQL
+Operating System: Windows, Linux
+Databases: SQL, Oracle
+Databases: TensorFlow, OpenCV, Arduino IDE, Raspberry Pi, MySQL, CX Programmer, Netbeans, MS Excel/Word
+PROJECT EXPERIENCE
+IoT-Based Shrimp Larvae Counter , Internet Of Things November 2024 January 2025
+Developed system using Raspberry Pi and YOLO object detection.
+Implemented a real-time monitoring system accessible via a web interface.
+Improved efficiency for shrimp farmers by reducing time and errors in larvae counting.
+Javanese Script Recognition Using Computer Vision , Computer Vision December 2024 January 2025
+Utilized CNN models for accurate character recognition.
+Integrated OpenCV for image preprocessing and enhancement.
+Aimed to preserve and promote Javanese script by through digital platforms.
+Restaurant Website, Web Programming Juny 2024 July 2024
+Developed a restaurant website with separate login roles for admin, owner, and customers.
+Implemented secure authentication and role-based access control.
+Library Book Borrowing Application Using NetBeans, Object Oriented Programming December 2023 January 2024
+Implemented user authentication for librarians and members.
+Developed features for book borrowing, returning, and tracking due dates.
+Improved library operations by automating manual book lending processes.
+ADDITIONAL EXPERIENCE
+Merdeka Student Exchange Program Universitas PGRI Madiun
+Participant March 2024 July 2024
+Participated in the Merdeka Student Exchange Program, gaining cross-university academic experience.
+Organized a social contribution event at Lentera Hati Orphanage, engaging children in educational games with prizes.
+Delivered a motivational session on the importance of education, inspiring children to pursue learning.
+Developed teamwork and leadership skills through community engagement activities.
+LPK Farafi Metro, Lampung
+Multimedia Intern March 2021 May 2021
+Completed an internship in line with Multimedia studies, focusing on photography and graphic design.
+Worked on photo editing, layout design, and digital media production.
+Assisted in creating promotional materials and social media content.
+Gained hands-on experience in professional photography and visual storytelling.

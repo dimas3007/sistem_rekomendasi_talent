@@ -1,0 +1,53 @@
+{
+  "name": "Huda Rasyad Wicaksono",
+  "email": "hudarasyad123@gmail.com",
+  "phone": "+62895338089088",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Pembangunan Nasional Veteran Jakarta",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Javascript (Typescript)",
+    "Java",
+    "Python",
+    "UI UX Desain",
+    "Figma",
+    "Adobe Photoshop",
+    "Visual Studio Code",
+    "Google Colab",
+    "Microsoft Office",
+    "ReactJS",
+    "Next.js",
+    "Express.js",
+    "PostgreSQL"
+  ],
+  "soft_skills": [
+    "Kepemimpinan",
+    "kerja tim",
+    "komunikasi publik",
+    "pemecahan masalah",
+    "pendengar",
+    "manajemen konflik"
+  ],
+  "years_experience": 1.58,
+  "certifications": [
+    "PKM-KC | PIMNAS 37",
+    "FKBM-IK: UI UX",
+    "FIK FAIR COMPETITION 2023: UI UX"
+  ],
+  "languages": [
+    "Indonesia",
+    "Inggris"
+  ],
+  "job_titles": [
+    "Product Design",
+    "Internship: Product Design",
+    "Front-End Dev",
+    "Mentor UI UX Android Challengers",
+    "Ketua Pelaksana Android Hackathon",
+    "Ketua Tim Wicara Daring & Luring"
+  ],
+  "industries": [],
+  "location": "Bogor"
+}

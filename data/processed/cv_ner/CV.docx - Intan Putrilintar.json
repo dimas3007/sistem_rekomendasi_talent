@@ -1,0 +1,47 @@
+{
+  "name": "Intan Putrilintar",
+  "email": "putrilintar.intan@gmail.com",
+  "phone": "081351039780",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "INSTITUT TEKNOLOGI KALIMANTAN",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Microsoft Word",
+    "Google Docs",
+    "Microsoft PowerPoint",
+    "Google Slide"
+  ],
+  "soft_skills": [
+    "Disiplin",
+    "Bekerja dalam Tim",
+    "Teliti",
+    "Berkomunikasi dengan baik"
+  ],
+  "years_experience": 2.58,
+  "certifications": [
+    "LKMM PRA-TD VI ITK",
+    "Pelatihan Keprofesian Basic Front-End with HTML, CSS, and Javascript",
+    "Pelatihan Karya Tulis Ilmiah (PKTI)",
+    "Latihan Pemandu Keilmiahan (LPK)",
+    "Pelatihan Dasar Organisasi (PDO)",
+    "Program Pembinaan Mahasiswa Wirausaha (P2MW)",
+    "Pelatihan Manajemen Organisasi (PMO)",
+    "Pelatihan Intro to Software Engineering"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Staff Magang",
+    "Karyawan",
+    "Tutor"
+  ],
+  "industries": [
+    "Kesehatan",
+    "Retail",
+    "Pendidikan"
+  ],
+  "location": "Balikpapan"
+}

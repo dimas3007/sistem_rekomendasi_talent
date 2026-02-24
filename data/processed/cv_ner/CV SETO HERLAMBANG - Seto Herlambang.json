@@ -1,0 +1,40 @@
+{
+  "name": "Seto Herlambang",
+  "email": "seto.herlambang.23@gmail.com",
+  "phone": "+62 87875947039",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Atma Jaya Yogyakarta",
+  "hard_skills": [
+    "UI/UX Design",
+    "Figma",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Laravel",
+    "Vue.js",
+    "Kotlin",
+    "Android Studio",
+    "Manajemen Basis Data",
+    "Pengolahan Citra Digital",
+    "Matlab"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Manajemen waktu",
+    "Adaptasi Teknologi",
+    "Kerja sama"
+  ],
+  "years_experience": 0.16666666666666666,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Desainer UI Website CSR (Magang)"
+  ],
+  "industries": [
+    "Komunikasi dan Informatika"
+  ],
+  "location": "Yogyakarta"
+}

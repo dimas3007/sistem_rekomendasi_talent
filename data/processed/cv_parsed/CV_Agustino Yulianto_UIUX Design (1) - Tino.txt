@@ -1,0 +1,40 @@
+AGUSTINO YULIANTO
+Address: Halim Perdanakusuma, Jakarta
+Phone: +62895365303831
+Email: agustinoyulianto1@gmail.com
+www.behance.net/agstino
+Website:
+SUMMARY
+Informatics student with a strong interest in UI/UX Design and experience in designing intuitive and user-
+friendly digital interfaces. Skilled in wireframing, prototyping, and user research using Figma.
+Experienced in working on mobile app design projects with a user-centered design approach.
+Enthusiastic about continuously learning and developing skills in the digital design field.
+PROJECTS
+Rewear Sustainable Fashion Marketplace Nov 2024
+A mobile application designed to help users buy and sell second-hand fashion items while promoting
+sustainability.
+Conducted user research and created detailed personas to understand customer pain points.
+Designed high-fidelity wireframes and interactive prototypes using Figma.
+Developed a responsive UI with a modern, minimalist aesthetic.
+Soundr Personalized Music Discovery App Dec 2024
+A UI/UX design project for an application that provides a highly personalized music listening
+experience.
+Features like Music DNA, Your Vibe, and Today's Menu are designed to tailor music preferences.
+Gamification elements (Achievements) enhance user engagement.
+Social interaction features create a more immersive community experience.
+Flicket Online Movie Ticket Booking Jan 2025
+A seamless and user-friendly platform for booking movie tickets online.
+Designed an intuitive navigation flow to enhance the user experience.
+Created engaging onboarding screens to guide new users.
+Developed a dark mode interface with gradient themes for better readability.
+EDUCATION
+Bachelor of Information Technology Aug 2021 - Present
+University of Muhammadiyah Prof. Dr. Hamka
+Completed coursework in Interaction Design, Web Development, Mobile Apps, and Cloud
+Computing.
+GPA: 3.00/4.00
+ADDITIONAL INFORMATION
+Soft Skills: Adaptability, Fast Learning, Attention to Detail, Design Thinking.
+Languages: English, Indonesian.
+Workshops: Participated in a UI/UX Design Workshop at University of Informatics Engineering,
+gaining hands-on experience in prototyping and user research.

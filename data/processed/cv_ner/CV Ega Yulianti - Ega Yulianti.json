@@ -1,0 +1,43 @@
+{
+  "name": "Ega Yulianti",
+  "email": "egaayulianti24@gmail.com",
+  "phone": "+62 8953 2942 3341",
+  "education_level": "S1",
+  "education_major": "Akuntansi",
+  "university": "Universitas Mahasaraswati",
+  "hard_skills": [
+    "Microsoft Office",
+    "Google Sheet",
+    "RPos",
+    "MYOB",
+    "Adobe Lightroom",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Penyusunan laporan",
+    "Komunikasi",
+    "Pengelolaan keuangan",
+    "Pencatatan dan Pendataan",
+    "Manajemen SDM",
+    "Manajemen waktu",
+    "Kerjasama Tim"
+  ],
+  "years_experience": 5.58,
+  "certifications": [
+    "Profesi Akuntansi (Badan Nasional Sertifikasi Profesi)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Junior Accounting",
+    "General Manager",
+    "Store Supervisor",
+    "Accounting Internship"
+  ],
+  "industries": [
+    "Property",
+    "Retail"
+  ],
+  "location": null
+}

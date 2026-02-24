@@ -1,0 +1,87 @@
+Curriculum Vitae
+Herlangga Fitdia Saputra
+Madiun, Jawa Timur | Phone : 087727275259 | rangga.fitdia29@gmail.com |
+Instagram : Ranggafs_ Portofolio : LINK
+SUMMARY
+Rangga is an Information Technology student at Universitas Negeri Surabaya. Has a strong foundation in Data
+Science (SQL and Python), Machine Learning Development, and Data Science. Passionate about applying
+classroom knowledge to real-world situations through internships or projects and is able to learn and practice on
+other subjects that have not been studied. Demonstrates excellent problem-solving skills and a collaborative
+mindset, seeking opportunities to contribute to innovative projects while continuing to expand knowledge in
+emerging technologies. Machine Learning Developer actively pursuing expertise in Machine Learning
+algorithms in Data Science as well as data analysis. Passionate about utilizing emerging skills in SQL queries to
+analyze data and data interpretation. Has hands-on experience in Dbeaver development, proficient in Data
+processing, data analysis, and data optimization. Passionate about learning, committed to staying abreast of
+the latest industry trends, and dedicated to mastering SQL and Python. Passionate about applying developing
+skills in both domains to provide the best solutions to become a Data Scientist.
+EXPERIENCE
+SQL Dbeaver May 2022 Oct 2023
+SQL Dbeaver is a tool in SQL to search for queries on data that makes it easier for Data Scientists to process and
+analyze data.
+My contribution as a SQL Dbeaver:
+Able to create queries for databases used to analyze data from Dbeaver tools. And solve problems that
+occur in SQL queries
+Developing data information on data analysis to find solutions to problems in data queries and completing
+projects on sample data.csv to be processed and turned into mature data.
+Able to adjust data based on certain conditions for more focused analysis. And sort data based on certain
+columns, either ascending or descending.
+Pythone Algoritme Machine Learning Oct 2023 Feb 2024 Python is a popular programming language
+for Machine Learning (ML) due to its simple syntax, flexibility, and extensive community support. Python
+provides many libraries and frameworks specifically designed for building, training, and evaluating Machine
+Learning (ML) models.
+My contribution as a Python Machine Learning:
+Example : Project Experience: Data Analysis and House Price Forecasting
+Building a Machine Learning model to predict house prices using Housing_Price_Data.csv dataset.
+Implementing regression algorithms such as Random Forest Regressor and Support Vector Regressor to
+generate accurate predictions.
+Optimizing the model using GridSearchCV and evaluating the model performance with MAE, RMSE, and
+R-square metrics. Utilizing Pandas and Matplotlib for data exploration and visualization of results.
+EDUCATION March 2022 Now
+Universitas Negeri Surabaya, Indonesia Bachelor of Information
+Technology Engineering
+SERTIFICATION
+Dicoding Indonesia certified about Machine Learning Python Algorithme April 2024 Jully 2024
+Celerates PT Mitra Celerates certified about Data Scientist August 2024- December 2024
+Skills
+Rangga is able to learn to run python on algorithms using c++ tools or google colabs
+Able to run SQL queries using DBeaver or Postgresql tools and able to solve problems with data
+Able to operate Excel and check data because it is used in the Dbeaver application to operate data.
+Able to understand algorithms in Machine Learning such as clustering algorithms, regression
+algorithms, neural networks and others.
+Non Teknis
+Working together in a team
+Able to learn other knowledge
+Ready to receive training of work
+Adaptif
+Komunikatif
+Ability to learn quickly
+ORGANIZATIONS
+Member Big Data Solution Aug 2022 Dec 2022
+Big data solution is a Student Organization of Surabaya State University which has teaching and learning activities
+in the field of data analysis and SQL queries..
+At Big Data Solution I learned:
+Innovative and implemented creative solutions, analyzing data analysis to run on SQL queries
+Applying the principles of data processing learned in small projects, such as searching tables, filling
+columns, or creating flowcharts.
+Actively participating in online communities or forums to share experiences, learn from professionals, and
+get feedback on data scientists.
+Member Python Community Facultas Oct 2021 Oct 2023
+Python community faculty is a university-based community group for students interested in python development
+technologies..
+My activities in Forum are:
+Participate in a series of events, workshops, and seminars organized by the Python community faculty to
+deepen your understanding of Python technology and developers
+Attend events that cover topics such as algorithm development, libraries, and classification models.
+Take the opportunity to network with students and technology professionals, exchange information, and gain
+insight into industry trends.
+ADDITIONAL
+Programming Language: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, Java, Python, Golang, PHP,
+Reactjs, MySQL, Dbeaver.
+Tools: Microsoft Office (Word, Excel, PowerPoint), Google Workspace, , Visual Studio Code, Google
+colabs, Postgree SQL
+Soft skills: Communicative, Teamwork, User empathy, Problem Solving, Time Management, Analytical
+Thinking, Collaborative, Continuous learning, Receptiveness to feedback.
+RELEVANT SUBJECTS
+Programming (Google Colabs) Grade: A (86+ of 100)
+MySQL Querry (SQL) Grade: A (86+ of 100)
+Python Machine Learning (Python) Grade: A (86+ of 100)

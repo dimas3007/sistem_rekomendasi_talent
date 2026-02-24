@@ -1,0 +1,70 @@
+SHERINA NURUL FASHA
+08881360068 |sherinafasya21@gmail.com | Brebes, Central Java
+https://www.linkedin.com/in/sherinanurulfasha/ |https://www.behance.net/sherinafasha
+I am a graduate of computer science majoring in informatics from Amikom University Purwokerto. Active in
+organizational activities during college, experienced with skills in designing intuitive, aesthetic and user-
+satisfying user interfaces by increasing the usability, accessibility and comfort of interaction between users and
+products. Have analytical skills to understand user needs and apply them in functional and attractive designs,
+and do not rule out the possibility of working in other fields. Experienced in working with cross-functional
+teams to develop effectivedesign solutionsand meet business needs.
+WORK EXPERIENCE
+Projek UI/UXDesigner Project -CV AsosiasiPetani Kelengkeng March 2023-August2023
+Design and develop wireframes, mockups, and interaction prototypes for various platforms.
+Conduct user research to understand their needs and preferences, including interviews, surveys, and
+usabilitytesting.
+Work with thedevelopment team toensure thedesign can be implemented properly.
+Apply responsive design principles to ensure consistent appearanceacross devices.
+Use design tools such as Sketch, Figma, AdobeXD, and InVision to createand present designs.
+Create documentation, including UAT, user guides, and UML diagrams, that meet 20% in interface design,
+userexpectations after changes occur.
+Web Developer Project -CV AsosiasiPetani Kelengkeng September 2023-November 2023
+Create UML and database structureand implement existinguiux design into awebsite application.
+Functional testingonusers and create satisfaction upto 20%after revision.
+Responsible for the analysis process and create documentation, including UAT, user guides and UML
+diagrams.
+Can solveuser problems and according touser expectations inusing website applications.
+FullStack Developer Internship- PT Gama Multi Group August2022- December 2022
+Act as aninternal technical consultantwho manages survey data, helps monitorproduct quality.
+Design data structures and flows, design application modules that will be developed in detail based on
+thoseproduced in theproduction process.
+Develop and prepare modules that can beused in software development.
+Create documentation, UAT, UML diagram userguides.
+Use laravel, wordpress, html, css, js, bootstrap, mysql. and hostingframeworks.
+TRAINING AND BOOTCAMP EXPERIENCE
+UI/UX Designer-Dibimbing July 2024-August2024
+Basicintroduction to UIUX Designer.
+Creating a redesign for thecheckout page (pickup order) ontheFamiApps byFamily Mart application.
+UI/UX Designer-Dicoding Indonesia December 2023-January2024
+Learn to use3design kit materials.
+Create mockups by adding elements such as adding features for users to see a complete menu list with
+prices, descriptions, and photos.
+Understand high fidelity (hi-fi)lowfidelity (lo-fi) and prototyping.
+Create designs for food menu pages to checkout.
+EDUCATION
+AmikomUniversity Purwokerto -Purwokerto September 2019-August2023
+S1 -Computer Science- GPA 3.52
+Collaborative project between lecturers in creating UIUX Designer and implementing the SupplyLink
+website application and making an automaticrobotichand sanitizer.
+Participating in thePKM competency organized bytheMinistry ofEducation and Culture(2020)
+Participating in MBKM-MSIB organized byKampus Merdeka (2022).
+Responsibleas coordination andcommitteeinKKL (2022)
+Responsibleas treasurer in theUKM Olahraga organization(2022)
+Responsibleas secretary in theUKM Olahraga organization (2021).
+Actively participating inmore than 10+campus and off-campus activities, such as PKM, webinars and
+training, and others.
+SKILL
+UX Researcher: User Interview, Task Analysis, Usability Testing, Testing, Focus Group Discussion
+(FGD), Field Study.
+UI/UX Designer: User Flow, Design Thinking, Interface Design.
+Tools:Figma, Photoshop,Coreldraw, Canva, Sketch, AdobeXD, Invision, Proto.io.
+Programming: HTML, CSS, JavaScript, Bootstrap, SQL, GitHub, Hosting, php, Postman, Nodejs, Git,
+Github, UML Diagram, sublimetext, wordpress, Vuejs.
+Analytical thinking
+Effectivecommunication
+Teamwork and collaboration
+Schedulemanagement
+Adaptable
+Easy tolearn
+Marketing and sales strategy
+Market analysis and consumer research
+Leadership and team management skills

@@ -1,0 +1,56 @@
+{
+  "name": "Sofia I zaaz Jauzaa",
+  "email": "sofiajauzaa30@gmail.com",
+  "phone": "+62 821-3195-1992",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "UX Design",
+    "UI/UX",
+    "UX Researcher",
+    "UI Design",
+    "HTML",
+    "CSS",
+    "React",
+    "Vue",
+    "Kotlin",
+    "JavaScript",
+    "PHP",
+    "SQL",
+    "Figma",
+    "Notion",
+    "Git",
+    "Visual Studio Code",
+    "Android Studio",
+    "Firebase"
+  ],
+  "soft_skills": [
+    "Critical Thinking",
+    "Leadership",
+    "Teamwork",
+    "Time Management",
+    "Team Management",
+    "Project Management",
+    "Adaptability",
+    "Creativity"
+  ],
+  "years_experience": 0.17,
+  "certifications": [
+    "Dicoding - Learning Basic Web Programming",
+    "Kemendikbud - Indonesian Language Test",
+    "Microsoft Technology Associate: Database Administration Fundamentals (MTA)"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "UI/UX Designer"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "location": "Malang"
+}

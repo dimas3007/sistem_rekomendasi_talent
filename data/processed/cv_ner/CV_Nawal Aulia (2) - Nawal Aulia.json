@@ -1,0 +1,57 @@
+{
+  "name": "Nawal Aulia",
+  "email": "aulianawal23@gmail.com",
+  "phone": "085889019230",
+  "education_level": null,
+  "education_major": "Informatic Engineering",
+  "university": "Universitas Pembangunan Nasional \"Veteran\" Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "SQL",
+    "Git Lab",
+    "Canva",
+    "Ms. Office",
+    "Visual Studio Code",
+    "Google Colab",
+    "Figma",
+    "Tableau",
+    "Power BI",
+    "Pentaho",
+    "Dbeaver",
+    "PostgreSQL",
+    "C"
+  ],
+  "soft_skills": [
+    "Team Work",
+    "Good Communication",
+    "Creativity",
+    "Time Management",
+    "Problem Solving"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Studi Independent Bersertifikat in Celeretaes School",
+    "Kampus Merdeka Data Analyst and Business Intelligence",
+    "IDCamp 2024 by Dicoding and Indosat Ooredoo Front-End Web Developer",
+    "DQLab Learning Package Membership"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Secretary",
+    "Consumer and health division",
+    "Sponsorship division",
+    "Venture fund division",
+    "Competition division",
+    "Scout extracurricular mentor",
+    "Data Entry"
+  ],
+  "industries": [],
+  "location": "Sidoarjo"
+}

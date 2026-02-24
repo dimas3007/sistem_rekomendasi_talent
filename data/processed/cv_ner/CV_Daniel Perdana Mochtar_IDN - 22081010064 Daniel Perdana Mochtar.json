@@ -1,0 +1,45 @@
+{
+  "name": "Daniel Perdana Mochtar",
+  "email": "danielperdanam@gmail.com",
+  "phone": "+6285336303606",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Python",
+    "VS Code",
+    "Canva",
+    "Figma"
+  ],
+  "soft_skills": [
+    "manajemen waktu"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Penghargaan Pemrograman, Mage 8 ITS",
+    "Penghargaan Makin Cakap Digital, Kementerian Kominfo",
+    "Penghargaan ASEAN Digital Literacy Programme workshop, Yayasan Fatihunnur",
+    "Penghargaan Peserta Studi Independen UI / UX Design Creating The Next Generation Startup Campus",
+    "Penghargaan Juara 1 dalam Studi Independen UI/ UXDesign Creating The Next Generation Startup Campus",
+    "Penghargaan Peserta Studi Independen MSIB Kampus Merdeka",
+    "Penghargaan Lulus Program Kelas MSIB7 UI/UX Design Track"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Editor Video",
+    "Ui / UX Designer",
+    "Pemain"
+  ],
+  "industries": [
+    "Media",
+    "Esports",
+    "Technology"
+  ],
+  "location": "Surabaya"
+}

@@ -1,0 +1,33 @@
+Setya Kristendy Cianjur
+Undergraduate Student in Informatics, Duta Wacana Christian University
++6282323916094 | setyakristendy@gmail.com
+About Me
+An undergraduate student in Informatics at Duta Wacana Christian University, eighth semester, with
+passion for learning and contribution in information technology. Experienced in web design, front-end
+development, user interface (UI) design, and user experience (UX). Enthusiastic about enhance skills
+through internships in the field of information technology.
+Education
+August 2021 - Now| Duta Wacana Christian University | Informatics
+Focused on web design, front-end development, and UI/UX.
+Currently preparing a thesis about developing a web-based financial dashboard for church.
+Project Experience
+August - December 2024 | Lecturer Project Internship
+Design an Expenditure System for GKJ Dayu
+Participated in a lecturer project to design a web-based financial information system for GKJ Dayu.
+Involved in requirements analysis, database design, user interface design, and system design.
+Focused on design an expenditure system.
+Academic Experience
+August - December 2023 | Assistant Lecturer | Computer Technology Practicum
+Assisted lecturer in conducting practicum session by preparing practicum material, supervising
+practicum activitiy, and guiding students in understanding programming and algorithm basic.
+Organization Experience
+February 2022 - Feburary 2023 | Member of the Humoris Division | Informatics Student Association
+Managed external communication related to partnership, promotion, and collaboration.
+Promoted association event by social media to increase student participation.
+Act as secretary for event initiated by the humoris division, including drafting proposal, creating
+letter, and preparing event report.
+Skills
+Hard Skills : HTML | CSS | JavaScript | React.js | PHP | SQL | Python
+Soft Skills : Team Work | Problem Solving | Responsible | Communication | Time Management
+Software Skills
+Visual Studio Code | XAMPP | Figma

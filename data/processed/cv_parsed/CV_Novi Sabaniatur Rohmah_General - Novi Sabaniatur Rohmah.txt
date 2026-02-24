@@ -1,0 +1,92 @@
+Novi Sabaniatur Rohmah
+085856233292 | novirohmah28@gmail.com
+Linkedin: https://www.linkedin.com/in/novi-sabaniatur-r/ | portofolio: https://shorturl.at/qFLri
+I am a fresh graduate in Economics, Finance, and Banking, with strong teamwork, communication, and
+coordination skills. Skilled in Data Visualization (Tableau, Power BI, Looker Studio) , Python, SQL, Microsoft Office, and
+Google Workspace. Experienced in event organizer, administration, and data analysis. Driven by a growth mindset, I am
+eager to continue learning and developing my skills. I am excited to take on new challenges and new opportunities.
+Furthermore, I am flexible and willing to relocate for the opportunity.
+EDUCATION
+Universitas Brawijaya - Malang, Indonesia Aug 2020 - May 2024
+Bachelor of Economic (GPA 3.64/4.00 with Very Satisfactory Predicate)
+Prepared and cleansed data using Excel, then analyzed with the Wilcoxon Signed Rank Test using Eviews to
+conclude journal articles.
+Involved in PKM-K and collaborated with BUMDES to analyze business potential, marketing strategy, and long-
+term sustainability strategy in Desa Gedog Wetan.
+Participated in the Merdeka Belajar Kampus Merdeka (MBKM) program, and expanded knowledge in data
+analytics and data science through hands-on training with PT Hacktivate Indonesia.
+INTERNSHIP
+Meskola.ID Remote Jan 2025 - Now
+Process Improvement
+Evaluated over 10 business processes and workflows in collaboration with the Quality Assurance team,
+incorporating their feedback to identify inefficiencies and drive process improvements.
+Standardized documentation for all process improvements in a centralized repository, ensuring 100% of changes
+are recorded and maintained for future reference.
+Communicated process changes to all organizational levels, coordinating with the Quality Assurance team
+regarding process changes.
+The Badan Pusat Statistik (BPS) Malang City Mar Jul 2023
+Data Surveyor & Analyst (5 months) Integration of Statistical Processing and Dissemination Deputy
+Collected data from 5 districs via questionnaries and interviews, entered data and ensuring the reability in
+Registrasi Sosial Ekonomi (REGSOSEK) projects.
+Recieved and Checked documents from over 100 households then entered data with enasuring data validity in
+Survey Ekonomi Nasional (SUSENAS) Projects.
+Validated expenditure information and organized map documents for 5 districst in Malang City in ST2023
+projects in Sensus Pertanian (ST) projects.
+Analyzed and visualized 10 years of statistical data to ease the reader identify the trends in AR Kota Malang
+projects.
+ORGANIZATION
+Youth Prime Education Branch Jawa Timur - Remote Feb 2022 - 2023
+Treasury Staff (1 year)
+Guaranteed steady funding for 3 major programs benefiting over 100 participants
+Managed financial records and reporting, ensuring transparency and accountability in the allocation of funds
+while monitoring cash flow.
+Himpunan Mahasiswa Departemen Ilmu Ekonomi (HMDIE) - Remote Oct Dec 2021
+Event Staff OLIEFEB (3 months)
+Managed scheduling, documents, and administration for events with 300+ participants, including the OLIECOM
+presentation.
+Assisted in developing the event framework and work plan, coordinating with judges and participants for smooth
+execution. Then, conducted post-event surveys and analyzed feedback to identify actionable improvements.
+Brawijaya Chess Club (BCC) - Remote Sep Nov 2021
+Event Staff (3 months)
+Managed scheduling and administration for key activities, including technical meetings, gala awards, and
+individual matches, engaging over 150 participants.
+Compiled final reports with actionable recommendations and handled technical instructions and modules to
+ensure smooth event execution.
+COURSES
+Data Science
+PT Hacktivate Teknologi Indonesia Aug - Des 2023
+Learned Python, including library such as Pandas, NumPy, Scikit-learn, and Matplotlib, for data analysis and data
+science.
+Studied Machine Learning concepts, including Linear Regression, Logistic Regression, Support Vector Machine,
+and K-nearest neighbors (KNN).
+Applied data cleaning and preprocessing techniques, and completed projects to solve real-world problems.
+PROJECTS
+Indian Financial Analysis Dashboard
+Data Analysis Project - Tableau Nov 2024
+Built an interactive dashboard using a dataset of 20.000 entries to analyze financial performance and spending
+habits.
+Designed and tracked KPI performance such as average income, average spending, and many more.
+Performed exploratory data analysis (EDA), gained some insights, and provided conclusions.
+Netflix Content Analysis
+Data Analysis Project - Tableau Nov 2024
+Analyzed a database of Netflix's content to explore changes in Netflix's performance year on year.
+Visualized the data to identify the trends based on region, ratings, and category.
+Explored the dashboard to gain some insight and provided a summary of key findings.
+A Comparative Analysis of Logistic Regression and Support Vector Machine Models
+Data Science Project - Python Des 2023
+Understanding the concept of logistic regression and Support Vector Machine (SVM) models, including their
+applications.
+Conducted data preprocessing, then built and trained both models using real-world datasets with Python.
+Analyzed and identified the results by comparing their performance metrics such as accuracy.
+CERTIFICATIONS
+Microsoft Office Desktop Application Trust Training Partners Nov 2023
+Data Science Program at Winter Club Explorer 2023 Generation Girl Des 2023
+Toefl ITP Certification (Score: 523) Apr 2024
+Wealth and Personal Banking Jul 2024
+Commercial Banking Jul 2024
+Digital Business Services Jul 2024
+Internal Audit Analyst Sep 2024
+Corporate Analyst Development Program (CADP) - Sep 2024
+SKILLS
+Soft skills: Analytical Thinking, Teamwork, Problem-Solving, Communication, Stakeholder Management.
+Technical : Microsoft Office, Google Workspaces, Python, SQL, Tableau, Notion, Coda, Canva.

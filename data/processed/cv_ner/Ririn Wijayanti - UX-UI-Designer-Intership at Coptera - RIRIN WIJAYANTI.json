@@ -1,0 +1,52 @@
+{
+  "name": "RIRIN WIJAYANTI",
+  "email": "arinwijaya19@gmail.com",
+  "phone": "082332181278",
+  "education_level": "S1",
+  "education_major": "English Literature",
+  "university": "Udayana University",
+  "hard_skills": [
+    "UX/UI Design",
+    "User Research",
+    "User Flows",
+    "Information Architecture",
+    "Wireframing",
+    "Prototyping",
+    "Figma",
+    "Miro",
+    "HTML",
+    "CSS"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Collaboration",
+    "Problem-Solving",
+    "User-centered thinking",
+    "Customer focus"
+  ],
+  "years_experience": 1.25,
+  "certifications": [
+    "Start the UX Design Process: Empathize, Define, and Ideate by Google",
+    "Foundations of User Experience (UX) Design by Google",
+    "Foundations of Project Management by Google",
+    "Belajar Dasar Visualisasi Data by Dicoding Indonesia",
+    "Memulai Pemrograman dengan Python by Dicoding Indonesia",
+    "Belajar Dasar Pemrograman Web by Dicoding Indonesia",
+    "Belajar Dasar AI by Dicoding Indonesia"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "KPPS (Kelompok Penyelenggara Pemungutan Suara) Member",
+    "Small Business Owner",
+    "Volunteer English Language Instructor"
+  ],
+  "industries": [
+    "Government",
+    "Education",
+    "Small Business"
+  ],
+  "location": "Pasuruan"
+}

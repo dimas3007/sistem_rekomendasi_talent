@@ -1,0 +1,88 @@
+VERA RIZKI YUNIAR
+verarizkiyuniar@gmail.com | +62 8983270569 | linkedin.com/in/verarizkiyuniar/
+EXECUTIVE SUMMARY
+Information Systems student with a focus and expertise in programming and UI/UX design. Have an
+in-depth understanding of the principles of user interface design and user experience. Experienced in
+using various design tools and have the ability to create intuitive and user-friendly solutions. Adept
+team player, effective communication, and strong time management skills. Committed to developing
+practical and academic skills to contribute to the field of computer science.
+EDUCATION
+UPN Veteran Jawa Timur 2022 - Present
+S1 Information Systems | GPA: 3.78/4.00
+Relevant Coursework: Information System Design Analysis, Human Computer Interaction,
+Software Engineering, Web Programming, Database Administrator.
+WORK EXPERIENCES
+UI/UX Designer Intern - MSIB Batch 7 September 2024 December 2024
+LLDIKTI IX
+Collaborated with a multidisciplinary team to design and develop a mobile application and
+dashboard for LLDIKTI Wilayah IX.
+Conducted user research and usability testing to refine application features and user interfaces.
+Design high-fidelity wireframes and prototypes using Figma, ensuring alignment with user needs
+and organizational goals.
+ORGANIZATIONAL EXPERIENCES
+Member of Diksos UKM Penalaran & Kreativitas January 2023 December 2023
+UPN Veteran Jawa Timur
+Organize and coordinate FGMMI, UPN Mengajar, Webinar, Campaign, and Bina Desa activities as
+planned to have a positive impact on society.
+Delegates of Aiesec Future Leaders Summer Peak 2024 April 2024 June 2024
+Aiesec in Surabaya
+Attend and participate in training and leadership development sessions organized by Aiesec.
+Followed an organized training schedule, including online and offline sessions involving group
+discussions and collaborative projects.
+Senior Assistant MOSAIK 2023 August 2023 August 2023
+UPN Veteran Jawa Timur
+Responsible for accompanying and supervising new students during MOSAIK 2023 activities.
+Coordinating MOSAIK 2023 information to new students and managing attendance and permits.
+Assess and crosscheck new student assignments with detailed assignment weighting.
+Member of PDD UPN Mengajar Volume IX May 2023 August 2023
+UPN Veteran Jawa Timur
+Producing documentation of activities in the form of photos and videos by attending every UPN
+Mengajar activity, taking quality photos and videos, and editing them to make interesting and
+informative documentation.
+Designing banners and certificates for the committee and participants of UPN Mengajar Volume IX
+by following the predetermined theme.
+Managing UPN Mengajar's Instagram account well by producing interesting content.
+PROJECT
+UI/UX LLDIKTIApps September 2024 December 2024
+UI/UX Designer Intern at LLDIKTI IX
+Tools: Figma
+Designed the mobile application s user interface with a focus on user-centered design principles,
+refined the application experience by iterating on designs based on user feedback, ensured consistent
+visual identity and seamless navigation across all features.
+UI/UX Dashboard September 2024 December 2024
+UI/UX Designer Intern at LLDIKTI IX
+Tools: Figma
+Designed and optimized the dashboard interface to provide a seamless and efficient user experience.
+Focused on data visualization, intuitive navigation, and accessibility to ensure users can easily
+interact with key features.
+SIMBA (Race Provider Information System) May 2024 June 2024
+Final Project of Web Programming Course
+Tools: Visual Studio Code, Xampp, GitHub
+Analyst and creating the database needed for SIMBA using mySQL, develop SIMBA using PHP
+(Native) programming language and bootstrap assistance.
+UI/UX EventHub (Event Information and Publication Application) May 2024 June 2024
+Final Project of E-Business Course
+Tools: Figma
+Designing user interface (UI) for the application, analyzing user problems, identifying solutions for
+each problem encountered.
+UI/UX Application SITAPI (Smart Farmer System) October 2023 December 2023
+UI/UX Competition Fasilkom Fest 2023
+Tools: Figma
+Designing user interface (UI) for the application, analyze the design to ensure needs are met.
+Determine target users, develop usage scenarios, conduct testing with Maze to ensure the interface
+is optimized and error-free.
+UI/UX Broken Road Reporting Application October 2023 November 2023
+Final Project of Information System Design Analysis course
+Tools: Figma
+Designing the user interface (UI) for the application, analyze user problems, using UML (Unified
+Modeling Language) can help in documenting and visualizing user interactions with the system.
+UI/UX of SEHAT Application May 2023 June 2023
+Final Project of Software Engineering Course
+Tools: Figma
+Designing user interface (UI) using scrum method.
+SKILLS
+Language: Indonesian (Native), English (Intermediate).
+Software: Microsoft Office, Figma, Canva, Visual Studio, Visual Studio Code, Android Studio,
+GitHub, Xampp, StarUML.
+Others: UI/UX Design, Programming, Web Development, System Analysis and Design, Project
+Management, Leadership, Critical Thinking, Communication, Team Work, Analysis, Problem Solving.

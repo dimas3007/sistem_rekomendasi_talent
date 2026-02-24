@@ -1,0 +1,39 @@
+{
+  "name": "KAKA ANDERESTA",
+  "email": "kakaanderesta4@gmail.com",
+  "phone": "085156358231",
+  "education_level": "S1",
+  "education_major": "Computer Science",
+  "university": "Universitas Horizon Indonesia",
+  "hard_skills": [
+    "PHP",
+    "MYSQL",
+    "codeigniter framework",
+    "Dart",
+    "C#",
+    "SQL Server"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Problem Solving",
+    "Desain Thinking"
+  ],
+  "years_experience": 5.25,
+  "certifications": [
+    "Microsoft Excel Future Skills",
+    "Basic Management Project Diaspora Mengajar",
+    "Peningkatan Kewirausahaan Sosial Future Skils",
+    "Magang Merdeka ( MSIB )"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Mobile Developer",
+    "Production Operator",
+    "Helper Quality"
+  ],
+  "industries": [
+    "Nutritionals",
+    "Manufacturing"
+  ],
+  "location": "Karawang Jawa Barat"
+}

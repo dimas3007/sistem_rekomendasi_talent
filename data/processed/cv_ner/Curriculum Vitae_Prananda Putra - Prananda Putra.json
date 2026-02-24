@@ -1,0 +1,40 @@
+{
+  "name": "Prananda Putra",
+  "email": "pranandap5@gmail.com",
+  "phone": "+62882005498357",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Islam Indonesia",
+  "hard_skills": [
+    "Figma",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Prototyping",
+    "Usability Testing",
+    "User-Centered Design (UCD)",
+    "Wireframing",
+    "WordPress"
+  ],
+  "soft_skills": [
+    "User-Centered Problem-Solving",
+    "Effective Communication",
+    "Adaptability",
+    "Collaborative Teamwork"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "EFSET English Certificate 74/100 (C2 Proficient)",
+    "CEPT Score 564",
+    "Rapid UI/UX Development Bootcamp | Maxy Academy"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Public Relations Member",
+    "Event and Competition Department Coordinator"
+  ],
+  "industries": [],
+  "location": "Palembang"
+}

@@ -1,0 +1,51 @@
+Jessica Bunga Yuniartha
+Malang | jessicayuniartha@gmail.com | +62 858 9544 6414
+www.linkedin.com/in/jessica-yuniartha-a2a88328a | https://bit.ly/Jessica_portfolio
+OBJECTIVES
+A passionate Information Systems undergraduate with a strong interest in design and user research, striving to
+create intuitive UI solutions that address complex challenges. With a creative and imaginative mindset,
+combined with a love for art and exploration, I aim to bring innovative ideas to life while ensuring exceptional
+user experiences.
+EXPERIENCE
+User Researcher and UI/UX Designer Jan 2024 Present
+Conducted user research for various projects, including a smart tourism application, a solution for fast
+fashion, an educational app, and other completed projects to date.
+Designed UI for Android applications, starting from sketches, wireframing, high-fidelity designs, to
+prototyping, utilizing methodologies such as Design Thinking, Design Sprint, and User-Centered Design.
+Performed heuristic evaluations, iterative improvements, and usability testing to ensure optimal user
+experience.
+Multimedia Staff of Faculty Press Organization March 2024 Present
+Executed multimedia programs by visualizing press products such as bulletins, magazines, poster,
+Instagram content, and layout design.
+Collaborated with other multimedia teams to ensure consistent visual branding across all platforms.
+Provided technical support and innovation for multimedia projects, including photo editing, and graphic
+design.
+Mobile Developer Sep 2024 Dec 2024
+Led a team of three members in a collaborative and equitable project management approach.
+Built a functional fashion-themed mobile application using Android Studio and Java, integrated with
+Firebase Realtime Database for seamless data management.
+Developed a functional note-taking mobile application using Flutter on VS Code, configured with
+Firebase Authentication, Realtime Database, and Supabase for enhanced functionality.
+Web Developer Dec 2023
+Successfully managed a project with a team of three members, ensuring fair and balanced collaboration.
+Be a Front end to developed a photography service responsive website using HTML, CSS, JavaScript,
+and Bootstrap.
+EDUCATION
+Brawijaya University, Malang Aug 2022 present
+Undergraduate 6th Semester Student majoring in Information System
+GPA 3.75 of 4.00
+ACHIEVEMENTS
+National UX Design House of Technology (Hology) 7.0, Brawijaya University, Malang Nov 2024
+1st Place
+Expose Statistics Challenge On National (Epsilon) 2024 National Statistics Infographic Competition
+Category, Universitas Negeri Padang, Padang Sep 2024
+Finalist
+Infographic Poster 4C National Competition 2023,Brawijaya University, Malang Nov 2023
+3rd Win
+SKILLS
+Language: Bahasa Indonesia (Native), English (intermediate).
+Programming Languange: Java, HTML, CSS, Javascript, Bootstrap, phyton
+Tools: Figma, Maze, Ibis Paint, Canva, Ms. Office, Ms. Teams.
+Passionate in: UI/UX Designer, Product Management, Project Management, Illustration, Graphic Design
+Soft Skills: Creativity and Imagination, Collaboration and Teamwork, Communication, Time Management,
+Problem-Solving, Attention to Detail

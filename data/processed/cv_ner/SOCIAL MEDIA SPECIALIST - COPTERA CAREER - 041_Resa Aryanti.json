@@ -1,0 +1,46 @@
+{
+  "name": "Resa Aryanti",
+  "email": "resaaryanti77@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Political Science",
+  "university": "Universitas Siliwangi",
+  "hard_skills": [
+    "Canva",
+    "Figma",
+    "Capcut",
+    "VN",
+    "Corel Draw",
+    "Google Docs",
+    "Microsoft Word",
+    "Google Sheets",
+    "Microsoft Excel"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Leadership",
+    "Time Management",
+    "Creative Thinking",
+    "Creative Written",
+    "Teamwork"
+  ],
+  "years_experience": 2.25,
+  "certifications": [],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Social Media Specialist",
+    "Community Service Staff",
+    "Digital Marketing",
+    "Selling Online",
+    "Editor"
+  ],
+  "industries": [
+    "Social Media",
+    "Government",
+    "Online Retail"
+  ],
+  "location": "Tasikmalaya"
+}

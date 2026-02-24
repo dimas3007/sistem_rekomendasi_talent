@@ -1,0 +1,48 @@
+NADIYAH QASAMAH
+Bogor, ID | 089682693372 | nadiyahqasamah3@email.com |
+linkedin.com/in/nadiyah-qasamah-103a652b0
+As an active 5th-semester student majoring in Informatics Engineering, I have a deep interest in data
+management, database creation, statistics, and data administration. I am always eager to learn and explore
+new developments in the field of technology. On campus, I am actively involved in various organizations
+that have helped me develop my leadership, time management, communication, and teamwork skills. My
+experiences include participating in a data visualization competition with a project titled '5G Network
+Deployment,' serving as a facilitator for new students, and carrying the ceremonial tray at the 2024
+graduation ceremony. I consistently strive to give my best in every task I undertake.
+EXPERIENCE
+Linguo ID (Internship)
+Key Opinion Leader Specialist December 2024 Present
+Working together with KOLs, influencers, and community members
+Celerates Acceleration Program (Kampus Merdeka)
+Data Science Basic (Studi Independen) September 2024 December 2024
+Acquired knowledge of statistical concepts including mean, median, mode, standard deviation, and
+hypothesis testing
+Implemented a simple database using PostgreSQL and Dbeaver to store and manage data
+Applied machine learning and deep learning algorithms to analyze and interpret data
+Learned Natural Language Processing (NLP) and Large Language Models (LLM), including text
+preprocessing, sentiment analysis, language translation, text generation, and summarization.
+Designed simple user interfaces with frameworks like Streamlit and Langchain to enhance data
+accessibility.
+ORGANIZATION
+IMATIKA FT-KMUP
+Public Relations & Inventory Division January 2024 October 2024
+Communicate important information about the organization
+Manage and ensure the inventory needs of the association
+Collaborate by communicating internally & externally
+Manage incoming & outgoing mail
+Introduction to Campus Life for New Students of Universitas Pancasila 2024
+Supervision and Control September 2024 September 2024
+Supervise the implementation of PKKMB so that the series of events can run in accordance with the
+predetermined plan
+Accommodate the mobilization of PKKMB participants with full professional responsibility
+Become a mentor during a series of PKKMB activities with a companion from WASMON members
+EDUCATION
+Pancasila University
+Informatics Engineering September 2022 Present
+Comulative GPA: 3.51
+PROJECT
+Sentimen Klasifikasi ChatBot
+A website for sentiment classification and user conversation. November 2024 December 2024
+SKILLS
+Hard Skill: Python, HTML, CSS, SQL
+Soft Skill: Communicatin, Teamwork, Problem Solving, Time Management, Creativity
+Software Skill: MySQL, PostgreSQL, Dbeaver, Orange, Github, Canva, Figma, Cisco

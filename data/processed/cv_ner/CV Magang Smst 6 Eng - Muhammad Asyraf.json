@@ -1,0 +1,51 @@
+{
+  "name": "Muhammad Asyraf",
+  "email": "mohasyraf28@gmail.com",
+  "phone": "+6281357251810",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "PHP",
+    "Bootstrap",
+    "Typescript",
+    "NodeJS",
+    "ReactJS",
+    "ExpressJS",
+    "Laravel",
+    "Git",
+    "Github",
+    "MySQL",
+    "MongoDB",
+    "Google Cloud Computing"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Time Management",
+    "Leadership",
+    "Critical Thinking"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka",
+    "International Web Developer Bootcamp",
+    "Pelatihan Bidang Teknologi dan Informasi 2024 (Laravel For Beginner)",
+    "Pelatihan Bidang Teknologi dan Informasi 2023 (Web App Interactive)",
+    "Junior Web Developer (BNSP)"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Head 3 Integration",
+    "Chairman"
+  ],
+  "industries": [],
+  "location": "Surabaya"
+}

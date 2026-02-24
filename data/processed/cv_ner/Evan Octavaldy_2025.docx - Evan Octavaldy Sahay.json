@@ -1,0 +1,49 @@
+{
+  "name": "Evan Octavaldy",
+  "email": "evanoct.sahay@gmail.com",
+  "phone": "+6281258205415",
+  "education_level": "S1",
+  "education_major": "Multimedia",
+  "university": "Universitas Surabaya",
+  "hard_skills": [
+    "Adobe Premiere",
+    "Adobe After Effect",
+    "Capcut",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Figma",
+    "C#",
+    "SQL",
+    "Kotlin",
+    "Microsoft Office"
+  ],
+  "soft_skills": [
+    "creative thinking",
+    "collaboration skills",
+    "professional networking",
+    "teamwork",
+    "project management",
+    "meeting deadlines"
+  ],
+  "years_experience": 1.58,
+  "certifications": [
+    "UI/UX Design - Certificate of Completion"
+  ],
+  "languages": [
+    "English",
+    "Indonesia"
+  ],
+  "job_titles": [
+    "Digital Marketing and Graphic Design Staff",
+    "Graphic Design Intern",
+    "Freelance Typesetter",
+    "Design and Documentation Staff",
+    "Trainer Staff"
+  ],
+  "industries": [
+    "Hospitality",
+    "Publishing",
+    "Education"
+  ],
+  "location": "Surabaya"
+}

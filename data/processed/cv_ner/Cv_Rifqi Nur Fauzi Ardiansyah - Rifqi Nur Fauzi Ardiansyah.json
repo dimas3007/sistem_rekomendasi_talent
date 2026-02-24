@@ -1,0 +1,45 @@
+{
+  "name": "Rifqi Nur Fauzi Ardiansyah",
+  "email": "rifqi153syah@gmail.com",
+  "phone": "+6282121526351",
+  "education_level": "D4",
+  "education_major": "Teknik Informatika",
+  "university": "Politeknik TEDC Bandung",
+  "hard_skills": [
+    "Microsoft Office",
+    "Pemahaman Bahasa Pemrograman",
+    "Pengelolaan Database",
+    "Desain Grafis",
+    "Pengembangan Web",
+    "Pengembangan Perangkat Lunak",
+    "UI/UX Designer"
+  ],
+  "soft_skills": [
+    "Analisis dan Pemecahan Masalah",
+    "Keterampilan Kerja Tim",
+    "Manajemen Waktu",
+    "Komunikasi Efektif",
+    "Adaptif"
+  ],
+  "years_experience": 0.2,
+  "certifications": [
+    "Pelatihan Microsoft Excel Specialist",
+    "Pelatihan Information Technology Specialist (Database Specialist)",
+    "Pemrograman dengan Python",
+    "Visualisasi Data",
+    "Pemrograman dengan JavaScript",
+    "Membuat Aplikasi Flutter untuk Pemula",
+    "Pemrograman dengan Dart",
+    "Desain Grafis menggunakan Aplikasi Coreldraw dan Photoshop"
+  ],
+  "languages": [
+    "Inggris",
+    "Arab",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "IT Support"
+  ],
+  "industries": [],
+  "location": "Kab. Bandung Barat"
+}

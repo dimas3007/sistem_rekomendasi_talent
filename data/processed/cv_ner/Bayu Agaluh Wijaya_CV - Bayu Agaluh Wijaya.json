@@ -1,0 +1,39 @@
+{
+  "name": "Bayu Agaluh Wijaya",
+  "email": "byuagw@gmail.com",
+  "phone": "089630394238",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Institut Teknologi Sumatera",
+  "hard_skills": [
+    "Figma",
+    "UI Design",
+    "UX Design",
+    "UX Research",
+    "Python",
+    "Matplotlib",
+    "OpenCV"
+  ],
+  "soft_skills": [
+    "Dapat bekerja secara tim",
+    "Teliti",
+    "Komunikasi Baik"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "UI/UX Specialist"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Specialist",
+    "Kepala Divisi Publikasi & Dokumentasi",
+    "Staff Divisi Publikasi dan Dokumentasi"
+  ],
+  "industries": [
+    "Robotika",
+    "Manufacturing"
+  ],
+  "location": "Lampung"
+}

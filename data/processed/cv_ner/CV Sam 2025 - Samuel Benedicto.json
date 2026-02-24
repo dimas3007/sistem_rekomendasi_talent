@@ -1,0 +1,47 @@
+{
+  "name": "Samuel Benedicto Siahaan",
+  "email": "benedicto.siahaan@gmail.com",
+  "phone": "+62 815 4539 1954",
+  "education_level": "S1",
+  "education_major": "Computer Science",
+  "university": "Kalimantan Institute of Technology",
+  "hard_skills": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Jest",
+    "clsx"
+  ],
+  "soft_skills": [
+    "team leadership",
+    "collaboration",
+    "communication",
+    "project leadership",
+    "event management",
+    "problem-solving"
+  ],
+  "years_experience": 2.0,
+  "certifications": [
+    "Kaltim Tuntas Scholarship Awardee",
+    "Kaltim Tuntas Scholarship Awardee"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Core Committee",
+    "Event Committee staff",
+    "Event Committee member",
+    "Head of Equipment and Permits Division",
+    "Staff of Fellowship Division",
+    "Front-End Freelance",
+    "Project Manager",
+    "Front End Developer",
+    "Head of events division",
+    "Head of Logistics",
+    "Head of Documentation",
+    "Chairman of the committee"
+  ],
+  "industries": [],
+  "location": "Balikpapan"
+}

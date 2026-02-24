@@ -1,0 +1,45 @@
+{
+  "name": "Nova Ade Sonata",
+  "email": "nvsonata@gmail.com",
+  "phone": "+62 899 8365 110",
+  "education_level": "S1",
+  "education_major": "Mathematics",
+  "university": "Universitas Negeri Malang",
+  "hard_skills": [
+    "Microsoft Office Suite (Excel, Word, PowerPoint)",
+    "Google Workspace",
+    "Canva",
+    "CapCut",
+    "Zoom",
+    "Google Meet"
+  ],
+  "soft_skills": [
+    "Event planning",
+    "Team coordination",
+    "Strategic planning",
+    "Adaptability",
+    "Effective communication",
+    "Time management",
+    "Attention to detail",
+    "Problem-solving",
+    "Collaboration",
+    "Multitasking"
+  ],
+  "years_experience": 0.33,
+  "certifications": [],
+  "languages": [
+    "English",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Sponsorship and Partnership Coordinator",
+    "Event Planning Coordinator",
+    "Documentation and Publication Coordinator",
+    "Multimedia Coordinator"
+  ],
+  "industries": [
+    "Event Planning",
+    "Education"
+  ],
+  "location": "Tangerang"
+}

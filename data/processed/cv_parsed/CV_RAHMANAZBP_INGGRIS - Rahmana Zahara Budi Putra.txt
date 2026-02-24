@@ -1,0 +1,52 @@
+RAHMANA ZAHARA BUDI PUTRA
+085784455031 | rahmanazbp30@gmail.com | www.linkedin.com/in/rahmana-zahara-budi-putra |
+https://rahmanaputra.github.io/portofolio/
+Madiun, Jawa Timur
+Fresh graduate in Computer Science of Informatics Engineering from University Muhammadiyah Surakarta, specializing in data analytics
+and data science. Skilled in processing and analyzing data to deliver strategic insights that inform business decisions. Proficient in
+developing predictive models and data-driven solutions, with expertise in statistical analysis, Python, SQL, and Microsoft Office. Aiming
+to leverage technical expertise and problem-solving skills to contribute to impactful data-driven solutions in a dynamic professional
+setting.
+EDUCATION
+Universitas Muhammadiyah Surakarta Surakarta
+Bachelor in Compuer Science | GPA: 3.27 / 4.00 2020 - 2024
+Software: Microsoft Office, Visual Studio Code, Google Colab, SQL, Python, Matlab, Scikit-learn, TensorFLow & Keras, Power BI,
+Figma, Tableau.
+Project: Comparative Analysis of Twitter Sentiment Regarding Mount Bromo Fire: A Study Using Naive Bayes and Support Vector
+Machine Approaches.
+Interest: Information Systems and Technology, Database Systems, Data Communication, Algorithms and Data Structures, Sofware
+Engineering, Data Warehousing and Data Mining, System Analysis and Design, IT Audit and Governance, Big Data Technology
+Portofolio: https://rahmanaputra.github.io/portofolio/
+WORK EXPERIENCE
+DPRD Kab Sukoharjo Kab. Sukoharjo
+Information Technology (IT) and Administrative Subdivision, Internship March 2023 - April 2023
+Record incoming and outgoing correspondence in the logbook and assign a number to each letter for proper documentation.
+Design and create user interface (UI) layouts for the library website using Figma.
+Develop the library website using HTML, CSS, and JavaScript to enhance functionality and accessibility.
+NONFORMAL EDUCATION
+Data Analysis: Fullstack Intensevice Bootcamp (Batch 18) Jakarta
+MySkill September 2024 - October 2024
+Software: Microsoft Excel, Google BigQuery, Google Looker Studio, SQL, Python.
+Training Topics: Basic Statistics, Data Formatting, and ValidationSQL Fundamentals & Business Data AnalysisData Analysis with
+Python & Data Visualization
+Portofolio: https://drive.google.com/drive/folders/19s88wn6RkmyUU8FR7W_BEEmjinH919Zb?usp=sharing
+Fullstack Microsoft Excel: Basic to Advanced (Batch 22) Jakarta
+MySkill September 2024 - October 2024
+Intensive training on mastering Excel, from basic to advanced levels.
+Training Topics: Excel Data Processing & Cleaning Data Analysis with VLOOKUP, Index-Match, Pivot TablesCreating Business
+Dashboards & VisualizationsTask Automation with VBA Macros
+CERTIFICATION
+Data Analysis: Fullstack Intensive Bootcamp, MySkill, Number: MS-30/10/2024-CJ9oBNupE9t1Cih3fdzD, 2024
+Fullstack Microsoft Excel Basic To Advanced Batch 22, MySkill, Number: 93235/EXL/LM/10/2024, 2024
+MySkill Short Class: Frontend Fundamentals, MySkill, Number: 173697/WEB/LM/08/2024, 2024
+Sertifikasi Microsoft Office, KURSUS DIGITAL DAN LKP BORJU KOMPUTER, Number: 4918.28.11461, 2024
+Mini Cource Data Analytics: Intro to Data Analystics, RevoU, Number: , 2023
+Mini Course Digital Marketing: Intro to Digital Marketing, RevoU, Number: , 2023
+SKILL
+Soft Skill Communication, Time Management, Problem solving, Teamwork, Presentation Skills, Adaptability
+Microsoft Office Suite, Programming (Python, SQL), Machine Learning, Data Visualization, Exploratory Data
+Hard Skill
+Analysis (EDA), Data Wrangling, Data Cleaning adn Transformation, Information Architecture
+Microsoft Office (Word, Excel, Powe Point), SQL (PostgreSQL dan MySQL), Python (NumPy, Pandas, Marplotlib,
+Software Skill Seaborn, Sciket-learn), Google Colab, Git/Github, Google BigQuery, Google Looker Studio, Tableu, Power BI,
+Figma

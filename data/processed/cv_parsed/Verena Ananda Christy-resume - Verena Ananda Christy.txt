@@ -1,0 +1,47 @@
+VERENA ANANDA CHRISTY
++6285786852410 | vrnanda23@gmail.com | https://www.linkedin.com/in/verena-ananda-christy-9b1073245/
+Gondokusuman, Yogyakarta
+A fresh graduate of Universitas Kristen Duta Wacana with a degree in Information Systems, experienced in web development and UI/UX
+design. Proficient in Laravel, PHP, and MySQL for building interactive web applications. Skilled in interface design using Figma, with a
+strong focus on user-centered design. Possesses excellent problem-solving skills and is always eager to learn new technologies.
+Education Level
+Universitas Kristen Duta Wacana - Yogyakarta, Indonesia Jul 2020 - Nov 2024
+Bachelor of Information System, 3.61/4.00
+Final project: Web-based Inventory Management Information System Case Study: Bethesda Hospital
+Relevan Coursework: Web Based Programming, Applied Integrated Programming, Web Content Management, Human Computer
+Interaction, Algorithm and Data Structure, Business Data Analysis
+Work Experiences
+Bethesda Hospital - Yogyakarta, Indonesia Oct 2023 - Jan 2024
+Web Developer Internship
+Develop a web about management inventory using PHP, Bootstarp
+Implement user authentication, list of inventory, and data inventory processing features
+Managing databases and connect with the project using MySQL
+Zenius - Jakarta Pusat, Indonesia Aug 2022 - Dec 2022
+MSIB Participant UI/UX in Product Design
+Planning and design of research on users of digital products that are solution based on emerging statement problems
+Evaluate digital product design based on principles of functionality, aesthetics, and user orientation.
+Create problem statements from research results and solutions in the form of digital product designs validated in the form of case
+studies
+Leadership Experience
+Pasar Khebinekaan - Yogyakarta Nov 2022
+Member of event division
+Cultural degree event held by the University
+Manage a rundown of events for 2 days
+Build good communication with UKDW cultural activities units as guest stars
+Manage music documents from each UKDW cultural activity unit
+Information System Competition Oct 2022
+Member of event division
+A technology competition event that organizes web design and infographic competitions
+Manage event paths in the webinar
+Able to bring informants to webinars with technology advancement topics with 5G providers
+Able to coordinate the arrival of informants and establish good communication with informants
+SI Night - Yogyakarta Oct 2022
+Member of event division
+Evening of familiarity within the scope of the Information Systems study program
+Managing the concept of events to welcome freshmen to the information system department
+Establishing good communication with lecturers majoring in information systems as guests of the event
+Able to help cheer up the event as MC in the ice breaking session
+Skills, Achievements & Other Experience
+Projects (2024): The Web-based Inventory Management System of Bethesda Hospital
+Achievements (2022): UI/UX in Product Design Independent Study Certificate
+Hard Skills: Figma, PHP, Laravel, MySQL, Microsoft Office

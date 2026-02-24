@@ -1,0 +1,41 @@
+{
+  "name": "Dhea Sriwahyuni",
+  "email": "dheasriwahyuni17@gmail.com",
+  "phone": "+62 851 5665 3025",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Siliwangi",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "draw.io",
+    "MS Visio",
+    "Figma",
+    "Trello"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Strategic Planning",
+    "Leadership"
+  ],
+  "years_experience": 2.75,
+  "certifications": [
+    "Program Analyst oleh BNSP",
+    "Junior Web Developer oleh BNSP"
+  ],
+  "languages": [
+    "Indonesia",
+    "Inggris"
+  ],
+  "job_titles": [
+    "Product Manager",
+    "IT Business Analyst",
+    "System Analyst",
+    "Team Coordinator"
+  ],
+  "industries": [
+    "IT"
+  ],
+  "location": "DKI Jakarta"
+}

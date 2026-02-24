@@ -1,0 +1,48 @@
+{
+  "name": "Dicky Kurniawan Syahputra",
+  "email": "rushydicky@gmail.com",
+  "phone": "0895 6184 97889",
+  "education_level": "D3",
+  "education_major": "Teknik Komputer",
+  "university": "Politeknik Negeri Medan",
+  "hard_skills": [
+    "Ms.Office",
+    "MySql",
+    "Networking",
+    "Frontend Web",
+    "PHP"
+  ],
+  "soft_skills": [
+    "Inovatif",
+    "Conscientious"
+  ],
+  "years_experience": 0.67,
+  "certifications": [
+    "Certificate Bitdegree Introducing Coding for Beginners: an HTML and CSS Online Course",
+    "Certificate Aguna Course Python Fundamental",
+    "Certificate Aguna Course Virtual Machine Fundamental",
+    "Certificate Toefl Prediction Test",
+    "Certificate Dicoding Front-end web",
+    "Certificate Dicoding Python",
+    "Certificate Progate Java",
+    "Certificate Progate Python",
+    "Certificate Kominfo DTS programming",
+    "Certificate Toeic",
+    "Certificate PKS Digital School Full Stack Web Development",
+    "Certificate Digital Talent Scholarship Junior Network Administrator"
+  ],
+  "languages": [
+    "Bahasa Inggris",
+    "Bahasa Indonesia",
+    "Bahasa Prancis"
+  ],
+  "job_titles": [
+    "Pemberkasan Arsip Perkara Perdata",
+    "Asisten Instruktur"
+  ],
+  "industries": [
+    "Legal",
+    "Education"
+  ],
+  "location": "Tebing Tinggi"
+}

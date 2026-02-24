@@ -1,0 +1,52 @@
+ARKA AN NURHUDA
+linkedin.com/in/arkanur zerobizzz@gmail.com github.com/nurhuda0 Yogyakarta, Indonesia
+SKILLS
+Tools and Technologies: Figma, Laragon, Git, JIRA, Canva, Trello
+Framework: Wordpress, Laravel, CodeIgniter, React.js
+Programming Languages: Javascript, PHP, HTML, CSS, Java, SQL
+Languages: Bahasa Indonesia(native), English
+EXPERIENCE
+Programmer (Full Time) Sept 2024 - present
+Yayasan Cinta Sedekah | Yogyakarta, Indonesia
+Developed and maintained cintasedekah.org using WordPress and the Elementor plugin, enhancing site functionality
+and user experience.
+Designed and implemented key features such as a scrollable navbar, milestone progress bar, hamburger menu updates,
+and improved layout design.
+Built interactive prototypes in Figma to streamline feature development before implementation.
+Optimized website performance by 28%, improving load times and overall efficiency.
+Managed hosting, file storage, and routine backups through Domainesia to ensure system reliability.
+Led the development of office.cintasedekah.org, the internal Office Management System (OMS), contributing to both
+frontend and backend features.
+Enhanced OMS functionality by updating database structures, refining input forms, optimizing layouts, fixing bugs,
+conducting manual QA testing, and ensuring system stability.
+Utilized PHP, JavaScript, HTML/CSS, CodeIgniter, and database management techniques to develop responsive, scalable
+web applications.
+Site Reliability Engineer (Internship) Jun 2020 - Feb 2021
+Badan Sistem Informasi UII | Yogyakarta, Indonesia
+Redesigned and refactored the UII Ops Monitoring Dashboard, implementing critical features for the SRE team,
+including postmortem analysis, incident tracking, web monitoring, and team management tools.
+Spearheaded the migration of the dashboard s programming language from PHP to Go (Golang), enhancing the
+application s efficiency, maintainability, and security.
+PROJECTS
+Web Based Application Yayasan Cinta Sedekah link Present
+The Yayasan Cinta Sedekah Public Website is a dynamic platform built using WordPress, designed to provide easy access
+to essential information for the public. It features a comprehensive profile of the foundation, detailed reports, ongoing
+and completed programs, and multiple donation options. This user-friendly and interactive website ensures
+transparency and strengthens the connection between the foundation and its partners, showcasing its commitment to
+openness and effective communication.
+Web Based Application What to Do? link December 17th 2024
+Daily obligations can sometimes be overwhelming to keep track of, so imagine how useful it is to have a platform that can
+store the data of your desired activities. What to Do? Apps can help you to improve your productivity and make sure you
+can keep track of your responsibilities. Developed on React.js and HTML/CSS
+Web Based Application Yayasan Cinta Sedekah OMS (Office link Present
+Management System)
+A national philanthropy agency needs a sophisticated management system that can store data safely and can be easily
+accessed by its members. Cinta Sedekah - Office Management System aims to help administer and regulate essential data
+required by many of its peers. Developed on CodeIgniter3, PHP, and HTML/CSS.
+Web Based Application Al-Awwal for Learning Arabic Language link March 14th 2024
+Learning Arabic is not limited through traditional means but it can also be done through the use of modern web based
+applications. Al-Awwal is developed to introduce and complement the early stages of Arabic language for youngsters and
+adults alike. Developed on PHP, HTML/CSS, and React.js
+EDUCATION
+Bachelor of Computer Science in Informatics Jan 2017 Feb 2024
+Islamic University of Indonesia | Yogyakarta, Indonesia

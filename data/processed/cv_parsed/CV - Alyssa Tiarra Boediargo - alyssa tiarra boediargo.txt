@@ -1,0 +1,52 @@
+ALYSSA TIARRA BOEDIARGO
+Jln. Ikan Sepat II No 15, Blimbing, Malang, Indonesia
+Phone: +6283105521185 | Email: tiarraalyssa@gmail.com | Github: https://github.com/alyssatiarra | LinkedIn:
+Alyssa Tiarra Boediargo
+SKILLS
+Soft Skills: Teamwork, Communication, Adaptability, Discipline, Creativity, Time Management, Problem
+Solving.
+Hard Skills: Java, Laravel, HTML, CSS, PHP, Figma, SQL Database, Excel, Power BI, MySQL, Looker
+Studio, Manual black box
+ACHIEVEMENT
+PKM Competition by HMTI (Himpunan Mahasiswa Teknologi Informasi) Politeknik Negeri
+Malang Malang
+PKM KC (Karsa Cipta) - Best Visionaries (October 2023)
+PROJECT EXPERIENCES
+Pharmacy Cashier System
+Basic Programming (June 2022)
+Developed a mini pharmacy cashier system using Java to handle point-of-sale operations efficiently.
+Implemented core functions of the cashier system such as checking stock, restocking, checking prices,
+and displaying sales recap
+Satisfaction Survey System at Politeknik Negeri Malang
+Web Programming Course Project (February June 2024)
+Developed the Customer Satisfaction Survey System using HTML, CSS, JavaScript, and PHP to create
+a user-friendly interface
+Designed key features such as survey management, user management, and real-time dashboards.
+Collaborated with the backend development team to ensure seamless integration and data consistency.
+Sistem SDM (Sumber Daya Manusia) JTI (Jurusan Teknologi Informasi) - Politeknik Negeri
+Malang
+Advanced Web Programming (August December 2024)
+Developed the Sistem SDM JTI website using Laravel to manage human resource data efficiently.
+Ensured real-time data synchronization between web and mobile platforms using APIs.
+Performed functional testing and debugging to ensure optimal performance and minimize system errors.
+Mobile Programming (August December 2024)
+Developed the Sistem SDM JTI mobile application using Flutter and Dart to manage human resource
+data efficiently.
+Integrated the application with the RESTful APIs built for the web version to ensure real-time data
+synchronization.
+ORGANIZATIONAL EXPERIENCES
+Member of KMK (Keluarga Mahasiswa Katolik) Malang
+Sport Division (October 2022 Present)
+Member of UKM (Unit Kegiatan Mahasiswa) USMA (Usaha Mahasiswa) Malang
+Bangmas (Pengembangan Masyarakat) Division (November 2022 Present)
+Member of Karate Polinema Malang
+PDD Coordinator at Malam Keakraban of Karate Polinema
+EDUCATION
+Politeknik Negeri Malang (2022 - Now)
+Bachelor of Business Information System, Information Technology Department
+Relevant Coursework: Object-Oriented Analysis and Design, Web Development, Database
+Management, Business Intelligence, Mobile Development, Information Systems Design and Analysis,
+Software Quality Assurance, Computer Network
+Cumulative GPA: 3.65/4.00
+SMA Negeri 4 Malang (2019 - 2022)
+Science Major

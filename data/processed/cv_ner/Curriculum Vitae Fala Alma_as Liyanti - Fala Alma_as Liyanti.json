@@ -1,0 +1,47 @@
+{
+  "name": "Fala Alma'as Liyanti",
+  "email": "fala.alma@gmail.com",
+  "phone": "+6287851835462",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "PGRI Madiun University",
+  "hard_skills": [
+    "Javascript",
+    "C++",
+    "MySQL",
+    "Express JS",
+    "Bootstrap",
+    "NodeJS",
+    "Mongoose",
+    "Sequelize",
+    "Web Development",
+    "Back End Development",
+    "Basic Computer",
+    "Microsoft Office",
+    "Basic Design"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Solution Problem",
+    "Management Time",
+    "Leadership"
+  ],
+  "years_experience": 0.0,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "BUSINESS INDEPENDENT",
+    "MEMBER DIVISION EDITORIAL",
+    "CHAIRMAN TEAM PROGRAM CREATIVITY STUDENT (PKM)",
+    "BACK END DEVELOPMENT",
+    "APPRENTICESHIP",
+    "ARTIFICIAL INTELLIGENCE",
+    "CHAIRMAN GROUP KKN MBKM BKKBN",
+    "FAMILY FOOD BUSINESS"
+  ],
+  "industries": [],
+  "location": "Madiun"
+}

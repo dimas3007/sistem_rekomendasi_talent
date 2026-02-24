@@ -1,0 +1,51 @@
+{
+  "name": "Mia Putri Aulia Setyowati",
+  "email": "miapaulise@gmail.com",
+  "phone": "087810305115",
+  "education_level": "S1",
+  "education_major": "Mathematics",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Microsoft Office",
+    "Notion",
+    "Figma",
+    "Canva",
+    "Data Analysis",
+    "Predictive Model",
+    "Python",
+    "Database System"
+  ],
+  "soft_skills": [
+    "Product Management",
+    "Cross-functional Collaborations",
+    "Project Planning",
+    "Requirements Gathering",
+    "Creative Problem Solving",
+    "Analytical Thinking",
+    "Timeline Management",
+    "Project Documentation",
+    "Communication",
+    "Teamwork",
+    "Problem-solving"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Forage Electronic Arts Product Management Job Simulation",
+    "Revou Minicourse Introduction to Product Management"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Organization Development Intern",
+    "Online Fundraising Administrator",
+    "Staff"
+  ],
+  "industries": [
+    "Technology",
+    "Education",
+    "Retail"
+  ],
+  "location": "Jakarta"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Raisha Nabila",
+  "email": "raishanabila24@gmail.com",
+  "phone": "+62895320343048",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Universitas Komputer Indonesia",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Visual Branding",
+    "Typography",
+    "Layout Design",
+    "Social Media Content Creation",
+    "UI/UX Design Basic",
+    "Basic HTML & CSS",
+    "Microsoft Word",
+    "Microsoft Power Point",
+    "Prototyping"
+  ],
+  "soft_skills": [
+    "Creative Thinking",
+    "Time Management",
+    "Communication Skills",
+    "Teamwork",
+    "Problem Solving",
+    "Adaptability"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Bootcamp Graphic Design with Figma",
+    "E-Learning UI/UX Research and Design",
+    "Short Class UI/UX Research and Design",
+    "Hackfest 2024"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Graphic Design Development Internship",
+    "Graphic Design Manager",
+    "Co-Head Brand Marketing"
+  ],
+  "industries": [
+    "Financial"
+  ],
+  "location": null
+}

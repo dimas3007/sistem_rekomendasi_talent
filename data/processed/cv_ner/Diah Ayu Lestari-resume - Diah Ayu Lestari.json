@@ -1,0 +1,43 @@
+{
+  "name": "Diah Ayu Lestari",
+  "email": "diahayulestari2121@gmail.com",
+  "phone": "+6285728189717",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Institut Teknologi Telkom Purwokerto",
+  "hard_skills": [
+    "Figma",
+    "MS Office (Word, Excel, Power Point)",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Laravel",
+    "UI Design",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Details",
+    "Work Teams and Individuals",
+    "Time Management",
+    "Creative Thinker"
+  ],
+  "years_experience": 0.6666666666666666,
+  "certifications": [
+    "Certificate in UI/UX Designer",
+    "UI/UX Design Bootcamp (2024)",
+    "Junior Web Developer (2023)"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Volunteer",
+    "Freelance Full Stack Developer",
+    "Informatics Intern",
+    "Treasurer"
+  ],
+  "industries": [
+    "Health",
+    "IT",
+    "Government"
+  ],
+  "location": "Jakarta"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Wisnu Adi Pratama",
+  "email": "wisnuworksmail@gmail.com",
+  "phone": "+6285784672431",
+  "education_level": "S1",
+  "education_major": "Digital Business",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "UI/UX Design",
+    "Graphic Design",
+    "Web Development",
+    "Mobile Development",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "WordPress",
+    "Android Studio"
+  ],
+  "soft_skills": [
+    "Kreativitas",
+    "Adaptabilitas",
+    "Kerja Tim",
+    "Pemecahan Masalah",
+    "Keterampilan Analitis",
+    "Manajemen Waktu"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Independent Study Celerates Acceleration Program - Web Development and UI UX Design"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Graphic Designer",
+    "Video and Photo Editor",
+    "UI/UX Designer",
+    "Web Developer",
+    "WordPress Developer"
+  ],
+  "industries": [
+    "Multimedia Production",
+    "Konveksi"
+  ],
+  "location": "Surabaya"
+}

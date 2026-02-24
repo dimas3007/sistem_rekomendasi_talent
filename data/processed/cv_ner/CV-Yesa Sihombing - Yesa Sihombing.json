@@ -1,0 +1,39 @@
+{
+  "name": "YESA SIHOMBING",
+  "email": "yesasihombing1@gmail.com",
+  "phone": "+628882291603",
+  "education_level": "S1",
+  "education_major": "Software Engineering",
+  "university": "Universitas Telkom",
+  "hard_skills": [
+    "MySQL",
+    "MariaDB",
+    "Codeigniter",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "React Js",
+    "DBeaver",
+    "PHPMyadmin",
+    "Python"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Time management",
+    "Public speaking",
+    "Decision-making",
+    "Good Mediator"
+  ],
+  "years_experience": 0.16666666666666666,
+  "certifications": [],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Backend Developer"
+  ],
+  "industries": [],
+  "location": "Bandung"
+}

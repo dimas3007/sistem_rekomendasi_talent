@@ -1,0 +1,82 @@
+STEVEN KIM WIJAYA
+081259244359 | stevenkimwjayaa@gmail.com | linkedin.com/in/stevenkimwijaya | Sidoarjo ,
+Jawa Timur.
+Mahasiswa S1 Sistem Informasi Bisnis dengan pengalaman yang beragam. Aktif dalam
+organisasi kampus , saya telah mengembangkan kemampuan kepemimpinan dan kerja
+sama tim. Senang dalam menyampaikan ide kreatif , mempelajari hal baru dan memiliki
+aspirasi bekerja bidang industri teknologi dan creative. Pengalaman magang memberikan
+wawasan praktis dan inovatif dalam memecahkan masalah. Perpaduan pengalaman ini
+telah membentuk saya menjadi individu berdedikasi dan mudah beradaptasi.
+Pendidikan
+Institut Sains Teknologi Terpadu Surabaya - Surabaya Juli 2021 - Sekarang
+Jurusan Sistem Informasi Bisnis, 3.30/4.00
+Mata kuliah yang menjadi minat : Data analyst, E- Marketing, CRM, Pemrograman WEB, Analisa desain dan
+sistem informasi, E Commerce Application, Analisa Investasi, Proses Bisnis.
+Awardee Magang dan Studi Independen Bersertifikat (MSIB) batch 7.
+Pengalaman kerja
+School Tech Id Malang April 2024 - Desember 2024
+Magang Product Manager
+Sebuah perusahaan software house untuk keperluan pendidikan tingkat smk dan sma.
+Membuat product requirement document.
+Melakukan daily meeting seminggu 2 kali bersama tim dev sebanyak 21 orang.
+Membuat document daily reporting, seminggu 2 kali.
+Melakukan monitoring tugas bersama tim QA (3 orang).
+Best internship MBKM batch II tahun 2024.
+Panitia dan Organisasi
+Badan Eksekutif Mahasiswa Universitas ISTTS - Surabaya February 2021 - Januari 2022
+Menteri Pengembangan Sumber Daya Mahasiswa
+Memimpin dan mengelola 5 anggota divisi BEM.
+Membentuk program kerja, dan berkolaborasi dengan berbagai pihak.
+Membuat acara internal & eksternal dan mencapai target 5/5 program kerja yang terlaksana.
+.
+Himpunan Mahasiswa Tingkat Prodi - Surabaya September 2023 November 2024
+Wakil ketua
+Memimpin dan mengelola +18 anggota HIMA.
+Menjadi penanggung jawab atas program kerja yang disusun.
+Menjadi ketua program kerja bisnis competition tingkat SMA/SMK dengan peserta 90 orang.
+Mencapai target 12/12 program kerja terlaksana.
+Google Developer Student Club - Surabaya November 2023 Oktober 2024
+Koordinator Creative Media Digital
+Memimpin dan mengelola +7 anggota GDSC.
+Membuat dan menyusun feeds, reels dan ide konten instagram.
+Menjadi panitia acara google seperti Flutter, Keras Community, Dev Fest Surabaya.
+Mencapai target +200 followers dan 6K views untuk 2 konten reels dalam seminggu.
+Project
+Web Streaming Film Video On Demand February 2023 - May 2023
+Melakukan setting dan integrasi pada admin LTE.
+Membuat master film,master voucher film,master kasir.
+Membuat user interface design.
+Bisnis Plan - AUTO SERVICE Januari 2023 - Maret 2023
+Market Strategic Menentukan target pasar sebuah usaha bengkel AUTO-SERVICE .
+Competition Analysis Menentukan kompetitor ,menganalisa kelebihan dan kekurangan.
+Design & Development Membuat model usaha yang menjadi pembeda dari yang lainnya.
+Reengineering System Perpustakaan ISTTS Agustus 2023 Desember 2023
+Pembuatan DFD , ERD pada sistem perpustakaan.
+Pembuatan flowchart beserta ui/ux.
+Menyusun proposal sesuai dengan standar yang ditentukan.
+Program Kasir Maret 2023 - Mei 2023
+Pembuatan CRUD master barang , master supplier , master kasir.
+Pembuatan Crystal Report disertai dengan filter.
+Mendesain Database.
+Mendesain UI dan melakukan testing.
+Web Design Agustus 2023 - November 2023
+Membuat desain web toko sepatu online.
+Membuat prototype sesuai kebutuhan web.
+Melakukan testing user experience.
+Web Perhitungan Retribusi Sampah DLH Kota Madiun September 2024 - Oktober 2024
+Melakukan analisa, perancangan sistem kerja retribusi.
+Membuat wireframe, struktur database.
+Melakukan coding secara bertahap mulai dari front-end hingga back-end
+Melakukan testing web dengan metode black box testing.
+Membuat laporan hasil project.
+Web Perhitungan Kualitas Air DLH Kota Madiun November 2024 - Desember 2024
+Melakukan analisa, perancangan sistem kerja kualitas air.
+Membuat wireframe, struktur database.
+Melakukan coding secara bertahap mulai dari front-end hingga back-end
+Melakukan testing web dengan metode black box testing.
+Membuat laporan hasil project.
+Keterampilan dan Pencapaian
+Pencapaian (2024) : Best Internship MBKM batch II 2024.
+Soft skills : Kepemimpinan, Pemecahan Masalah, Kerja Tim, Komunikasi, Manajemen Waktu, Dapat
+Diandalkan, Berpikir Kritis, Solutif, Perencanaan.
+Hard skills : Microsoft office, Google Workspace, Jira, ClickUp, Miro, Figma, Adobe XD, PHP, Javascript.

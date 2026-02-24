@@ -1,0 +1,59 @@
+{
+  "name": "GURUH HERLAMBANG PRASETYA",
+  "email": "guruhherlambangprasetya@gmail.com",
+  "phone": "089667134072",
+  "education_level": "D3",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Bina Sarana Informatika",
+  "hard_skills": [
+    "HTML5",
+    "CSS",
+    "Bootstrap 4",
+    "Bootstrap 5",
+    "PHP",
+    "MySQL",
+    "SQL",
+    "Codeigniter 3",
+    "Python",
+    "R",
+    "Git",
+    "Github",
+    "Basic Network",
+    "Wordpress",
+    "Mikrotik",
+    "Installasi",
+    "PHP",
+    "React JS",
+    "Vue"
+  ],
+  "soft_skills": [
+    "Bekerjasama dengan Tim",
+    "Bekerja secara Shift",
+    "Diskusi di dalam team",
+    "Problem solving"
+  ],
+  "years_experience": 5.416666666666667,
+  "certifications": [
+    "Fullstack Developer ( 2022 )",
+    "Digital Marketing ( 2019 )",
+    "Data science - DQLab (2023)",
+    "Belajar Dasar Pemrograman Web - Dicoding (2024)"
+  ],
+  "languages": [
+    "Indonesia"
+  ],
+  "job_titles": [
+    "Full Stack Developer",
+    "Sales Force",
+    "Staff Technical Support",
+    "Web Developer",
+    "Fullstack Developer"
+  ],
+  "industries": [
+    "Freelance",
+    "Telecommunications",
+    "Digital Media",
+    "Education"
+  ],
+  "location": "Bekasi"
+}

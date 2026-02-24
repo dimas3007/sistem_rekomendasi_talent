@@ -1,0 +1,65 @@
+{
+  "name": "SALSABILA OKTAFANI",
+  "email": "salsabilaoktafani22@gmail.com",
+  "phone": "+62 85366960995",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "University of Pembangunan Nasional Veteran Jakarta",
+  "hard_skills": [
+    "Java",
+    "Python",
+    "C",
+    "Figma",
+    "Ms. Excel",
+    "Ms. Word",
+    "Google Colab",
+    "InVision",
+    "Notion",
+    "Capcut",
+    "Tiktok Editing",
+    "Data mining",
+    "Website & Mobile Programming",
+    "Digital Image Processing",
+    "Machine Learning",
+    "Computer Vision",
+    "Big Data",
+    "Deep Learning",
+    "Data Visualization",
+    "PySpark"
+  ],
+  "soft_skills": [
+    "User Research",
+    "Customer Journey Map",
+    "Defining Problem",
+    "Ideation Design",
+    "Wireframing",
+    "Information Architecture",
+    "Usability Testing",
+    "Communication",
+    "Collaboration"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "Programming Assistant Certificate of Competence",
+    "UI-UX Research And Design: Fullstack Intensive Bootcamp",
+    "Second Place in the UI/UX Design Competition at FIK FAIR 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Sosial Media Specialist",
+    "Member of UI/UX Design Advance Class",
+    "Junior Product Researcher",
+    "Public Relations",
+    "Secretary",
+    "UI/UX Reseacher",
+    "UI/UX Designer"
+  ],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "location": "Jakarta"
+}

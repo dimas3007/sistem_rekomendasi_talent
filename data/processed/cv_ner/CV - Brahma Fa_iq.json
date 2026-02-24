@@ -1,0 +1,41 @@
+{
+  "name": "Brahma Fa iq Mahdewa",
+  "email": "brahmamahdewa03@gmail.com",
+  "phone": "+62 813 - 3331 - 9628",
+  "education_level": null,
+  "education_major": "Informatics",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "Figma",
+    "Python",
+    "C++",
+    "SQL",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Time Management"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "UI/UX Design Course",
+    "LoRaWan IoT Based Webinar",
+    "Web Development Course",
+    "Data Analytics Mini-Course",
+    "Game Mechanic Course",
+    "Game Flow Course",
+    "Game Story Course",
+    "Game Layout Course",
+    "React Workshop",
+    "Magang & Studi Independen Microcredential Game Developer"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Game Designer"
+  ],
+  "industries": [
+    "Game Development"
+  ],
+  "location": "Sidoarjo"
+}

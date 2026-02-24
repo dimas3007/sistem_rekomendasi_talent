@@ -1,0 +1,112 @@
+Maria Laura Nasution
++6285836108241| marianasution08@gmail.com | https://www.linkedin.com/in/maria-laura-nasution-a46bba313/ |
+https://github.com/MariaNasution
+An enthusiastic and dedicated Computer Science student with strong communication skills, a passion for learning new things,
+and the ability to quickly grasp new concepts.I am always eager to expand my knowledge and skills. Possessing strong
+critical thinking abilities and a talent for in-depth analysis, I am capable of working both independently and collaboratively.
+Highly interested in UI/UX design and web development, with a desire to create intuitive and visually appealing user
+experiences, as well as build functional and innovative web applications.
+Education Level
+Del Institute of Technology - Toba, Indonesia Aug 2022 - Sep 2026 (Expected)
+Third year undergraduate student majoring
+Informatics
+Experience
+Del Institute of Technology - Sitoluama, Indonesia Jan 2024 - Present
+Student Leadership
+Leading and guiding dormitory rooms and residents, including providing direction on dormitory rules and regulations.
+Providing guidance and motivation to achieve academic goals and personal development.
+Explaining and ensuring the enforcement of dormitory rules to maintain a conducive and harmonious living environment.
+Providing solutions and motivational support to overcome various challenges.
+Del Institute of Technology - Sitoluama, Indonesia Sept 2023 Des 2023
+Teaching Assistant Calculus I
+Assisting around 55 students with questions or issues related to Calculus course materials
+Compiling supplementary learning materials, such as practice questions, presentations, or additional reading materials, to help
+students better understand Calculus concepts
+Del Institute of Technology - Sitoluama, Indonesia November 2023
+Master of Ceremony at Events "DIPTEK Goes to School"
+Master of Ceremony at "DIPTEK Goes to School" event for SMPN 1 Pintupohan Meranti with around 70+ related to technological
+developments and encouraged them to become young Indonesian digital talents in the future.
+Del Institute of Technology - Sitoluama, Indonesia February 2024
+Speaker at " DIPTEK PRE PKM " Events
+Speaker at Pre PKM (Student Creativity Program) event with around 150+ student participants from Del Institute of Technology.
+Organizational Experience
+Department of Science and Technology Institut Teknologi Del Juli 2023 Present
+Member of Event Division
+Managing the overall execution of events, ensuring all aspects are executed smoothly and efficiently.
+Serving as the master of ceremonies (MC), presenting material to the audience and guiding the event program.
+Coordinating event logistics, including scheduling, setup, and ensuring all technical and operational details are addressed.
+Ensuring the smooth flow of the event, handling any issues that arise, and making adjustments as needed.
+Engaging with participants to create a dynamic and informative experience, fostering interaction and maintaining interest throughout
+the event.
+Collaborating with team members and stakeholders to ensure all event objectives and goals are met.
+Providing pre-event and post-event support, including preparing materials, managing follow-ups, and evaluating event success.
+Department of Science and Technology Institut Teknologi Del September 2024 Present
+Secretary
+Managing the overall administration of events, ensuring that all aspects are well-documented and organized efficiently.
+Preparing official correspondence, reports, and supporting documents for event-related activities and internal and external
+communications.
+Coordinating event schedules, ensuring smooth execution through timely and systematic organization
+Documenting the event proceedings, including taking meeting minutes, preparing evaluation reports, and archiving event records.
+Ensuring the smooth execution of events by monitoring technical and operational needs, and providing solutions to any issues that
+arise.
+Himpunan Mahasiswa Informatika Institut Teknologi Del Augst 2022 - Present
+Member
+Participating in a range of events including seminars, workshops, and other social activities.
+Attending seminars to gain knowledge and insights on relevant topics.
+Participating in workshops to develop new skills and enhance existing abilities.
+Engaging in social activities to build relationships, network, and contribute to community initiatives.
+Contributing to discussions and activities during events to share ideas and collaborate with others.
+Project experience
+CALCULATOR (C) June 2023
+Basic Programming Project - https://github.com/MariaNasution/C-Calculator-
+This calculator is built using the C programming language. It provides basic arithmetic operations such as addition, subtraction,
+multiplication, and division. Additionally, the calculator can perform exponentiation, calculate trigonometric functions like sine, cosine, and
+tangent, as well as compute natural and base 10 logarithms. It also features modulo operation, temperature and distance conversion,
+discount calculation, and probability calculation
+BOOKHIVE (Java GUI) Nov 2023 Des 2023
+Object Oriented Programming Project -https://github.com/MariaNasution/QUICLIB
+Fullstack Developer
+As a full-stack developer for BOOKHIVE, I conducted research on the app's functionality, designed the user interface, and developed the
+application using NetBeans. The app is built to help users organize and manage their reading lists, serving as a personal library. It connects
+to a database system via SQLyog to store and retrieve user data, making it easier for users to track the books they are currently reading
+or have archived.
+Evaluating Website Usability February 2024
+Human-Computer Interaction
+https://www.figma.com/proto/iwc0UcCI65Ai0U8HPqVoB6/Untitled?node-id=103-2
+Collaborated with fellow university colleagues to evaluate a website based on 10 heuristic usability principles, identifying problems, providing
+descriptions, severity ratings, and offering solution suggestions using Figma
+Web-Portofolio https://github.com/MariaNasution/Basic-Web-Programming July 2024
+Website Developer
+This class thoroughly discusses the basic of HTML anda CSS as the three foundations of website creation.
+Introduction to HTML: Basic structure of HTML documents and tools for building website pages.
+Deepening HTML: Application of HTML in building web page structures, including various HTML elements and techniques for
+organizing content.
+Introduction to CSS: Tools for enhancing the appearance of website pages, including CSS rules and code writing.
+Deepening CSS: Advanced CSS techniques for styling fonts, colors, shadows, positioning, and layout.
+Responsive Layout with Flexbox: Layout techniques using Flexbox for creating responsive designs.
+Conclusion: Implementation of learned techniques in creating a simple website project.
+Evaluating Website Usability February 2024
+https://www.figma.com/proto/iwc0UcCI65Ai0U8HPqVoB6/Untitled?node-id=103-2
+Collaborated with fellow university colleagues to evaluate a website based on 10 heuristic usability
+principles, identifying problems, providing descriptions, severity ratings, and offering solution
+suggestions using Figma.
+Student Information System (SIS) October-Desember 2024
+https://www.linkedin.com/posts/maria-laura-nasution-a46bba313_student-information-system-activity-7285127321617887236-
+3VIm?utm_source=social_share_sheet&utm_medium=member_desktop_web
+In my role as an Analyst, I am responsible for drafting the SRS (Software Requirements Specification) for this project. The SRS includes
+comprehensive documentation that outlines both the functional and non-functional requirements of the system. I conduct in-depth analysis to
+understand and gather the needs of stakeholders to ensure that the system being developed aligns with their expectations. Additionally, I
+ensure that each requirement specified in the SRS can be effectively implemented by the development team and meets the primary goal of
+the project, which is to enhance communication and transparency between parents and the university.
+Collaborative Research with Faculty: Facial Detection Using Convolutional Neural Networks
+(CNN) October-Desember 2024
+As part of a collaborative research project with faculty members, we developed a facial detection
+system leveraging Convolutional Neural Networks (CNN), a cutting-edge deep learning method.
+The research aimed to enhance the accuracy and efficiency of facial detection for applications in
+security systems, surveillance, and user authentication
+KEY COMPETENCIES
+C PHP Team Leardership
+Java Java Script
+SQL Figma
+Postman Coda
+HTML Public Speaking

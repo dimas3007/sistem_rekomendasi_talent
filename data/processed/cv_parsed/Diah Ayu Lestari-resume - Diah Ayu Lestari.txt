@@ -1,0 +1,45 @@
+DIAH AYU LESTARI
++6285728189717 | diahayulestari2121@gmail.com | linkedin.com/in/diahayulstr | bit.ly/diahayulstr-portfolio
+Graduate of Informatics in 2023. An individual who likes to learn and find new experiences. I have enthusiastic and happy to learn new things,
+expertise in operating computers and basic office software skills such as Microsoft Office. Have an interest career in IT, UI/UX Design, Web Design
+and Development.
+Work Experiences
+Clinton Health Access Initiative Indonesia - Jakarta, Indonesia Jul 2024 - Jan 2025
+Volunteer for Eye and Ear Registry
+International Non-Government Organization
+Develop user manuals, technical documentation, and training materials adhering to interoperability principles and standards (e.g., HL7, FHIR).
+Train stakeholders and end users in the administration and utilization of digital health systems, as well as develop system rollout plans.
+This project aims to support the strengthening of the Digital Transformation Office (DTO) within Indonesia's Ministry of Health.
+CV Data Narya Amerta Semesta - Jakarta, Indonesia (Remote) Mar 2024 - May 2024
+Freelance Full Stack Developer
+IT Consultant
+Developed a corporate information system for a care foundation client to manage donor data and proposals, completed successfully in 3 months.
+Tools : HTML, CSS, JavaScript, Laravel, MySQL Database
+Department of Communication and Information - Purbalingga, Aug 2022 - Sep 2022
+Indonesia
+Informatics Intern
+Indonesia Ministry, Government
+Redesigning the Purbalingga Regency violation reporting system website by analyzing functional requirements, creating a high-fidelity design, and
+implementing it using HTML, CSS, Laravel, and MySQL within one month of implementation.
+Tools : Figma, Laravel, HTML, CSS, MySQL Database
+Education Level
+Institut Teknologi Telkom Purwokerto - Purwokerto Sep 2019 - Aug 2023
+Bachelor of Informatics, 3.83/4.00
+Undergraduate thesis: Redesign Of Tourism Website Based On User Centered Design Method And System Usability Scale (Case Study:
+wisatapemalang.com)
+Journal publication: Redesign Website Pariwisata Berbasis User Centered Design (UCD) on Jurnal Riset Komputer - Universitas Budi Darma Medan
+Journal publication: Sistem Informasi Penyakit Pada Ikan Hias Berbasis Multimedia Interaktif on Jurnal Sistem Informasi dan Manajemen - Institut
+Teknologi & Bisnis INDOBARU NASIONAL (IIBN)
+Binar Academy - Indonesia Feb 2024 - Apr 2024
+Certificate in UI/UX Designer, 85.00/100.00
+Learned about UI/UX design process starting from the research plan to implementing the prototype design.Conduct research with the theme mental
+health caused by social media starting from how to create a Research Plan until a prototype design.Tools : Figma
+Organisational Experience
+Volunteer Corps of PMI - Institut Teknologi Telkom Purwokerto Mar 2021 - Mar 2022
+Treasurer
+Managed organizational finances, including income and expenses, and prepared monthly financial reports for accountability.
+Skills, Achievements & Other Experience
+UI/UX Design Bootcamp (2024): By Binar Academy X Digitalent Kominfo, Certificate: bit.ly/uiux-fga-binar
+Junior Web Developer (2023): By Indonesian Professional Certification Authority, Certificate: bit.ly/bnspjwd
+Hard Skills: Figma, MS Office (Word, Excel, Power Point), HTML, CSS, JavaScript, Laravel, UI Design , Canva
+Soft Skills: Details, Work Teams and Individuals, Time Management, Creative Thinker

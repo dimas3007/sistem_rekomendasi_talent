@@ -1,0 +1,72 @@
+ASYFA MAULIDINA
++6285746022202
+@_asyfaaa
+asyfalidina05@gmail.com
+www.linkedin.com/in/asyfa-lidina-96a456193
+ABOUT ME
+Third-year active student in the Informatics program at University Pembangunan Nasional Veteran
+Jawa Timur. Possesses knowledge and skills in programming, data analysis, leadership, public speaking,
+teamwork, and adaptability to new environments. During my studies, I have completed several
+academic projects, including simple programming, website development, UI/UX design, and data
+analysis using machine learning methods. Currently focused on seeking opportunities to gain more
+professional competencies.
+EDUCATION
+SMAN 1 WATES 2 0 19 - 2022
+MIPA | Final Score : 84,38 /100
+UNIVERSITY PEMBANGUNAN NASIONAL VETERAN JAWA TIMUR 2 022 - Now
+S1 Informatics | IPK : 3.89 / 4.00
+EXPERIENCE
+MEMBER OF THE MOBILE LEGENDS COMPETITION DIVISION AT FASILKOM FEST December 2022
+Managed participant registration: Collected participant data, verified information, and scheduled
+matches.
+Designed a budget for the Mobile Legends tournament: Planned costs and allocated funds.
+Established tournament rules: Defined game regulations, tournament format, and other technical
+details.
+Communicated with participants: Delivered information through social media and other platforms.
+Supervised participants during the tournament: Monitored matches and resolved technical issues.
+MEMBER OF THE SECRETARIAT DIVISION AT VESTJAVA July 2023
+Managed participant registration and data collection: Verified participant information.
+Established tournament rules: Defined game regulations and tournament format.
+Communicated with participants: Provided information via social media, email, and other platforms.
+Guided participants: Ensured participants understood procedures and followed instructions from
+start to finish.
+MEMBER OF THE SECURITY DIVISION AT PEMABA August 2023
+Communicated with team members: Reported important situations and incidents to the event
+coordinator.
+Ensured venue security: Conducted routine patrols and identified potential risks.
+Monitored event progress: Supervised crowds and prevented disturbances.
+Managed participant access: Controlled entry and checked participant identities.
+CARAKA OFFICER IN WATES VILLAGE, KEDIRI REGENCY November 2024
+Monitored vote counting results at each polling station.
+Recorded vote counting results from each polling station.
+Reported results to the Kediri Regency Bakesbangpol.
+FREELANCE YOUTUBE DATA COLLECTION THOTH AI 04 -09 October 2024
+Conducted data entry of YouTube video recommendations into provided forms, including video links,
+publishers, view counts, and other relevant information.
+Processed 3.000 data entries for the Indonesian market with high accuracy and speed
+PROJECT
+Developed a simple TV remote program using C language
+(Algorithm and Programming Course).
+Designed a laundry database structure using MySQL
+(Database Course).
+Designed a library database structure using MySQL
+(Advanced Database Course).
+Created a UI/UX design for a web-based bus ticket booking system
+(Interface Design Course).
+Set Up with Django
+(Women In Tech Digitalent Training).
+Identified Favorite Books on the Goodreads Platform using clustering and classification methods on
+the KNIME Analytic Platform.
+(Study Independent Codeless Data Science)
+TRAINING AND CERTIFICATIONS
+Thematic Training - Women In Tech: Python and Cybersecurity - Batch 2 (Digitalent Kominfo )
+https://drive.google.com/file/d/1V7ribM3k-jJMqr_Z8Sx-5Fxf_HTTGShS/view?usp=drive_link
+Certified Independent Study - Codeless Data Science (Nurul Fikri Academy)
+https://drive.google.com/file/d/1V7ribM3k-jJMqr_Z8Sx-5Fxf_HTTGShS/view?usp=drive_link
+SKILLS
+Languages : Indonesian (Native), English (Intermediate).
+Technical Skills : Python, C, MySQL, KNIME Analytic Platform, Data Mining, Machine Learning,
+Data Visualization.
+Tools : Microsoft Word, Excel, PowerPoint, Canva.
+Soft Skills : Problem Solving, Public Speaking, Team Coordination, Strategic Planning, Data Entry,
+Data Analyst.

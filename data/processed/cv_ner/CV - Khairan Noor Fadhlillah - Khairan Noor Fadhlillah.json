@@ -1,0 +1,49 @@
+{
+  "name": "Khairan Noor Fadhlillah",
+  "email": "mykhairannn@gmail.com",
+  "phone": "+62 81255434750",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Ary Ginanjar University",
+  "hard_skills": [
+    "Web Development",
+    "Database Management",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "Figma",
+    "Facebook Ads",
+    "Adobe Photoshop",
+    "Bootstrap",
+    "GitHub"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Problem-Solving",
+    "Creativity",
+    "Time Management",
+    "Adaptability",
+    "Critical Thinking",
+    "Analytical Thinking",
+    "Team Work"
+  ],
+  "years_experience": 0.16666666666666666,
+  "certifications": [
+    "Web Development",
+    "Flexible Kickstart UI/UX Design Journey",
+    "Get Started with Microsoft Data Analytics"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Graphic Designer"
+  ],
+  "industries": [
+    "Catering"
+  ],
+  "location": "Jakarta"
+}

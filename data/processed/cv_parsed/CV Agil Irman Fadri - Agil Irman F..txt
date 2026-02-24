@@ -1,0 +1,121 @@
+AGIL IRMAN FADRI
+Pekanbaru, Riau | agilirmanfadri@gmail.com |
+082345081228 | www.linkedin.com/in/agil-irman-fadri
+RINGKASAN
+Saya adalah seorang mahasiswa semester 6 jurusan Sistem Informasi dengan IPK 3,7.
+berfokus pada Data Science, Machine Learning, dan Analisis Data. Saya memiliki pengalaman
+dalam penelitian tentang Perbandingan Algoritma Supervised Learning untuk Memprediksi
+Kepuasan Penumpang Maskapai. Saya memiliki keterampilan dalam mengolah data
+menggunakan alat Microsoft, pemrograman Python, dan SQL. Saya aktif di berbagai organisasi,
+baik di dalam maupun di luar kampus, serta mengembangkan keterampilan dalam kerja sama
+tim, kepemimpinan, berbicara di depan umum, dan komunikasi.
+PENGALAMAN BEKERJA
+PT PRATAMA JAYA MANDIRI Pekanbaru, Riau
+Anak Gudang (Juni 2023 - Februari 2024)
+Bertanggung jawab atas penerimaan, penyimpanan, dan pengeluaran barang-barang sesuai
+dengan prosedur operasional gudang
+Melakukan pemeriksaan kualitas pada barang-barang yang masuk dan memastikan
+kecocokan dengan pesanan yang diberikan
+Mengatur dan melaksanakan proses packing barang untuk pengiriman, termasuk pemilihan
+kemasan yang sesuai.
+Memastikan kelancaran proses pengambilan pesanan dengan memilih barang yang sesuai
+dengan permintaan pelanggan dan memastikan ketepatan jumlah.
+PT RIAU MEDIA TELEVISI Pekanbaru, Riau
+Magang/Internship Asisten Tim Teknisi & IT ( Juli 2024 September 2024)
+Mengoptimalkan pencahayaan studio dengan memperbaiki jaringan lampu, sehingga
+program siaran langsung memiliki penerangan yang ideal sepanjang tayangan berlangsung.
+Memperbaiki PC karyawan bagian editing yang bermasalah agar dapat digunakan kembali
+secara maksimal.
+Memproses data pelamar kerja perusahaan menggunakan Excel.
+Membantu persiapan peralatan siaran langsung, termasuk sound audio, laptop, kabel, dan
+mixer video untuk acara penting di kantor DPRD Provinsi Riau dan kantor Gubernur Provinsi
+Riau.
+PROJECT
+SISTEM INFORMASI PERGUDANGAN BERBASIS WEB
+Sistem informasi Pergudangan Barang di PT Pratama Jaya Mandiri (Desember 2023)
+Menganalisa proses bisnis dan pengumpulan data
+Melakukan wawancara kepada pendiri PT Pratama Jaya Mandiri
+Membuat desain sistem seperti normalisasi data, use case, design dokumen, dan UI
+Membuat situs menggunakan HTML, CSS, dan bahasa pemograman PHP.
+Analisis Data Kepuasan Pengguna Website Menggunakan Metode System
+Usability Scale (SUS)
+Analisis data kepuasan pengguna website Riau Televisi Menggunakan metode SUS (System
+Usability Scale ( September 2024)
+Memproses 100 data survei kepuasan pengguna website Riau Televisi menggunakan Excel
+untuk analisis awal.
+Mengolah data tersebut menggunakan metode System Usability Scale (SUS) dengan
+perangkat lunak SPSS dan Microsoft Excel.
+Menganalisis hasil survei untuk mengukur tingkat kepuasan dan pengalaman pengguna
+secara kuantitatif.
+Membuat laporan hasil analisis data dan memberikan rekomendasi peningkatan berdasarkan
+hasil evaluasi metode SUS.
+Perbandingan Algoritma Supervised Learning untuk Memprediksi Kepuasan
+Penumpang Maskapai
+Data Mining (December 2024)
+Melakukan analisis menyeluruh terhadap dataset kepuasan penumpang maskapai (25,975
+data, 25 atribut) dengan menerapkan algoritma supervised learning untuk memprediksi
+kepuasan penumpang maskapai.
+Mengembangkan dan mengoptimalkan berbagai model machine learning, termasuk Support
+Vector Machine (SVM), Random Forest, Decision Tree, K-Nearest Neighbors (KNN), dan
+Nai ve Bayes, dengan performa terbaik menggunakan algoritma Random Forest (akurasi:
+95,78%, presisi: 95,83%, recall: 95,90%).
+Membangun pipeline machine learning secara end-to-end menggunakan Python dan Google
+Colab, mencakup pra-pemrosesan data, rekayasa fitur, implementasi model, dan evaluasi
+performa.
+Mempublikasikan hasil penelitian di jurnal nasional berbahasa inggris terindeks, dengan
+penelitian tersebut dapat menjadi panduan bagi perusahaan penerbangan dalam memilih
+pendekatan analisis yang efisien untuk meningkatkan kepuasan pelanggan.
+PENGALAMAN ORGANISASI
+Puzzle Research Data Technology - Pekanbaru, Riau
+Wakil Kepala Divisi Public Relation & Information (November 2024 Sekarang)
+Menjalin komunikasi antar divisi untuk memastikan koordinasi yang efektif dan mencegah
+kesalahpahaman.
+Mengelola informasi serta komunikasi dalam acara internal dan eksternal agar setiap tim
+memahami perannya.
+Mengembangkan desain kreatif, termasuk sertifikat apresiasi dan desain pernikahan untuk
+alumni sebagai bentuk penghormatan dari organisasi.
+Sistem Informasi Komite Acara Mahasiswa Pekanbaru, Riau
+Anggota dari Divisi KP (Kakak Pembina) Acara FORTASI (Forum Ta aruf Sistem Informasi)
+(Oktober 2023)
+Mendampingi dan membina adik-adik angkatan untuk mempersiapkan segala persiapan
+mereka selama Pra-Fortasi
+Mendampingi segala aktivitas mereka selama Pra-Fortasi dan saat acara Fortasi sedang
+berlangsung
+Ikatan Pelajar Muhammadiyah, SMA Muhammadiyah 1 Pekanbaru, Riau
+Anggota dari Seksi Perlengkapan Acara MUSYRAN (Musyawarah Ranting SMA Muhammdiyah
+1 Pekanbaru) (Oktober 2019)
+Bertanggung Jawab atas perlengkapan dan peralatan yang dibutuhkan untuk acara
+Menyusun rencana pembelian perlengkapan berdasarkan kebutuhan acara dan anggaran
+yang tersedia
+Anggota dari Divisi Advokasi Kepengurusan Organisasi IPM (November 2019 Maret 2020)
+Menjadi mediator atau penghubung untuk membantu menyelesaikan konflik pelajar yang ada
+di lingkungan sekolah dengan cara yang adil dan damai..
+Aktif berpartisipasi dalam kegiatan advokasi untuk mendukung hak dan kepentingan anggota
+organisasi.
+Remaja Masjid Baitul Alim Pekanbaru, Riau
+Ketua organisasi (Februari 2022 - Sekarang)
+Memimpin dan mengelola organisasi dengan anggota lebih dari 20 orang, termasuk rapat
+rutin, dengan bertujuan untuk meningkatkan kesadaran akan nilai-nilai Islam, dan pendidikan
+agama pada remaja dan anak-anak sekitar lingkungan Masjid.
+Memberikan dukungan dan bimbingan kepada anggota organisasi, serta bertindak sebagai
+mediator dalam menyelesaikan konflik internal organisasi.
+Bertanggung jawab atas koordinasi dan perencanaan acara-acara hari besar islam, seperti
+bulan Ramadan, Idul Fitri, dan peringatan-peringatan agama lainnya, dengan melibatkan
+kolaborasi dengan pengurus masjid, dan lembaga-lembaga terkait.
+Mengembangkan dan menjaga hubungan baik dengan tokoh-tokoh masyarakat dan
+masyarakat sekitar lingkungan masjid , serta memfasilitasi kunjungan kerja sama dengan
+jaringan remaja masjid dan mushola indonesia untuk meningkatkan keterlibatan dan
+dukungan organisasi.
+PENDIDIKAN
+UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM (2022 - Sekarang)
+Sarjana dalam Sistem Informasi, Fakultas Sains dan Teknologi, - IPK 3.7/4.00
+SERTIFIKASI
+Belajar Dasar Data Science (2024), Dicoding
+Belajar Dasar Structured Query Language (SQL) (2024), Dicoding
+Social Media Management (2023), Tempat Belajar
+SQL For Data Analyst (2023), MySkill
+Intro Data Science (2023), dibimbing.id
+KEMAMPUAN
+Soft Skills: Public Speaking, Manajemen Waktu, Problem-Solving, Decision-making, Analytic
+Thinking, dan Design
+Hard Skill: Ms. Office (Word, Excel, PowerPoint), Python Progamming, SQL,dan Canva

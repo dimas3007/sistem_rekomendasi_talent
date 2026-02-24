@@ -1,0 +1,43 @@
+{
+  "name": "Zaeef Alvin Maulana",
+  "email": "zaeefalvin09@gmail.com",
+  "phone": "+62-8199-8048-304",
+  "education_level": "D3",
+  "education_major": "Information Systems",
+  "university": "Universitas Pembangunan Nasional Veteran Jakarta",
+  "hard_skills": [
+    "HTML",
+    "PHP",
+    "CSS",
+    "Javascript",
+    "Python",
+    "UI/UX Designer",
+    "Design Graphic"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Teamwork",
+    "Problem Solving",
+    "Time Management",
+    "Communication",
+    "Adaptibility",
+    "Growth Mindset"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "IT Specialist Data Analytics",
+    "Junior Web Programmer",
+    "Product Management"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Administrator",
+    "Wordpress Developer"
+  ],
+  "industries": [],
+  "location": "Bekasi"
+}

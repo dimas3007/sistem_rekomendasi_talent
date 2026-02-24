@@ -1,0 +1,33 @@
+{
+  "name": "RAIHAN DAMARIS",
+  "email": "raihandamaris12@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatin System",
+  "university": "Indonesia Computer University",
+  "hard_skills": [
+    "Prototyping Tools",
+    "Interaction Design",
+    "Visual Design",
+    "Responsive Design"
+  ],
+  "soft_skills": [
+    "User Research",
+    "Accessibility",
+    "planning",
+    "creating",
+    "implementing",
+    "evaluating",
+    "leadership"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "BNSP Software Developer & Software Development Certification (Junior Web Programming)"
+  ],
+  "languages": [],
+  "job_titles": [
+    "UI/UX DESIGNER"
+  ],
+  "industries": [],
+  "location": "Bandung"
+}

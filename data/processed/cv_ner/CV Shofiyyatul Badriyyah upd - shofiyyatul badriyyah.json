@@ -1,0 +1,56 @@
+{
+  "name": "SHOFIYYATUL BADRIYYAH",
+  "email": "shofiyyatul42@gmail.com",
+  "phone": "+6285892352909",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "UPN Veteran Jawa Timur Surabaya",
+  "hard_skills": [
+    "UI/UX",
+    "SQL",
+    "MySQL",
+    "Microsoft SQL Server",
+    "Oracle",
+    "Python",
+    "Power BI",
+    "Pemrograman Kotlin",
+    "Android Studio",
+    "Cloud Computing"
+  ],
+  "soft_skills": [
+    "Business Analyst",
+    "Business Development",
+    "Analisis dan Desain Sistem",
+    "User Research",
+    "Human Capital",
+    "Human Development",
+    "Manajemen Proyek Teknologi",
+    "Kepemimpinan",
+    "Komunikasi",
+    "Manajemen Proyek",
+    "Digital Marketing",
+    "Personal Branding"
+  ],
+  "years_experience": 2.25,
+  "certifications": [
+    "Microsoft Office Specialist: Excel Associate",
+    "Microsoft Office Specialist: Excel Expert",
+    "IT Specialist: Databases",
+    "Introduction to Python",
+    "Data Analytics + Power BI"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI UX Designer",
+    "Web Designer",
+    "Sales & Marketing"
+  ],
+  "industries": [
+    "Technology",
+    "Education",
+    "Corporate"
+  ],
+  "location": "Bojonegoro"
+}

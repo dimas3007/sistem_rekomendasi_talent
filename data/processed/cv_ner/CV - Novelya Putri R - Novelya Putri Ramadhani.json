@@ -1,0 +1,51 @@
+{
+  "name": "Novelya Putri Ramadhani",
+  "email": "novelyaputrir@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Bandung Institute of Technology",
+  "hard_skills": [
+    "UI/UX Design",
+    "Wireframing",
+    "Prototyping",
+    "User Research",
+    "Usability Testing",
+    "Figma",
+    "Canva",
+    "JavaScript",
+    "ReactJS",
+    "React Native",
+    "HTML",
+    "CSS",
+    "TailwindCSS",
+    "Python",
+    "Java",
+    "C++",
+    "SQL",
+    "Docker",
+    "Firebase",
+    "Git",
+    "ROS (Robot Operating System)"
+  ],
+  "soft_skills": [
+    "critical thinking",
+    "problem-solving",
+    "design-thinking"
+  ],
+  "years_experience": 1.25,
+  "certifications": [],
+  "languages": [
+    "English"
+  ],
+  "job_titles": [
+    "Programming Assistant",
+    "Backend Engineer",
+    "Backend Engineer"
+  ],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "location": "Bandung"
+}

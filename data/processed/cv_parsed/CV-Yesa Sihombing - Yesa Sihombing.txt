@@ -1,0 +1,45 @@
+YESA SIHOMBING
++628882291603 | yesasihombing1@gmail.com | https://www.linkedin.com/in/yesa-sihombing
+Jl. Sukabirus no 82, Kabupaten Bandung, Dayeuhkolot, Jawa Barat, Indonesia
+As a final-year student who is still struggling to learn and increase his knowledge. I have a lot of knowledge in frontend developer and a
+little in backend developer. I started to use this knowledge in the world of lectures, as well as my internship experience in creating
+websites and applications. With the abilities that I have, I want to always contribute to the development of the existing world of technology
+along with my desire to improve my skills. I also really appreciate and believe in the learning process that I receive because it is the result
+of the efforts I make in improving my skills in the world of software engineering.
+Work Experiences
+Badan Pelaksana Otorita Danau Toba - Toba, Indonesia Jul 2024 - Aug 2024
+Internship/Frontend Developer
+Contribute to creating a website for managing data on tourist attractions at BPODT Caldera Resort use Codeigniter framework
+Contribute to creating a maps system for the BPODT Caldera Resort website to help tourists use Codeigniter framework
+Help check the UI/UX on the official BPODT website which still has several shortcomings
+Follow all official regulations and BPODT work systems as an intern in each division in accordance with the BPODT work calendar
+HUMIC (Human Centric) Engineering Research Center - Feb 2024 - Jun 2024
+Bandung, Indonesia
+Internship/Backend Developer
+Carrying out development of an IoT-based patient monitoring website project using the SCRUM group work system
+Contributed to building the backend system in a website development project called patient monitoring using the Laravel framework
+Become the first experience and know what an MQTT broker is in a real time data delivery system
+Education Level
+Universitas Telkom - Bandung, Indonesia Sep 2021 - Nov 2025 (Expected)
+Undergraduate Software Engineering, 3.43/4.00
+Get involved in campus organizations in launching an event and
+Get involved in campus lab research in developing IoT-based technology
+Senior High School, SMA Bintang Timur 1 Balige - Toba, Indonesia Jul 2018 - May 2021
+High School Diploma in Natural science, 87.40/100.00
+Contribute to following the existing learning process until graduate on time
+Participate in a school organization called SISPALA (Student Lovers of Nature)
+Organisational Experience
+PMK TES Telkom University - Weekly Worship Event (Bandung/Indonesia) Feb 2023 - Dec 2023
+Member of the Event Coordinator
+Contribute to creating the weekly worship agenda
+Served as a slider team in worship events
+Himpunan Mahasiswa S1 Rekayasa Perangkat Lunak Telkom University - SE Now Party event (Bandung, Dec 2022 - Jan
+Indonesia) 2023
+Member of the public relations division
+Assist the public relations team in inviting guests who will come to the SE Now Party event
+Coordinate in carrying out event preparations on site before the event starts
+Serve as a receptionist for guests arriving at the arrival gate
+Skills, Achievements & Other Experience
+Languange: Indonesian (Active), English (Passive)
+Soft Skills: Teamwork, Time management, Public speaking, Decision-making, Good Mediator
+Hard Skills: MySQL, MariaDB, Codeigniter, Laravel, HTML, CSS, React Js, DBeaver, PHPMyadmin, Python

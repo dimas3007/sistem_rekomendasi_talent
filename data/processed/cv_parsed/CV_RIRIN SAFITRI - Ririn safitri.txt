@@ -1,0 +1,258 @@
+RIRIN SAFITRI
+WEB DEVELOPER | WEB GIS | MAPPER
+ririnsaf14@gmail.com +6287853339921 (WhatsApp)
+https://github.com/Rinsaf14 https://ririn-portofolio.vercel.app
+https://www.linkedin.com/in/ririn-safitri-s-pd-08a8ba222/
+PROFILE
+Junior Website and WebGIS Developer with internship experience, involvement in projects, and over
+two years of self-learning.Skilled in developing full-stack websites using various technologies such as
+Codeigniter, Laravel, and Next.js. Additionally, I am proficient in database management with MySQL,
+MongoDB, and Firebase. In the WebGIS field, I have experience creating and developing map-based
+websites usingLeaflet, as wellasoperatingmappingsoftware like ArcGISandother relatedsoftware.
+Enthusiastic to continuously learn and adapt to new technologies, with the ability to work
+independentlyoraspartofateam.
+WORK EXPERIENCE
+Invaite.id|June November2024
+ITWebDeveloperIntern
+Assisted in slicing website designs into code that could be implemented to create an interactive
+onlineinvitationwebsite.
+Developed features for sending messages, leaving comments, and confirming attendance, all
+connectedtoareal-timedatabase.
+Used technologies such as HTML, CSS, JavaScript, CodeIgniter 3, Firebase, MySQL, and Filezilla in
+thedevelopmentproject.
+FreelancerWebDeveloper|August2024
+Bullyingreportingwebsite
+UsedtechnologiessuchasHTML,CSS,andJavaScriptinwebsitedevelopment.
+AddedacomplaintfeaturebyembeddingsocialmedialinksandGoogleFormstofacilitatestudents
+inreportingbullyingincidents.
+Providedinformationrelatedtobullyingcomplaintstoraiseawarenessamongstudentsandschool
+staff.
+Developedthewebsite,whichwashostedandreadyforusebytheschoolandstudents.
+FreelancerWebDeveloper|April2024
+Psychotestwebsite
+Helped in developing a psychological test website by converting test questions from paper to
+websiteformat.
+Addedlogicformultiple-choicequestionsaccordingtotherequiredformat.
+Focusedonthe developmentofthe CFIT (Cattell Culture FairIntelligenceTest)questionsectionon
+thewebsite.
+UsedtechnologiessuchasPHPNative,CSS,MySQL,andJavaScriptinwebsitedevelopment
+BerkahSuksesStore,Barru|January-December2024
+RetailAssistantandWebDeveloper
+Responsible for managing product availability, store operations, and cashier duties to ensure
+smoothsalesprocesses.
+Assistedinthedevelopmentofacashierwebsiteforthestore,whichincludesloginauthentication
+featuresforcashiersandadmins.
+Developed various menus on the website, including dashboard, user management, products,
+transactions,andreports.
+Used technologies such as Laravel 11, Livewire, and MySQL to build and develop the cashier
+website,whichisstillinthedevelopmentstage.
+FacultyofMathematicsandSciences,UniversitasNegeriMakassar,Makassar|2023 2024
+CoordinatoroftheEntrepreneurshipDivisionandWebDeveloper,FMIPAInternationalClassStudents
+ProgramforICPCommunity
+ManagedvariousactivitiestoenhanceEnglishlanguageskillsofstudentsintheFMIPAInternational
+ClassProgramatStateUniversityofMakassar,withdirectsupervisionfromthefaculty.
+Implemented programs such as English Day, mentoring, IELTS Prediction Test, international
+seminars,andotheractivitiestosupportthestudents'Englishlanguagedevelopment.
+Organizedentrepreneurshipprogramsthatprovideservicesandproductstohelpstudentsdevelop
+entrepreneurialskills.
+AssistedinthecreationanddevelopmentofthecommunitywebsiteusingReactJS,whichisstillin
+thedevelopmentstageandcustomizedtomeetthecommunity'sneeds.
+GeographyDepartment,UniversitasNegeriMakassar,Makassar|2021-2022
+GISTeachingAssistantandGeographyLabAssistant
+Assisted the lecturer in the Mapping and GIS course with various tasks, including teaching using
+educationalvideos.
+Helpedstudentscreatemapprojectsaspartofthecurriculum.
+Participatedinmappingtrainingandprovidedtechnicalsupporttostudentsduringthetraining.
+EDUCATION
+UniveristasNegeriMakassar,Makassar|2019-2023
+BachelorofGeographyEducation
+Teaching,Mapping,GeographicInformationSystem(GIS)
+PROJECT
+Laravel
+BerkahSuksesCashierWebsite(StoreProject)
+Technologies:Laravel11,Livewire,Sqlite
+Developed a cashier website with features including authentication, homepage, user
+management (CRUD for cashiers and admins), product management (CRUD), and transaction
+processing.
+Users can perform transactions, which include invoice details, items, total cost, payment, and
+change.
+Providedprintablesalesreportsthatareautomaticallyrecorded.
+Thewebsiteisstillinthedevelopmentstageandrequiresfurtherimprovementsforitsfeatures.
+CrudApplicationwihLaravel(PersonalProject)
+Technologies:Laravel11,MySQL
+BuiltaCRUDapplicationforstudentdatausingLaravel11andMySQL.
+Added authentication features (registration, login) with middleware to restrict access to
+authenticatedusersonly.
+PHP Native
+CRUDApplication(PersonalProject)
+Technologies:PHPNative,MySQL.
+CreatedaCRUDapplicationformanagingstudentdata(add,edit,delete).
+UsedPHPNativeandMySQLformanagingstudentdata(ID,firstname,lastname,age).
+PsycotestWebsite(FreelanceProject)
+Technologies:PHPNative,MySQL.
+Convertedquestiondatafrompaperintocode.
+Developed the user interface using HTML, CSS, and MySQL to display CFIT questions with four
+categories.
+Codeigniter
+Wedding Invitation Websites for Rizky & Putut, Donny & Sri, and Adzka & Andina (Internship
+Project)
+TechnologiesCodeigniter3,Filezilla,MySQL
+Developedweddinginvitationwebsiteswitharesponsivedesignaccordingtoclientrequests.
+Performeddesignslicingintocodeandaddedmotioneffectsforanattractivedisplay,aswellas
+aweddingcountdown.
+ProvidedanRSVPfeaturetoallowvisitorstosendmessagesorconfirmattendanceinreal-time.
+GuestbookApplication(PersonalProject)
+TechnologiesCodeigniter4,MySQL
+DevelopedaCRUDapplicationformanagingguestdata.
+DesignedtheMySQLdatabasewithtables:ID,visitdate,name,address,phone,andpurpose.
+UsedCodeIgniter4fortheMVCstructureandcreatingdatainputforms.
+WebGISWebsite(PersonalProject)
+TechnologiesCodeIgniter4,LeafletJS
+Developed a WebGIS to display an interactive map of the Parepare area with features such as
+ViewMap,BaseMap,Marker,Circle,Polyline,Polygon,andGeoJSON.
+ThebackendusesCodeIgniter4andMySQLfordatamanagement.
+ThisprojectisintendedasalearningprojectforWebGIS.
+WebGISforParepareHealthCenters(PersonalProject)
+TechnologiesCodeigniter4,MySQL,LeafletJS.
+Developed a website to display the distribution of health centers in Parepare using an
+interactivemapwithLeaflet.
+Provided CRUD features for managing health center data, allowing the addition of data and
+displayinglocationpointsonthemap.
+Theprojectisstillinthedevelopmentstage.
+Next JS dan React JS
+CRUDWebsite(PersonalProject)
+Technologies:NextJs,Tailwind,MongoDB,React,ReactIcons
+CreatedasimpleCRUDapplicationusingNext.jsconnectedtoaMongoDBdatabase.
+BlogWebsite(PersonalProject)
+Teknologi:NextJs,Axios,MongoDB,Reactjs,ReactToastify,TailwindCSS
+Developedablogwebsitewithfull-stackCRUDfeaturesformanagingblogsusingNext.js.
+Users can view all published blogs, while the admincan add new blogs, view a list of published
+blogs,andseesubscriptionssubmittedbyusers.
+Thewebsiteisstillinthedevelopmentstage,andauthenticationisnotyetimplemented.
+FMIPAInternationalStudentCommunityWebsite(CommunityProject)
+TechnologiesReactJS,TailwindCSS,ReactHooks,Web3Form,Varcel
+Developed a responsive community website with pages such as Home, Programs, About Us,
+Campus,Testimonials,andContactUs.
+The "Contact Us" feature allows users to send messages that are forwarded to the admin's
+address.
+UsedReactJS,TailwindCSS,andWeb3Formforformmanagementandresponsivedesign.
+GeographyQuizWebsite(PersonalProject)
+TechnologiesReactJS,Tailwind,ReactHooks
+DevelopedageographyquizwebsitewithquestionsstoredinaJSONfile.
+Provided a start button to begin the game and navigation features for questions (next,
+previous).
+Displayed5questionswith4answerchoices,andafinishbuttontoshowthefinalscore.
+Areviewfeatureisavailabletochecktheanswersthatwereselected.
+RealEstateWebsite(PersonalProject)
+TechnologiesReactJS,ReactHooks,Tailwind,ReactToastify
+Developed arealestate website displayinghousesales informationwith pages includingHome,
+About,CompletedProjects(scrolling),CustomerTestimonials,ContactUs,andFooter.
+The"ContactUs"featureallowsuserstosendmessagesdirectlytotheadmin'semail.
+NetflixCloneWebsite(PersonalProject)
+TechnologiesReactJS,CSSNative,FirebaseDatabase,ReactHooks,ReactToastify,TMDbAPI
+DevelopedaNetflixcloneformoviesearchusingtheTMDbAPI.
+ProvidedloginandregistrationfeatureswithFirebaseauthenticationtostoreuserdata.
+Users can select movies based on categories such as Blockbuster Movies, Only on Netflix,
+Upcoming,andTopPicksforYou.
+WeatherWebsite(PersonalProject)
+TechnologiesReactJS,ReactHooks,Tailwind,OpenWeatherMapAPI
+Developed a weather website using data from the Open Weather Map API by fetching data
+throughuseEffect.
+Provided a location search feature that displays weather information such as temperature,
+precipitation,rainfall,humidity,andwindspeed.
+BlogWebsite(PersonalProject)
+TechnologiesReactJS,ReactHooks,ReactRouterDOM,ReactRedux.
+Developedablogwebsitewithfull-stackCRUDfeaturesforblogmanagement.
+Provided features such as All Posts, Add New, and Preview to view blogs with statuses like
+published,draft,andtrashed.
+Userscanaddnewblogsandpreviewpublishedblogs.
+Thewebsiteisstillinthedevelopmentstage.
+Node JS and Express Js
+FullstackCRUDApplication(PersonalProject)
+TechnologiesNodeJS,Express,ReactJSandMySQL
+Developed afullstack CRUD applicationtomanage user data (id, name,email,gender) withthe
+frontendusingReact.jsandthebackendusingNode.jsandExpress.js.
+UsedMySQLasthedatabasetostoreandmanipulateuserdata.
+CreatedaRESTfulAPIforefficientadd,edit,anddeleteoperationsondata.
+HTML, CSS, Java Script
+BullyingComplaintWebsite(FreelanceProject)
+TechnologiesHTML,CSS,JavaScript
+Developed a website with a Complaint feature linked to Google Forms and a Contact feature
+connectinguserstotheadminviaWhatsApp.
+Providededucationalinformationaboutbullyingtoraiseuserawareness.
+Builtaresponsiveanduser-friendlyinterfaceusingHTML,CSS,andJavaScript.
+PortfolioWebsite(PersonalProject)
+TechnologiesHTML,CSS,JavaScript
+Created a simple portfolio website with pages for Home, Skills, Portfolio, Experience, and
+Contact.Itincludeshovereffectsoncardsformoreengaginginteractivity.
+Mapping and Geographic Information System (GIS)
+Technologies: ArcGIS, ArcGIS Pro, Google Earth Pro, Landsat Satellite, Seadas, Sas Planet Satellite,
+Metashape,FaststonePhotoResizerforDronePhotos,andArcpy(PythonforArcGIS).
+PemetaanMenggunakan Teknologi drone Fakultas Agrokompleks Kota Makassar Provinsi Sulawesi
+Selatan yang menghasilkan output yaitu Peta Kawasan Terbangun dan Tidak Terbangun, Peta
+IndikatifKesesuaianRuang,danPetaIndikatifKeterlanjutanRuangTahun2020.
+Mapping Using Drone Technology: Faculty of Agrocomplex, Makassar City, South Sulawesi
+Province,resultinginoutputsincludingBuiltandUnbuiltAreaMaps,IndicativeSpatialSuitability
+Map,andIndicativeSpatialSustainabilityMapfortheyear2020.
+Drone Mapping of MAN 1 Makassar City in 2021 as part of community service, resulting in an
+Orthophotomap.
+Mapping Using Shapefile (SHP) Data related to land resource utilization in Bojo Baru Village,
+BarruDistrict.
+LandUseMappinginManggalaDistrict,MakassarCity,from2017to2022.
+Seismicity Mapping of East Nusa Tenggara Province and Surroundings for the period of
+December1,2021,toDecember20,2021,producingearthquakerecords.
+MappingEconomicInfrastructureandRecreation&EntertainmentFacilitiesinMakassarCity.
+RoadNetworkMappinginRappociniDistrict,MakassarCity.
+Public Awareness Mapping for Environmental Care in the Tongke-Tongke Mangrove
+Conservation Area, Sinjai District, along with a map of government agency distribution in the
+area.
+Research Location Mapping in several villages and districts across South Sulawesi, including
+Sinyonyoi Village (Mamuju), Poreang Village (North Luwu), Pinrang District, Galesong Utara
+District(Takalar),PolewaliMandar,DantePineTouristSite(Enrekang),MAN1Sinjai,Maharayya
+Village(Selayar),andothers.
+Mapping and Catalog Creation for Parangbaddo Village, including maps such as Road Network
+Map, Administrative Map, Geological Map, Infrastructure Map, Slope Map, Built and Unbuilt
+LandMap,LandUseMap,GroundwaterPotentialMap,andSoilTypeMap.
+MappingofInfrastructureandTeachingAssistanceLocationatSMANegeri6Takalar.
+PopulationDensityMappingofParepareCity.
+Administrative Maps for Bacukiki Barat District, Parepare City, Yogyakarta Special Region,
+Bantilang Village (Luwu Timur), Bulukumba District, North Toraja, Je nemadinging Village
+(Gowa),andothers.
+Tourism Object Mapping in Polewali Mandar District, resulting in various maps including River
+Tourism Object Distribution Map, River Tourism Accessibility Map, River Tourism Amenities
+Map, River Tourism Attractions Map, and River Tourism Object Distribution Map in Binuang
+District.
+LandTypeMappingofMalimpungVillage(Pinrang).
+FinalDisposalSite(TPA)MappinginPabentangangVillage(Gowa).
+MappingofTourismInfrastructureatBuluLancengTouristSite,SinjaiDistrict.
+MappingofSmallVendorDistributioninMarioriawaDistrict,Soppeng.
+MappingofIndigenousCommunitiesinSouthSulawesiProvince.
+FishingZoneMappingforTunainBarruWatersfrom2019to2021.
+SERTIFICATE
+ParticipantsoftheBasicFigmaClassontheDigitalCourseplatformin2023.
+ParticipantsoftheBasicWordPressClassontheDigitalCourseplatformin2023.
+Participantsofthe BasicLevelDroneMappingTrainingheldonJune 24-25,2020,organizedbythe
+PapuaMappingCenterandIndonesiaMappingCommunity.
+ParticipantsoftheAdvancedLevelDroneMappingTrainingheldonJuly 02-07,2020,organized by
+thePapuaMappingCenterandIndonesiaMappingCommunity.
+ParticipantsoftheAdvancedLevelIIDroneMappingTrainingheldfromJuly22toAugust01,2020,
+organizedbythePapuaMappingCenterandIndonesiaMappingCommunity.
+Participants of LANDFORM (Online Training Drone for Mapping): Strategies for Utilizing UAVs
+(Drones) as a Tool for Cartographic Mapping, organized by the Student Executive Board of the
+FacultyofGeography,MuhammadiyahUniversityofSurakarta,inSurakartaonAugust20-25,2020.
+OTHER SKILLS
+Participant in the ASEAN Geospatial Challenge 2023, representing Makassar State University, held
+by the Singapore Land Authority, the Geospatial Information Agency (BIG), and the National
+MappingandResourceInformationAuthorityofthePhilippines.
+1st Place Winner in the National Video Speech Competition at the International Relations
+Competition held on January 7, 2023, at the University of Darussalam Gontor Female Campus,
+Ngawi,EastJava,Indonesia.
+1st Best Graduate from the Faculty of Mathematics and Science, Universitas Negeri Makassar, for
+the August 2023 graduationperiod.Best Graduateforthe August graduationperiodwitha GPAof
+3.9andastudyperiodof3yearsand10months.
+2ndPlaceWinner inthe VlogCompetitioncategoryatthe National EnglishFair2021,organized by
+theEnglishStudentAssociationofSTKIPPGRITrenggalek.
+3rdPlaceWinner intheSpace Storytelling Competitionwiththetheme Inspirational Story atthe
+NationalEnglishFair2021,organizedbytheEnglishStudentAssociationofSTKIPPGRITrenggalek.
+Presenter at the International Conference on Geoscience, Environment, and Education (ICGEE
+2022).

@@ -1,0 +1,50 @@
+{
+  "name": "PUTRI INTAN OCTAVIA BR SIPAYUNG",
+  "email": "putriintanss12@gmail.com",
+  "phone": "+6281319522067",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Universitas Pembangunan Nasional Veteran East Java",
+  "hard_skills": [
+    "Python",
+    "SQL",
+    "Google Colab",
+    "Microsoft Excel",
+    "Tableau",
+    "Looker Studio",
+    "Canva",
+    "Draw.io",
+    "Power Point",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Problem-solving",
+    "Decision-making",
+    "Adaptability",
+    "Flexibility",
+    "Team Collaboration"
+  ],
+  "years_experience": 0.33,
+  "certifications": [
+    "Machine Learning Specialization, Coursera",
+    "Start Programming with Python (2024), Dicoding",
+    "Learn Data Visualization (2024), Dicoding",
+    "Introduction to Data Science with R (2024), DQLab",
+    "Machine Learning for Beginners (2024), Python Fundamental with Data Science (2024), Dicoding DQLab",
+    "DeepLearning.AI TensorFlow Developer",
+    "Fundamental SQL using Select Statement Coursera (2024), DQLab"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "job_titles": [],
+  "industries": [
+    "Machine Learning",
+    "Cloud Computing",
+    "Mobile Development",
+    "UI/UX Design",
+    "Artificial Intelligence"
+  ],
+  "location": "Surabaya"
+}

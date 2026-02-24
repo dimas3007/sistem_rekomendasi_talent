@@ -1,0 +1,80 @@
+SETO HERLAMBANG
+Yogyakarta | +62 87875947039 | seto.herlambang.23@gmail.com
+PROFIL
+Lulusan S1 Informatika dengan minat di bidang UI/UX Design. Memiliki pengalaman dalam
+merancang antarmuka pengguna dan pengalaman pengguna yang responsif dan user-friendly
+melalui berbagai proyek, baik dalam lingkungan magang maupun proyek tugas akhir. Mampu
+bekerja sama dalam tim untuk menggabungkan kebutuhan teknis dan tampilan desain yang
+menarik. Memiliki kemampuan komunikasi yang baik dan pengalaman dalam presentasi hasil
+desain kepada berbagai pihak terkait.
+PENDIDIKAN
+Universitas Atma Jaya Yogyakarta Yogyakarta
+S1 Informatika 2020 2024
+IPK: 3.52/4.00
+Designer UI Website CSR Kabupaten Bantul
+Divisi Keamanan Jamming Sikma: Mana Tahan 2.0
+Divisi Acara Pameran KKN 83 Universitas Atma Jaya Yogyakarta
+PENGALAMAN KERJA
+Dinas Komunikasi dan Informatika Kabupaten Bantul
+Desainer UI Website CSR (Magang) Januari Februari 2024
+Merancang desain antarmuka pengguna (UI) untuk website Corporate Social
+Responsibility (CSR).
+Menyusun laporan mingguan dan mempresentasikan perkembangan desain kepada tim dan
+pihak terkait
+Bekerja sama dengan tim untuk mengintegerasikan kebutuhan teknis dan estetika dalam
+desain
+PENGALAMAN PRAKTIKUM DAN PROYEK
+Redesign UI/UX Website SMA Negeri 2 Banguntapan
+Proyek ini merupakan bagian dari Tugas Akhir untuk memperbaiki desain antarmuka dan
+pengalaman pengguna untuk memenuhi kebutuhan pengguna. Pada proyek ini juga dilakukan
+pengujian dengan melibatkan siswa-siswi SMA Negeri 2 Banguntapan sebagai pengguna
+website tersebut.
+Pengembangan Web
+Praktikum ini melibatkan pengembangan situs web atau aplikasi web. Saya belajar tentang
+teknologi web seperti HTML, CSS, JavaScript, serta penggunaan kerangka kerja seperti
+Laravel, dan Vue.js. Proyek yang telah terselesaikan pada praktikum ini adalah pembuatan
+website perpustakaan dan EBook.
+Pengembangan Aplikasi Mobile
+Praktikum ini berfokus pada pengembangan aplikasi mobile untuk platform Android, termasuk
+penggunaan bahasa pemrograman seperti Kotlin (untuk Android). Proyek yang telah
+terselesaikan pada praktikum ini adalah pembuatan aplikasi mobile lowongan kerja. Software
+yang digunakan pada praktikum ini adalah Android Studio.
+Praktikum Jaringan Komputer
+Praktikum jaringan komputer untuk memahami konsep dasar jaringan, konfigurasi perangkat
+keras dan perangkat lunak jaringan, serta manajemen keamanan jaringan.
+Pengelolaan Basis Data
+Pengalaman praktikum dalam manajemen basis data mencakup merancang dan mengelola basis
+data, melakukan pemeliharaan, dan mengoptimalkan kinerja database.
+Pengolahan Citra Digital
+Mempelajari dan menerapkan teknik-teknik untuk memproses dan menganalisis citra digital.
+pengalaman pratikum dalam pengolahan citra digital ini mencakup prapemrosesan, segmentasi,
+ekstraksi fitur, pengenalan pola, dan aplikasi praktis dengan menggunakan Software Matlab.
+PENGALAMAN ORGANISASI
+Panitia Pameran KKN 83 Universitas Atma Jaya Yogyakarta
+Divisi Acara Agustus 2023
+Mengelola jadwal acara dan logistik untuk memastikan keberhasilan acara
+Berkoordinasi dengan pembicara dan peserta untuk kelancaran acara
+Mengawasi anggaran acara dan memberikan laporan keuangan
+Panitia Jamming Sikma: Mana Tahan 2.0
+Divisi Keamanan Agustus 2022
+Mengawasi keamanan acara, termasuk mengatur lalu lintas peserta dan pemeriksaan tiket
+Berkoordinasi dengan pihak keamanan eksternal untuk menjaga keselamatan
+Memastikan peserta mematuhi aturan dan tata tertib acara
+KEMAMPUAN
+Kemampuan Teknikal
+UI/UX Design (Figma)
+Mampu mengoperasionalkan perangkat Figma dengan baik dan mampu merancang desain
+antarmuka pengguna yang konsisten, responsif dan estetis untuk website dan mobile, serta
+terampil dalam merancang pengalaman pengguna yang optimal dengan memperhatikan
+alur navigasi, kemudahan penggunaan, dan keterlibatan pengguna
+Kemampuan Personal
+Komunikasi
+Kemampuan komunikasi yang efektif dalam berinteraksi dengan pengguna dan tim untuk
+mrnghasilkan solusi yang sesuai
+Manajemen waktu
+Memiliki kemampuan yang efisien dalam menyelesaikan tugas sesuai target
+Adaptasi Teknologi
+Mampu beradaptasi dengan perangkat lunak pendukung pekerjaan
+PORTOFOLIO
+Link Portofolio
+https://bit.ly/PortofolioSetoHerlambang

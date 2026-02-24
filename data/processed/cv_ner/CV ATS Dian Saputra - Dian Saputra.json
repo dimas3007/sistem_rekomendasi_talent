@@ -1,0 +1,46 @@
+{
+  "name": "Dian Saputra",
+  "email": "dayensptr@gmail.com",
+  "phone": "+6289607567909",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "Universitas Islam Negeri Sunan Gunung Djati Bandung",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Maze",
+    "Useberry",
+    "PHP",
+    "Laravel",
+    "MySQL",
+    "HTML/CSS",
+    "Bootstrap",
+    "JavaScript",
+    "Android Studio",
+    "Kotlin"
+  ],
+  "soft_skills": [],
+  "years_experience": 1.58,
+  "certifications": [
+    "Google Play Store Listing Certificate by Google Play Academy",
+    "Belajar Pengembangan Aplikasi Android Intermediate by Dicoding Indonesia",
+    "Belajar Fundamental Aplikasi Android by Dicoding Indonesia",
+    "Belajar Dasar Visualisasi Data by Dicoding Indonesia",
+    "Belajar Dasar Pemrograman JavaScript by Dicoding Indonesia",
+    "Belajar Dasar UX Design by Dicoding Indonesia"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Sunda",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Mentor",
+    "UI Designer",
+    "Mobile Developer",
+    "Staff RnD - UI/UX Designer",
+    "Mentor"
+  ],
+  "industries": [],
+  "location": "Ciamis"
+}

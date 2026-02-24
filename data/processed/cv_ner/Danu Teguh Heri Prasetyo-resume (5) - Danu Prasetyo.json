@@ -1,0 +1,46 @@
+{
+  "name": "Danu Teguh Heri Prasetyo",
+  "email": "danuprasetyo418@gmail.com",
+  "phone": "+6282140944922",
+  "education_level": "D3",
+  "education_major": "Manajemen Informatika",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "Web Developer",
+    "UI/UX Designer",
+    "Grafis Desain",
+    "Editing Video",
+    "Microsoft Office",
+    "Jaringan Komputer"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Kerja Sama",
+    "Kemampuan Belajar Cepat",
+    "Analisis Masalah yang Baik",
+    "Adaptasi terhadap Teknologi Baru",
+    "Pemecahan Masalah",
+    "Adaptasi",
+    "Berpikir Kritis",
+    "Kreativitas"
+  ],
+  "years_experience": 0.58,
+  "certifications": [
+    "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+    "MI FEST Pelatihan Wordpress",
+    "MI FEST Workshop UI/UX"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Studi Independen Developer Game VR",
+    "Internship Administrator Website",
+    "Internship Desain Grafis"
+  ],
+  "industries": [
+    "Technology",
+    "Printing"
+  ],
+  "location": "Surabaya"
+}

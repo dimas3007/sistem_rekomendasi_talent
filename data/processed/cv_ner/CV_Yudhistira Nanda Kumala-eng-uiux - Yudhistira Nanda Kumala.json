@@ -1,0 +1,60 @@
+{
+  "name": "YUDHISTIRA NANDA KUMALA",
+  "email": "yudhistiranandakumala@gmail.com",
+  "phone": "+6282139823351",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Pembangunan Nasional \"Veteran\" Jawa Timur",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "Cloud Computing",
+    "DevOps",
+    "UI/UX Design",
+    "Video Editing"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Problem Solving",
+    "Time Management",
+    "Adapting to Technology"
+  ],
+  "years_experience": 4.33,
+  "certifications": [
+    "Basic HTML",
+    "Basic CSS",
+    "Basic JavaScript",
+    "Basic Backend",
+    "Learn to Apply Machine Learning with Google Cloud",
+    "Become a Google Cloud Engineer",
+    "Fundamental UI-UX Design",
+    "UX Design, Research & Writing",
+    "Wireframe",
+    "Introduction Figma",
+    "Basic Design Visual Mock-up",
+    "High Fidelity-Prototype",
+    "Career Class Preparation",
+    "Artificial Intelligence Introduction",
+    "Maximizing the Use of AI Tools",
+    "Maximizing the Use of ChatGPT",
+    "Note-Taking Using AI",
+    "AI for Software Engineer"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Design Layout & Production Operator",
+    "Instructor",
+    "Content Creator"
+  ],
+  "industries": [
+    "Printing",
+    "Education",
+    "Social Media"
+  ],
+  "location": null
+}

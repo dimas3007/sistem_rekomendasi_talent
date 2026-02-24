@@ -1,0 +1,54 @@
+{
+  "name": "Fitria Novyanti Taufik",
+  "email": "fitrianovyaufik@gmail.com",
+  "phone": "+62 896-5583-6298",
+  "education_level": null,
+  "education_major": "Informatics",
+  "university": "Universitas Singaperbangsa Karawang",
+  "hard_skills": [
+    "Javascript",
+    "PHP",
+    "Microsoft Office",
+    "Google Workspace",
+    "Cloud Computing Concepts",
+    "Product Development",
+    "Technical Documentation",
+    "Backend Development",
+    "Git",
+    "GitHub"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Problem Solving",
+    "Team Work",
+    "Adaptability",
+    "Time Management"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "ASEAN Data Science Explorers 2024 Enablement Session SAP Analytics Cloud and SAP Build Apps Online Training Session",
+    "Alibaba Cloud Certified Developer",
+    "Coogle Cloud Computing Foundations Certificate",
+    "Menjadi Google Cloud Engineer by Dicoding",
+    "Belajar Penerapan Machine Learning dengan Google Cloud by Dicoding",
+    "Data Analytics certified online course offered by RevoU",
+    "Financial Reports Analysis and Audit by MySkill",
+    "Network Administrator Muda (Junior Network Administrator) - Okupasi by BPPTIK",
+    "Pengembang Web Pratama (Junior Web Developer) - Okupasi by BPPTIK",
+    "Training Women in Technology: Python for Business by Puslitbang SDP31"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Treasurer of HIMTIKA",
+    "Vice Treasurer of HIMTIKA",
+    "Peer Mentor"
+  ],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "location": "Karawang"
+}

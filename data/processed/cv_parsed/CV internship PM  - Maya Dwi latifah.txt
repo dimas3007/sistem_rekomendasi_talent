@@ -1,0 +1,78 @@
+MAYA DWI LATIFAH
+085814717514 | mdwilatifah@gmail.com | https://bit.ly/linkedin_MayaDwiLatifah | https://bit.ly/_portofolio_maya
+JL. Budi Swadaya Kebon Jeruk, Jakarta Barat
+Information Systems student with a strong foundation in Product Management, experienced in feature prioritization, product roadmap
+planning, and market research. Skilled in analyzing user data using SQL, Google Analytics, and Excel to drive data-informed product
+decisions. Passionate about building user-centric digital solutions through cross-functional collaboration with engineering, design, and
+business teams.
+Work Experiences
+ID/X PARTNERS - Indonesia Apr 2024 - May 2024
+Project - Based Intern: Data Scientist Virtual Internship Experience ID/X
+Partners | Virtual internship
+A virtual internship as a Data Scientist at ID/X Partners
+Analyzed and managed loan eligibility data using Python and Pandas to generate insights that support strategic decision-making.
+Examined 39,833 client records, improving the accuracy of credit risk evaluation and loan decision-making.
+Utilized data analytics to provide insights for product improvements, influencing feature prioritization and risk assessment strategies.
+Collaborated with cross-functional teams to refine loan evaluation processes, improving efficiency by 15%.
+PT. INDUSTRI TELEKOMUNIKASI INDONESIA - Indonesia Sep 2021 - Dec 2021
+Hardware Engineer | Internship
+A state-owned enterprise specializing in the production of telecommunications equipment.
+Improved data accuracy and operational efficiency by maintaining structured data input and reporting.
+Conducted functionality testing and troubleshooting using IP addresses, leading to a 70% improvement in device performance.
+Managed and labeled over 30 ONT devices, optimizing product tracking and logistics.
+.
+Education
+Universitas Bina Sarana Informatika - Jakarta, Indonesia Sep 2022 - Sep 2026 (Expected)
+Mahasiswa in information Systems, 3.96/4.00
+Project : UI for a student boarding house application., UI/UX for a website selling rice, UI for a laundry website, UI/UX for a distribution
+sales website (e.g., crackers), Analyzing using the C4.5 decision tree algorithm to determine the pass or fail status of a subject in
+Aljazair, Developed ERP Sales Information System for PT Surya Inti Aneka Pangan, optimizing inventory and order management.
+SMK Telkom Sandhy Putra Jakarta - Jakarta, indonesia Jul 2019 - Jul 2022
+Student in Teknik Jaringan Akses Telekomunikasi
+Project Experiences
+UI/UX Designer for a rice-selling website agen sri rizki Cengkareng, West Jakarta
+Course : interaksi manusia dan komputer (IMK) | https://bit.ly/PortofolioIMK
+Understand the principles of optimizing applications for high performance and scalability.
+Created consistent desktop visual elements aligned with the branding of Agen Sri Rizki, including color selection, typography,
+and iconography.
+Conducted user interviews and surveys to gather insights on user needs and pain points.
+Collaborated with the development team to ensure design implementation met UX standards.
+This project demonstrated my ability to translate user needs into user friendly and effective designs.
+Enterprise Resource Planning (ERP) Design of Sales Information System at PT Surya Inti Aneka Pangan (SIAP)
+Course : Enterprise Resource Planning (ERP) | https://bit.ly/LaporanERP
+Analyzed sales workflows to identify inefficiencies and areas for improvement using ERP principles.
+Developed an integrated system design to manage orders, inventory, and invoicing for streamlined sales operations.
+Conducted requirement analysis with key stakeholders to align the system with business needs and objectives.
+Collaborated with the development team to implement features ensuring reliability, scalability, and ease of use.
+Tested and validated the system, ensuring its functionality and effectiveness in real-world scenarios.
+Data scientist virtual internship experience ID/X partners | https://bit.ly/portofolioHasil
+Collected, cleaned, and analyzed large datasets to identify patterns and trends relevant to business goals using tools like Google
+Colaboratory, Looker Studio, and Tableau.
+Developed predictive models using machine learning techniques to enhance operational efficiency.
+Prepared comprehensive data reports and created effective visual presentations to simplify understanding for stakeholders.
+Organizational Experience
+Himpunan Mahasiswa Sistem Informasi - Jakarta Sep 2022 Sep 2023
+Education Division
+Fully responsible for designing, managing, and evaluating all forms of collaboration, both with external and internal organiz ational
+parties.
+Managed internal and external collaborations to ensure synergy in implementing organizational programs and activities.
+Conducted event agenda briefings to various stakeholders, including committee members, within one week.
+Guided and assisted participants during events by providing clear directions.
+Developed a comprehensive work plan covering event details, objectives, and implementation strategies.
+Skills and Certifications
+Hard Skills : Data Analytics dan alat visualisasi (spreadsheet, looker studio, google colaboratory, tableau, Power BI), Microsoft Office
+(microsoft word, microsoft excel, microsoft power point), Google form, Jira, UI/UX Designer (Figma, Adobe photoshop, Ilustration,
+Canva), UX Writing, Draw.io, flowchart, User Testing, Prototyping, Workflow Management, Responsive Design, Wireframing, SQL,
+rapid manner, Alat Pemrograman (Vscode, Github)
+Soft Skills : Communication Skills, Teamwork and collaboration, Problem-solving and decision-making, Creativity and innovation
+(user-centered design thinking), Attention to detail, Adaptability and critical thinking, Data visualization skills, Technical proficiency
+(Figma, Tableau, Power BI), Understanding of data privacy standards, Analytical thinking, Time management, Conflict resolution,
+Detail-Oriented, Curiosity, Initiative, Technical Writing Skills, Project Management skill
+Course (2024): Dasar data scientist - Dicoding
+Course (2024): Belajar Dasar Structured Query Language (SQL) - Dicoding
+Course (2024): Mini Course - Data Analyst Revou
+Course (2024): Fundamental Data Analysis - MySkill
+Certificate (2024): IT Bootcamp Software Development
+Course (2023): Fundamental SQL Using SELECT Statement - DQLab
+Certificate (2023): Preinexus Uji Profisiensi Basis Data
+Certificate (2020): Sertificate Kompetensi Rangkaian Instalasi Telecom Distribution Technologi

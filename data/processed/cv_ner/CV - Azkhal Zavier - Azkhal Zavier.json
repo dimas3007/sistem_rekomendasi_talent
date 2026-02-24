@@ -1,0 +1,72 @@
+{
+  "name": "Azkhal Zavier",
+  "email": "azkalzavier@gmail.com",
+  "phone": "+62 81290475081",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Gunadarma University",
+  "hard_skills": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap 5",
+    "Tailwind CSS",
+    "Javascript",
+    "PHP",
+    "Reactjs",
+    "Nextjs",
+    "Dart",
+    "Flutter",
+    "SQL",
+    "Web Design",
+    "Front-End Engineer",
+    "Version Control/Git",
+    "Front-End Frameworks",
+    "UX Research",
+    "UI Design",
+    "Slicing UI",
+    "Project Management",
+    "Figma",
+    "Canva",
+    "Github",
+    "Visual Studio Code",
+    "Notepad++",
+    "Wordpress"
+  ],
+  "soft_skills": [
+    "Collaborative",
+    "Communicative",
+    "Teamwork",
+    "User Empathy",
+    "Problem Solving",
+    "Time Management",
+    "Analytical Thinking",
+    "Critical Thinking",
+    "Continuous learning",
+    "Receptiveness to Feedback"
+  ],
+  "years_experience": 0.58,
+  "certifications": [
+    "Workshop Basic Web Development by Dunia Coding",
+    "Workshop Front End Developer by Dunia Coding",
+    "Belajar Dasar Pemrograman Web by Dicoding Academy",
+    "Belajar Dasar Pemrograman JavaScript by Dicoding Academy",
+    "Belajar Membuat Front-End Web untuk Pemula by Dicoding Academy",
+    "HTML Dasar (Gold) by Skilvul",
+    "CSS Dasar (Gold) by Skilvul",
+    "Fundamental Course Software Engineering by RevoU",
+    "Certified Developer by Alibaba Cloud",
+    "Sertifikat Kelas Belajar Dasar HTML by CODEPOLITAN",
+    "Sertifikat Kelas Belajar Dasar CSS by CODEPOLITAN",
+    "Sertifikat Kelas Belajar Bootstrap by CODEPOLITAN"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Tax Center Assistant IT Team"
+  ],
+  "industries": [
+    "IT"
+  ],
+  "location": "Depok"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Muhammad Iqmal",
+  "email": "iqmalsatria4@gmail.com",
+  "phone": "+62895373640260",
+  "education_level": "S1",
+  "education_major": "Industrian Engineering",
+  "university": "Sekolah Tinggi Teknologi Bandung",
+  "hard_skills": [
+    "MS Office",
+    "Dheet/Excel",
+    "Figma",
+    "Trello",
+    "Maze/Useberry",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Design Thinking",
+    "Agile Scrum",
+    "Communication",
+    "Problem Solving",
+    "Critical Thinking",
+    "Content Writer",
+    "Adaptation"
+  ],
+  "years_experience": 1.75,
+  "certifications": [
+    "Product Management Certification Binar Academy",
+    "Project Management Coursera",
+    "Digital Journalism Talenthub",
+    "Researcher Widya SEI",
+    "Scrum Master Myskill",
+    "UX Researcher Myskill"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Ads Quality Rater",
+    "UX Researcher",
+    "Researcher"
+  ],
+  "industries": [
+    "EdTech"
+  ],
+  "location": "Kuningan, Jawa Barat"
+}

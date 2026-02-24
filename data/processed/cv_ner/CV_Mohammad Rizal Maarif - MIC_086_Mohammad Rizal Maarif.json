@@ -1,0 +1,45 @@
+{
+  "name": "Mohammad Rizal Maarif",
+  "email": "mohammadrizal.22086@mhs.unesa.ac.id",
+  "phone": "+628135980392",
+  "education_level": "D4",
+  "education_major": "Manajemen Informatika",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "Microsoft Office",
+    "Google Docs",
+    "Figma",
+    "Draw io",
+    "Adobe Illustrator",
+    "Canva",
+    "VSCode"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Penyusunan laporan",
+    "Manajemen proyek dan tim",
+    "Penyelesaian masalah",
+    "Kepemimpinan"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Adobe Certified Professional",
+    "Intuit Certifications",
+    "Pelatihan Kewirausahaan",
+    "Bootcamp UI/UX Design",
+    "LKMM-TD",
+    "MSIB Kampus Merdeka Batch 7",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Staff dana dan usaha",
+    "Staff Kominfo",
+    "Penanggung-jawab Kelompok"
+  ],
+  "industries": [],
+  "location": "Kediri"
+}

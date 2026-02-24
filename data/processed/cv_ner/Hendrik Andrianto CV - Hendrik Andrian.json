@@ -1,0 +1,45 @@
+{
+  "name": "Hendrik Andrianto",
+  "email": "hendrikandrian11@gmail.com",
+  "phone": "+62 851 7241 2731",
+  "education_level": "S1",
+  "education_major": "Accounting",
+  "university": "Gadjah Mada University",
+  "hard_skills": [
+    "MS Office",
+    "MS Word",
+    "MS Excel",
+    "MS Power Point",
+    "Accounting",
+    "Bookkeeping",
+    "Forecasting",
+    "Financial Projection",
+    "Auditing",
+    "Examining"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Interpersonal Skills",
+    "Adaptability",
+    "Analytical Skills",
+    "Attention to Detail"
+  ],
+  "years_experience": 0.5,
+  "certifications": [],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Equity Research Analyst",
+    "Junior Auditor",
+    "Project Analyst",
+    "Finance Assistant",
+    "Co-Student Representative"
+  ],
+  "industries": [
+    "Finance",
+    "Consulting"
+  ],
+  "location": null
+}

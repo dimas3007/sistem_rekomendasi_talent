@@ -1,0 +1,84 @@
+Marshanda Afifah Furqon
+Cipondoh, Kota Tangerang, Banten, Indonesia +6289531337256 cacaafifah6@gmail.com
+www.linkedin.com/in/marshanda-afifah-furqon https://bit.ly/marshandaportofoliouiux
+About Me
+UI/UX designer enthusiast dedicated to creating user-centered applications and websites, with expertise in wireframing,
+mockups, prototyping, and visual design using tools such as Figma, Miro, and Protopie. Skilled in collaborating within
+teams to develop responsive, intuitive, and user-friendly design solutions, with strong attention to detail and a
+commitment to enhancing user experiences through innovative and strategic design approaches.
+Work Experience
+UI/UX Design Internship at Alan Creative January 2025 - Present
+Remote
+Designing and developing the Leebong Island website, including layout, UI components, and interactivity.
+Optimizing the website s responsiveness across various devices (desktop, tablet, and mobile).
+Designing and adapting the mobile version of the website to provide a more intuitive user experience.
+Collaborating with the development team to ensure the design implementation aligns with UI/UX best
+practices.
+UI/UX Design Internship at GreatEdu August 2023 - December 2023
+Remote
+Foundations of UI/UX: Gained expertise in understanding user needs, applying design thinking, and focusing
+on solutions for environmental challenges.
+User Research & Testing: Conducted comprehensive research, usability testing, and developed user personas
+and journey maps to inform design decisions.
+Design Execution: Created sketches, wireframes, prototypes, and design systems, while incorporating UX
+writing to enhance usability.
+Professional Development: Built a compelling portfolio and learned industry best practices for CV creation and
+career growth.
+Project
+Developing an AI-Based Job Portal Application September 2024 - Present
+UI/UXDesign dibimbing.id
+Conducted extensive user research through surveys, interviews, and competitive analysis to identify pain points, needs,
+and expectations of job seekers and recruiters.
+Developed user personas and journey maps to ensure the design aligned with user goals and to identify key areas for
+improvement in the job application process.
+Designed and prototyped key features, including AI-powered job recommendations, simplified onboarding and sign-up
+processes, real-time chat for job seekers and recruiters, application tracking for status transparency, and profile
+management for personalized user control.
+Created wireframes and high-fidelity prototypes using Figma and Protopie to visualize the flow and interaction of the
+application.
+Collaborated with mentors and peers to align design solutions with project goals and user needs.
+Redesign Siklus Application July 2023 - November 2023
+UI/UX Design GreatEdu
+Conducted in-depth user research through interviews, surveys, and heuristic evaluation to uncover user pain points and
+opportunities for improvement.
+Created user personas and journey maps to align the redesign with target user needs and goals.
+Developed wireframes and prototypes using tools like Figma to visualize an enhanced user flow and intuitive interfaces.
+Enhanced the onboarding experience by simplifying the registration process and incorporating clear guidance to boost
+new user retention.
+Streamlined the order completion process by optimizing navigation, reducing unnecessary steps, and improving visual
+hierarchy for better clarity and usability.
+Collaborated with a team and mentors to deliver a polished design solution that was well-received during the final
+project presentation.
+Education
+Bootcamp UI/UX Design
+Jakarta, Indonesia
+Dibimbing.id
+September 2024- Present
+Redesigning websites and mobile applications by integrating modern design elements to enhance visuals and
+functionality, creating a more intuitive and satisfying user experience.
+Refining skills in using Figma, design thinking, UX research, prototyping, and usability testing, significantly contributing
+to the development of more effective and user-friendly products.
+Node.js Training for Web Developers Jakarta, Indonesia
+Talenthub, Kementerian Ketenagakerjaan September 2024
+Mastering the fundamentals of Visual Studio Code and Node.js, including key features and their integration into
+development workflows, enhancing efficiency and deepening understanding of software development.
+Learning core concepts of JavaScript frameworks to strengthen knowledge of web development, enabling the creation
+of dynamic, responsive, and more efficient web applications.
+Universitas Pendidikan Indonesia Sumedang, Indonesia
+Bachelor of Elementary School Teacher Education August 2020 - July 2024
+IPK : 3.88/4.00
+Thesis Title: "Development of a Math Snakes and Ladders Game to Improve Problem-Solving Skills in Fractional
+Material for 4th Grade Students"
+Created learning media for 4th-grade students using Figma and Protopie applications.
+Certificate
+System Analyst February 2024 - February 2027
+Badan Nasional Sertifikat Profesi (BNSP)
+Office Applications January 2024 - January 2027
+Badan Nasional Sertifikat Profesi (BNSP)
+Node.js for Web Developers September 2024
+Kementerian Ketenagakerjaan
+Skills
+Languages: Indonesian (Native), English (Intermediate)
+Hard Skills: Figma, Miro, Canva, Protopie, Visual Studio Code (Basic), Prototyping, Wireframing, Design Thinking,
+User Flow, Usability Testing,
+Soft Skills: Teamwork, Creativity, Problem Solving, Collaboration, Time Management

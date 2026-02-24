@@ -1,0 +1,49 @@
+{
+  "name": "Diva Dita Nara",
+  "email": "divvaadittaa@gmail.com",
+  "phone": "+62-891236-0946",
+  "education_level": null,
+  "education_major": "Sistem Informasi",
+  "university": "Telkom University Purwokerto",
+  "hard_skills": [
+    "Database SQL",
+    "Pembersihan data",
+    "Desain visual",
+    "Tata letak web",
+    "Microsoft Office",
+    "Google Colab",
+    "Figma",
+    "Visual Code Studio",
+    "Draw.io",
+    "Canva",
+    "Laravel",
+    "Phyton",
+    "Bahasa C",
+    "HTML"
+  ],
+  "soft_skills": [
+    "Berpikir analitis",
+    "Pemecahan masalah",
+    "Manajemen interpersonal",
+    "Kepemimpinan",
+    "Berpikir kreatif",
+    "Manajemen waktu"
+  ],
+  "years_experience": 0.25,
+  "certifications": [],
+  "languages": [
+    "Indonesia",
+    "Inggris"
+  ],
+  "job_titles": [
+    "Eksekutif Muda",
+    "Koordinator Hubungan Masyarakat",
+    "Koordinator Acara",
+    "Staff Sponsorship",
+    "Staff Hubungan Masyarakat",
+    "Sekretaris",
+    "Staff Perlengkapan"
+  ],
+  "industries": [],
+  "location": "Purwokerto"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Albert Richardo",
+  "email": "albertrichardo223@gmail.com",
+  "phone": "0812-9565-9987",
+  "education_level": null,
+  "education_major": "Business Information System",
+  "university": "Pradita University",
+  "hard_skills": [
+    "Figma",
+    "Adobe Photoshop",
+    "Canva",
+    "Maze",
+    "Clickup",
+    "Notion",
+    "ChatGPT",
+    "Wireframes",
+    "Mockups",
+    "Prototypes"
+  ],
+  "soft_skills": [
+    "Think creative",
+    "Problem-solving skills",
+    "Teamwork",
+    "Strong learning attitude",
+    "Adaptability to new challenges"
+  ],
+  "years_experience": 1.0,
+  "certifications": [
+    "CalArts Fundamentals of Graphic Design",
+    "Packt Ultimate Graphic Design Course",
+    "Packt Figma for UI/UX: Master Web Design in Figma",
+    "Google UX Design Professional"
+  ],
+  "languages": [
+    "English"
+  ],
+  "job_titles": [
+    "Student Organization Leader"
+  ],
+  "industries": [],
+  "location": "Tangerang"
+}

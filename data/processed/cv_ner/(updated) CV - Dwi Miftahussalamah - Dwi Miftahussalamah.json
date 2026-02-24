@@ -1,0 +1,41 @@
+{
+  "name": "DWI MIFTAHUSSALAMAH",
+  "email": "dwimiftahussalamahsalamah@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Singaperbangsa Karawang",
+  "hard_skills": [
+    "Python",
+    "SQL",
+    "Tableau",
+    "Microsft Office (Word, Excel, PowerPoint)"
+  ],
+  "soft_skills": [
+    "Communication Skills",
+    "Teamwork",
+    "Time Management Skills",
+    "Public Speaking"
+  ],
+  "years_experience": 0.4166666666666667,
+  "certifications": [
+    "Dibimbing Digital Skill Fair - Data Science (2024)",
+    "Studi Independen Bersertifikat Batch 5 Data Analyst Sekolah.mu (2023)",
+    "RevoU mini course Data Analytic Program (2023)",
+    "MySkill Data Analyst Bootcamp (2023)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Asisten Administrasi",
+    "Staff Lapangan Quick Count Pemilu 2024",
+    "Sekretaris",
+    "Koordinator Bidang Pengembangan Sumber Daya Manusia (PSDM)"
+  ],
+  "industries": [
+    "Education",
+    "Government"
+  ],
+  "location": "Karawang"
+}

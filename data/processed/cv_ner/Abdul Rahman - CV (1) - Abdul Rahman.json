@@ -1,0 +1,60 @@
+{
+  "name": "Abdul Rahman",
+  "email": "abdulm098@gmail.com",
+  "phone": "+62-831-9093-5821",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Mulawarman University",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "Phyton",
+    "Front-End Web",
+    "Computer Hardware Troubleshooting",
+    "Layout Design",
+    "Illustration",
+    "UI/UX Design",
+    "Merchandise Graphic",
+    "Game Artist",
+    "Adobe Photoshop",
+    "Illustrator",
+    "Premiere",
+    "Figma",
+    "Blender",
+    "Zbrush"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Flexibility",
+    "Time Management",
+    "Attention to Detail",
+    "Communication",
+    "Presentation",
+    "Creativity",
+    "Collaboration"
+  ],
+  "years_experience": 2.9166666666666665,
+  "certifications": [
+    "Database Programming with SQL",
+    "Database Design",
+    "ICT Academy",
+    "Game Development"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Graphic Designer / Visual Graphic",
+    "Game Artist",
+    "Member of Media Information",
+    "Member of Media Information"
+  ],
+  "industries": [
+    "Graphic Design",
+    "Game Development",
+    "Information Technology"
+  ],
+  "location": "Samarinda"
+}

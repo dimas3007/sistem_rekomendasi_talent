@@ -1,0 +1,38 @@
+{
+  "name": "Indah Kusuma Ningrum",
+  "email": "indahkusumaningrum354@gmail.com",
+  "phone": "+62 857-8907-1612",
+  "education_level": "S1",
+  "education_major": "Computer Science",
+  "university": "University of Lampung",
+  "hard_skills": [
+    "HTML",
+    "CSS"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Communication",
+    "Teamwork",
+    "Public Speaking"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "Java Foundations - Oracle Academy",
+    "Extracurricular/Matriculation English Training for 2022 University of Lampung Students"
+  ],
+  "languages": [
+    "English",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Teaching Assistant - Interpreter Programming",
+    "Teaching Assistant - Operating Systems",
+    "Secretary of Information and Communication Department",
+    "Coordinator of Publication, Design, and Documentation Division",
+    "Coordinator of Event Division",
+    "Online Campaigner",
+    "Vice President of Student Council (OSIS)"
+  ],
+  "industries": [],
+  "location": "Bandar Lampung"
+}

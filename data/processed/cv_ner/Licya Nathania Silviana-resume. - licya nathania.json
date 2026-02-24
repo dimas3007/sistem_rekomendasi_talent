@@ -1,0 +1,48 @@
+{
+  "name": "Licya Nathania Silviana",
+  "email": "Licyanathania@gmail.com",
+  "phone": "085540415870",
+  "education_level": "S1",
+  "education_major": "Informatika",
+  "university": "Universitas Amikom Purwokerto",
+  "hard_skills": [
+    "HTML",
+    "MySQL",
+    "Figma",
+    "Adobe Premiere pro",
+    "Adobe Illustrator",
+    "Adobe After Effect",
+    "Adobe Photoshop",
+    "CorelDRAW",
+    "Capcut",
+    "Canva",
+    "Word",
+    "Power Point"
+  ],
+  "soft_skills": [
+    "Kepemimpinan",
+    "Kerjasama tim",
+    "Komunikasi tim",
+    "Rasa tanggung jawab",
+    "Self-Motivated",
+    "Decicion making",
+    "Dependability"
+  ],
+  "years_experience": 1.4166666666666667,
+  "certifications": [
+    "Studi Indenden Kemendikbud RI (2022): Mengikuti pelatihan program UI/UX deisgn di Skilvul"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Tenaga Fasilitator Lapangan",
+    "Kreator Animasi",
+    "Studi Independen MSIB Kemendikbud",
+    "Hubungan Masyarakat"
+  ],
+  "industries": [
+    "Government",
+    "Education",
+    "Technology"
+  ],
+  "location": "Purwokerto"
+}

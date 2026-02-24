@@ -1,0 +1,52 @@
+{
+  "name": "Afif Mochamad Faizal Fajriandi",
+  "email": "afif.shk@gmail.com",
+  "phone": "+628979828198",
+  "education_level": "S1",
+  "education_major": "Information System",
+  "university": "Telkom University",
+  "hard_skills": [
+    "Java",
+    "SQL",
+    "MySQL",
+    "Figma",
+    "Trello",
+    "Miro",
+    "Draw.io",
+    "Canva",
+    "Ms. Office",
+    "Google Workspace",
+    "Notion"
+  ],
+  "soft_skills": [
+    "Product Management",
+    "Project Management",
+    "Critical Thinking",
+    "Agile Methodology",
+    "Scrum",
+    "Market Research"
+  ],
+  "years_experience": 2.58,
+  "certifications": [
+    "EF SET English Certificate 70/100 (C1 Advanced)",
+    "Product Strategy Micro-Certification (PSC)TM",
+    "Product Roadmapping Micro-Certification (PRC)TM",
+    "Product Launches Micro-Certification (PRLC)TM"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "job_titles": [
+    "Project Manager Internship",
+    "Product Development Internship",
+    "Associate Product Manager Internship",
+    "Product Manager Internship"
+  ],
+  "industries": [
+    "IT",
+    "Financial Literacy",
+    "Video Game Development"
+  ],
+  "location": "South Jakarta"
+}

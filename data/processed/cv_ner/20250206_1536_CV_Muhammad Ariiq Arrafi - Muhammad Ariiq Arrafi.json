@@ -1,0 +1,44 @@
+{
+  "name": "Muhammad Ariiq Arrafi",
+  "email": "ariiqarrafi2@gmail.com",
+  "phone": "+6281211530359",
+  "education_level": "S1",
+  "education_major": "Computer Science",
+  "university": "Institut Pertanian Bogor",
+  "hard_skills": [
+    "Design Thinking",
+    "Figma",
+    "Front-End Development",
+    "Mobile UI Design",
+    "Prototyping",
+    "System Analysis",
+    "UI Design",
+    "UX Design",
+    "UX Research",
+    "UX Writing",
+    "Web UI Design"
+  ],
+  "soft_skills": [
+    "Emotional Intelligence",
+    "Leadership",
+    "Team Management",
+    "Teamwork",
+    "Critical Thinking"
+  ],
+  "years_experience": 0.67,
+  "certifications": [
+    "Certified Independent Study - UI/UX Bootcamp from GreatEdu",
+    "System Analyst Certification from BNSP",
+    "Short Class Certificate: SEO & Content Marketing MySkill"
+  ],
+  "languages": [],
+  "job_titles": [
+    "UI/UX Designer",
+    "Project Team Leader"
+  ],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "location": "Bogor"
+}

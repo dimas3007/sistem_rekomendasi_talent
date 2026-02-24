@@ -1,0 +1,52 @@
+{
+  "name": "Herlangga Fitdia Saputra",
+  "email": "rangga.fitdia29@gmail.com",
+  "phone": "087727275259",
+  "education_level": "S1",
+  "education_major": "Information Technology Engineering",
+  "university": "Universitas Negeri Surabaya",
+  "hard_skills": [
+    "SQL",
+    "Python",
+    "Dbeaver",
+    "HTML5",
+    "CSS3",
+    "Tailwind",
+    "Bootstrap",
+    "JavaScript",
+    "Java",
+    "Golang",
+    "PHP",
+    "Reactjs",
+    "MySQL",
+    "Visual Studio Code",
+    "Google colabs",
+    "Postgree SQL"
+  ],
+  "soft_skills": [
+    "Communicative",
+    "Teamwork",
+    "User empathy",
+    "Problem Solving",
+    "Time Management",
+    "Analytical Thinking",
+    "Collaborative",
+    "Continuous learning",
+    "Receptiveness to feedback",
+    "Adaptif",
+    "Komunikatif",
+    "Ability to learn quickly"
+  ],
+  "years_experience": 1.75,
+  "certifications": [
+    "Dicoding Indonesia certified about Machine Learning Python Algorithme",
+    "Celerates PT Mitra Celerates certified about Data Scientist"
+  ],
+  "languages": [],
+  "job_titles": [
+    "SQL Dbeaver",
+    "Pythone Algoritme Machine Learning"
+  ],
+  "industries": [],
+  "location": "Madiun"
+}

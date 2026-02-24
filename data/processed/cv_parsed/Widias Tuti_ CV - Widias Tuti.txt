@@ -1,0 +1,79 @@
+Widias Tuti
+Sukabumi, Indonesia Wistuti22@gmail.com +62 85158522042 linkedin.com/in/widias-tuti/
+Telecommunication Systems graduate with hands-on experience in Internet of Things (IoT) and Data Analysis. Passionate about leveraging
+technology to solve real-world problems, I honed my expertise in IoT through campus projects and expanded my skills in Project Management,
+Data Analysis, Digital Marketing, and Product Management during an Independent Study at RevoU. As an active member of various committees
+and organizations during college, I developed strong leadership abilities, excelled in teamwork, and cultivated critical thinking to tackle challenges
+effectively. Highly motivated to explore new opportunities.
+EDUCATION
+Bachelor of Engineering Sep 2020 - Oct 2024
+Universitas Pendidikan Indonesia GPA: 3.66 of 4.0
+Participate in Writting articles on Telecommunication, electronics, and Internet of Things
+Related Subjects: Algorithms and Programming, Cloud Computing, Internet of Things, Project Management, Data Communications
+Networks, Telecommunications Networks, dan ICT Literacy
+WORK EXPERIENCE
+ADS Operational Aug 2023 - Dec 2023
+Kapan Lagi Youniverse Jakarta, Indonesia
+Create and process reports on campaign performance
+Manage and optimize 30+ campaigns across 6 platforms with Google Ads Manager, proactively ensuring each campaign is running effectively
+and hitting targeted KPIs.
+Manage and distribute internal house ads, ensuring they are displayed according to plan.
+Coordinate with various relevant teams to ensure the smoothness and success of each campaign, from planning to execution, in order to
+achieve optimal marketing objectives.
+ADIMINISTRATION Jan 2022 Jul 2023
+RM. Cahaya Minang Sukabumi, Indonesia
+Responsible for online order and marketing management
+Successfully increased 10% revenue in online order
+Organize and manage all promo campaigns undertaken.
+Responsible for the Bank's administration
+PROJECT
+Design of a Diagnosis System for Blood Pressure Classification Using Decision Tree Algorithm Feb 2024 - Aug 2024
+Thesis
+Designing a blood pressure classification diagnosis system tool and designing a monitoring system using Thingspeak
+Programming the Decision Tree algorithm using 219 data as blood pressure classification rules.
+Manufacture tools and integrate tools into the monitoring system.
+RevoU Tech Academy: Product, Engineering, Data Feb 2023 - Jun 2023
+PT Revolusi Cita Edukasi
+Digital Marketing Project: Manage Facebook Ads and create content for social media, Analyze KPIs and metrics for campaign performance
+evaluation
+Data Analyst Project : Perform Data Exploration on 1000+ data using excel, create data visualization using looker Studio and present to the
+client.
+Product Management Project : Conduct customer research to improve user satisfaction, Analyze survey data and product issues to improve
+quality, and Find solutions and develop products according to customer needs.
+Software Engineer Project : Designing and designing a weather website using Figma, then developing the web pages with HTML, CSS, and JavaScript.
+This project was completed by deploying the website using GitHub.
+Managed 4 capstone projects over four months, ensuring completion in accordance with the targets and plans set by the team, so that all
+project milestones were successfully completed on time.
+Seed Monitoring and Management System of Hydroponic Plants with Internet of Things Aug 2022 - Dec 2022
+Campus Project
+Planning a project to design a tool for automatic watering of planting seedlings
+Making a tool for automatic watering of plant seedlings and monitoring the tool using blynk.
+Making an overall module about seed monitoring and management system of hydroponic wit internet of things.
+Kimia Farma Big Data Analytics Virtual Internship Program
+Rakamin Academy
+Perform Data Exploration on 1000+ data using MySQL
+Creating dashboards and data visualization using Looker Studio
+ORGANIZATIONAL & VOLUNTEER EXPERIENCE
+Treasurer Feb 2022 - Jan 2023
+Dewan Perwakilan Mahasiswa Purwakarta, Indonesia
+Responsible for managing the flow and recording of financial income and expenditure for a period, ensuring all transactions are recorded
+accurately and transparently.
+Prepare comprehensive financial statements and submit them to the university in a timely manner.
+My dedication and contribution were recognized with an award as the best staff among 24 team members. In addition, I actively participated
+in all activities, showing full commitment and involvement in every responsibility.
+Chief Committee Nov 2022
+Seminar Legislatif Kampus Purwakarta, Indonesia
+Successfully managed the Seminar Legislatif Kampus 2022, attracting over 200 participants within 3 month of preparation.
+. Oversaw the event budget, ensuring all expenses remained within limits while maximizing resource efficiency.
+Coordinated 40+ team members, delegating tasks effectively and ensuring all responsibilities were executed with precision.
+Maintained strong leadership and project management throughout, resulting in a smooth event execution and achievement of all key
+objectives.
+SKILLS
+Soft Skills: Responsible, Attention to Detail, Time Management, Teamwork, Leadership, Adaptive, Emotional Intelligence, Communication
+Hard Skills: Data Analysis, Project Management, Administration, Digital Marketing, Internet of Things, Python, SQL.
+Tools: Microsoft Office, MySQL, Figma, Looker Studio, PowerBI, Tableu, Trello, Google Ads Manager, Canva, Notion, and Google
+Workspace.
+CERTIFICATIONS AND PORTOFOLIO
+PTESOL by The Languange Center UPI (pdf) Jul 2024
+IC3 Digital Literacy Certification GS6 Level 1 by Certiport (pdf) Nov 2023
+Portofolio (pdf)

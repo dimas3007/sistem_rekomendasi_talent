@@ -1,0 +1,49 @@
+{
+  "name": "RIFQY YAZEED HABIBI",
+  "email": "yazeedhabibi@gmail.com",
+  "phone": "+62 8131 2195 680",
+  "education_level": "S1",
+  "education_major": "English Education",
+  "university": "Siliwangi University",
+  "hard_skills": [
+    "Figma",
+    "Canva",
+    "Notion",
+    "Usability Testing",
+    "Information Architecture",
+    "User Experience Design",
+    "User Research",
+    "User Interface Design",
+    "Google Workspace"
+  ],
+  "soft_skills": [
+    "Problem-Solving",
+    "Communication",
+    "Collaboration",
+    "Accountability",
+    "Storytelling",
+    "User-centred Design",
+    "Visual Communication",
+    "AI Prompting"
+  ],
+  "years_experience": 1.75,
+  "certifications": [
+    "Google UX Design (Coursera)",
+    "Design Thinking",
+    "Principle UX/UI Design by Meta"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "AI Trainer",
+    "Document Translator",
+    "Chairman"
+  ],
+  "industries": [
+    "AI",
+    "Education"
+  ],
+  "location": "Tasikmalaya"
+}

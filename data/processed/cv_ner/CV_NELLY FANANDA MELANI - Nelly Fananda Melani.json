@@ -1,0 +1,48 @@
+{
+  "name": "Nelly Fananda Melani",
+  "email": "fanandanelly@gmail.com",
+  "phone": null,
+  "education_level": "D3",
+  "education_major": "Information Technology",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Vue.js",
+    "Dart",
+    "Flutter",
+    "Figma",
+    "Canva",
+    "Visual Studio Code",
+    "Xampp",
+    "GitHub",
+    "Microsoft Office",
+    "Google Workspace"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Time management",
+    "Critical Thinking",
+    "Collaborative Problem Solving",
+    "Emotional Intelligence",
+    "Leadership",
+    "Management"
+  ],
+  "years_experience": 0.0,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "Front End"
+  ],
+  "industries": [
+    "Information Technology"
+  ],
+  "location": "Malang"
+}

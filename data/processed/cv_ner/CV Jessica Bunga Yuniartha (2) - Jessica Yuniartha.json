@@ -1,0 +1,53 @@
+{
+  "name": "Jessica Bunga Yuniartha",
+  "email": "jessicayuniartha@gmail.com",
+  "phone": "+62 858 9544 6414",
+  "education_level": null,
+  "education_major": "Information System",
+  "university": "Brawijaya University",
+  "hard_skills": [
+    "Java",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap",
+    "Figma",
+    "Maze",
+    "Ibis Paint",
+    "Canva",
+    "Ms. Office",
+    "Ms. Teams",
+    "phyton"
+  ],
+  "soft_skills": [
+    "Creativity and Imagination",
+    "Collaboration and Teamwork",
+    "Communication",
+    "Time Management",
+    "Problem-Solving",
+    "Attention to Detail"
+  ],
+  "years_experience": 0.17,
+  "certifications": [
+    "National UX Design House of Technology (Hology) 7.0",
+    "Expose Statistics Challenge On National (Epsilon) 2024",
+    "Infographic Poster 4C National Competition 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "User Researcher",
+    "UI/UX Designer",
+    "Multimedia Staff",
+    "Mobile Developer",
+    "Web Developer"
+  ],
+  "industries": [
+    "Tourism",
+    "Fashion",
+    "Education"
+  ],
+  "location": "Malang"
+}

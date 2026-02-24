@@ -1,0 +1,38 @@
+{
+  "name": "Abdur Rofiq",
+  "email": "abdurrofiq67@gmail.com",
+  "phone": "+62 851-7122-7120",
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Semarang University",
+  "hard_skills": [
+    "Flutter",
+    "PHP",
+    "Python"
+  ],
+  "soft_skills": [],
+  "years_experience": 2.75,
+  "certifications": [
+    "Start the UX Design Process: Empathize, Define, and Ideate",
+    "Foundations of User Experience (UX) Design",
+    "Microsoft Office Specialist : Word 2013",
+    "UI/UX Design Kampus Merdeka Kredensial Mikro Mahasiswa Indonesia (KMMI)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Freelance Graphic Designer",
+    "Media Creative",
+    "UI/UX Leader Team",
+    "Data Entry",
+    "Chairman"
+  ],
+  "industries": [
+    "Graphic Design",
+    "Event Organizing",
+    "Technology",
+    "Government"
+  ],
+  "location": "Demak"
+}

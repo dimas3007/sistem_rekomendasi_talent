@@ -1,0 +1,42 @@
+{
+  "name": "Rajib Rafsanjani",
+  "email": "jibrajani@gmail.com",
+  "phone": "0881025963013",
+  "education_level": "S1",
+  "education_major": "Fisika",
+  "university": "Universitas Padjajaran",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JS",
+    "SAP Build Apps",
+    "SAP Analytics Cloud"
+  ],
+  "soft_skills": [
+    "Kepemimpinan",
+    "Komunikasi",
+    "Menejemen Waktu",
+    "Mengatur",
+    "Mengawasi",
+    "Menengahi konflik",
+    "Aksi sosial",
+    "Menganalisa permasalahan"
+  ],
+  "years_experience": null,
+  "certifications": [
+    "App Development with SAP Build Apps",
+    "Data Analytics with SAP Analytics Cloud",
+    "Dicoding Bootcamp"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "staff muda",
+    "KETUA KELAS"
+  ],
+  "industries": [
+    "Pendidikan"
+  ],
+  "location": "Jatinangor"
+}

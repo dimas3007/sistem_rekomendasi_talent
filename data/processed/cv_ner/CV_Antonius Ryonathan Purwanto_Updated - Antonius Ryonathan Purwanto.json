@@ -1,0 +1,34 @@
+{
+  "name": "Antonius Ryonathan Purwanto",
+  "email": "antoniusryo24@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Universitas Komputer Indonesia",
+  "hard_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "User Experience Research",
+    "User Experience Design",
+    "User Interface Design",
+    "User Testing",
+    "System Analyst"
+  ],
+  "soft_skills": [
+    "Communication"
+  ],
+  "years_experience": 0.08,
+  "certifications": [
+    "UI/UX Design Track"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "UI/UX Design"
+  ],
+  "industries": [],
+  "location": "Kota Bandung"
+}

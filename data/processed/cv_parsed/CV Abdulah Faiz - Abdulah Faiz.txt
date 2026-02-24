@@ -1,0 +1,61 @@
+ABDULAH FAIZ TEDJO PUTRO
+Samarinda, Kalimantan Timur | Linkedin | Faizaja995@gmail.com | +62-852-4282-7691 | Github | Porto
+PROFILE
+Hello, I am someone who always has high curiosity and passion to learn new things. I believe that
+learning is a lifelong process that helps us grow and adapt to different situations. I have an interest
+in technology, programming and application design. With every new knowledge I gain, I feel more
+prepared to face the challenges and opportunities that come in my life, both in professional and
+personal contexts.
+EDUCATION
+Mulawarman University Samarinda, Kalimantan Timur 2022 - Present
+Faculty of Engineering / Information System
+GPA : 3.75 / 4.00
+SMA Negeri 1 Samarinda 2019 2022
+Natural Science Department
+EXPERIENCES
+Information Systems Student Association (INFORSA) Feb Dec 2023
+Mulawarman University
+Member of the Scientific Division of the Department of Talent & Scientific Interest
+Serves as the person in charge of the Badminton community in the Information Systems
+environment.
+Help disseminate information about non-academic competitions.
+Information System Event (INSEVENT) Dec 2023
+Mulawarman University
+Member of Publicity and Documentation Division
+Assist in creating videos and promotional content on social media.
+Assist in documenting the INSEVENT 2023 Talkshow activities.
+Bookstore sales website creation project Apr 2024
+Designed and developed a sales website for a bookstore.
+Used HTML, CSS, SQL, JavaScript, and PHP for front-end and
+back-end development.
+Integrated e-commerce features such as shopping cart,
+payment system, and inventory management.
+Designing an educational mobile application for pregnant women Apr 2024
+Design the app to be easy for everyone to use
+Implement features such as pregnancy calculators,
+nutrition guides, and health tips.
+Design the application and user flow using figma.
+Create a simple warehouse stock recording application using Java Dec 2023
+Develop a simple warehouse stock recording application using Java.
+Implement CRUD (Create, Read, Update, Delete) functions for stock management.
+Implement an intuitive and easy-to-use user interface.
+Design a library database system using SQL May 2023
+Design a library database system using SQL.
+Create tables, relations, and queries for book management, members, and borrowing
+transactions.
+Model the data structure and relationships between entities in the system with ERD.
+KEY SKILLS & COMPETENCIES
+Skillset Critical Thinking and Analytical Skills, Problem Solving, Flexibility, Time Management,
+Well Planned, Data Research, Presentation
+Toolset Google Colab, FigJam, Google Suite, Microsoft Office, GitHub, VSCode, MySQL,
+Figma, Notion
+Programming HTML, CSS, Pyton, Java, SQL
+IT Skills Data Analyst, Front-End Web, Graphic Design, UI/UX Design
+CERTIFICATION
+Programming with Java May 2023
+Dicoding
+Database Programming with SQL Dec 2023
+Oracle Academy
+Database Design Nov 2023
+Oracle Academy
+3+ other certificates

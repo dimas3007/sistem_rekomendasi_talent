@@ -1,0 +1,48 @@
+{
+  "name": "Aqila Aulia Henta Putri",
+  "email": "aqilaaulia1422@gmail.com",
+  "phone": "+628113422804",
+  "education_level": "S1",
+  "education_major": "Information Systems",
+  "university": "Institut Teknologi Sepuluh Nopember",
+  "hard_skills": [
+    "Microsoft Office",
+    "BIC",
+    "SAP",
+    "Odoo",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Analytical Thinking",
+    "Teamwork",
+    "Communication"
+  ],
+  "years_experience": 2.58,
+  "certifications": [
+    "Introduction to SAP S/4HANA with GBI 4.2",
+    "Basic Media Schooling",
+    "Latihan Keterampilan Manajemen Mahasiswa (LKMM Pra-TD)"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Agile Project Management Teaching Assistant",
+    "Expert Staff of Fundraise",
+    "Consumption Staff",
+    "Public Relation Staff",
+    "Staff of Student Entrepreneurship",
+    "Expert Staff of BIONIX Competition",
+    "Intern Staff of External Affair",
+    "Staff of BIONIX Competition",
+    "Secretary of Entrepreneurship"
+  ],
+  "industries": [
+    "Education",
+    "Technology",
+    "Organization"
+  ],
+  "location": null
+}

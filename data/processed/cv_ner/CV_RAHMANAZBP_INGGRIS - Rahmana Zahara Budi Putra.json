@@ -1,0 +1,55 @@
+{
+  "name": "Rahmana Zahara Budi Putra",
+  "email": "rahmanazbp30@gmail.com",
+  "phone": "085784455031",
+  "education_level": "S1",
+  "education_major": "Computer Science",
+  "university": "Universitas Muhammadiyah Surakarta",
+  "hard_skills": [
+    "SQL",
+    "Python",
+    "Matlab",
+    "Scikit-learn",
+    "TensorFlow",
+    "Keras",
+    "Power BI",
+    "Figma",
+    "Tableau",
+    "Microsoft Office Suite",
+    "Machine Learning",
+    "Data Visualization",
+    "SQL (PostgreSQL dan MySQL)",
+    "Python (NumPy, Pandas, Marplotlib, Seaborn, Sciket-learn)",
+    "Google Colab",
+    "Git/Github",
+    "Google BigQuery",
+    "Google Looker Studio"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Time Management",
+    "Problem solving",
+    "Teamwork",
+    "Presentation Skills",
+    "Adaptability"
+  ],
+  "years_experience": 0.08,
+  "certifications": [
+    "Data Analysis: Fullstack Intensive Bootcamp, MySkill, Number: MS-30/10/2024-CJ9oBNupE9t1Cih3fdzD, 2024",
+    "Fullstack Microsoft Excel Basic To Advanced Batch 22, MySkill, Number: 93235/EXL/LM/10/2024, 2024",
+    "MySkill Short Class: Frontend Fundamentals, MySkill, Number: 173697/WEB/LM/08/2024, 2024",
+    "Sertifikasi Microsoft Office, KURSUS DIGITAL DAN LKP BORJU KOMPUTER, Number: 4918.28.11461, 2024",
+    "Mini Cource Data Analytics: Intro to Data Analystics, RevoU, Number: , 2023",
+    "Mini Course Digital Marketing: Intro to Digital Marketing, RevoU, Number: , 2023"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Internship"
+  ],
+  "industries": [
+    "Information Technology"
+  ],
+  "location": "Madiun"
+}

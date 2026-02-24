@@ -1,0 +1,40 @@
+{
+  "name": "Naufal Abdurrahman Puri",
+  "email": "naufal.puri12@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Informatics Engineering",
+  "university": "Universitas Teknologi Bandung",
+  "hard_skills": [
+    "figma",
+    "ui design",
+    "web design",
+    "mobile design",
+    "prototyping",
+    "design system"
+  ],
+  "soft_skills": [
+    "problem solving",
+    "communication",
+    "critical thinking",
+    "creative thinking",
+    "user experience",
+    "user research"
+  ],
+  "years_experience": 1.66,
+  "certifications": [],
+  "languages": [
+    "English",
+    "Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer (Intern)",
+    "Design (intern)"
+  ],
+  "industries": [
+    "E-commerce",
+    "Agri",
+    "Outsourcing"
+  ],
+  "location": "South Jakarta"
+}

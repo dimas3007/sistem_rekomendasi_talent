@@ -1,0 +1,46 @@
+{
+  "name": "Tegar Sakti Ramadhan",
+  "email": "tegarrmdhn011@gmail.com",
+  "phone": "+6285161911236",
+  "education_level": null,
+  "education_major": "Information Systems",
+  "university": "UNIVERSITAS GUNADARMA",
+  "hard_skills": [
+    "PHP",
+    "JavaScript",
+    "Python",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Laravel",
+    "Draw.io",
+    "Figma",
+    "Trello",
+    "Vs Code",
+    "Git",
+    "Jupiter Notebook",
+    "Power BI",
+    "jQuery",
+    "Bootstrap",
+    "MySQL",
+    "Node.js",
+    "npm",
+    "Express.js",
+    "EJS"
+  ],
+  "soft_skills": [],
+  "years_experience": 0.4166666666666667,
+  "certifications": [
+    "Sertifikasi BNSP Junior Web Developer",
+    "Sertifikasi BNSP System Analyst"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Product Development",
+    "Assistant MK Praktikum Unggulan (DGX)"
+  ],
+  "industries": [
+    "Financial"
+  ],
+  "location": "Tangerang"
+}

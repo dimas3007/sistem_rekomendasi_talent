@@ -1,0 +1,102 @@
+Afif Mochamad Faizal Fajriandi
++628979828198 | afif.shk@gmail.com | linkedin.com/in/afif-mochamad-faizal-fajriandi-9887b91b6/ | Pejaten, South Jakarta
+A Bachelor of Information System graduate at Telkom University who is very interested in Product Management. Graduated with a GPA of
+3.38 with several organizational experiences on campus. Currently, I am taking course to learn more about various aspects of Product
+Development, and gaining valuable insights that I am eager to apply in real-world scenarios. I have a passion for product development with
+critical thinking. Passionate about learning new things and contributing positively to assigned projects.
+Work Experiences
+Kawan Kerja - Bandung, Indonesia Jan, 2025 Now
+Project Manager Internship
+Kawan Kerja is a Startup Company specializing in the IT industry from Bandung, by providing Website Development, Application
+Development, IT Consultant, Support, Maintenance, Game Development services to Customers.
+Plan, manage, and oversee information technology projects from concept to completion.
+Identify project needs, resources required, and develop schedules.
+Coordinate with development teams, designers, and stakeholders to ensure that all parties understand the project's goals and tasks.
+Ensure projects run according to the timeline and resolve issues that may occur during the process.
+Monitor and evaluate project progress and prepare periodic reports for stakeholders.
+Manage project risks and identify potential obstacles that may affect the timeline or budget.
+Document the project in detail, including final reports, evaluation results, and technical solutions implemented
+SOKO Financial - Yogyakarta, Indonesia Dec, 2023 Mar 2024
+Product Development Internship
+SOKO Financial is a start up in the field of financial literacy and education for Indonesia's Young Generation and provides face-to-face
+classes for the young generation and online classes that people from all corners of the country can take part in.
+Managed the development of financial class
+Conducted product research, market research, user persona, and target audience for SOKO class
+Managed a webinar about investment to promote SOKO Financial
+Built a product roadmap based on Product Owner decisions
+Agate International - Bandung, Indonesia Jun 2022 Sep 2022
+Associate Product Manager Internship
+Agate is an Indonesian video game development company based in Bandung. The company produces serious games, providing gamified
+applications to companies either via gamification of systems, advertisement games or training games meant to simulate the work
+environment. Agate had worked for Square Enix, Electronic Artsm, Microsoft, Samsung and Coca-Cola.
+Worked as Associate Product Manager in a team of 7 people
+Developed a game given by the Product Owner within 3 months
+Directed product development carried out by the Product Owner and team
+Collaborated with cross-functional teams to define project scope, goals, and deliverables
+Created and built product direction, product research, competitor analysis, product milestones, product requirements document, and
+product backlog
+Assisted Project Manager in managing the document product
+Implemented Agile methodologies
+Facilitated Scrum ceremonies team members on Agile principles
+Built a product roadmap based on Product Owner decisions
+Studied courses for the Associate Product Manager role
+Agate International - Bandung, Indonesia Aug 2021 Jan 2022
+Studi Independen Kampus Merdeka - Product Manager Internship
+Took part of Independent Study Kampus Merdeka Internship within 5 months
+Worked as Product Manager in a team of 8 people
+Created and developed a prototype game with the team
+Managed cross-functional team and oversaw product development from inception to implementation
+Took courses on the DiLo Game Academy website by taking the Product Manager role and Quality Assurance role courses
+Created and built product direction, product research, competitor analysis, product milestones, product requirements document, and
+product backlog
+Conducted testing as a Quality Assurance on games that are being developed to maintain product development
+Facilitated Scrum ceremonies team members on Agile principles
+Built a product roadmap based on Product Owner decisions
+Education
+Telkom University - Bandung, Indonesia Aug 2018 Sep 2023
+Bachelor Degree in Information System, 3.38/4.00
+Graduated Bachelor of Infomation System from Telkom University with a GPA of 3.38 by being active in academic and non-academic
+fields.
+Final project discussing Creating a Game Application with Java with the title "Making a Mobile-Based Learning to Read Game
+Application for Preschool Children
+Organizational Experience
+Badan Pengurus Harian Himpunan Sistem Informasi 2021 - Bandung, Indonesia Jan 2020 Dec 2021
+Member of the Research & Technology Department
+Organized HIMA WordPress Website and created the WordPress Content
+Created Fun Fact Content on HIMA s social media account
+Managed HIMA podcast
+Enterprise System Development Research Group (ESD) Lab 2021 - Bandung, Indonesia Jan 2021 - Dec 2021
+Head of Study Group Technopreneur
+Organized Forum Group Discussion every week for ESD Lab members to learn about Technopreneur material
+Managed projects at the Technopreneur Division
+Lab Assistant Analisis dan Perancangan Sistem Informasi (APSI) - Bandung, Indonesia Jan 2021 Jul 2021
+Assistant
+Managed Analisis dan Perancangan Sistem Informasi (APSI) practice course for one semester
+Created material for Analisis dan Perancangan Sistem Informasi (APSI) practice course
+Managed Test and Evaluation for Analisis dan Perancangan Sistem Informasi (APSI) practice course
+Training, Competencies, Tools & Projects
+Training : EF SET English Certificate 70/100 (C1 Advanced) (Completed, Certificate Available),
+Product Strategy Micro-Certification (PSC)TM (Completed, Certificate Available),
+Product Roadmapping Micro-Certification (PRC)TM (Completed, Certificate Available),
+Product Launches Micro-Certification (PRLC)TM (Completed, Certificate Available)
+Competencies : Product Management, Product Lifecycle, Product Strategy, Personas, Product Requirements,
+Project Management, Road Mapping, Agile Methodology, Scrum, Market Research.
+Tools : Figma, Trello, Miro, Figma, Draw.io, Canva, Ms. Office, Google Workspace, Notion, MySQL
+Languages : Java, SQL (MySQL)
+Projects : (2023) Successfully published the final project discussing about Creating Game Application with Java with
+the title "Making a Mobile-Based Learning to Read Game Application for Preschool Children .
+Product Manager Project :
+Created a game in Studi Independen Kampus Merdeka Agate Aug 2021 Jan 2022
+Rock Bowling
+Achievements
+- Product prototype
+- Developed the game from scratch to prototype in 5 months
+Responsibilities
+- Led the game development to MVP and requirements to prioritize product roadmap in 5 months of development
+Developed a game in Agate Internship Jun 2022 Sep 2022
+Levio Party
+Achievements
+- Product prototype
+- Developed the prototype game in 2 months according to the product owner's request
+Responsibilities
+- Led the game development to MVP and requirements to prioritize product roadmap in 2 months of development

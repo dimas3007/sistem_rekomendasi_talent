@@ -1,0 +1,45 @@
+{
+  "name": "MUHAMMAD BAHRUL ILMI",
+  "email": "akunutama3003@gmail.com",
+  "phone": "+6282143873100",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "UNIVERSITAS ISLAM MAJAPAHIT",
+  "hard_skills": [
+    "Pengoperasian komputer",
+    "instalasi aplikasi",
+    "konsep dasar database",
+    "kemampuan analisis",
+    "Kotlin",
+    "Android Studio",
+    "Intellij idea"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "kepemimpinan",
+    "kerjasama tim",
+    "analisa",
+    "pemecahan masalah",
+    "kemampuan adaptasi",
+    "berpikir secara kritis dan logis"
+  ],
+  "years_experience": 0.58,
+  "certifications": [
+    "Digital Product Management",
+    "Android Engineering"
+  ],
+  "languages": [
+    "Bahasa Indonesia",
+    "Bahasa Inggris"
+  ],
+  "job_titles": [
+    "Scrum master",
+    "System Analyst",
+    "UI/UX"
+  ],
+  "industries": [
+    "Technology",
+    "Education"
+  ],
+  "location": "Mojokerto"
+}

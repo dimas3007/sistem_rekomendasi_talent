@@ -1,0 +1,62 @@
+{
+  "name": "Syarifah Ristya Kusuma",
+  "email": "syarifahristyakusuma@gmail.com",
+  "phone": "+6287711361758",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Tanjungpura Pontianak",
+  "hard_skills": [
+    "Product design",
+    "UX research",
+    "UI design",
+    "mobile and web design",
+    "wireframing",
+    "prototyping",
+    "mockup",
+    "testing",
+    "product development",
+    "Figma",
+    "Maze",
+    "Draw.io",
+    "Notion",
+    "Canva",
+    "Visual Studio Code",
+    "Git",
+    "GitHub",
+    "phpMyAdmin",
+    "Bootstrap",
+    "Laravel",
+    "GIS",
+    "ApexCharts"
+  ],
+  "soft_skills": [
+    "Critical thinking",
+    "design thinking",
+    "analytical thinking",
+    "team working",
+    "time management",
+    "problem solving",
+    "adaptive",
+    "creative"
+  ],
+  "years_experience": 0.25,
+  "certifications": [
+    "Digital Skills: User Experience Accenture (2024)",
+    "UI / UX for Beginners Great Learning (2024)",
+    "User Experience Design Fundamentals IBM (2024)",
+    "UI-UX Research and Design MySKill (2024)"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Full-Stack Web Developer Intern",
+    "Committee member consumption division"
+  ],
+  "industries": [
+    "Transportation",
+    "Education"
+  ],
+  "location": "Pontianak"
+}

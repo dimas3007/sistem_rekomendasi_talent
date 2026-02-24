@@ -1,0 +1,43 @@
+{
+  "name": "Sisilia Dwi Febrianti",
+  "email": "sisiliadf24@gmail.com",
+  "phone": "082338867962",
+  "education_level": "S1",
+  "education_major": "Information systems",
+  "university": "UNIVERSITAS JEMBER",
+  "hard_skills": [
+    "Google Workspace",
+    "Microsoft Office",
+    "Enterprise Architect",
+    "Python",
+    "PHP",
+    "Canva",
+    "SQL",
+    "Figma",
+    "Tableau",
+    "Unified Modeling Language (UML)",
+    "Trello",
+    "Notion",
+    "GoogleColab",
+    "Data Modeler",
+    "TensorFlow"
+  ],
+  "soft_skills": [
+    "Time Management",
+    "Communication",
+    "Teamwork",
+    "Interpersonal",
+    "Flexibility"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Bangkit Academy Machine Learning Cohort"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [],
+  "industries": [],
+  "location": "Jember"
+}

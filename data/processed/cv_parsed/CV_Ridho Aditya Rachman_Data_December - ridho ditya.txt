@@ -1,0 +1,64 @@
+Ridho Aditya Rachman
+West Java, Indonesia | eric.ridho88@gmail.com | Linkedin | Github | 081212692948
+SUMMARY
+Fresh graduate in Electrical Engineering from Telkom University with a concentration in Machine Learning and
+Deep Learning. Passionate about data science, equipped with a strong foundation in machine learning, data
+analysis, and visualization. Proven ability to spearhead impactful projects, including reducing employee attrition
+rates significantly and developing automated solutions. Proficient in Python, SQL, and data visualization tools.
+Eager to apply skills in a dynamic team to tackle challenging data science problems.
+EXPERIENCES
+Project Based Virtual Intern: Big Data Analyst Kimia Farma x Rakamin Academy Nov 2023 - Des 2023
+Conducted in-depth analysis and extracted insights from sales data at Kimia Farma utilizing SQL.
+Designed and implemented dashboards using Looker Studio to present sales trends, providing a
+comprehensive report visually.
+Completed diverse tasks associated with Big Data Analysis activities at Kimia Farma, including
+processing and scheduling large datasets, performing data analysis, and managing data warehousing.
+IoT Engineer Intern, PT Indotek Buana Karya Jul 2023 - Sep 2023
+Configured IoT hardware for real-time electric power monitoring.
+Developed dashboards to analyze energy consumption trends.
+Collaborated in cross-functional teams, highlighting data-driven decision-making.
+EDUCATIONS
+Telkom University (2020 2024)
+Bachelor's Degree of Electrical Engineering
+Concentration: Machine Learning and Deep Learning
+Relevant Courses: Machine Learning, Statistics, Deep Learning, Artificial Intelligence
+INFORMAL EDUCATION
+Data Science Bootcamp - Rakamin Academy (2023)
+Mastered data science, machine learning, PostgreSQL, and Python for practical career applications.
+Completed the final project: Predicting Employee Attrition Using Machine Learning, which reduced
+the employee attrition rate from 16.1% to 6% by:
+Spearheading strategic analysis to identify attrition factors.
+Evaluating four algorithms (Decision Tree, Random Forest, XGBoost, AdaBoost); achieved the
+best performance with AdaBoost (84% Recall, 83% Accuracy on test data).
+TRAINING & CERTIFICATION
+Data Science Bootcamp
+Rakamin Academy (2023)
+Learn data science fundamental theory, machine learning, postgreSQL, python and career preparation
+Big Data (2024)
+Alibaba Cloud Academy
+Certificate of Competency - Kimia Farma Big Data Analytics Project Based Internship Program
+Rakamin Academy (2023)
+Learn Big Data Analytics, PostgreSQL, SQL, Data Mart, Data Visualization and Looker Studio.
+ASEAN Data Science Explorers 2023 Enablement Session - SAP Analytics Cloud training session
+ASEAN Foundation (2023)
+Learn Data Visualization using SAP Analytics Cloud.
+PROJECTS
+Predicting Employee Attrition Using Machine Learning - Final Project, Rakamin Academy
+Reduced attrition rates from 16.1% to 6% by analyzing key factors and developing tailored interventions.
+Delivered high-performance models using AdaBoost (84% Recall, 83% Accuracy).
+Automatic Parking Gate Prototype with ALPR and YOLOv8
+Achieved 94% accuracy in license plate recognition.
+Integrated MySQL database and automated balance deductions for seamless system operation.
+Kimia Farma Sales Dashboard - Big Data Analytics Program
+Analyzed sales data and built dynamic Looker Studio dashboards.
+Processed large datasets, showcasing data warehousing expertise.
+TECHNICAL CAPABILITIES
+Programming Language: Python (Numpy, pandas, Scikit-Learn), SQL, C
+Machine Learning: Classification, Regression, Clustering, YOLO
+Database: PostgreSQL, MySQL
+Data Visualization: Looker Studio, SAP Analytics Cloud
+ORGANIZATION EXPERIENCES
+Troopers of Armidale English College, Armidale English Collage (2019 Current)
+VOLUNTEER EXPERIENCES
+English Tutor - Brilliant Learning Center & Armidale English College
+Supervisor, Donation Team - AEC Gala Homecoming

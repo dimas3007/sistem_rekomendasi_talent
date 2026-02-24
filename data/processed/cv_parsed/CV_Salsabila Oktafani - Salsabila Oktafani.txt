@@ -1,0 +1,99 @@
+SALSABILA OKTAFANI
+Jakarta, Indonesia | +62 85366960995 | salsabilaoktafani22@gmail.com | bit.ly/Notion-SalsabilaOktafani
+EDUCATION
+University of Pembangunan Nasional Veteran Jakarta (September 2020-Juli 2024) - Informatics
+Cumulative GPA: 3.90/4.00 (Cum laude)
+Organizations: Unit Fotografi&Videografi (UKM) UPNVJ; Kelompok Studi Mahasiswa Multimedia (KSM) UPNVJ
+Relevant courses: Data mining, Website & Mobile Programming, Digital Image Processing, Human-Computer
+Interaction, Machine Learning, Computer Vision, Big Data, Deep Learning, Data Visualization
+EXPERIENCES
+Sosial Media Specialist Dec 2022 - Dec 2023
+UKM UFO "Veteran" Jakarta
+Surpassed social media growth targets
+Conducted research and strategy development
+Created scripts and captions
+Managed content planning and publishing
+Analyzed follower growth and engagement
+Member of UI/UX Design Advance Class Feb 2022 - Dec 2023
+KSM Multimedia
+Developed the 'Bwangyuk' app for efficient waste management
+Designed websites, collaborated with the team on website appearance
+Created scripts and captions
+Actively participated in UI/UX Design competitions like Gemastik 2022
+Junior Product Researcher - Internship Feb 2023 - Jul 2023
+Lister Teknologi Edukasi
+Conducted benchmarking, analyzed market trends, user needs, and competitors
+Identified opportunities for new products or improvements, and engaged with users for
+feedback and insights
+Public Relations Oct 2022 - Nov 2022
+UFO Photo and Design Exhibition Young Generation
+Assisted in establishing cooperation with internal and external parties and arranging
+media partnerships through outreach and collaboration
+Secretary Aug 2022 - Sep 2022
+UFO 360 - Photo and Design Exhibition
+Facilitated events, managed administration and documents, ensured guest satisfaction,
+and optimized workflow for efficiency
+PROJECTS
+Project 1: UI/UX Reseacher of EcoTribe Application Aug 2023 - Dec 2023
+Colaboration Project
+Analyze trends in the sustainable fashion industry to identify relevant needs and
+opportunities
+Develop user persona based on research data
+Conduct user testing to identify design issues and gather actionable feedback
+Work closely with the development team to ensure the UI design can be effectively
+implemented
+Project 2: UI/UX Reseacher of SkillSync Application Aug 2023 - Oct 2023
+Colaboration Project
+Analyze trends in the sustainable fashion industry to identify relevant needs and
+opportunities
+Conducted in-depth user research and interviews to identify needs and challenges for a
+mobile app in the Industry 5.0 context
+Applied User-Centered Design (UCD) methodology, including problem analysis, user
+requirement specification, prototyping, and usability evaluation
+Evaluated usability through the Single Ease Question (SEQ) method, achieving an
+average score above 6.0, indicating user-friendly design and effective features
+Project 3: Research on Big Data Nov 2022 - Dec 2022
+Colaboration Project
+Contribute to project preparation, starting from the stage of literature study, data
+acquisition, program code generation, and preparation of research reports
+Using the PySpark computational framework based on the Python programming
+language
+Project 4: UI/UX Designer of Booba Application 2022 Oct 2022 - Dec 2022
+Colaboration Project
+Create UI Design for Booba Application, booking bazar application on android based
+Create idea creative for concept application
+Project 5: UI/UX Designer of KiosKu Application Sep 2022 - Dec 2022
+Colaboration Project
+Create design for KiosKu App, an application with Direct to Consumer concept, an
+application for digital advertising
+Active and contribute to the design team, starting from understanding the brief project,
+making mood boards, sketching, coloring, and exporting
+Create idea creative for concept application
+Project 6: UI/UX Designer of BwangYuk Application Gemastik 2022 Jul 2022 - Oct 2022
+Colaboration Project
+Create product research and interface
+Gathering valid information from clients to synthesize and research ideas
+Create a comprehensive concept to solve problems through the design thinking method
+Create a design for a trash bank application to make waste bank management easier
+Project 7: Research on Digital Image Processing May 2022 - Jun 2022
+Colaboration Project
+Contribute to project preparation, starting from the stage of literature study, data
+acquisition, creating program code, and preparation of research reports
+Successfully detection of types of grape leaves using a canny detection, with algorithm
+LBP feature extraction SVM classification
+TRAINING AND CERTIFICATIONS
+Programming Assistant Certificate of Competence [Certificate]
+Badan Nasional Sertifikasi Profesi 2023
+MySkill (Sep Nov 2024) [Certificate]
+UI-UX Research And Design: Fullstack Intensive Bootcamp
+Skills: Process UX Design, User Research & Customer Journey Map, Defining Problem & Ideation Design, Wireframing &
+Information Architecture, User Interface, Autolayout, Component, Variant & Prototyping, UX Writer, Usabilty Testing
+ADDITIONAL INFORMATION
+Achievement:
+Second Place in the UI/UX Design Competition at FIK FAIR 2023, themed "SCRUM: Sustainable Creativity Usability
+Milestone [Certificate]
+SKILLS
+Languages: Bahasa Indonesia, English
+Tools: Figma, Ms. Excel, Ms. Word, Google Colab, Canva, InVision, Notion
+Programming Language: Java, Python, C
+Video Editing: Capcut, Tiktok Editing

@@ -1,0 +1,40 @@
+{
+  "name": "Frisda Dita Isnaini",
+  "email": "frisdadita@gmail.com",
+  "phone": "+6281327271262",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+  "hard_skills": [
+    "UI/UX Research and Design",
+    "Usability Testing",
+    "HTML",
+    "CSS",
+    "C/C++",
+    "Vscode",
+    "Figma",
+    "Maze",
+    "Quant UX",
+    "Canva"
+  ],
+  "soft_skills": [
+    "Detail-oriented",
+    "Adaptable",
+    "Teamwork",
+    "Communication"
+  ],
+  "years_experience": 1.25,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "UI/UX Designer",
+    "UI/UX Researcher and Designer",
+    "UI/UX Researcher"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "location": "Banjarnegara"
+}

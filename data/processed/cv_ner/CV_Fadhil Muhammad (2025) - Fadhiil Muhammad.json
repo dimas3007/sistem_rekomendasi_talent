@@ -1,0 +1,52 @@
+{
+  "name": "FADHIL MUHAMMAD NUR RAHMAN",
+  "email": "fafadhilmnr@gmail.com",
+  "phone": "081329518088",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "UNIVERSITAS MUHAMMADIYAH SURAKARTA",
+  "hard_skills": [
+    "UX Research",
+    "Wireframing",
+    "Prototyping",
+    "Desain Visual",
+    "HTML",
+    "CSS",
+    "JavaScript Dasar",
+    "PHP Dasar",
+    "MySQL",
+    "Figma",
+    "Canva",
+    "Framer",
+    "Visual Studio Code",
+    "Bootstrap"
+  ],
+  "soft_skills": [
+    "Creative Thinking",
+    "Collaboration",
+    "Detail Oriented",
+    "Problem Solving"
+  ],
+  "years_experience": 0.66,
+  "certifications": [
+    "Kursus Freelancer UI/UX & Illustration Designer BuildwithAngga (September 2023)",
+    "Study Independent Kampus Merdeka : UI/UX in Product Design Zenius Education (Agustus Desember 2022)",
+    "Project-Based Intern : UI/UX Designer Virtual Internship Experience Niagahoster (Juli 2022)"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Internship Desain Grafis",
+    "Internship Trainee",
+    "Pengurus Bidang UI/UX",
+    "Panitia Dekorasi dan Dokumentasi",
+    "Panitia Perlengkapan Internal Cup"
+  ],
+  "industries": [
+    "Digital",
+    "Telematika",
+    "Education"
+  ],
+  "location": "Surakarta"
+}

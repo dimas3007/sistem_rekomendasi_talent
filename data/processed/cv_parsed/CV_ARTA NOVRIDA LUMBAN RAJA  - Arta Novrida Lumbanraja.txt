@@ -1,0 +1,43 @@
+ARTA NOVRIDA LUMBAN RAJA
+artanovridalumbanraja@gmail.com | 082272244648 | linkedin.com/in/artanovrida
+EXECUTIVE SUMMARY
+I am a dedicated and detail-oriented Information Technology graduate from Telkom University,
+passionate about creating impactful user interface designs and developing functional prototypes. My
+experience in UI/UX design is complemented by strong teamwork skills and the ability to work
+independently. Committed to continuous learning, I am eager to contribute my knowledge and grow
+through innovative projects in the field of user interface design.
+EDUCATION
+Telkom University, Information Technology 2020 - 2024
+GPA: 3.69 / 4.00
+Methodist High School, Science 2017 - 2020
+PROJECTS
+Redesign Gather Town Feb 2022 Jun 2022
+Led the redesign of the Gather Town interface, enhancing user experience by implementing feedback
+through Figma and conducting usability testing with Maze.
+MakanKuy Nov 2022 Jan 2023
+Developed the MakanKuy application, integrating UI/UX principles using Figma and Java, resulting
+in a user-friendly interface tailored to the culinary industry
+Platinum Kitchen Sep 2022 Jan 2023
+Designed and implemented the interface for the Platinum Kitchen website using CodeIgniter,
+incorporating HTML and CSS to create a responsive and visually appealing platform.
+ORGANIZATIONAL EXPERIENCES
+Member, CCI Design 2021 - 2022
+Committee, PESTI Jul 2022 Oct 2022
+Member and Committee, Telkom University Choir Dec 2022 May 2023
+Object-Oriented Programming Practicum Assistant Sep 2023 Jun 2024
+Assistant Lecturer in Algorithm Complexity Analysis Sep 2023 Jun 2024
+ADDITIONAL EXPERIENCE
+Study Independent Batch 4 Feb 2023 Jun 2023
+Engaged in independent study focused on the Microsoft Platform Developer course at PT
+MariBelajar Indonesia Cerdas, gaining practical skills in platform development.
+Internship Jul 2023 Sep 2023
+Gained valuable experience in the Business Service division, contributing to projects that enhance
+service delivery and operational efficiency
+Digistar Class 2024 Aug 2024 Oct 2024
+Mentee specializing in Hipster hard skills (UI/UX), honing advanced design techniques and
+industry-relevant competencies.
+SKILLS
+Programming: Basic Python, Basic HTML, Basic Java, Oracle
+Application: Canva, Figma, Maze
+Personal: Problem Solving, Time Management, Teamwork, Critical Thinking, Project Management
+Others: Microsoft Word, Microsoft Excel, Microsoft Power Point, Draw.io

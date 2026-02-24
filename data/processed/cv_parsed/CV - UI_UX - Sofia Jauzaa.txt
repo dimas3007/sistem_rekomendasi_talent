@@ -1,0 +1,116 @@
+Sofia I zaaz Jauzaa
++62 821-3195-1992 | sofiajauzaa30@gmail.com |
+linkedin.com/in/sofia-i-zaaz-jauzaa-17a24b219/
+A motivated undergraduate student of Informatics Engineering at Brawijaya University that is a
+knowledge-curious, communicative, quick learner, and teamwork person with strong specializing in UI/UX
+designer and additional skills in front-end and android development. Proficient in creating user-centric
+designs using tools like figma, coupled with technical skills in HTML, CSS, JavaScript and Kotlin. Skilled
+in user research, prototyping, and creating seamless designs for web and mobile platforms. I Eager to
+apply and expand my knowledge in new tools and expanding expertise in design and development.
+EDUCATIONS
+BRAWIJAYA UNIVERSITY | MALANG, INDONESIA Aug 2022 - Present
+Faculty of Computer Science, Informatics Engineering, GPA 3.59/4.00
+Subject: Database, Web Programming, Software Engineering, Interactive Systems
+Programming, Server System Administration, Artificial Neural Network, Service Based
+Architecture, Enterprise Framework.
+EXPERIENCES
+INTERN | PT Telkom Akses Surabaya
+Data Provisioning and Data Management July 2021 Sept 2021
+Collaborated with the network engineering team to monitor and troubleshoot network
+performance, ensuring 99% uptime during the internship period.
+Documented and reported on 15 network provisioning cases, including setup, issue resolution,
+and final configurations.
+ORGANIZATIONS
+HIMPUNAN MAHASISWA DEPARTEMEN TEKNIK INFORMATIKA UNIVERSITY OF BRAWIJAYA
+Secretarity of Himpunan Mahasiswa Departemen Teknik Informatika Feb 2024 Dec 2024
+Managed the creation 300+ documents to support all organizational activities.
+Collaborated with the chairman to streamline administrative workflows, ensuring timely and
+accurate reporting.
+Supervised the progress of key departments (IT, business, advocacy, and student welfare) to
+align with organizational objectives.
+Staff of Advocacy and Student Welfare Feb 2023 Dec 2023
+Actively contributed to the successful execution of 8 work programs focused on advocating for
+student rights also improving student welfare.
+Strategically utilized social media and various platforms to enhance student well-being and
+engagement.
+Served as the head organizer for Academic Discussion 1 and 2, achieving a 95% participation
+rate and 100% satisfaction, effectively addressing student academic challenges.
+RAION COMMUNITY
+Staff of Internal Division Feb 2024 - Present
+Actively involved in executing all events and work programs within Raion Community, ensuring
+smooth operations and successful implementation at FILKOM
+Lead as the head organizer of Raion Academy 1, 2, and 3 at FILKOM, focusing on app and
+game development skills (ex. PM, UI/UX, programming), with 100% program success.
+Member of UI/UX Feb 2023 - Present
+Participated in workshops and discussions to improve skills in UI/UX principles and tools.
+Contributed as a UI/UX designer in developing an application that won 2nd place in a
+competition RAION.
+Collaborated with teams to implement creative design solutions, ensuring alignment with
+project goals.
+Improved skills by actively participating in various competitions.
+PROJECTS
+Findz Oct 2024 Des-2024
+Android Developer
+Developed Findz, a mobile application designed to assist MSMEs in digital marketing through
+collaboration with influencers, utilizing Firebase and MVVM architecture.
+Conduct research on competitors with the team and determine features by dividing them in a
+prioritization features diagram.
+Complete the features in Findz which are quite challenging, designed and implemented
+workflows for endorsement orders, content scheduling, payment processes, and influencer
+performance reviews
+Savior Jul 2024 Sept-2024
+UI/UX Designer
+Designed mobile application with features emergency detection and parent-child account
+linking features, ensuring seamless integration with smartwatch technology.
+Conducted end-to-end testing and achieving a 95% accuracy rate in emergency alerts within
+smartwatch connectivity constraints.
+Conducted competitor analysis and collaborated with the team to identify user needs and gaps
+in existing solutions, prioritizing features using prioritization matrices.
+SisaSuka May 2024 Jun 2024
+UI/UX Designer
+Designed website, responsive interfaces for donation, volunteer registration, and merchandise
+purchase features.
+Created wireframes, prototypes, and conducted usability testing to optimize user flows and
+enhance experience.
+Developed a consistent design system and collaborated with developers to implement designs
+using React.js and Tailwind CSS.
+GrowBiz Jan 2024 - Feb 2024
+UI/UX Designer
+Designed mobile application interfaces to help MSMEs through online workshops, worker
+search, and payment features.
+Conducted usability testing to optimize workflows for finding and paying workers based on user
+feedback.
+Developed a consistent design system using Figma, ensuring cohesive visual identity and user
+experience.
+Islamind Jan 2024 Feb 2024
+UI/UX Designer
+Designed intuitive interfaces for Islamind CMS and mobile app, tailored for Muhammadiyah
+Malang.
+Enhanced user experience for accessing articles, books, and Q&A sessions.
+Ongoing upload to the Play Store
+ACHIEVEMENTS
+Piyo Nov 2024
+2nd Place Winner, UI & UX Competition UINIC at Sunan Kalijaga University
+Designed a mobile app supporting parents of children with autism using interactive parenting
+guides, AI chatbot, and progress monitoring.
+Hiro Nov 2024
+1st Place Winner, Mobile App Competition at Ahmad Dahlan University
+Designed a mobile application integrating IoT and voice detection technology to enhance child
+safety through features like real-time movement tracking, emergency button, and emotion
+analysis.
+Savior Sept 2024
+Top 20 Finalist, UX Design at GEMASTIK 2024 by PUSPRESNAS
+Designed a mobile app focused on enhancing the safety and security of women through an
+intuitive and accessible user experience.
+SKILL & OTHER
+Soft Skills: Critical Thinking, Leadership, Teamwork, Time Management, Team Management, Project
+Management, Adaptability, Creativity
+Hard Skills: UX Design, UI/UX, UX Researcher, UI Design, HTML, CSS, React, Vue, Kotlin, JavaScript,
+PHP, SQL.
+Tools: Figma, Notion, Git, Visual Studio Code, Android Studio, Firebase
+Languages: Indonesia (Native), English (Professional).
+Certifications:
+Dicoding - Learning Basic Web Programming Des 2024
+Kemendikbud - Indonesian Language Test Nov 2021
+Microsoft Technology Associate: Database Administration Fundamentals Jan 2022
+(MTA)

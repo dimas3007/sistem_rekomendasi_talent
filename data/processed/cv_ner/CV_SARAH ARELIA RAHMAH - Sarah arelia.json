@@ -1,0 +1,42 @@
+{
+  "name": "SARAH ARELIA RAHMAH",
+  "email": "saraharelia23@gmail.com",
+  "phone": "+6287775042013",
+  "education_level": "S1",
+  "education_major": "Teknik Informatika",
+  "university": "UNIVERSITAS ISLAM NEGERI MAULANA MALIK IBRAHIM MALANG",
+  "hard_skills": [
+    "Microsoft Office (Word, Excel, PowerPoint)",
+    "Analisis Data"
+  ],
+  "soft_skills": [
+    "Kerjasama Tim",
+    "Manajemen Proyek",
+    "Kepemimpinan",
+    "Public Speaking"
+  ],
+  "years_experience": 1.25,
+  "certifications": [
+    "Pelatihan Softwere Engineering, 2023",
+    "Pelatihan Microsoft Office, 2023",
+    "Pelatihan Machine Learning, 2024",
+    "Pelatihan Data Analysis, 2024",
+    "Pelatihan Manajemen Proyrk, 2024"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Admin dan Customer Service",
+    "Intern Human Capital",
+    "Intern Project Planner",
+    "Data Entry",
+    "Ketua OSIS",
+    "Ketua Bakti Sosial",
+    "Sekertaris"
+  ],
+  "industries": [
+    "Laundry",
+    "Banking",
+    "Technology"
+  ],
+  "location": "Malang"
+}

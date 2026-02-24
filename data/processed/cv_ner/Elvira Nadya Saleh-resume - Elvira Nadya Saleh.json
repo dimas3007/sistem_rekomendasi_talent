@@ -1,0 +1,45 @@
+{
+  "name": "Elvira Nadya Saleh",
+  "email": "elvira.nadya@gmail.com",
+  "phone": "081261029448",
+  "education_level": "S1",
+  "education_major": "Architecture",
+  "university": "Syiah Kuala University",
+  "hard_skills": [
+    "Figma",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "CorelDraw",
+    "Autocad",
+    "Graphic Design",
+    "Photo Editing",
+    "UI/UX"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Problem Solving",
+    "Self Management",
+    "Time Management"
+  ],
+  "years_experience": 2.5,
+  "certifications": [
+    "Karier.mu by Prakerja (2023): Basic Figma",
+    "Karier.mu by Prakerja (2023): Design Principles",
+    "Karier.mu by Prakerja (2023): UI Design",
+    "Karier.mu by Prakerja (2023): Architecture Information"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Event Oganizer",
+    "Leader",
+    "Reporter",
+    "Graphic Designer",
+    "Staff of Publication and Documentation Division"
+  ],
+  "industries": [
+    "Education",
+    "Library",
+    "Media"
+  ],
+  "location": "Medan"
+}

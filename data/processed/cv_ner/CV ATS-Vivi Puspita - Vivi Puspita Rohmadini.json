@@ -1,0 +1,40 @@
+{
+  "name": "VIVI PUSPITA ROHMADINI",
+  "email": "vivirohmadini05@gmail.com",
+  "phone": "089680977639",
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Trunojoyo Madura",
+  "hard_skills": [
+    "Python",
+    "HTML",
+    "SQL",
+    "Microsoft Office",
+    "CSS",
+    "JavaScript",
+    "Laravel"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Manajemen Waktu",
+    "Kerja Tim",
+    "Adaptabilitas"
+  ],
+  "years_experience": 0.42,
+  "certifications": [
+    "Magang dan Studi Independen Bersertifikat (MSIB)",
+    "RevoU Tech Academy - Learn Data Analytics & Software Development With AI"
+  ],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Magang"
+  ],
+  "industries": [
+    "Education",
+    "Technology",
+    "Tourism"
+  ],
+  "location": "Surabaya"
+}

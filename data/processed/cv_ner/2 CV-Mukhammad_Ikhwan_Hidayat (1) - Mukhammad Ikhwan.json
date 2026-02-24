@@ -1,0 +1,47 @@
+{
+  "name": "Mukhammad Ikhwan Hidayat",
+  "email": "ikhwannnart@gmail.com",
+  "phone": "+62 812 2572 7970",
+  "education_level": null,
+  "education_major": "Informatics Engineering",
+  "university": "Politeknik Negeri Semarang",
+  "hard_skills": [
+    "UI Design",
+    "UX",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "Laravel",
+    "jQuery",
+    "SQL",
+    "C++",
+    "Python"
+  ],
+  "soft_skills": [
+    "communication skills",
+    "teamwork",
+    "adaptive",
+    "problem-solving"
+  ],
+  "years_experience": 0.4166666666666667,
+  "certifications": [
+    "Certificate Fundamental Frontend Web Development I (2024)",
+    "Certificate Fundamental Algoritma (2024)",
+    "Techcomfest UI/UX Design Competition 2024",
+    "Database Programming with SQL (2023)",
+    "Oracle Database Design (2023)"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "job_titles": [
+    "Internship UI/UX Designer",
+    "Head of The Household Section",
+    "Chief Organizer of The Event",
+    "Steering Committee"
+  ],
+  "industries": [],
+  "location": "Semarang"
+}

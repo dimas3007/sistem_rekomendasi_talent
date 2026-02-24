@@ -1,0 +1,47 @@
+{
+  "name": "Julius Evan Sidarto",
+  "email": "evansidartoj@gmail.com",
+  "phone": "0813-2778-0900",
+  "education_level": "S1",
+  "education_major": "Informatics",
+  "university": "Multimedia Nusantara University",
+  "hard_skills": [
+    "Java",
+    "C/C++",
+    "Python",
+    "Kotlin",
+    "PHP",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Visual Studio Code",
+    "Unity",
+    "Android Studio",
+    "Figma"
+  ],
+  "soft_skills": [
+    "planning",
+    "fundraising",
+    "coordinating",
+    "teamwork",
+    "communication",
+    "leadership",
+    "problem-solving"
+  ],
+  "years_experience": 0.0,
+  "certifications": [
+    "Huawei ICT Academy",
+    "Samsung Innovation Campus Batch 5",
+    "Algorithms & Data Structures with Python",
+    "Programming Using Python"
+  ],
+  "languages": [
+    "English",
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Committee"
+  ],
+  "industries": [],
+  "location": "Tangerang"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MUHAMAD DAFA PUTRA SUSYANTO",
+  "email": "mhddafa4@gmail.com",
+  "phone": "085882424513",
+  "education_level": "D3",
+  "education_major": null,
+  "university": "UPN Veteran Jakarta",
+  "hard_skills": [
+    "PHP",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "Data Analisis"
+  ],
+  "soft_skills": [
+    "Manajemen Data"
+  ],
+  "years_experience": 1.83,
+  "certifications": [
+    "Data Analyst with Excel",
+    "Data Analyst with SQL & Python",
+    "Mini Course Data Analyst",
+    "Junior Web Programmer"
+  ],
+  "languages": [],
+  "job_titles": [
+    "Interneship",
+    "Business",
+    "Manager"
+  ],
+  "industries": [
+    "Banking",
+    "Retail",
+    "E-Sport"
+  ],
+  "location": "Jakarta Selatan"
+}

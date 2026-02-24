@@ -1,0 +1,33 @@
+{
+  "name": "Herza Avicena",
+  "email": "herza91@gmail.com",
+  "phone": null,
+  "education_level": "S1",
+  "education_major": "Sistem Informasi",
+  "university": "Universitas Brawijaya",
+  "hard_skills": [
+    "Android Development (Java, REST API, XML, Firebase, MySQL)",
+    "UI Design",
+    "Wireframing",
+    "Low & High Fidelity Design",
+    "Mockups"
+  ],
+  "soft_skills": [
+    "Komunikasi",
+    "Manajemen Waktu",
+    "Pemecahan Masalah",
+    "Perhatian terhadap Detail",
+    "Empati"
+  ],
+  "years_experience": 1.66,
+  "certifications": [],
+  "languages": [
+    "Bahasa Indonesia"
+  ],
+  "job_titles": [
+    "Frontend Web Developer Intern",
+    "Asisten Laboratorium Pengembangan Aplikasi Mobile"
+  ],
+  "industries": [],
+  "location": "Malang"
+}

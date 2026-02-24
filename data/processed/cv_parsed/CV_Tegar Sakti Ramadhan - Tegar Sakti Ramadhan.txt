@@ -1,0 +1,75 @@
+TEGAR SAKTI RAMADHAN
+Tangerang, ID | +6285161911236 | tegarrmdhn011@gmail.com | www.linkedin.com/in/tegar-sakti-ramadhan-361269219
+EDUCATION
+UNIVERSITAS GUNADARMA Tangerang, ID
+Undergraduate Information Systems Sept 2021 - Present
+Cumulative GPA: 3.72
+Activities & Achievements :
+Digital Technology Education Scholarships | Sinarmas - Land 2023
+Hackfest participant 0x07 | Cyber Community Universitas Gunadarma 2023
+Sertifikasi BNSP Junior Web Developer 2024
+Sertifikasi BNSP System Analyst 2024
+EXPERIENCE
+Soko Financial Aug 2024 Dec 2024
+Product Development
+Creating a scrum to effectively manage the development and execution of classes in Soko Financial.
+Designing a marketing strategy to promote Soko Financial classes through market analysis and optimization of
+digital channels.
+Collaborate with other divisions so that the program can run smoothly
+Universitas Gunadarma
+Assistant MK Praktikum Unggulan (DGX) Jan 2024 Jul 2024
+Assist students in solving their problems in practicum sessions using the NVIDIA DGX-1 and DGXA100, focusing on
+deep learning, machine learning, and artificial intelligence using Python.
+Handle technical Issues.
+Analyzing and managing information from students to compile it into a report presented in the form of a database table.
+PROJECTS
+We collaborated as a team to create a website for early marriage applications for the Government of Blitar City, using
+HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, and MySQL.
+I developed an e-commerce website, Syapira Store, using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel,
+and MySQL.
+Build a full-stack web application for car rentals using HTML, CSS, PHP, LARAVEL, MYSQL
+Develop a full-stack web application for restaurant reservations using HTML, CSS, PHP, and MySQL
+TECHNICAL SKILLS
+Languages : PHP, JavaScript, Python, HTML/CSS, SQL.
+Frameworks: Laravel
+Developer Tools: Draw.io, Figma, Trello, Vs Code, Git, Jupiter Notebook, Power BI
+Certifications & Training :
+Node JS Coding Training (PT Sinarmas Land)
+MSIB Study Independent Fullstack Web Developer (PT Arkatama Multi Solisindo)
+Data Analytics And GenAI (PT Revolusi Cita Edukasi)
+ACTIVITES
+SINARMAS LAND
+Node JS Coding Training Feb 2023 Mar 2023
+Created a personal website using HTML, CSS, and JavaScript for an attractive and responsive design.
+Designed and developed an e-commerce website displaying product catalogs obtained through dummyjson.com API
+using HTML, CSS, and JavaScript, with a focus on visually appealing aesthetics.
+Learned basic concepts of Node.js and npm (Node Package Manager) as a foundation for web development.
+Understood and used Express.js as a backend web development framework, including creating dynamic pages using
+the EJS template engine.
+Implemented RESTful API with Express.js to enhance communication efficiency between frontend and backend.
+Built a complete web project using Express.js and MySQL, demonstrating the ability to integrate frontend and
+backend and manage the database.
+Demonstrated the use of middleware in Express.js to manage various aspects of the request-response process.
+Understood and implemented route management and the use of cookies in Express.js to optimize navigation and
+user experience.
+Understood the basic concepts of authentication and security in web development and applied them in the project
+using Express.js.
+Universitas Gunadarma
+Studi Independent FullStack Web Developer
+Create a website to display products using HTML, CSS, and JavaScript for an attractive and responsive design.
+Display products on the website using an API.
+Implement OOP in PHP for the website I previously created.
+We collaborated as a team to create a website for early marriage applications for the Government of Blitar City, using
+HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, and MySQL.
+I developed an e-commerce website, Syapira Store, using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel,
+and MySQL.
+ORGANIZATION
+KSPM UNIVERSITAS GUNADARMA
+Research And Development Agust 2022 Jul 2023
+Performing fundamental and technical analysis of a stock.
+Preparing materials for upload to KSPM social media.
+Preparing materials for a workshop if one is to be held.
+Examining macroeconomic factors and industry trends that could impact the company's performance, such as
+changes in interest rates, regulatory environment, and technological advancements.
+Utilizing technical analysis tools and indicators to identify potential entry and exit points for trading or investment
+decisions.

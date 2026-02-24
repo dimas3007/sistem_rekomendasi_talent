@@ -1,0 +1,58 @@
+AUDITA NAVIRAEARLY
+naviraearlyaudita@gmail.com| 082262413488 | linkedin.com/in/auditanaviraearly
+PROFIL
+Mahasiswa Rekayasa Perangkat Lunak dengan fokus pada pengujian dan evaluasi perangkat lunak, khususnya
+aplikasi web. Memiliki keterampilan analitis yang kuat, perhatian terhadap detail, dan kemampuan memecahkan
+masalah. Terlatih dalam metodologi pengujian serta alat otomatisasi untuk memastikan kualitas dan kinerja
+perangkat lunak. Berpengalaman dalam pengembangan perangkat lunak dengan keahlian khusus dalam
+pemrograman Java, pengembangan web, dan manajemen basis data. Memiliki minat mendalami teknologi jaringan
+dan keamanan jaringan.
+RIWAYAT PENDIDIKAN
+Telkom University 2022 - Sekarang
+Jurusan : D3 Rekayasa Perangkat Lunak Aplikasi
+SMAN 4 Balikpapan 2019 - 2022
+Jurusan : IPA
+PENGALAMAN
+Projek Membuat Aplikasi Mobile Sugar Check 2024
+Mata Kuliah Pemrograman untuk Perangkat Bergerak 2 (Mobpro 2)
+Pengembangan Front-End: Menulis kode menggunakan Kotlin.
+Menggunakan UI Jetpack Compose untuk merancang antarmuka pengguna yang responsif dan modern.
+Mengatur server dan database menggunakan Firebase sebagai platform backend untuk penyimpanan data
+real-time dan autentikasi pengguna.
+Pengujian dan Debugging: Menguji semua fitur dan memperbaiki bug menggunakan alat pengujian
+menggunakan JUnit
+Projek Membuat Aplikasi Mobile Fairy Style 2023
+Mata Kuliah Proyek Tingkat 2
+Pengembangan Front-End: Menulis kode menggunakan Kotlin.
+Pengembangan Back-End: Mengatur server dan database.
+Pengujian dan Debugging: Menguji semua fitur dan memperbaiki bug menggunakan alat pengujian.
+Projek Membuat Website Fairy Style 2023
+Mata Kuliah Proyek Tingkat 1
+Pengembangan Front-End: Menulis kode HTML, CSS, dan JavaScript untuk membuat website yang
+responsif.
+Pengembangan Back-End: Mengatur server dan database menggunakan MySQL.
+Pengujian dan Debugging: Menguji semua fitur dan memperbaiki bug menggunakan alat pengujian
+otomatis.
+SERTIFIKASI
+Data Communication & Network Technology | Huawei 2023 2024
+Memahami Pengetahuan Dasar tentang Tumpukan Protokol TCP/IP
+Memahami Pengetahuan Dasar tentang IPv6
+Memahami Dasar-dasar Protokol WAN seperti PPP
+Memahami Teknologi Keamanan Jaringan
+Memulai Pemrograman dengan Java | Dicoding 2023
+Menjelaskan bagaimana control flow atau aliran bekerja dalam bahasa Java, seperti perulangan dan
+percabangan.
+Menjelaskan berbagai tipe koleksi data seperti list, set, dan map.
+Improved product recommendations and increased sales
+Memahami konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan
+sebuah program seperti class dan object, method, member, access modifier, encapsulation,
+inheritance, dan interface.
+Mempelajari class-class yang sering digunakan dalam mengembangkan sebuah program dengan
+bahasa Java seperti generic, exception, input output, date time, dan casting.
+Melatih implementasi bahasa Java dalam sebuah studi kasus tertentu seperti membuat sebuah
+program untuk menghitung suhu air, vokal konsonan, dan bangun datar
+KEAHLIAN
+Bahasa Pemrograman Java,Kotlin,Pyton
+Memahami HTML,CSS,Javascript,Laravel
+Memahami Database menggunakan MySQL,Firebase
+Memahami pembuatan dokumen test case dan test plan untuk pengujian aplikasi ataupun website

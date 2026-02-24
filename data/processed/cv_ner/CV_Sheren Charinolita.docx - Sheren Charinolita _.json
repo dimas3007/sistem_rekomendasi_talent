@@ -1,0 +1,45 @@
+{
+  "name": "Sheren Charinolita",
+  "email": "charinolitas@gmail.com",
+  "phone": "0857 7846 2867",
+  "education_level": null,
+  "education_major": "Information Systems",
+  "university": "Binus University",
+  "hard_skills": [
+    "Amazon Web Services",
+    "Microsoft Office",
+    "Canva",
+    "Figma",
+    "Visual Paradigm",
+    "Jira",
+    "Clickup",
+    "Tableau",
+    "My SQL",
+    "Java Programming Language",
+    "Android Studio"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Problem-solving"
+  ],
+  "years_experience": 0.08,
+  "certifications": [
+    "TOEFL",
+    "Public Speaking",
+    "Project Management BootCamp Vol.1",
+    "Project Management Bootcamp Vol. 2",
+    "Digicamp : PMBOK"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "job_titles": [
+    "Project Intern Mobile Application Developer"
+  ],
+  "industries": [
+    "Banking"
+  ],
+  "location": null
+}
